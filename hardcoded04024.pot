@@ -123,9 +123,6 @@ msgstr ""
 msgid "We must go back."
 msgstr ""
 
-msgid "Empty announcement "
-msgstr ""
-
 msgid "it"
 msgstr ""
 
@@ -517,9 +514,6 @@ msgid "The enemy have come and are laying siege to the fortress."
 msgstr ""
 
 msgid "An army is invading!"
-msgstr ""
-
-msgid "army is located out of bounds: teleporting"
 msgstr ""
 
 msgid "overlord"
@@ -1776,12 +1770,6 @@ msgstr ""
 msgid "Forging Workshop"
 msgstr ""
 
-msgid "old save: resizing plant stockpile, permit all"
-msgstr ""
-
-msgid "HAS_ITEM_REACTION_PRODUCT"
-msgstr ""
-
 msgid " Or "
 msgstr ""
 
@@ -1813,12 +1801,6 @@ msgid " from a period of no rule"
 msgstr ""
 
 msgid "gen"
-msgstr ""
-
-msgid "RANDOM"
-msgstr ""
-
-msgid "NONE"
 msgstr ""
 
 msgid "strike"
@@ -6042,12 +6024,6 @@ msgstr ""
 msgid "S"
 msgstr ""
 
-msgid "([LIP])"
-msgstr ""
-
-msgid "([lip])"
-msgstr ""
-
 msgid "I don't remember clearly."
 msgstr ""
 
@@ -7947,21 +7923,6 @@ msgstr ""
 msgid "something"
 msgstr ""
 
-msgid "ARMY"
-msgstr ""
-
-msgid "ARMY_CONTROLLER"
-msgstr ""
-
-msgid "ARMY_TRACKING_INFO"
-msgstr ""
-
-msgid "CULTURAL_IDENTITY"
-msgstr ""
-
-msgid "AGREEMENT"
-msgstr ""
-
 msgid "A night creature has infiltrated our communities and now makes prey of us."
 msgstr ""
 
@@ -8380,15 +8341,6 @@ msgid "I don't know very much about it."
 msgstr ""
 
 msgid "I am the "
-msgstr ""
-
-msgid " STRANGUS "
-msgstr ""
-
-msgid " AUGIS "
-msgstr ""
-
-msgid " STORKIS "
 msgstr ""
 
 msgid "I've defeated many fearsome opponents!"
@@ -11394,18 +11346,6 @@ msgstr ""
 msgid "incredulity"
 msgstr ""
 
-msgid "failed to load conflict report incident"
-msgstr ""
-
-msgid "!ARG"
-msgstr ""
-
-msgid "CHANGE_FREQUENCY_PERC"
-msgstr ""
-
-msgid "SOURCE_HFID"
-msgstr ""
-
 msgid "Fly"
 msgstr ""
 
@@ -11478,295 +11418,16 @@ msgstr ""
 msgid "zombie "
 msgstr ""
 
-msgid "BP_ADD_TYPE"
-msgstr ""
-
-msgid " BP Add Type "
-msgstr ""
-
-msgid "BP_REMOVE_TYPE"
-msgstr ""
-
-msgid " BP Remove Type "
-msgstr ""
-
 msgid "Attack "
 msgstr ""
 
-msgid "ATTACK_PREPARE_AND_RECOVER"
-msgstr ""
-
-msgid "ATTACK_FLAG_INDEPENDENT_MULTIATTACK"
-msgstr ""
-
-msgid "ATTACK_FLAG_BAD_MULTIATTACK"
-msgstr ""
-
-msgid "SENSE_CREATURE_CLASS"
-msgstr ""
-
-msgid "LOW_LIGHT_VISION"
-msgstr ""
-
-msgid "SMELL_TRIGGER"
-msgstr ""
-
-msgid "ODOR_LEVEL"
-msgstr ""
-
-msgid "ODOR_STRING"
-msgstr ""
-
-msgid "STANCE_CLIMBER"
-msgstr ""
-
-msgid "CANNOT_JUMP"
-msgstr ""
-
-msgid "CANNOT_CLIMB"
-msgstr ""
-
-msgid "STANDARD_GRAZER"
-msgstr ""
-
-msgid "VISION_ARC"
-msgstr ""
-
-msgid "MULTIPART_FULL_VISION"
-msgstr ""
-
 msgid "remains"
-msgstr ""
-
-msgid "ORIENTATION"
-msgstr ""
-
-msgid "GAIT"
-msgstr ""
-
-msgid "NO_BUILD_UP"
-msgstr ""
-
-msgid "LAYERS_SLOW"
-msgstr ""
-
-msgid "STEALTH_SLOWS"
-msgstr ""
-
-msgid "Unknown GAIT flag "
-msgstr ""
-
-msgid "WALK"
-msgstr ""
-
-msgid "FLY"
-msgstr ""
-
-msgid "SWIM"
-msgstr ""
-
-msgid "CRAWL"
-msgstr ""
-
-msgid "CLIMB"
-msgstr ""
-
-msgid "NO_VEGETATION_PERTURB"
-msgstr ""
-
-msgid "CONTINUOUS"
-msgstr ""
-
-msgid "EXTREME_EMOTION"
-msgstr ""
-
-msgid "EXERTION"
-msgstr ""
-
-msgid "CV_NEW_CTAG"
-msgstr ""
-
-msgid "CV_ADD_CTAG"
-msgstr ""
-
-msgid "CV_REMOVE_CTAG"
-msgstr ""
-
-msgid "CV_CONVERT_CTAG"
 msgstr ""
 
 msgid "chunk"
 msgstr ""
 
 msgid "chunks"
-msgstr ""
-
-msgid "GELDABLE"
-msgstr ""
-
-msgid "PREVENTS_PARENT_COLLAPSE"
-msgstr ""
-
-msgid "NEGATIVE_SOCIAL_RESPONSE"
-msgstr ""
-
-msgid "TORMENT"
-msgstr ""
-
-msgid "UNDIRECTED_ITEM_CLOUD"
-msgstr ""
-
-msgid "TRAILING_ITEM_FLOW"
-msgstr ""
-
-msgid "LAW"
-msgstr ""
-
-msgid "FRIENDSHIP"
-msgstr ""
-
-msgid "CUNNING"
-msgstr ""
-
-msgid "ELOQUENCE"
-msgstr ""
-
-msgid "FAIRNESS"
-msgstr ""
-
-msgid "DECORUM"
-msgstr ""
-
-msgid "TRADITION"
-msgstr ""
-
-msgid "ARTWORK"
-msgstr ""
-
-msgid "INDEPENDENCE"
-msgstr ""
-
-msgid "STOICISM"
-msgstr ""
-
-msgid "INTROSPECTION"
-msgstr ""
-
-msgid "SELF_CONTROL"
-msgstr ""
-
-msgid "TRANQUILITY"
-msgstr ""
-
-msgid "HARMONY"
-msgstr ""
-
-msgid "MERRIMENT"
-msgstr ""
-
-msgid "CRAFTSMANSHIP"
-msgstr ""
-
-msgid "MARTIAL_PROWESS"
-msgstr ""
-
-msgid "HARD_WORK"
-msgstr ""
-
-msgid "COMPETITION"
-msgstr ""
-
-msgid "PERSEVERANCE"
-msgstr ""
-
-msgid "PERSEVERENCE"
-msgstr ""
-
-msgid "LEISURE_TIME"
-msgstr ""
-
-msgid "COMMERCE"
-msgstr ""
-
-msgid "ROMANCE"
-msgstr ""
-
-msgid "Unrecognized Value Token: "
-msgstr ""
-
-msgid "STAY_ALIVE"
-msgstr ""
-
-msgid "MAINTAIN_ENTITY_STATUS"
-msgstr ""
-
-msgid "START_A_FAMILY"
-msgstr ""
-
-msgid "RULE_THE_WORLD"
-msgstr ""
-
-msgid "CREATE_A_GREAT_WORK_OF_ART"
-msgstr ""
-
-msgid "CRAFT_A_MASTERWORK"
-msgstr ""
-
-msgid "BRING_PEACE_TO_THE_WORLD"
-msgstr ""
-
-msgid "BECOME_A_LEGENDARY_WARRIOR"
-msgstr ""
-
-msgid "MASTER_A_SKILL"
-msgstr ""
-
-msgid "FALL_IN_LOVE"
-msgstr ""
-
-msgid "SEE_THE_GREAT_NATURAL_SITES"
-msgstr ""
-
-msgid "Unrecognized Goal Token: "
-msgstr ""
-
-msgid "COMPANION"
-msgstr ""
-
-msgid "GELDER"
-msgstr ""
-
-msgid "MONSTER_SLAYER"
-msgstr ""
-
-msgid "SNATCHER"
-msgstr ""
-
-msgid "GELD"
-msgstr ""
-
-msgid "HAUL_TRADE"
-msgstr ""
-
-msgid "PULL_LEVER"
-msgstr ""
-
-msgid "REMOVE_CONSTRUCTION"
-msgstr ""
-
-msgid "HAUL_WATER"
-msgstr ""
-
-msgid "BUILD_ROAD"
-msgstr ""
-
-msgid "BUILD_CONSTRUCTION"
-msgstr ""
-
-msgid "CLIMBING"
-msgstr ""
-
-msgid "PLANT_GROWTH"
 msgstr ""
 
 msgid "NW"
@@ -13006,426 +12667,6 @@ msgid "Grassland"
 msgstr ""
 
 msgid "Hills"
-msgstr ""
-
-msgid "undefined local creature material set to default: "
-msgstr ""
-
-msgid "undefined local plant material set to default: "
-msgstr ""
-
-msgid "undefined creature material set to default: "
-msgstr ""
-
-msgid "undefined plant material set to default: "
-msgstr ""
-
-msgid "BIRTH_WILD_ANIMAL"
-msgstr ""
-
-msgid "FORT_POSITION_SUCCESSION"
-msgstr ""
-
-msgid "STRESSED_CITIZEN"
-msgstr ""
-
-msgid "CITIZEN_TANTRUM"
-msgstr ""
-
-msgid "CITIZEN_LOST_TO_STRESS"
-msgstr ""
-
-msgid "MECHANISM_SOUND"
-msgstr ""
-
-msgid "REGULAR_CONVERSATION"
-msgstr ""
-
-msgid "CONFLICT_CONVERSATION"
-msgstr ""
-
-msgid "FLAME_HIT"
-msgstr ""
-
-msgid "EMBRACE"
-msgstr ""
-
-msgid "BANDIT_EMPTY_CONTAINER"
-msgstr ""
-
-msgid "BANDIT_GRAB_ITEM"
-msgstr ""
-
-msgid "COMBAT_EVENT_ATTACK_INTERRUPTED"
-msgstr ""
-
-msgid "COMBAT_WRESTLE_CATCH_ATTACK"
-msgstr ""
-
-msgid "FAIL_TO_GRAB_SURFACE"
-msgstr ""
-
-msgid "LOSE_HOLD_OF_SURFACE"
-msgstr ""
-
-msgid "TRAVEL_COMPLAINT"
-msgstr ""
-
-msgid "LOSE_EMOTION"
-msgstr ""
-
-msgid "REORGANIZE_POSSESSIONS"
-msgstr ""
-
-msgid "PUSH_ITEM"
-msgstr ""
-
-msgid "DRAW_ITEM"
-msgstr ""
-
-msgid "STRAP_ITEM"
-msgstr ""
-
-msgid "GAIN_SITE_CONTROL"
-msgstr ""
-
-msgid "MOVED_OUT_OF_RANGE"
-msgstr ""
-
-msgid "NO_TRACKS"
-msgstr ""
-
-msgid "ALREADY_SEARCHED_AREA"
-msgstr ""
-
-msgid "SEARCH_FOUND_SOMETHING"
-msgstr ""
-
-msgid "SEARCH_FOUND_NOTHING"
-msgstr ""
-
-msgid "NOTHING_TO_INTERACT"
-msgstr ""
-
-msgid "NOTHING_TO_EXAMINE"
-msgstr ""
-
-msgid "YOU_YIELDED"
-msgstr ""
-
-msgid "YOU_UNYIELDED"
-msgstr ""
-
-msgid "YOU_STRAP_ITEM"
-msgstr ""
-
-msgid "YOU_DRAW_ITEM"
-msgstr ""
-
-msgid "NO_GRASP_TO_DRAW_ITEM"
-msgstr ""
-
-msgid "NO_ITEM_TO_STRAP"
-msgstr ""
-
-msgid "NO_INV_TO_REMOVE"
-msgstr ""
-
-msgid "NO_INV_TO_WEAR"
-msgstr ""
-
-msgid "NO_INV_TO_EAT"
-msgstr ""
-
-msgid "NO_INV_TO_CONTAIN"
-msgstr ""
-
-msgid "NO_INV_TO_DROP"
-msgstr ""
-
-msgid "NOTHING_TO_PICK_UP"
-msgstr ""
-
-msgid "NO_INV_TO_THROW"
-msgstr ""
-
-msgid "NO_INV_TO_FIRE"
-msgstr ""
-
-msgid "CURRENT_SMELL"
-msgstr ""
-
-msgid "CURRENT_WEATHER"
-msgstr ""
-
-msgid "CURRENT_TEMPERATURE"
-msgstr ""
-
-msgid "CURRENT_DATE"
-msgstr ""
-
-msgid "NO_GRASP_FOR_PICKUP"
-msgstr ""
-
-msgid "TRAVEL_ADVISORY"
-msgstr ""
-
-msgid "CANNOT_STAND"
-msgstr ""
-
-msgid "MUST_UNRETRACT_FIRST"
-msgstr ""
-
-msgid "CANNOT_REST"
-msgstr ""
-
-msgid "CANNOT_MAKE_CAMPFIRE"
-msgstr ""
-
-msgid "MADE_CAMPFIRE"
-msgstr ""
-
-msgid "CANNOT_SET_FIRE"
-msgstr ""
-
-msgid "SET_FIRE"
-msgstr ""
-
-msgid "DAWN_BREAKS"
-msgstr ""
-
-msgid "NOON"
-msgstr ""
-
-msgid "NIGHTFALL"
-msgstr ""
-
-msgid "NO_INV_INTERACTION"
-msgstr ""
-
-msgid "EMPTY_CONTAINER"
-msgstr ""
-
-msgid "TAKE_OUT_OF_CONTAINER"
-msgstr ""
-
-msgid "NO_CONTAINER_FOR_ITEM"
-msgstr ""
-
-msgid "PUT_INTO_CONTAINER"
-msgstr ""
-
-msgid "EAT_ITEM"
-msgstr ""
-
-msgid "DRINK_ITEM"
-msgstr ""
-
-msgid "CONSUME_FAILURE"
-msgstr ""
-
-msgid "DROP_ITEM"
-msgstr ""
-
-msgid "PICK_UP_ITEM"
-msgstr ""
-
-msgid "YOU_BUILDING_INTERACTION"
-msgstr ""
-
-msgid "YOU_ITEM_INTERACTION"
-msgstr ""
-
-msgid "YOU_TEMPERATURE_EFFECTS"
-msgstr ""
-
-msgid "PROFESSION_CHANGES"
-msgstr ""
-
-msgid "RECRUIT_PROMOTED"
-msgstr ""
-
-msgid "SOLDIER_BECOMES_MASTER"
-msgstr ""
-
-msgid "RESOLVE_SHARED_ITEMS"
-msgstr ""
-
-msgid "COUGH_BLOOD"
-msgstr ""
-
-msgid "VOMIT_BLOOD"
-msgstr ""
-
-msgid "MERCHANTS_UNLOADING"
-msgstr ""
-
-msgid "MERCHANTS_NEED_DEPOT"
-msgstr ""
-
-msgid "MERCHANT_WAGONS_BYPASSED"
-msgstr ""
-
-msgid "MERCHANTS_LEAVING_SOON"
-msgstr ""
-
-msgid "MERCHANTS_EMBARKED"
-msgstr ""
-
-msgid "PET_LOSES_DEAD_OWNER"
-msgstr ""
-
-msgid "PET_ADOPTS_OWNER"
-msgstr ""
-
-msgid "UNABLE_TO_COMPLETE_BUILDING"
-msgstr ""
-
-msgid "JOBS_REMOVED_FROM_UNPOWERED_BUILDING"
-msgstr ""
-
-msgid "CITIZEN_SNATCHED"
-msgstr ""
-
-msgid "VERMIN_DISTURBED"
-msgstr ""
-
-msgid "LAND_GAINS_STATUS"
-msgstr ""
-
-msgid "LAND_ELEVATED_STATUS"
-msgstr ""
-
-msgid "MASTERPIECE_CRAFTED"
-msgstr ""
-
-msgid "ARTWORK_DEFACED"
-msgstr ""
-
-msgid "POWER_LEARNED"
-msgstr ""
-
-msgid "YOU_FEED_ON_SUCKEE"
-msgstr ""
-
-msgid "ANIMAL_TRAINED"
-msgstr ""
-
-msgid "DYED_MASTERPIECE"
-msgstr ""
-
-msgid "COOKED_MASTERPIECE"
-msgstr ""
-
-msgid "MANDATE_ENDS"
-msgstr ""
-
-msgid "SLOWDOWN_ENDS"
-msgstr ""
-
-msgid "FAREWELL_HELPER"
-msgstr ""
-
-msgid "ELECTION_RESULTS"
-msgstr ""
-
-msgid "SITE_PRESENT"
-msgstr ""
-
-msgid "CONSTRUCTION_SUSPENDED"
-msgstr ""
-
-msgid "LINKAGE_SUSPENDED"
-msgstr ""
-
-msgid "QUOTA_FILLED"
-msgstr ""
-
-msgid "JOB_OVERWRITTEN"
-msgstr ""
-
-msgid "NOTHING_TO_CATCH_IN_WATER"
-msgstr ""
-
-msgid "DEMAND_FORGOTTEN"
-msgstr ""
-
-msgid "NEW_DEMAND"
-msgstr ""
-
-msgid "NEW_MANDATE"
-msgstr ""
-
-msgid "PRICES_ALTERED"
-msgstr ""
-
-msgid "NAMED_RESIDENT_CREATURE"
-msgstr ""
-
-msgid "SOMEBODY_GROWS_UP"
-msgstr ""
-
-msgid "GUILD_REQUEST_TAKEN"
-msgstr ""
-
-msgid "GUILD_WAGES_CHANGED"
-msgstr ""
-
-msgid "NEW_WORK_MANDATE"
-msgstr ""
-
-msgid "CITIZEN_BECOMES_SOLDIER"
-msgstr ""
-
-msgid "CITIZEN_BECOMES_NONSOLDIER"
-msgstr ""
-
-msgid "PARTY_ORGANIZED"
-msgstr ""
-
-msgid "POSSESSED_TANTRUM"
-msgstr ""
-
-msgid "BUILDING_TOPPLED_BY_GHOST"
-msgstr ""
-
-msgid "MASTERFUL_IMPROVEMENT"
-msgstr ""
-
-msgid "MASTERPIECE_ENGRAVING"
-msgstr ""
-
-msgid "NO_MARRIAGE_CELEBRATION"
-msgstr ""
-
-msgid "CURIOUS_GUZZLER"
-msgstr ""
-
-msgid "WEATHER_BECOMES_CLEAR"
-msgstr ""
-
-msgid "WEATHER_BECOMES_SNOW"
-msgstr ""
-
-msgid "WEATHER_BECOMES_RAIN"
-msgstr ""
-
-msgid "SEASON_WET"
-msgstr ""
-
-msgid "SEASON_DRY"
-msgstr ""
-
-msgid "SEASON_SPRING"
-msgstr ""
-
-msgid "SEASON_SUMMER"
-msgstr ""
-
-msgid "SEASON_AUTUMN"
-msgstr ""
-
-msgid "SEASON_WINTER"
 msgstr ""
 
 msgid "blob"
@@ -14904,342 +14145,6 @@ msgstr ""
 msgid "Climber"
 msgstr ""
 
-msgid "STAND_AND_WORK_ABOVE"
-msgstr ""
-
-msgid "POST_PREPARE_EMBARK_CONFIRMATION"
-msgstr ""
-
-msgid "IF_POINTS_REMAIN"
-msgstr ""
-
-msgid "TREE_ROOT_SLOPING"
-msgstr ""
-
-msgid "TREE_ROOTS"
-msgstr ""
-
-msgid "TREE_TRUNK_PILLAR"
-msgstr ""
-
-msgid "TREE_TRUNK_SLOPING"
-msgstr ""
-
-msgid "TREE_TRUNK_N"
-msgstr ""
-
-msgid "TREE_TRUNK_S"
-msgstr ""
-
-msgid "TREE_TRUNK_E"
-msgstr ""
-
-msgid "TREE_TRUNK_W"
-msgstr ""
-
-msgid "TREE_TRUNK_NW"
-msgstr ""
-
-msgid "TREE_TRUNK_NE"
-msgstr ""
-
-msgid "TREE_TRUNK_SW"
-msgstr ""
-
-msgid "TREE_TRUNK_SE"
-msgstr ""
-
-msgid "TREE_TRUNK_BRANCH_N"
-msgstr ""
-
-msgid "TREE_TRUNK_BRANCH_S"
-msgstr ""
-
-msgid "TREE_TRUNK_BRANCH_E"
-msgstr ""
-
-msgid "TREE_TRUNK_BRANCH_W"
-msgstr ""
-
-msgid "TREE_BRANCH_NS"
-msgstr ""
-
-msgid "TREE_BRANCH_EW"
-msgstr ""
-
-msgid "TREE_BRANCH_NW"
-msgstr ""
-
-msgid "TREE_BRANCH_NE"
-msgstr ""
-
-msgid "TREE_BRANCH_SW"
-msgstr ""
-
-msgid "TREE_BRANCH_SE"
-msgstr ""
-
-msgid "TREE_BRANCH_NSE"
-msgstr ""
-
-msgid "TREE_BRANCH_NSW"
-msgstr ""
-
-msgid "TREE_BRANCH_NEW"
-msgstr ""
-
-msgid "TREE_BRANCH_SEW"
-msgstr ""
-
-msgid "TREE_BRANCH_NSEW"
-msgstr ""
-
-msgid "TREE_BRANCHES"
-msgstr ""
-
-msgid "TREE_SMOOTH_BRANCHES"
-msgstr ""
-
-msgid "TREE_TWIGS"
-msgstr ""
-
-msgid "TREE_CAP_RAMP"
-msgstr ""
-
-msgid "TREE_CAP_PILLAR"
-msgstr ""
-
-msgid "TREE_CAP_WALL_N"
-msgstr ""
-
-msgid "TREE_CAP_WALL_S"
-msgstr ""
-
-msgid "TREE_CAP_WALL_E"
-msgstr ""
-
-msgid "TREE_CAP_WALL_W"
-msgstr ""
-
-msgid "TREE_CAP_WALL_NW"
-msgstr ""
-
-msgid "TREE_CAP_WALL_NE"
-msgstr ""
-
-msgid "TREE_CAP_WALL_SW"
-msgstr ""
-
-msgid "TREE_CAP_WALL_SE"
-msgstr ""
-
-msgid "TREE_CAP_FLOOR1"
-msgstr ""
-
-msgid "TREE_CAP_FLOOR2"
-msgstr ""
-
-msgid "TREE_CAP_FLOOR3"
-msgstr ""
-
-msgid "TREE_CAP_FLOOR4"
-msgstr ""
-
-msgid "TREE_ROOT_SLOPING_DEAD"
-msgstr ""
-
-msgid "TREE_ROOTS_DEAD"
-msgstr ""
-
-msgid "TREE_TRUNK_PILLAR_DEAD"
-msgstr ""
-
-msgid "TREE_TRUNK_SLOPING_DEAD"
-msgstr ""
-
-msgid "TREE_TRUNK_N_DEAD"
-msgstr ""
-
-msgid "TREE_TRUNK_S_DEAD"
-msgstr ""
-
-msgid "TREE_TRUNK_E_DEAD"
-msgstr ""
-
-msgid "TREE_TRUNK_W_DEAD"
-msgstr ""
-
-msgid "TREE_TRUNK_NW_DEAD"
-msgstr ""
-
-msgid "TREE_TRUNK_NE_DEAD"
-msgstr ""
-
-msgid "TREE_TRUNK_SW_DEAD"
-msgstr ""
-
-msgid "TREE_TRUNK_SE_DEAD"
-msgstr ""
-
-msgid "TREE_TRUNK_BRANCH_N_DEAD"
-msgstr ""
-
-msgid "TREE_TRUNK_BRANCH_S_DEAD"
-msgstr ""
-
-msgid "TREE_TRUNK_BRANCH_E_DEAD"
-msgstr ""
-
-msgid "TREE_TRUNK_BRANCH_W_DEAD"
-msgstr ""
-
-msgid "TREE_BRANCH_NS_DEAD"
-msgstr ""
-
-msgid "TREE_BRANCH_EW_DEAD"
-msgstr ""
-
-msgid "TREE_BRANCH_NW_DEAD"
-msgstr ""
-
-msgid "TREE_BRANCH_NE_DEAD"
-msgstr ""
-
-msgid "TREE_BRANCH_SW_DEAD"
-msgstr ""
-
-msgid "TREE_BRANCH_SE_DEAD"
-msgstr ""
-
-msgid "TREE_BRANCH_NSE_DEAD"
-msgstr ""
-
-msgid "TREE_BRANCH_NSW_DEAD"
-msgstr ""
-
-msgid "TREE_BRANCH_NEW_DEAD"
-msgstr ""
-
-msgid "TREE_BRANCH_SEW_DEAD"
-msgstr ""
-
-msgid "TREE_BRANCH_NSEW_DEAD"
-msgstr ""
-
-msgid "TREE_BRANCHES_DEAD"
-msgstr ""
-
-msgid "TREE_SMOOTH_BRANCHES_DEAD"
-msgstr ""
-
-msgid "TREE_TWIGS_DEAD"
-msgstr ""
-
-msgid "TREE_CAP_RAMP_DEAD"
-msgstr ""
-
-msgid "TREE_CAP_PILLAR_DEAD"
-msgstr ""
-
-msgid "TREE_CAP_WALL_N_DEAD"
-msgstr ""
-
-msgid "TREE_CAP_WALL_S_DEAD"
-msgstr ""
-
-msgid "TREE_CAP_WALL_E_DEAD"
-msgstr ""
-
-msgid "TREE_CAP_WALL_W_DEAD"
-msgstr ""
-
-msgid "TREE_CAP_WALL_NW_DEAD"
-msgstr ""
-
-msgid "TREE_CAP_WALL_NE_DEAD"
-msgstr ""
-
-msgid "TREE_CAP_WALL_SW_DEAD"
-msgstr ""
-
-msgid "TREE_CAP_WALL_SE_DEAD"
-msgstr ""
-
-msgid "TREE_CAP_FLOOR1_DEAD"
-msgstr ""
-
-msgid "TREE_CAP_FLOOR2_DEAD"
-msgstr ""
-
-msgid "TREE_CAP_FLOOR3_DEAD"
-msgstr ""
-
-msgid "TREE_CAP_FLOOR4_DEAD"
-msgstr ""
-
-msgid "TREE_TRUNK_NSE"
-msgstr ""
-
-msgid "TREE_TRUNK_NSW"
-msgstr ""
-
-msgid "TREE_TRUNK_NEW"
-msgstr ""
-
-msgid "TREE_TRUNK_SEW"
-msgstr ""
-
-msgid "TREE_TRUNK_NS"
-msgstr ""
-
-msgid "TREE_TRUNK_EW"
-msgstr ""
-
-msgid "TREE_TRUNK_NSEW"
-msgstr ""
-
-msgid "TREE_TRUNK_INTERIOR"
-msgstr ""
-
-msgid "TREE_TRUNK_NSE_DEAD"
-msgstr ""
-
-msgid "TREE_TRUNK_NSW_DEAD"
-msgstr ""
-
-msgid "TREE_TRUNK_NEW_DEAD"
-msgstr ""
-
-msgid "TREE_TRUNK_SEW_DEAD"
-msgstr ""
-
-msgid "TREE_TRUNK_NS_DEAD"
-msgstr ""
-
-msgid "TREE_TRUNK_EW_DEAD"
-msgstr ""
-
-msgid "TREE_TRUNK_NSEW_DEAD"
-msgstr ""
-
-msgid "TREE_TRUNK_INTERIOR_DEAD"
-msgstr ""
-
-msgid "GRAZE_COEFFICIENT"
-msgstr ""
-
-msgid "SPECIFIC_SEED_CAP"
-msgstr ""
-
-msgid "FORTRESS_SEED_CAP"
-msgstr ""
-
-msgid "STRICT_POPULATION_CAP"
-msgstr ""
-
-msgid "Button"
-msgstr ""
-
 msgid "  Dwarf Fortress Options  "
 msgstr ""
 
@@ -15607,24 +14512,6 @@ msgid "ecwe"
 msgstr ""
 
 msgid "hlaas"
-msgstr ""
-
-msgid "old save: removing potentially broken rest job"
-msgstr ""
-
-msgid "old save: fixing possibly broken knowledge from unretire"
-msgstr ""
-
-msgid "** Loading Fortress **"
-msgstr ""
-
-msgid "** Loading Adventurer **"
-msgstr ""
-
-msgid "Repairing squad info for Unit #"
-msgstr ""
-
-msgid "have corrupt feature map at "
 msgstr ""
 
 msgid "  Dwarf Fortress: Load World  "
@@ -18336,9 +17223,6 @@ msgstr ""
 msgid "Hung"
 msgstr ""
 
-msgid "W: "
-msgstr ""
-
 msgid "A: "
 msgstr ""
 
@@ -20238,9 +19122,6 @@ msgstr ""
 msgid "  Items Desired/Kept By Vehicle  "
 msgstr ""
 
-msgid "REC"
-msgstr ""
-
 msgid "  Select Item: "
 msgstr ""
 
@@ -20257,9 +19138,6 @@ msgid " to abort."
 msgstr ""
 
 msgid " scroll.  Type in parts of the name to narrow your search."
-msgstr ""
-
-msgid " P"
 msgstr ""
 
 msgid " slabs engraved"
@@ -20340,9 +19218,6 @@ msgstr ""
 msgid "Resizing font to "
 msgstr ""
 
-msgid "Dwarf Fortress"
-msgstr ""
-
 msgid "Button "
 msgstr ""
 
@@ -20362,57 +19237,6 @@ msgid " Crafts"
 msgstr ""
 
 msgid " Logs"
-msgstr ""
-
-msgid "SITE_GUARDIAN"
-msgstr ""
-
-msgid "DIVINE_MAT_WEAPONS"
-msgstr ""
-
-msgid "DIVINE_MAT_ARMOR"
-msgstr ""
-
-msgid "DIVINE_MAT_CRAFTS"
-msgstr ""
-
-msgid "DIVINE_MAT_CLOTHING"
-msgstr ""
-
-msgid "INDOOR_ORCHARDS"
-msgstr ""
-
-msgid "OUTDOOR_ORCHARDS"
-msgstr ""
-
-msgid "INDOOR_GARDENS"
-msgstr ""
-
-msgid "OUTDOOR_GARDENS"
-msgstr ""
-
-msgid "EXCLUSIVE_START_BIOME"
-msgstr ""
-
-msgid "SETTLEMENT_BIOME"
-msgstr ""
-
-msgid "SITE_VARIABLE_POSITIONS"
-msgstr ""
-
-msgid "REQUIRES_MARKET"
-msgstr ""
-
-msgid ": Negative precedence changed to zero"
-msgstr ""
-
-msgid ": Precedence exceeding "
-msgstr ""
-
-msgid " capped"
-msgstr ""
-
-msgid "Unrecognized Entity Token: "
 msgstr ""
 
 msgid "ay"
@@ -20535,9 +19359,6 @@ msgstr ""
 msgid "rsn"
 msgstr ""
 
-msgid "Unrecognized entity creature token: "
-msgstr ""
-
 msgid "leaders"
 msgstr ""
 
@@ -20655,15 +19476,6 @@ msgstr ""
 msgid "Metal armor"
 msgstr ""
 
-msgid "entity_layer"
-msgstr ""
-
-msgid "[OBJECT:ENTITY]"
-msgstr ""
-
-msgid "[ENTITY:"
-msgstr ""
-
 msgid " has assumed the position of "
 msgstr ""
 
@@ -20719,9 +19531,6 @@ msgid "Something has emptied a cage!"
 msgstr ""
 
 msgid "Something has unchained a creature!"
-msgstr ""
-
-msgid "DRINK_MAT"
 msgstr ""
 
 msgid "unused "
@@ -21498,24 +20307,6 @@ msgstr ""
 msgid "  Dwarf Fortress: Updating World  "
 msgstr ""
 
-msgid "POLE"
-msgstr ""
-
-msgid "NORTH_OR_SOUTH"
-msgstr ""
-
-msgid "NORTH_AND_OR_SOUTH"
-msgstr ""
-
-msgid "NORTH"
-msgstr ""
-
-msgid "SOUTH"
-msgstr ""
-
-msgid "NORTH_AND_SOUTH"
-msgstr ""
-
 msgid "Attempted to set world gen presets prior to dimensions"
 msgstr ""
 
@@ -21523,9 +20314,6 @@ msgid " preset attempted beyond Y range"
 msgstr ""
 
 msgid " preset failed to load X value at Y = "
-msgstr ""
-
-msgid "GENERATE_DIVINE_MATERIALS"
 msgstr ""
 
 msgid "Command Line: World generation manually aborted."
@@ -22134,9 +20922,6 @@ msgstr ""
 msgid "Cleaning play objects..."
 msgstr ""
 
-msgid "** Starting New Arena **"
-msgstr ""
-
 msgid "  Dwarf Fortress: Arena  "
 msgstr ""
 
@@ -22194,9 +20979,6 @@ msgstr ""
 msgid "This Version of DF used the FMOD Sound System"
 msgstr ""
 
-msgid "Copyright(C)1994-2006 Firelight Technologies Pty, Ltd."
-msgstr ""
-
 msgid "This version of DF uses SDL: Simple DirectMedia Layer,"
 msgstr ""
 
@@ -22213,57 +20995,6 @@ msgid "All rights reserved."
 msgstr ""
 
 msgid " to return to the menu."
-msgstr ""
-
-msgid "-detailed"
-msgstr ""
-
-msgid "-el"
-msgstr ""
-
-msgid "-elw"
-msgstr ""
-
-msgid "-tmp"
-msgstr ""
-
-msgid "-rain"
-msgstr ""
-
-msgid "-drn"
-msgstr ""
-
-msgid "-sav"
-msgstr ""
-
-msgid "-vol"
-msgstr ""
-
-msgid "-veg"
-msgstr ""
-
-msgid "-evil"
-msgstr ""
-
-msgid "-sal"
-msgstr ""
-
-msgid "-bm"
-msgstr ""
-
-msgid "-trd"
-msgstr ""
-
-msgid "-str"
-msgstr ""
-
-msgid "-hyd"
-msgstr ""
-
-msgid "-nob"
-msgstr ""
-
-msgid "-dip"
 msgstr ""
 
 msgid "Histories of "
@@ -22320,9 +21051,6 @@ msgstr ""
 msgid "Perseverance"
 msgstr ""
 
-msgid "*** STARTING NEW GAME ***"
-msgstr ""
-
 msgid "Command Line: "
 msgstr ""
 
@@ -22333,15 +21061,6 @@ msgid "Command Line: World generation initiated."
 msgstr ""
 
 msgid "Command Line: World generation aborted because folder exists."
-msgstr ""
-
-msgid "data/speech/mercenary_profession.txt"
-msgstr ""
-
-msgid "data/speech/mercenary_profession_year.txt"
-msgstr ""
-
-msgid "data/speech/past_mercenary_profession.txt"
 msgstr ""
 
 msgid " were unable to complete the "
@@ -23829,9 +22548,6 @@ msgstr ""
 msgid "Type in parts of the name to narrow your search.  "
 msgstr ""
 
-msgid "/R"
-msgstr ""
-
 msgid "Suspended"
 msgstr ""
 
@@ -24304,9 +23020,6 @@ msgid "Outpost"
 msgstr ""
 
 msgid "  Building List  "
-msgstr ""
-
-msgid " (S)"
 msgstr ""
 
 msgid " / Spouse"
@@ -25675,126 +24388,6 @@ msgid "PLAY"
 msgstr ""
 
 msgid "FPS: "
-msgstr ""
-
-msgid "TTF error"
-msgstr ""
-
-msgid "No font found!"
-msgstr ""
-
-msgid "</rep_hero>"
-msgstr ""
-
-msgid "<rep_hero>"
-msgstr ""
-
-msgid "</rep_buddy>"
-msgstr ""
-
-msgid "<rep_buddy>"
-msgstr ""
-
-msgid "</rep_grudge>"
-msgstr ""
-
-msgid "<rep_grudge>"
-msgstr ""
-
-msgid "</rep_bonded>"
-msgstr ""
-
-msgid "<rep_bonded>"
-msgstr ""
-
-msgid "</rep_monster>"
-msgstr ""
-
-msgid "<rep_monster>"
-msgstr ""
-
-msgid "</rep_brigand>"
-msgstr ""
-
-msgid "<rep_brigand>"
-msgstr ""
-
-msgid "</rep_bully>"
-msgstr ""
-
-msgid "<rep_bully>"
-msgstr ""
-
-msgid "</rep_violent>"
-msgstr ""
-
-msgid "<rep_violent>"
-msgstr ""
-
-msgid "</rep_psychopath>"
-msgstr ""
-
-msgid "<rep_psychopath>"
-msgstr ""
-
-msgid "</rep_trade_partner>"
-msgstr ""
-
-msgid "<rep_trade_partner>"
-msgstr ""
-
-msgid "</rep_friendly>"
-msgstr ""
-
-msgid "<rep_friendly>"
-msgstr ""
-
-msgid "</rep_killer>"
-msgstr ""
-
-msgid "<rep_killer>"
-msgstr ""
-
-msgid "</rep_murderer>"
-msgstr ""
-
-msgid "<rep_murderer>"
-msgstr ""
-
-msgid "</rep_comrade>"
-msgstr ""
-
-msgid "<rep_comrade>"
-msgstr ""
-
-msgid "</rep_respected_group>"
-msgstr ""
-
-msgid "<rep_respected_group>"
-msgstr ""
-
-msgid "</rep_hated_group>"
-msgstr ""
-
-msgid "<rep_hated_group>"
-msgstr ""
-
-msgid "</rep_enemy_fighter>"
-msgstr ""
-
-msgid "<rep_enemy_fighter>"
-msgstr ""
-
-msgid "</rep_friendly_fighter>"
-msgstr ""
-
-msgid "<rep_friendly_fighter>"
-msgstr ""
-
-msgid "</rep_loyal_soldier>"
-msgstr ""
-
-msgid "<rep_loyal_soldier>"
 msgstr ""
 
 msgid "should have reached goal"
@@ -28539,9 +27132,6 @@ msgstr ""
 msgid "A few issues still trouble scholars, but the picture is fairly clear.  "
 msgstr ""
 
-msgid "NULL artifact from dead wg inventory, skipping"
-msgstr ""
-
 msgid "some vague concept"
 msgstr ""
 
@@ -28650,9 +27240,6 @@ msgstr ""
 msgid "Journey"
 msgstr ""
 
-msgid "NULL artifact from wg storage, skipping"
-msgstr ""
-
 msgid ", once of the Underworld.  "
 msgstr ""
 
@@ -28662,40 +27249,10 @@ msgstr ""
 msgid "I bind myself to this place."
 msgstr ""
 
-msgid "<type>hf attacked site</type>"
-msgstr ""
-
-msgid "<abandoned/>"
-msgstr ""
-
-msgid "<type>site retired</type>"
-msgstr ""
-
-msgid "<first/>"
-msgstr ""
-
-msgid "</builder_hfid>"
-msgstr ""
-
-msgid "<builder_hfid>"
-msgstr ""
-
-msgid "<type>insurrection started</type>"
-msgstr ""
-
-msgid "</target_civ_id>"
-msgstr ""
-
-msgid "<target_civ_id>"
-msgstr ""
-
 msgid "leadership overthrown"
 msgstr ""
 
 msgid "population gone"
-msgstr ""
-
-msgid "<unretire/>"
 msgstr ""
 
 msgid "scuffle"
@@ -28869,9 +27426,6 @@ msgstr ""
 msgid "put to rest"
 msgstr ""
 
-msgid "quitdead"
-msgstr ""
-
 msgid "abandon"
 msgstr ""
 
@@ -28962,166 +27516,13 @@ msgstr ""
 msgid "refugee"
 msgstr ""
 
-msgid "<type>agreement formed</type>"
-msgstr ""
-
-msgid "</agreement_id>"
-msgstr ""
-
-msgid "<agreement_id>"
-msgstr ""
-
-msgid "</concluder_hfid>"
-msgstr ""
-
-msgid "<concluder_hfid>"
-msgstr ""
-
-msgid "</agreement_subject_id>"
-msgstr ""
-
-msgid "<agreement_subject_id>"
-msgstr ""
-
-msgid "<reason>"
-msgstr ""
-
-msgid "</reason>"
-msgstr ""
-
-msgid "<type>site dispute</type>"
-msgstr ""
-
-msgid "<dispute>"
-msgstr ""
-
-msgid "</dispute>"
-msgstr ""
-
-msgid "</entity_id_1>"
-msgstr ""
-
-msgid "<entity_id_1>"
-msgstr ""
-
-msgid "</entity_id_2>"
-msgstr ""
-
-msgid "<entity_id_2>"
-msgstr ""
-
-msgid "</site_id_1>"
-msgstr ""
-
-msgid "<site_id_1>"
-msgstr ""
-
-msgid "</site_id_2>"
-msgstr ""
-
-msgid "<site_id_2>"
-msgstr ""
-
 msgid "attacker won"
 msgstr ""
 
 msgid "defender won"
 msgstr ""
 
-msgid "<type>insurrection</type>"
-msgstr ""
-
-msgid "<link_type>companion</link_type>"
-msgstr ""
-
-msgid "<entity_squad_link>"
-msgstr ""
-
-msgid "</squad_id>"
-msgstr ""
-
-msgid "<squad_id>"
-msgstr ""
-
-msgid "</squad_position>"
-msgstr ""
-
-msgid "<squad_position>"
-msgstr ""
-
-msgid "</entity_squad_link>"
-msgstr ""
-
-msgid "<entity_former_squad_link>"
-msgstr ""
-
-msgid "</entity_former_squad_link>"
-msgstr ""
-
-msgid "</goal>"
-msgstr ""
-
-msgid "<goal>"
-msgstr ""
-
-msgid "<cultural_identity_reputation>"
-msgstr ""
-
-msgid "</cultural_identity_id>"
-msgstr ""
-
-msgid "<cultural_identity_id>"
-msgstr ""
-
-msgid "</cultural_identity_reputation>"
-msgstr ""
-
-msgid "<relationship_profile_hf>"
-msgstr ""
-
-msgid "</hf_id>"
-msgstr ""
-
-msgid "<hf_id>"
-msgstr ""
-
-msgid "</meet_count>"
-msgstr ""
-
-msgid "<meet_count>"
-msgstr ""
-
-msgid "</last_meet_year>"
-msgstr ""
-
-msgid "<last_meet_year>"
-msgstr ""
-
-msgid "</last_meet_seconds72>"
-msgstr ""
-
-msgid "<last_meet_seconds72>"
-msgstr ""
-
-msgid "</known_identity_id>"
-msgstr ""
-
-msgid "<known_identity_id>"
-msgstr ""
-
-msgid "</relationship_profile_hf>"
-msgstr ""
-
-msgid "NULL artifact from dead post-wg inventory, skipping"
-msgstr ""
-
-msgid "HF"
-msgstr ""
-
 msgid "world view filter not set (adjust ci ps)"
-msgstr ""
-
-msgid "world view filter not set (moderate private opinion)"
 msgstr ""
 
 msgid "Use OpenGL?"
@@ -29146,15 +27547,6 @@ msgid ": Save the active moving record (you will be prompted for a name)"
 msgstr ""
 
 msgid ": Load a moving record"
-msgstr ""
-
-msgid "CONTEXT_CREATURE_OR_LOCATION"
-msgstr ""
-
-msgid "     a1"
-msgstr ""
-
-msgid "     a2"
 msgstr ""
 
 msgid "This is"
@@ -29889,9 +28281,6 @@ msgstr ""
 msgid " and it "
 msgstr ""
 
-msgid "[ITEM_"
-msgstr ""
-
 msgid "Stop Bleeding"
 msgstr ""
 
@@ -30406,153 +28795,6 @@ msgid "Load Weapon Trap"
 msgstr ""
 
 msgid "Cast Spell"
-msgstr ""
-
-msgid "A_SHORT_WAIT"
-msgstr ""
-
-msgid "QUICK_ATTACK"
-msgstr ""
-
-msgid "HEAVY_ATTACK"
-msgstr ""
-
-msgid "WILD_ATTACK"
-msgstr ""
-
-msgid "PRECISE_ATTACK"
-msgstr ""
-
-msgid "CHARGE_ATTACK"
-msgstr ""
-
-msgid "MULTI_ATTACK"
-msgstr ""
-
-msgid "A_ODOR"
-msgstr ""
-
-msgid "A_DISPLAY_ODOR"
-msgstr ""
-
-msgid "A_YIELD"
-msgstr ""
-
-msgid "A_DISPLAY_TRACKS"
-msgstr ""
-
-msgid "A_FRESHEST_TRACK"
-msgstr ""
-
-msgid "A_INV_DRAW_WEAPON"
-msgstr ""
-
-msgid "A_JUMP"
-msgstr ""
-
-msgid "A_HOLD"
-msgstr ""
-
-msgid "A_SPEED_SNEAK"
-msgstr ""
-
-msgid "RECENTER_ON_LEVER"
-msgstr ""
-
-msgid "D_BURROWS_WORKSHOP_LIMIT"
-msgstr ""
-
-msgid "ARENA_CONFLICT_STATE_1"
-msgstr ""
-
-msgid "ARENA_CONFLICT_STATE_2"
-msgstr ""
-
-msgid "ARENA_MORALE"
-msgstr ""
-
-msgid "ARENA_WEATHER"
-msgstr ""
-
-msgid "ARENA_WEATHER_SNOW"
-msgstr ""
-
-msgid "ARENA_WEATHER_MUD"
-msgstr ""
-
-msgid "ARENA_WEATHER_CLEAR_SPATTER"
-msgstr ""
-
-msgid "D_LOOK_ARENA_TREE"
-msgstr ""
-
-msgid "ARENA_TREE_FILTER"
-msgstr ""
-
-msgid "ARENA_TREE_AGE"
-msgstr ""
-
-msgid "D_LOOK_ARENA_MOUNT"
-msgstr ""
-
-msgid "A_LOG_PEOPLE"
-msgstr ""
-
-msgid "A_LOG_AGREEMENTS"
-msgstr ""
-
-msgid "A_LOG_EVENTS"
-msgstr ""
-
-msgid "A_LOG_BESTIARY"
-msgstr ""
-
-msgid "A_LOG_FILTER"
-msgstr ""
-
-msgid "BUILDJOB_NOW"
-msgstr ""
-
-msgid "PET_GELD"
-msgstr ""
-
-msgid "CIVZONE_GATHER_OPTIONS"
-msgstr ""
-
-msgid "CIVZONE_GATHER_OPTIONS_PICK_TREES"
-msgstr ""
-
-msgid "CIVZONE_GATHER_OPTIONS_PICK_SHRUBS"
-msgstr ""
-
-msgid "CIVZONE_GATHER_OPTIONS_GATHER_FALLEN"
-msgstr ""
-
-msgid "CIVZONE_GATHER"
-msgstr ""
-
-msgid "DESIGNATE_STANDARD_MARKER"
-msgstr ""
-
-msgid "DESIGNATE_MINE_MODE"
-msgstr ""
-
-msgid "DESIGNATE_TOGGLE_MARKER"
-msgstr ""
-
-msgid "BUILDING_TRIGGER_MIN_SIZE_UP_PLUS"
-msgstr ""
-
-msgid "BUILDING_TRIGGER_MIN_SIZE_DOWN_PLUS"
-msgstr ""
-
-msgid "BUILDING_TRIGGER_MAX_SIZE_UP_PLUS"
-msgstr ""
-
-msgid "BUILDING_TRIGGER_MAX_SIZE_DOWN_PLUS"
-msgstr ""
-
-msgid "UNITVIEW_GELD"
 msgstr ""
 
 msgid "Select"
@@ -34479,39 +32721,6 @@ msgstr ""
 msgid "Key binding & macro center"
 msgstr ""
 
-msgid "language_layer"
-msgstr ""
-
-msgid "[OBJECT:LANGUAGE]"
-msgstr ""
-
-msgid "[WORD:"
-msgstr ""
-
-msgid "[SYMBOL:"
-msgstr ""
-
-msgid "[TRANSLATION:"
-msgstr ""
-
-msgid "STOCKPILE_PLANT_GROWTH"
-msgstr ""
-
-msgid "SWEAT_MAP_DESCRIPTOR"
-msgstr ""
-
-msgid "TEARS_MAP_DESCRIPTOR"
-msgstr ""
-
-msgid "SPIT_MAP_DESCRIPTOR"
-msgstr ""
-
-msgid "EVAPORATES"
-msgstr ""
-
-msgid "ITEM_REACTION_PRODUCT"
-msgstr ""
-
 msgid "magma"
 msgstr ""
 
@@ -34758,12 +32967,6 @@ msgstr ""
 msgid "unknown boiling plant substance"
 msgstr ""
 
-msgid "CE_SENSE_CREATURE_CLASS"
-msgstr ""
-
-msgid "Unrecognized CE_SENSE_CREATURE_CLASS token: "
-msgstr ""
-
 msgid " cough"
 msgstr ""
 
@@ -34777,141 +32980,6 @@ msgid " vomit"
 msgstr ""
 
 msgid " blood."
-msgstr ""
-
-msgid "DIVINE"
-msgstr ""
-
-msgid "GROWTH"
-msgstr ""
-
-msgid "GROWTH_ITEM"
-msgstr ""
-
-msgid "GROWTH_TRUNK_HEIGHT_PERC"
-msgstr ""
-
-msgid "GROWTH_TIMING"
-msgstr ""
-
-msgid "GROWTH_DROPS_OFF"
-msgstr ""
-
-msgid "GROWTH_DROPS_OFF_NO_CLOUD"
-msgstr ""
-
-msgid "GROWTH_HOST_TILE"
-msgstr ""
-
-msgid "BRANCHES"
-msgstr ""
-
-msgid "LIGHT_BRANCHES"
-msgstr ""
-
-msgid "HEAVY_BRANCHES"
-msgstr ""
-
-msgid "DIRECTED_BRANCHES"
-msgstr ""
-
-msgid "CAP"
-msgstr ""
-
-msgid "ROOTS"
-msgstr ""
-
-msgid "TRUNK"
-msgstr ""
-
-msgid "TWIGS"
-msgstr ""
-
-msgid "ALL_BRANCHES"
-msgstr ""
-
-msgid "BRANCHES_AND_TWIGS"
-msgstr ""
-
-msgid "LIGHT_BRANCHES_AND_TWIGS"
-msgstr ""
-
-msgid "ALL_BRANCHES_AND_TWIGS"
-msgstr ""
-
-msgid "ALL_BRANCHES_AND_TRUNK"
-msgstr ""
-
-msgid "HEAVY_BRANCHES_AND_TRUNK"
-msgstr ""
-
-msgid "DIRECTED_BRANCHES_AND_TRUNK"
-msgstr ""
-
-msgid "GROWTH_DENSITY"
-msgstr ""
-
-msgid "GROWTH_HAS_SEED"
-msgstr ""
-
-msgid "GROWTH_PRINT"
-msgstr ""
-
-msgid "GROWTH_NAME"
-msgstr ""
-
-msgid "TRUNK_PERIOD"
-msgstr ""
-
-msgid "HEAVY_BRANCH_DENSITY"
-msgstr ""
-
-msgid "DIRECTED_BRANCH_DENSITY"
-msgstr ""
-
-msgid "BRANCH_DENSITY"
-msgstr ""
-
-msgid "LIGHT_BRANCH_DENSITY"
-msgstr ""
-
-msgid "MAX_TRUNK_HEIGHT"
-msgstr ""
-
-msgid "HEAVY_BRANCH_RADIUS"
-msgstr ""
-
-msgid "DIRECTED_BRANCH_RADIUS"
-msgstr ""
-
-msgid "LIGHT_BRANCH_RADIUS"
-msgstr ""
-
-msgid "BRANCH_RADIUS"
-msgstr ""
-
-msgid "TRUNK_BRANCHING"
-msgstr ""
-
-msgid "MAX_TRUNK_DIAMETER"
-msgstr ""
-
-msgid "TRUNK_WIDTH_PERIOD"
-msgstr ""
-
-msgid "CAP_PERIOD"
-msgstr ""
-
-msgid "CAP_RADIUS"
-msgstr ""
-
-msgid "ROOT_DENSITY"
-msgstr ""
-
-msgid "ROOT_RADIUS"
-msgstr ""
-
-msgid "STANDARD_TILE_NAMES"
 msgstr ""
 
 msgid " trunk"
@@ -34929,63 +32997,6 @@ msgstr ""
 msgid " cap"
 msgstr ""
 
-msgid "TRUNK_NAME"
-msgstr ""
-
-msgid "ROOT_NAME"
-msgstr ""
-
-msgid "ROOTS_NAME"
-msgstr ""
-
-msgid "BRANCHES_NAME"
-msgstr ""
-
-msgid "LIGHT_BRANCHES_NAME"
-msgstr ""
-
-msgid "DIRECTED_BRANCHES_NAME"
-msgstr ""
-
-msgid "HEAVY_BRANCHES_NAME"
-msgstr ""
-
-msgid "CAP_NAME"
-msgstr ""
-
-msgid "TWIGS_NAME"
-msgstr ""
-
-msgid "TREE_HAS_MUSHROOM_CAP"
-msgstr ""
-
-msgid "TWIGS_SIDE_BRANCHES"
-msgstr ""
-
-msgid "TWIGS_ABOVE_BRANCHES"
-msgstr ""
-
-msgid "TWIGS_BELOW_BRANCHES"
-msgstr ""
-
-msgid "TWIGS_SIDE_HEAVY_BRANCHES"
-msgstr ""
-
-msgid "TWIGS_ABOVE_HEAVY_BRANCHES"
-msgstr ""
-
-msgid "TWIGS_BELOW_HEAVY_BRANCHES"
-msgstr ""
-
-msgid "TWIGS_SIDE_TRUNK"
-msgstr ""
-
-msgid "TWIGS_ABOVE_TRUNK"
-msgstr ""
-
-msgid "TWIGS_BELOW_TRUNK"
-msgstr ""
-
 msgid "Sharp blades"
 msgstr ""
 
@@ -34998,25 +33009,7 @@ msgstr ""
 msgid "Ore of "
 msgstr ""
 
-msgid "plant_generated"
-msgstr ""
-
-msgid "[OBJECT:PLANT]"
-msgstr ""
-
-msgid "[PLANT:"
-msgstr ""
-
 msgid " has become entangled in a hidden web!"
-msgstr ""
-
-msgid "path not closed, attempting fix"
-msgstr ""
-
-msgid "path moved off track"
-msgstr ""
-
-msgid "path not closed, attempting to follow"
 msgstr ""
 
 msgid " has claimed a "
@@ -35035,123 +33028,6 @@ msgid " has dyed a masterpiece!"
 msgstr ""
 
 msgid " has cooked a masterpiece!"
-msgstr ""
-
-msgid "LOVE_PROPENSITY"
-msgstr ""
-
-msgid "HATE_PROPENSITY"
-msgstr ""
-
-msgid "ENVY_PROPENSITY"
-msgstr ""
-
-msgid "CHEER_PROPENSITY"
-msgstr ""
-
-msgid "DEPRESSION_PROPENSITY"
-msgstr ""
-
-msgid "ANGER_PROPENSITY"
-msgstr ""
-
-msgid "ANXIETY_PROPENSITY"
-msgstr ""
-
-msgid "LUST_PROPENSITY"
-msgstr ""
-
-msgid "STRESS_VULNERABILITY"
-msgstr ""
-
-msgid "GREED"
-msgstr ""
-
-msgid "WASTEFULNESS"
-msgstr ""
-
-msgid "DISCORD"
-msgstr ""
-
-msgid "POLITENESS"
-msgstr ""
-
-msgid "DISDAIN_ADVICE"
-msgstr ""
-
-msgid "BRAVERY"
-msgstr ""
-
-msgid "CONFIDENCE"
-msgstr ""
-
-msgid "VANITY"
-msgstr ""
-
-msgid "AMBITION"
-msgstr ""
-
-msgid "GRATITUDE"
-msgstr ""
-
-msgid "IMMODESTY"
-msgstr ""
-
-msgid "HUMOR"
-msgstr ""
-
-msgid "VENGEFUL"
-msgstr ""
-
-msgid "PRIDE"
-msgstr ""
-
-msgid "CRUELTY"
-msgstr ""
-
-msgid "SINGLEMINDED"
-msgstr ""
-
-msgid "HOPEFUL"
-msgstr ""
-
-msgid "CURIOUS"
-msgstr ""
-
-msgid "BASHFUL"
-msgstr ""
-
-msgid "PRIVACY"
-msgstr ""
-
-msgid "PERFECTIONIST"
-msgstr ""
-
-msgid "CLOSEMINDED"
-msgstr ""
-
-msgid "TOLERANT"
-msgstr ""
-
-msgid "EMOTIONALLY_OBSESSIVE"
-msgstr ""
-
-msgid "SWAYED_BY_EMOTIONS"
-msgstr ""
-
-msgid "THOUGHTLESSNESS"
-msgstr ""
-
-msgid "ABSTRACT_INCLINED"
-msgstr ""
-
-msgid "ART_INCLINED"
-msgstr ""
-
-msgid "[C:7:0:1]\""
-msgstr ""
-
-msgid "\"[B]"
 msgstr ""
 
 msgid " has been overthrown by the stresses of day-to-day living.  "
@@ -35190,13 +33066,7 @@ msgstr ""
 msgid " is throwing a tantrum.  "
 msgstr ""
 
-msgid "[C:6:0:0]"
-msgstr ""
-
 msgid " is in depression.  "
-msgstr ""
-
-msgid "[C:3:0:0]"
 msgstr ""
 
 msgid " is oblivious to reality.  "
@@ -35485,12 +33355,6 @@ msgid "zealous"
 msgstr ""
 
 msgid "anything"
-msgstr ""
-
-msgid " [C:7:0:0]"
-msgstr ""
-
-msgid " [C:7:0:1]"
 msgstr ""
 
 msgid "while in conflict"
@@ -36337,9 +34201,6 @@ msgid "after talking to a pillar of society"
 msgstr ""
 
 msgid " sometimes feels"
-msgstr ""
-
-msgid " [C:6:0:1]"
 msgstr ""
 
 msgid "at being separated from "
@@ -38094,12 +35955,6 @@ msgstr ""
 msgid "T: Stop rental ("
 msgstr ""
 
-msgid "* Eviction Underway *"
-msgstr ""
-
-msgid "* Move Underway *"
-msgstr ""
-
 msgid ": Rent this room"
 msgstr ""
 
@@ -38533,9 +36388,6 @@ msgid ": Add to burrow"
 msgstr ""
 
 msgid ": Change selection"
-msgstr ""
-
-msgid "RES"
 msgstr ""
 
 msgid ": Done naming"
@@ -39031,9 +36883,6 @@ msgid ": Citizens do not trigger"
 msgstr ""
 
 msgid ": Min "
-msgstr ""
-
-msgid "K"
 msgstr ""
 
 msgid ": Max "
@@ -40527,9 +38376,6 @@ msgstr ""
 msgid "Any Fishing"
 msgstr ""
 
-msgid "Null"
-msgstr ""
-
 msgid "Here we have "
 msgstr ""
 
@@ -40866,82 +38712,19 @@ msgstr ""
 msgid "uy"
 msgstr ""
 
-msgid "RCP_FIRST_SIMPLE_LEGS_GRASP"
-msgstr ""
-
-msgid "RCP_SIMPLE_FRONT_LEGS_GRASP"
-msgstr ""
-
-msgid "RCP_UPPER_SPINE"
-msgstr ""
-
-msgid "DIVINE_"
-msgstr ""
-
-msgid "[SOURCE_HFID:"
-msgstr ""
-
-msgid "[DIVINE]"
-msgstr ""
-
 msgid "shining metal"
-msgstr ""
-
-msgid "[DISPLAY_COLOR:7:0:1]"
-msgstr ""
-
-msgid "[BUILD_COLOR:7:0:1]"
-msgstr ""
-
-msgid "[STATE_COLOR:ALL_SOLID:WHITE]"
 msgstr ""
 
 msgid "flashing metal"
 msgstr ""
 
-msgid "[DISPLAY_COLOR:6:0:1]"
-msgstr ""
-
-msgid "[BUILD_COLOR:6:0:1]"
-msgstr ""
-
-msgid "[STATE_COLOR:ALL_SOLID:YELLOW]"
-msgstr ""
-
 msgid "rusted metal"
-msgstr ""
-
-msgid "[DISPLAY_COLOR:4:0:0]"
-msgstr ""
-
-msgid "[BUILD_COLOR:4:0:0]"
-msgstr ""
-
-msgid "[STATE_COLOR:ALL_SOLID:RUST]"
 msgstr ""
 
 msgid "twisting metal"
 msgstr ""
 
-msgid "[DISPLAY_COLOR:4:0:1]"
-msgstr ""
-
-msgid "[BUILD_COLOR:4:0:1]"
-msgstr ""
-
-msgid "[STATE_COLOR:ALL_SOLID:RED]"
-msgstr ""
-
 msgid "dark metal"
-msgstr ""
-
-msgid "[DISPLAY_COLOR:0:0:1]"
-msgstr ""
-
-msgid "[BUILD_COLOR:0:0:1]"
-msgstr ""
-
-msgid "[STATE_COLOR:ALL_SOLID:BLACK]"
 msgstr ""
 
 msgid "glowing metal"
@@ -40953,15 +38736,6 @@ msgstr ""
 msgid "pale metal"
 msgstr ""
 
-msgid "[DISPLAY_COLOR:3:0:1]"
-msgstr ""
-
-msgid "[BUILD_COLOR:3:0:1]"
-msgstr ""
-
-msgid "[STATE_COLOR:ALL_SOLID:PALE_BLUE]"
-msgstr ""
-
 msgid "pock-marked metal"
 msgstr ""
 
@@ -40971,43 +38745,19 @@ msgstr ""
 msgid "ruddy metal"
 msgstr ""
 
-msgid "[DISPLAY_COLOR:6:0:0]"
-msgstr ""
-
-msgid "[BUILD_COLOR:6:0:0]"
-msgstr ""
-
-msgid "[STATE_COLOR:ALL_SOLID:BURNT_SIENNA]"
-msgstr ""
-
 msgid "flickering metal"
 msgstr ""
 
 msgid "faceted metal"
 msgstr ""
 
-msgid "[DISPLAY_COLOR:2:0:1]"
-msgstr ""
-
-msgid "[BUILD_COLOR:2:0:1]"
-msgstr ""
-
-msgid "[STATE_COLOR:ALL_SOLID:GREEN]"
-msgstr ""
-
 msgid "translucent metal"
-msgstr ""
-
-msgid "[STATE_COLOR:ALL_SOLID:CLEAR]"
 msgstr ""
 
 msgid "frosty metal"
 msgstr ""
 
 msgid "slick metal"
-msgstr ""
-
-msgid "[STATE_COLOR:ALL_SOLID:BROWN]"
 msgstr ""
 
 msgid "singing metal"
@@ -41022,22 +38772,10 @@ msgstr ""
 msgid "clear blue metal"
 msgstr ""
 
-msgid "[STATE_COLOR:ALL_SOLID:SKY_BLUE]"
-msgstr ""
-
 msgid "twinkling metal"
 msgstr ""
 
 msgid "crashing metal"
-msgstr ""
-
-msgid "[DISPLAY_COLOR:7:0:0]"
-msgstr ""
-
-msgid "[BUILD_COLOR:7:0:0]"
-msgstr ""
-
-msgid "[STATE_COLOR:ALL_SOLID:GRAY]"
 msgstr ""
 
 msgid "blazing metal"
@@ -41050,99 +38788,6 @@ msgid "searing metal"
 msgstr ""
 
 msgid "flowing metal"
-msgstr ""
-
-msgid "[USE_MATERIAL_TEMPLATE:METAL_TEMPLATE]"
-msgstr ""
-
-msgid "[STATE_NAME_ADJ:ALL_SOLID:"
-msgstr ""
-
-msgid "[MATERIAL_VALUE:300]"
-msgstr ""
-
-msgid "[SPEC_HEAT:7500]"
-msgstr ""
-
-msgid "[ITEMS_WEAPON][ITEMS_WEAPON_RANGED][ITEMS_AMMO][ITEMS_DIGGER][ITEMS_ARMOR][ITEMS_ANVIL]"
-msgstr ""
-
-msgid "[ITEMS_HARD]"
-msgstr ""
-
-msgid "[ITEMS_METAL]"
-msgstr ""
-
-msgid "[ITEMS_BARRED]"
-msgstr ""
-
-msgid "[ITEMS_SCALED]"
-msgstr ""
-
-msgid "[SOLID_DENSITY:1000]"
-msgstr ""
-
-msgid "[LIQUID_DENSITY:1000]"
-msgstr ""
-
-msgid "[MOLAR_MASS:20000]"
-msgstr ""
-
-msgid "[IMPACT_YIELD:1000000]"
-msgstr ""
-
-msgid "[IMPACT_FRACTURE:2000000]"
-msgstr ""
-
-msgid "[IMPACT_STRAIN_AT_YIELD:0]"
-msgstr ""
-
-msgid "[COMPRESSIVE_YIELD:1000000]"
-msgstr ""
-
-msgid "[COMPRESSIVE_FRACTURE:2000000]"
-msgstr ""
-
-msgid "[COMPRESSIVE_STRAIN_AT_YIELD:0]"
-msgstr ""
-
-msgid "[TENSILE_YIELD:1000000]"
-msgstr ""
-
-msgid "[TENSILE_FRACTURE:2000000]"
-msgstr ""
-
-msgid "[TENSILE_STRAIN_AT_YIELD:0]"
-msgstr ""
-
-msgid "[TORSION_YIELD:1000000]"
-msgstr ""
-
-msgid "[TORSION_FRACTURE:2000000]"
-msgstr ""
-
-msgid "[TORSION_STRAIN_AT_YIELD:0]"
-msgstr ""
-
-msgid "[SHEAR_YIELD:1000000]"
-msgstr ""
-
-msgid "[SHEAR_FRACTURE:2000000]"
-msgstr ""
-
-msgid "[SHEAR_STRAIN_AT_YIELD:0]"
-msgstr ""
-
-msgid "[BENDING_YIELD:1000000]"
-msgstr ""
-
-msgid "[BENDING_FRACTURE:2000000]"
-msgstr ""
-
-msgid "[BENDING_STRAIN_AT_YIELD:0]"
-msgstr ""
-
-msgid "[MAX_EDGE:12000]"
 msgstr ""
 
 msgid "glowing cloth"
@@ -41166,9 +38811,6 @@ msgstr ""
 msgid "shining cloth"
 msgstr ""
 
-msgid "[STATE_COLOR:ALL_SOLID:ORANGE]"
-msgstr ""
-
 msgid "bright cloth"
 msgstr ""
 
@@ -41182,12 +38824,6 @@ msgid "patchy cloth"
 msgstr ""
 
 msgid "wispy cloth"
-msgstr ""
-
-msgid "[BUILD_COLOR:1:0:1]"
-msgstr ""
-
-msgid "[STATE_COLOR:ALL_SOLID:BLUE]"
 msgstr ""
 
 msgid "translucent cloth"
@@ -41223,25 +38859,7 @@ msgstr ""
 msgid "screaming mouths"
 msgstr ""
 
-msgid "[DISPLAY_COLOR:5:0:0]"
-msgstr ""
-
-msgid "[BUILD_COLOR:5:0:0]"
-msgstr ""
-
-msgid "[STATE_COLOR:ALL_SOLID:TAUPE]"
-msgstr ""
-
 msgid "undulating cloth"
-msgstr ""
-
-msgid "[DISPLAY_COLOR:3:0:0]"
-msgstr ""
-
-msgid "[BUILD_COLOR:3:0:0]"
-msgstr ""
-
-msgid "[STATE_COLOR:ALL_SOLID:SEA_GREEN]"
 msgstr ""
 
 msgid "moist fabric"
@@ -41278,12 +38896,6 @@ msgid "liquid cloth"
 msgstr ""
 
 msgid "rustling fabric"
-msgstr ""
-
-msgid "[USE_MATERIAL_TEMPLATE:SILK_TEMPLATE]"
-msgstr ""
-
-msgid "[SOLID_DENSITY:1]"
 msgstr ""
 
 msgid "cursed"
@@ -41373,9 +38985,6 @@ msgstr ""
 msgid "thralls"
 msgstr ""
 
-msgid "[CE_REMOVE_TAG:HAS_BLOOD:TRANCES:MISCHIEVOUS:START:0]"
-msgstr ""
-
 msgid "pungent"
 msgstr ""
 
@@ -41430,64 +39039,10 @@ msgstr ""
 msgid "[STATE_ADJ:ALL_SOLID:frozen "
 msgstr ""
 
-msgid "[TRANSLATION:GEN_DIVINE]"
-msgstr ""
-
-msgid "[T_WORD:"
-msgstr ""
-
 msgid "[NAME:forgotten beast:forgotten beasts:forgotten beast]"
 msgstr ""
 
 msgid "[CASTE_NAME:forgotten beast:forgotten beasts:forgotten beast]"
-msgstr ""
-
-msgid "[PERSONALITY:ANXIETY_PROPENSITY:0:0:0]"
-msgstr ""
-
-msgid "[PERSONALITY:DEPRESSION_PROPENSITY:0:0:0]"
-msgstr ""
-
-msgid "[PERSONALITY:BASHFUL:0:0:0]"
-msgstr ""
-
-msgid "[PERSONALITY:STRESS_VULNERABILITY:0:0:0]"
-msgstr ""
-
-msgid "[PERSONALITY:DISDAIN_ADVICE:100:100:100]"
-msgstr ""
-
-msgid "[PERSONALITY:CHEER_PROPENSITY:0:0:0]"
-msgstr ""
-
-msgid "[PERSONALITY:GRATITUDE:0:0:0]"
-msgstr ""
-
-msgid "[PERSONALITY:SWAYED_BY_EMOTIONS:0:0:0]"
-msgstr ""
-
-msgid "[PERSONALITY:CRUELTY:100:100:100]"
-msgstr ""
-
-msgid "[PERSONALITY:PRIDE:100:100:100]"
-msgstr ""
-
-msgid "[MAGMA_VISION]"
-msgstr ""
-
-msgid "[ORIENTATION:MALE:1:0:0]"
-msgstr ""
-
-msgid "[ORIENTATION:FEMALE:0:0:1]"
-msgstr ""
-
-msgid "[ORIENTATION:MALE:0:0:1]"
-msgstr ""
-
-msgid "[ORIENTATION:FEMALE:1:0:0]"
-msgstr ""
-
-msgid "[SENSE_CREATURE_CLASS:GENERAL_POISON:15:4:0:1]"
 msgstr ""
 
 msgid "[ODOR_STRING:bug innards]"
@@ -41497,147 +39052,6 @@ msgid "[ODOR_STRING:cooked flesh]"
 msgstr ""
 
 msgid "[ODOR_STRING:death]"
-msgstr ""
-
-msgid "[ODOR_LEVEL:90]"
-msgstr ""
-
-msgid "[PERSONALITY:HUMOR:100:100:100]"
-msgstr ""
-
-msgid "[DIFFICULTY:6]"
-msgstr ""
-
-msgid "[DIFFICULTY:2]"
-msgstr ""
-
-msgid "[NATURAL_SKILL:WRESTLING:4]"
-msgstr ""
-
-msgid "[NATURAL_SKILL:BITE:4]"
-msgstr ""
-
-msgid "[NATURAL_SKILL:GRASP_STRIKE:4]"
-msgstr ""
-
-msgid "[NATURAL_SKILL:STANCE_STRIKE:4]"
-msgstr ""
-
-msgid "[NATURAL_SKILL:MELEE_COMBAT:4]"
-msgstr ""
-
-msgid "[NATURAL_SKILL:RANGED_COMBAT:4]"
-msgstr ""
-
-msgid "[NATURAL_SKILL:DODGING:4]"
-msgstr ""
-
-msgid "[NATURAL_SKILL:SITUATIONAL_AWARENESS:4]"
-msgstr ""
-
-msgid "[PHYS_ATT_RANGE:STRENGTH:1250:1250:1250:1250:1250:1250:1250]"
-msgstr ""
-
-msgid "[PHYS_ATT_RANGE:TOUGHNESS:1250:1250:1250:1250:1250:1250:1250]"
-msgstr ""
-
-msgid "[PHYS_ATT_RANGE:ENDURANCE:1250:1250:1250:1250:1250:1250:1250]"
-msgstr ""
-
-msgid "[PHYS_ATT_RANGE:RECUPERATION:1250:1250:1250:1250:1250:1250:1250]"
-msgstr ""
-
-msgid "[PHYS_ATT_RANGE:DISEASE_RESISTANCE:5000:5000:5000:5000:5000:5000:5000]"
-msgstr ""
-
-msgid "[MENT_ATT_RANGE:ANALYTICAL_ABILITY:1250:1250:1250:1250:1250:1250:1250]"
-msgstr ""
-
-msgid "[MENT_ATT_RANGE:FOCUS:1250:1250:1250:1250:1250:1250:1250]"
-msgstr ""
-
-msgid "[MENT_ATT_RANGE:WILLPOWER:1250:1250:1250:1250:1250:1250:1250]"
-msgstr ""
-
-msgid "[MENT_ATT_RANGE:PATIENCE:1250:1250:1250:1250:1250:1250:1250]"
-msgstr ""
-
-msgid "[MENT_ATT_RANGE:MEMORY:1250:1250:1250:1250:1250:1250:1250]"
-msgstr ""
-
-msgid "[MENT_ATT_RANGE:LINGUISTIC_ABILITY:1250:1250:1250:1250:1250:1250:1250]"
-msgstr ""
-
-msgid "[MENT_ATT_RANGE:MUSICALITY:1250:1250:1250:1250:1250:1250:1250]"
-msgstr ""
-
-msgid "[MENT_ATT_RANGE:SOCIAL_AWARENESS:1250:1250:1250:1250:1250:1250:1250]"
-msgstr ""
-
-msgid "[SWIMS_INNATE]"
-msgstr ""
-
-msgid "[NATURAL_SKILL:AXE:10]"
-msgstr ""
-
-msgid "[NATURAL_SKILL:SWORD:10]"
-msgstr ""
-
-msgid "[NATURAL_SKILL:DAGGER:10]"
-msgstr ""
-
-msgid "[NATURAL_SKILL:PIKE:10]"
-msgstr ""
-
-msgid "[NATURAL_SKILL:MACE:10]"
-msgstr ""
-
-msgid "[NATURAL_SKILL:HAMMER:10]"
-msgstr ""
-
-msgid "[NATURAL_SKILL:WHIP:10]"
-msgstr ""
-
-msgid "[NATURAL_SKILL:SPEAR:10]"
-msgstr ""
-
-msgid "[NATURAL_SKILL:RANGED_COMBAT:6]"
-msgstr ""
-
-msgid "[NATURAL_SKILL:AXE:6]"
-msgstr ""
-
-msgid "[NATURAL_SKILL:SWORD:6]"
-msgstr ""
-
-msgid "[NATURAL_SKILL:DAGGER:6]"
-msgstr ""
-
-msgid "[NATURAL_SKILL:PIKE:6]"
-msgstr ""
-
-msgid "[NATURAL_SKILL:MACE:6]"
-msgstr ""
-
-msgid "[NATURAL_SKILL:HAMMER:6]"
-msgstr ""
-
-msgid "[NATURAL_SKILL:WHIP:6]"
-msgstr ""
-
-msgid "[NATURAL_SKILL:SPEAR:6]"
-msgstr ""
-
-msgid "RCP_5_FRONT_FINGERS"
-msgstr ""
-
-msgid "RCP_4_FRONT_FINGERS"
-msgstr ""
-
-msgid "RCP_3_FRONT_FINGERS"
-msgstr ""
-
-msgid "RCP_2_FRONT_FINGERS"
 msgstr ""
 
 msgid "embers"
@@ -41772,9 +39186,6 @@ msgstr ""
 msgid "composed of "
 msgstr ""
 
-msgid "[FIREIMMUNE_SUPER]"
-msgstr ""
-
 msgid "[ODOR_STRING:mud]"
 msgstr ""
 
@@ -41811,25 +39222,16 @@ msgstr ""
 msgid "\\t[ATTACK_VERB:punch:punches]"
 msgstr ""
 
-msgid "\\t[ATTACK_PREPARE_AND_RECOVER:2:2]"
-msgstr ""
-
 msgid "\\t[ATTACK_VERB:snatch:snatches]"
 msgstr ""
 
 msgid "\\t[ATTACK_VERB:kick:kicks]"
 msgstr ""
 
-msgid "\\t[ATTACK_FLAG_BAD_MULTIATTACK]"
-msgstr ""
-
 msgid "\\t[ATTACK_VERB:sting:stings]"
 msgstr ""
 
 msgid "\\t[ATTACK_VERB:stab:stabs]"
-msgstr ""
-
-msgid "\\t[SPECIALATTACK_INTERACTION:"
 msgstr ""
 
 msgid "\\t[ATTACK_VERB:gore:gores]"
@@ -41839,33 +39241,6 @@ msgid "\\t[ATTACK_VERB:bite:bites]"
 msgstr ""
 
 msgid "\\t[ATTACK_VERB:scratch:scratches]"
-msgstr ""
-
-msgid "[APPLY_CREATURE_VARIATION:STANDARD_SWIMMING_GAITS:2900:2175:1450:725:3900:5900]"
-msgstr ""
-
-msgid "[APPLY_CREATURE_VARIATION:STANDARD_FLYING_GAITS:900:675:450:225:1900:2900]"
-msgstr ""
-
-msgid "STANDARD_WALK_CRAWL_GAITS"
-msgstr ""
-
-msgid "STANDARD_WALKING_GAITS"
-msgstr ""
-
-msgid "STANDARD_QUADRUPED_GAITS"
-msgstr ""
-
-msgid "STANDARD_BIPED_GAITS"
-msgstr ""
-
-msgid "[APPLY_CREATURE_VARIATION:"
-msgstr ""
-
-msgid "[APPLY_CREATURE_VARIATION:STANDARD_CRAWLING_GAITS:900:675:450:225:1900:2900]"
-msgstr ""
-
-msgid "[APPLY_CREATURE_VARIATION:STANDARD_CLIMBING_GAITS:900:675:450:225:1900:2900]"
 msgstr ""
 
 msgid " great"
@@ -42145,9 +39520,6 @@ msgid "it moves with great focus"
 msgstr ""
 
 msgid "it bears malodorous pustules"
-msgstr ""
-
-msgid "[ODOR_LEVEL:100]"
 msgstr ""
 
 msgid "the details of its form are easily forgotten without deliberate concentration"
@@ -43380,61 +40752,13 @@ msgstr ""
 msgid "[CE_DISPLAY_NAME:NAME:vampire:vampires:vampiric:START:0:CAN_BE_HIDDEN]"
 msgstr ""
 
-msgid "[CE_SENSE_CREATURE_CLASS:START:0:CLASS:GENERAL_POISON:15:4:0:1]"
-msgstr ""
-
-msgid "EI"
-msgstr ""
-
-msgid "APN"
-msgstr ""
-
-msgid "[ITEM_PANTS:"
-msgstr ""
-
 msgid "greaves:greaves"
-msgstr ""
-
-msgid "[ADJECTIVE:"
 msgstr ""
 
 msgid "rounded"
 msgstr ""
 
 msgid "thin"
-msgstr ""
-
-msgid "[ARMORLEVEL:3]"
-msgstr ""
-
-msgid "[LBSTEP:MAX]"
-msgstr ""
-
-msgid "[SHAPED]"
-msgstr ""
-
-msgid "[LAYER:ARMOR]"
-msgstr ""
-
-msgid "[COVERAGE:100]"
-msgstr ""
-
-msgid "[LAYER_SIZE:15]"
-msgstr ""
-
-msgid "[LAYER_PERMIT:30]"
-msgstr ""
-
-msgid "[METAL]"
-msgstr ""
-
-msgid "[BARRED]"
-msgstr ""
-
-msgid "[HARD]"
-msgstr ""
-
-msgid "CPN"
 msgstr ""
 
 msgid "skirt"
@@ -43455,36 +40779,6 @@ msgstr ""
 msgid "bell-shaped"
 msgstr ""
 
-msgid "[LBSTEP:1]"
-msgstr ""
-
-msgid "[LAYER:OVER]"
-msgstr ""
-
-msgid "[LAYER_SIZE:10]"
-msgstr ""
-
-msgid "[LAYER_PERMIT:100]"
-msgstr ""
-
-msgid "[MATERIAL_SIZE:2]"
-msgstr ""
-
-msgid "[SOFT]"
-msgstr ""
-
-msgid "[LEATHER]"
-msgstr ""
-
-msgid "[STRUCTURAL_ELASTICITY_WOVEN_THREAD]"
-msgstr ""
-
-msgid "AAR"
-msgstr ""
-
-msgid "[ITEM_ARMOR:"
-msgstr ""
-
 msgid "breastplate:breastplates"
 msgstr ""
 
@@ -43494,49 +40788,13 @@ msgstr ""
 msgid "segmented"
 msgstr ""
 
-msgid "[UBSTEP:0]"
-msgstr ""
-
-msgid "[LBSTEP:0]"
-msgstr ""
-
-msgid "[LAYER_SIZE:20]"
-msgstr ""
-
-msgid "[LAYER_PERMIT:50]"
-msgstr ""
-
-msgid "[MATERIAL_SIZE:9]"
-msgstr ""
-
-msgid "CAR"
-msgstr ""
-
 msgid "[NAME:coat:coats]"
-msgstr ""
-
-msgid "[UBSTEP:MAX]"
-msgstr ""
-
-msgid "[MATERIAL_SIZE:5]"
 msgstr ""
 
 msgid "[NAME:shirt:shirts]"
 msgstr ""
 
-msgid "[LAYER:UNDER]"
-msgstr ""
-
-msgid "[MATERIAL_SIZE:3]"
-msgstr ""
-
 msgid "[NAME:cloak:cloaks]"
-msgstr ""
-
-msgid "[LAYER:COVER]"
-msgstr ""
-
-msgid "[LAYER_PERMIT:150]"
 msgstr ""
 
 msgid "[NAME:tunic:tunics]"
@@ -43545,19 +40803,7 @@ msgstr ""
 msgid "[NAME:toga:togas]"
 msgstr ""
 
-msgid "[UBSTEP:1]"
-msgstr ""
-
-msgid "[LAYER_SIZE:30]"
-msgstr ""
-
 msgid "[NAME:cape:capes]"
-msgstr ""
-
-msgid "[COVERAGE:50]"
-msgstr ""
-
-msgid "[LAYER_PERMIT:300]"
 msgstr ""
 
 msgid "[NAME:vest:vests]"
@@ -43578,43 +40824,16 @@ msgstr ""
 msgid "asymmetrical"
 msgstr ""
 
-msgid "AHM"
-msgstr ""
-
-msgid "[ITEM_HELM:"
-msgstr ""
-
 msgid "[NAME:helm:helms]"
 msgstr ""
 
-msgid "[ARMORLEVEL:1]"
-msgstr ""
-
-msgid "[METAL_ARMOR_LEVELS]"
-msgstr ""
-
-msgid "[LAYER_PERMIT:20]"
-msgstr ""
-
-msgid "[SCALED]"
-msgstr ""
-
 msgid "[NAME:cap:caps]"
-msgstr ""
-
-msgid "[LAYER_PERMIT:15]"
-msgstr ""
-
-msgid "[MATERIAL_SIZE:1]"
 msgstr ""
 
 msgid "conical"
 msgstr ""
 
 msgid "tall"
-msgstr ""
-
-msgid "CHM"
 msgstr ""
 
 msgid "[NAME:hood:hoods]"
@@ -43626,9 +40845,6 @@ msgstr ""
 msgid "[NAME:mask:masks]"
 msgstr ""
 
-msgid "[LAYER_PERMIT:10]"
-msgstr ""
-
 msgid "[NAME:head veil:head veils]"
 msgstr ""
 
@@ -43638,25 +40854,10 @@ msgstr ""
 msgid "[NAME:headscarf:headscarves]"
 msgstr ""
 
-msgid "AGL"
-msgstr ""
-
-msgid "[ITEM_GLOVES:"
-msgstr ""
-
 msgid "[NAME:gauntlet:gauntlets]"
 msgstr ""
 
-msgid "[ARMORLEVEL:2]"
-msgstr ""
-
-msgid "[UPSTEP:1]"
-msgstr ""
-
 msgid "intricate"
-msgstr ""
-
-msgid "CGL"
 msgstr ""
 
 msgid "[NAME:glove:gloves]"
@@ -43665,22 +40866,10 @@ msgstr ""
 msgid "[NAME:mitten:mittens]"
 msgstr ""
 
-msgid "[COVERAGE:150]"
-msgstr ""
-
-msgid "[ITEM_SHOES:"
-msgstr ""
-
 msgid "[NAME:high boot:high boots]"
 msgstr ""
 
-msgid "[LAYER_SIZE:25]"
-msgstr ""
-
 msgid "[NAME:low boot:low boots]"
-msgstr ""
-
-msgid "CSH"
 msgstr ""
 
 msgid "[NAME:shoe:shoes]"
@@ -43692,16 +40881,7 @@ msgstr ""
 msgid "[NAME:chausse:chausses]"
 msgstr ""
 
-msgid "[UPSTEP:MAX]"
-msgstr ""
-
 msgid "[NAME:sock:socks]"
-msgstr ""
-
-msgid "WP"
-msgstr ""
-
-msgid "[ITEM_WEAPON:"
 msgstr ""
 
 msgid "blade"
@@ -43716,22 +40896,7 @@ msgstr ""
 msgid "wavy"
 msgstr ""
 
-msgid "[SIZE:300]"
-msgstr ""
-
-msgid "[SKILL:SWORD]"
-msgstr ""
-
-msgid "[TWO_HANDED:37500]"
-msgstr ""
-
-msgid "[MINIMUM_SIZE:32500]"
-msgstr ""
-
 msgid "[ATTACK:EDGE:20000:4000:slash:slashes:NO_SUB:1250]"
-msgstr ""
-
-msgid "[ATTACK_PREPARE_AND_RECOVER:3:3]"
 msgstr ""
 
 msgid "[ATTACK:EDGE:50:2000:stab:stabs:NO_SUB:1000]"
@@ -43744,21 +40909,6 @@ msgid "[ATTACK:BLUNT:100:1000:strike:strikes:pommel:1000]"
 msgstr ""
 
 msgid "pike"
-msgstr ""
-
-msgid "[SIZE:800]"
-msgstr ""
-
-msgid "[SKILL:PIKE]"
-msgstr ""
-
-msgid "[TWO_HANDED:77500]"
-msgstr ""
-
-msgid "[MINIMUM_SIZE:62500]"
-msgstr ""
-
-msgid "[MATERIAL_SIZE:4]"
 msgstr ""
 
 msgid "[ATTACK:EDGE:20:12000:stab:stabs:NO_SUB:1000]"
@@ -43782,25 +40932,10 @@ msgstr ""
 msgid "long"
 msgstr ""
 
-msgid "[SKILL:WHIP]"
-msgstr ""
-
-msgid "[TWO_HANDED:27500]"
-msgstr ""
-
-msgid "[MINIMUM_SIZE:22500]"
-msgstr ""
-
 msgid "[ATTACK:EDGE:10:50:lash:lashes:NO_SUB:2000]"
 msgstr ""
 
-msgid "[ATTACK_FLAG_BAD_MULTIATTACK]"
-msgstr ""
-
 msgid "[ATTACK:BLUNT:1:10:lash:lashes:NO_SUB:5000]"
-msgstr ""
-
-msgid "[ATTACK_PREPARE_AND_RECOVER:4:4]"
 msgstr ""
 
 msgid "bow"
@@ -43809,28 +40944,7 @@ msgstr ""
 msgid "pointed"
 msgstr ""
 
-msgid "[RANGED:BOW:ARROW]"
-msgstr ""
-
-msgid "[SHOOT_FORCE:1000]"
-msgstr ""
-
-msgid "[SHOOT_MAXVEL:200]"
-msgstr ""
-
-msgid "[TWO_HANDED:0]"
-msgstr ""
-
-msgid "[MINIMUM_SIZE:15000]"
-msgstr ""
-
 msgid "[ATTACK:BLUNT:10000:4000:bash:bashes:NO_SUB:1250]"
-msgstr ""
-
-msgid "WP_A"
-msgstr ""
-
-msgid "[ITEM_AMMO:"
 msgstr ""
 
 msgid "[NAME:arrow:arrows]"
@@ -43842,28 +40956,10 @@ msgstr ""
 msgid "cone-headed"
 msgstr ""
 
-msgid "[CLASS:ARROW]"
-msgstr ""
-
-msgid "[SIZE:150]"
-msgstr ""
-
 msgid "[ATTACK:EDGE:5:1000:stab:stabs:NO_SUB:1000]"
 msgstr ""
 
 msgid "blowgun"
-msgstr ""
-
-msgid "[RANGED:BLOWGUN:BLOWDART]"
-msgstr ""
-
-msgid "[SHOOT_FORCE:100]"
-msgstr ""
-
-msgid "[SHOOT_MAXVEL:1000]"
-msgstr ""
-
-msgid "[MINIMUM_SIZE:5000]"
 msgstr ""
 
 msgid "[NAME:blowdart:blowdarts]"
@@ -43878,25 +40974,10 @@ msgstr ""
 msgid "double-tipped"
 msgstr ""
 
-msgid "[CLASS:BLOWDART]"
-msgstr ""
-
-msgid "[SIZE:20]"
-msgstr ""
-
 msgid "[ATTACK:EDGE:1:50:stick:sticks:NO_SUB:1000]"
 msgstr ""
 
 msgid "[NAME:battle axe:battle axes]"
-msgstr ""
-
-msgid "[SKILL:AXE]"
-msgstr ""
-
-msgid "[TWO_HANDED:47500]"
-msgstr ""
-
-msgid "[MINIMUM_SIZE:42500]"
 msgstr ""
 
 msgid "[ATTACK:EDGE:40000:6000:hack:hacks:NO_SUB:1250]"
@@ -43908,9 +40989,6 @@ msgstr ""
 msgid "[NAME:halberd:halberds]"
 msgstr ""
 
-msgid "[SIZE:1200]"
-msgstr ""
-
 msgid "[ATTACK:EDGE:20000:8000:slash:slashes:NO_SUB:1250]"
 msgstr ""
 
@@ -43918,9 +40996,6 @@ msgid "[ATTACK:BLUNT:20000:6000:bash:bashes:shaft:1250]"
 msgstr ""
 
 msgid "[NAME:great axe:great axes]"
-msgstr ""
-
-msgid "[SIZE:1300]"
 msgstr ""
 
 msgid "[ATTACK:EDGE:60000:8000:hack:hacks:NO_SUB:1250]"
@@ -43947,12 +41022,6 @@ msgstr ""
 msgid "prong:prongs"
 msgstr ""
 
-msgid "[SIZE:200]"
-msgstr ""
-
-msgid "[SKILL:DAGGER]"
-msgstr ""
-
 msgid "[ATTACK:EDGE:1000:800:slash:slashes:NO_SUB:1250]"
 msgstr ""
 
@@ -43965,19 +41034,10 @@ msgstr ""
 msgid "bent"
 msgstr ""
 
-msgid "[SKILL:MACE]"
-msgstr ""
-
 msgid "[ATTACK:BLUNT:20:200:bash:bashes:NO_SUB:2000]"
 msgstr ""
 
 msgid "[NAME:war hammer:war hammers]"
-msgstr ""
-
-msgid "[SIZE:400]"
-msgstr ""
-
-msgid "[SKILL:HAMMER]"
 msgstr ""
 
 msgid "[ATTACK:BLUNT:10:200:bash:bashes:NO_SUB:2000]"
@@ -43995,88 +41055,16 @@ msgstr ""
 msgid "spear"
 msgstr ""
 
-msgid "[SKILL:SPEAR]"
-msgstr ""
-
 msgid "[ATTACK:EDGE:20:10000:stab:stabs:NO_SUB:1000]"
 msgstr ""
 
 msgid "crossbow"
 msgstr ""
 
-msgid "[RANGED:CROSSBOW:BOLT]"
-msgstr ""
-
 msgid "[NAME:bolt:bolts]"
 msgstr ""
 
-msgid "[CLASS:BOLT]"
-msgstr ""
-
-msgid "SH"
-msgstr ""
-
-msgid "[ITEM_SHIELD:"
-msgstr ""
-
 msgid "rectangular"
-msgstr ""
-
-msgid "[BLOCKCHANCE:20]"
-msgstr ""
-
-msgid "[UPSTEP:2]"
-msgstr ""
-
-msgid "GUARDIAN_ENTITY_"
-msgstr ""
-
-msgid "[SITE_GUARDIAN]"
-msgstr ""
-
-msgid "[WEAPON:"
-msgstr ""
-
-msgid "[SHIELD:"
-msgstr ""
-
-msgid "[HELM:"
-msgstr ""
-
-msgid ":COMMON]"
-msgstr ""
-
-msgid "[ARMOR:"
-msgstr ""
-
-msgid "[PANTS:"
-msgstr ""
-
-msgid "[GLOVES:"
-msgstr ""
-
-msgid "[SHOES:"
-msgstr ""
-
-msgid "[DIVINE_MAT_WEAPONS]"
-msgstr ""
-
-msgid "[DIVINE_MAT_ARMOR]"
-msgstr ""
-
-msgid "[DIVINE_MAT_CRAFTS]"
-msgstr ""
-
-msgid "[DIVINE_MAT_CLOTHING]"
-msgstr ""
-
-msgid "[CLOTHING]"
-msgstr ""
-
-msgid "GET_ITEM_DATA_FROM_REAGENT"
-msgstr ""
-
-msgid ": Unrecognized Building Token: "
 msgstr ""
 
 msgid "hanging"
@@ -44817,21 +41805,6 @@ msgstr ""
 msgid "the Criminals"
 msgstr ""
 
-msgid "*START REGION SAVE*"
-msgstr ""
-
-msgid "*START REGION DIM SAVE*"
-msgstr ""
-
-msgid "*START REGION MAP SAVE*"
-msgstr ""
-
-msgid "*START REGION GEOLOGY SAVE*"
-msgstr ""
-
-msgid "*START REGION SUBREGION SAVE*"
-msgstr ""
-
 msgid "Not enough peaks: "
 msgstr ""
 
@@ -44974,12 +41947,6 @@ msgid "No controllable entity definitions available"
 msgstr ""
 
 msgid "Did not place controllable entity"
-msgstr ""
-
-msgid "Placed farming entity without orchard crops"
-msgstr ""
-
-msgid "Placed farming entity without non-orchard crops"
 msgstr ""
 
 msgid "Final swamp region count fails by "
@@ -45189,27 +42156,6 @@ msgstr ""
 msgid "There is a gentle breeze blowing from the "
 msgstr ""
 
-msgid "-detailed.bmp"
-msgstr ""
-
-msgid "-territory_map-"
-msgstr ""
-
-msgid "-historical_map-"
-msgstr ""
-
-msgid "-world_map"
-msgstr ""
-
-msgid "POLE:"
-msgstr ""
-
-msgid "GENERATE_DIVINE_MATERIALS:"
-msgstr ""
-
-msgid "just generated corrupt feature map square"
-msgstr ""
-
 msgid "Worship List"
 msgstr ""
 
@@ -45324,31 +42270,7 @@ msgstr ""
 msgid "'s corpse"
 msgstr ""
 
-msgid "Midmap creation failure on graphical map export: "
-msgstr ""
-
-msgid "Elevation negative on graphical map export (main)"
-msgstr ""
-
-msgid "Elevation negative on graphical map export (midmap)"
-msgstr ""
-
 msgid "The Arena"
-msgstr ""
-
-msgid "STANDARD_CLIMBING_GAITS"
-msgstr ""
-
-msgid "STANDARD_SWIMMING_GAITS"
-msgstr ""
-
-msgid "STANDARD_CRAWLING_GAITS"
-msgstr ""
-
-msgid "STANDARD_FLYING_GAITS"
-msgstr ""
-
-msgid "Cannot generate random creatures -- missing creature variation "
 msgstr ""
 
 msgid "Woe unto any that disturb the resting place of "
@@ -45399,9 +42321,6 @@ msgstr ""
 msgid "Metal Furniture"
 msgstr ""
 
-msgid "building out of bounds: "
-msgstr ""
-
 msgid "cottage plot"
 msgstr ""
 
@@ -45439,12 +42358,6 @@ msgid "trenches"
 msgstr ""
 
 msgid "fortress entrance"
-msgstr ""
-
-msgid "no layer area available for historical figure"
-msgstr ""
-
-msgid "data/announcement/unretire"
 msgstr ""
 
 msgid "  Choose Fortress Location  "
@@ -45876,9 +42789,6 @@ msgstr ""
 msgid "The X"
 msgstr ""
 
-msgid "Of X"
-msgstr ""
-
 msgid "Could not give dwarf "
 msgstr ""
 
@@ -45969,88 +42879,16 @@ msgstr ""
 msgid "Active/Training"
 msgstr ""
 
-msgid "** Starting New Outpost **"
-msgstr ""
-
-msgid "** Unretiring Outpost **"
-msgstr ""
-
-msgid "** Starting Reclaim **"
-msgstr ""
-
 msgid "  Unintelligible!  "
 msgstr ""
 
 msgid "This strange language cannot be translated."
 msgstr ""
 
-msgid "old save: correcting possibly erroneous site animal pop"
-msgstr ""
-
-msgid "old save: correcting possibly erroneous site pop"
-msgstr ""
-
 msgid "You have located "
 msgstr ""
 
 msgid "\", a "
-msgstr ""
-
-msgid "-site_map-"
-msgstr ""
-
-msgid "main tower (255,0,255)"
-msgstr ""
-
-msgid "watch tower (128,128,128)"
-msgstr ""
-
-msgid "trenches (0,0,0)"
-msgstr ""
-
-msgid "dungeon-tower interface (50,20,50)"
-msgstr ""
-
-msgid "work pits (50,30,20)"
-msgstr ""
-
-msgid "living pits (20,50,40)"
-msgstr ""
-
-msgid "castle tower (110,110,110)"
-msgstr ""
-
-msgid "castle wall (70,70,70)"
-msgstr ""
-
-msgid "castle wall walkway (40,40,40)"
-msgstr ""
-
-msgid "fortress (129,129,129)"
-msgstr ""
-
-msgid "underground farming (50,20,50)"
-msgstr ""
-
-msgid "underground industrial (250,50,20)"
-msgstr ""
-
-msgid "underground living (20,50,30)"
-msgstr ""
-
-msgid "tavern (255,255,200)"
-msgstr ""
-
-msgid "mead hall (255,128,255)"
-msgstr ""
-
-msgid "orchard (0,100,0)/(0,200,0)"
-msgstr ""
-
-msgid "unknown (100,100,100)"
-msgstr ""
-
-msgid "NULL artifact on site realization, skipping"
 msgstr ""
 
 msgid "fortress"
@@ -46084,9 +42922,6 @@ msgid "camp"
 msgstr ""
 
 msgid "important location"
-msgstr ""
-
-msgid "NULL artifact removed on load"
 msgstr ""
 
 msgid "begins to talk in a hushed whisper when "
@@ -48972,9 +45807,6 @@ msgstr ""
 msgid "Patrol "
 msgstr ""
 
-msgid "GPU unable to accommodate texture catalog. Retry without graphical tiles, update your drivers, or better yet update your GPU."
-msgstr ""
-
 msgid " cancels "
 msgstr ""
 
@@ -50698,9 +47530,6 @@ msgid " (no reachable point on route)"
 msgstr ""
 
 msgid " (not following order)"
-msgstr ""
-
-msgid " (invalid order)"
 msgstr ""
 
 msgid " (cannot follow order)"
@@ -53616,15 +50445,6 @@ msgstr ""
 msgid "Generating world using parameter set "
 msgstr ""
 
-msgid "old save: resizing plant values"
-msgstr ""
-
-msgid "old save: resetting out of bound hf coordinates"
-msgstr ""
-
-msgid "old save: fixing possible broken hostile migrants"
-msgstr ""
-
 msgid "A cloud of "
 msgstr ""
 
@@ -53808,57 +50628,6 @@ msgstr ""
 msgid "military unit"
 msgstr ""
 
-msgid "objects/language_*.txt"
-msgstr ""
-
-msgid "objects/descriptor_shape_*.txt"
-msgstr ""
-
-msgid "objects/descriptor_color_*.txt"
-msgstr ""
-
-msgid "objects/descriptor_pattern_*.txt"
-msgstr ""
-
-msgid "objects/material_template_*.txt"
-msgstr ""
-
-msgid "objects/inorganic_*.txt"
-msgstr ""
-
-msgid "objects/plant_*.txt"
-msgstr ""
-
-msgid "objects/tissue_template_*.txt"
-msgstr ""
-
-msgid "objects/item_*.txt"
-msgstr ""
-
-msgid "objects/building_*.txt"
-msgstr ""
-
-msgid "objects/b_detail_plan_*.txt"
-msgstr ""
-
-msgid "objects/body_*.txt"
-msgstr ""
-
-msgid "objects/c_variation_*.txt"
-msgstr ""
-
-msgid "objects/creature_*.txt"
-msgstr ""
-
-msgid "objects/entity_*.txt"
-msgstr ""
-
-msgid "objects/reaction_*.txt"
-msgstr ""
-
-msgid "objects/interaction_*.txt"
-msgstr ""
-
 msgid "Something has collapsed on the surface!"
 msgstr ""
 
@@ -53872,21 +50641,6 @@ msgid "After a polite discussion with a local rival, "
 msgstr ""
 
 msgid " has claimed the position of "
-msgstr ""
-
-msgid "succession traveler placed out of bounds"
-msgstr ""
-
-msgid "adventuring traveler placed out of bounds"
-msgstr ""
-
-msgid "camp order missing parent -- army will camp forever"
-msgstr ""
-
-msgid "invalid nem in army during guard creation"
-msgstr ""
-
-msgid "guard army unattached from parent army"
 msgstr ""
 
 msgid ", being the rightful heir, has inherited the position of "
@@ -53937,21 +50691,6 @@ msgstr ""
 msgid "Unloaded"
 msgstr ""
 
-msgid "Load Game: Invalid Army ID Number"
-msgstr ""
-
-msgid "Load Game: Invalid Army Controller ID Number"
-msgstr ""
-
-msgid "Load Game: Invalid Army Tracking Info ID Number"
-msgstr ""
-
-msgid "Load Game: Invalid Cultural Identity ID Number"
-msgstr ""
-
-msgid "Load Game: Invalid Agreement ID Number"
-msgstr ""
-
 msgid " has engraved a masterpiece!"
 msgstr ""
 
@@ -53965,9 +50704,6 @@ msgid "Ambush!"
 msgstr ""
 
 msgid "You feel uneasy."
-msgstr ""
-
-msgid "NULL artifact on site adoption, skipping"
 msgstr ""
 
 msgid "You have discovered a river."
@@ -54063,9 +50799,6 @@ msgstr ""
 msgid " straps "
 msgstr ""
 
-msgid "camp order missing parent -- unit will camp forever"
-msgstr ""
-
 msgid "eat"
 msgstr ""
 
@@ -54073,12 +50806,6 @@ msgid "eats"
 msgstr ""
 
 msgid " has guzzled some "
-msgstr ""
-
-msgid ": site walker could not find walkable area"
-msgstr ""
-
-msgid ": site walker could not return to home zone"
 msgstr ""
 
 msgid "You feed on "
@@ -54123,11 +50850,9 @@ msgstr ""
 msgid " lies on the ground."
 msgstr ""
 
-msgid "marriage traveler placed out of bounds"
-msgstr ""
-
 msgid "You are now in control of "
 msgstr ""
 
 msgid ", ruling "
 msgstr ""
+
