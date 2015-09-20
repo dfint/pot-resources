@@ -43,26 +43,20 @@ msgid "[TITLE]A Dwarven Outpost[/TITLE]"
 msgstr ""
 
 #: fortressintro.txt
-msgid "[P]You have arrived.  After a journey from the Mountainhomes into the"
+msgid "[P]You have arrived.  After a journey from the Mountainhomes into the\n"
+"forbidding wilderness beyond, your harsh trek has finally\n"
+"ended.  Your party of seven is to make an\n"
+"outpost for the glory of all of [VAR:NATIVENAME:GLOBAL:YOURCIV]."
 msgstr ""
 
 #: fortressintro.txt
-msgid "forbidding wilderness beyond, your harsh trek has finally
-ended.  Your party of seven is to make an
-outpost for the glory of all of [VAR:NATIVENAME:GLOBAL:YOURCIV]."
-msgstr ""
-
-#: fortressintro.txt
-msgid "[P]There are almost no supplies left, but with stout labor"
-msgstr ""
-
-#: fortressintro.txt
-msgid "comes sustenance.  Whether by bolt, plow or hook, provide
-for your dwarves.  You are expecting a supply caravan just before
-winter entombs you, but it is Spring now.
-Enough time to delve secure lodgings, ere the [VAR:NAME_PLURAL:GLOBAL:LOCAL_LARGE_PREDATOR] get hungry.
-A new chapter of dwarven history begins here at this place, [VAR:NATIVENAME:GLOBAL:YOURFORT],
-\"[VAR:TRANSLATEDNAME:GLOBAL:YOURFORT]\".  Strike the earth!"
+msgid "[P]There are almost no supplies left, but with stout labor\n"
+"comes sustenance.  Whether by bolt, plow or hook, provide\n"
+"for your dwarves.  You are expecting a supply caravan just before\n"
+"winter entombs you, but it is Spring now.\n"
+"Enough time to delve secure lodgings, ere the [VAR:NAME_PLURAL:GLOBAL:LOCAL_LARGE_PREDATOR] get hungry.\n"
+"A new chapter of dwarven history begins here at this place, [VAR:NATIVENAME:GLOBAL:YOURFORT],\n"
+"\"[VAR:TRANSLATEDNAME:GLOBAL:YOURFORT]\".  Strike the earth!"
 msgstr ""
 
 #: hastyking.txt
@@ -94,18 +88,15 @@ msgid "[TITLE]The Autumn Caravan[/TITLE]"
 msgstr ""
 
 #: merchantintro.txt
-msgid "[P]Although it is a grim reminder of the winter hardships to come,"
-msgstr ""
-
-#: merchantintro.txt
-msgid "the supply caravan from [VAR:NATIVENAME:GLOBAL:YOURCIV] is a welcome sight.
-As the merchants unload their goods at the depot,
-you notice with pride that their eyes are alight with
-the anticipation of inspecting
-the splendid products of your industrious craftsdwarves.
-Take careful stock of your own stores.  What these dwarves offer
-might very well be the difference between a prosperous future and
-a slow and meaningless death."
+msgid "[P]Although it is a grim reminder of the winter hardships to come,\n"
+"the supply caravan from [VAR:NATIVENAME:GLOBAL:YOURCIV] is a welcome sight.\n"
+"As the merchants unload their goods at the depot,\n"
+"you notice with pride that their eyes are alight with\n"
+"the anticipation of inspecting\n"
+"the splendid products of your industrious craftsdwarves.\n"
+"Take careful stock of your own stores.  What these dwarves offer\n"
+"might very well be the difference between a prosperous future and\n"
+"a slow and meaningless death."
 msgstr ""
 
 #: semiend.txt
@@ -129,30 +120,21 @@ msgid "[VAR:NATIVENAME:MEETING:ACTOR]:  I am your liaison from the Mountainhomes
 msgstr ""
 
 #: dwarf_liaison_bye.txt
-msgid "[VAR:NATIVENAME:MEETING:ACTOR]:  Farewell, [VAR:NATIVENAME:MEETING:NOBLE].  I look forward"
-msgstr ""
-
-#: dwarf_liaison_bye.txt
-msgid "to our meeting next year.  Our fortunes rise and fall together."
+msgid "[VAR:NATIVENAME:MEETING:ACTOR]:  Farewell, [VAR:NATIVENAME:MEETING:NOBLE].  I look forward\n"
+"to our meeting next year.  Our fortunes rise and fall together."
 msgstr ""
 
 #: elves_firstcontact1.txt
-msgid "[VAR:NATIVENAME:MEETING:ACTOR]:  You have disrespected the trees in this area, but this is what we have come to expect"
-msgstr ""
-
-#: elves_firstcontact1.txt
-msgid "from your stunted kind.  Further abuse cannot be tolerated.  Let this be a warning to you."
+msgid "[VAR:NATIVENAME:MEETING:ACTOR]:  You have disrespected the trees in this area, but this is what we have come to expect\n"
+"from your stunted kind.  Further abuse cannot be tolerated.  Let this be a warning to you."
 msgstr ""
 
 #: elves_firstcontact2.txt
-msgid "[VAR:NATIVENAME:MEETING:ACTOR]:  What a pleasant surprise!  Not a single tree here weeps from the abuses"
-msgstr ""
-
-#: elves_firstcontact2.txt
-msgid "meted out with such ease by your people.  Joy!  The dwarves have turned a page,
-not that we would make paper.  A travesty!  Perhaps it is better said that the dwarves
-have turned over a new leaf, and the springtime for our two races has
-only just begun."
+msgid "[VAR:NATIVENAME:MEETING:ACTOR]:  What a pleasant surprise!  Not a single tree here weeps from the abuses\n"
+"meted out with such ease by your people.  Joy!  The dwarves have turned a page,\n"
+"not that we would make paper.  A travesty!  Perhaps it is better said that the dwarves\n"
+"have turned over a new leaf, and the springtime for our two races has\n"
+"only just begun."
 msgstr ""
 
 #: elves_standard1.txt
@@ -160,11 +142,8 @@ msgid "[VAR:NATIVENAME:MEETING:ACTOR]:  Greetings from the woodlands.  We have m
 msgstr ""
 
 #: elves_standard_bye.txt
-msgid "[VAR:NATIVENAME:MEETING:ACTOR]:  Although we do not always see eye to eye (ha!), I"
-msgstr ""
-
-#: elves_standard_bye.txt
-msgid "bid you farewell.  May you someday embrace nature as you embrace the rocks and mud."
+msgid "[VAR:NATIVENAME:MEETING:ACTOR]:  Although we do not always see eye to eye (ha!), I\n"
+"bid you farewell.  May you someday embrace nature as you embrace the rocks and mud."
 msgstr ""
 
 #: human_standard1.txt
@@ -172,11 +151,8 @@ msgid "[VAR:NATIVENAME:MEETING:ACTOR]:  Greetings, noble dwarf.  There is much t
 msgstr ""
 
 #: human_standard_bye.txt
-msgid "[VAR:NATIVENAME:MEETING:ACTOR]:  It has been an honor, noble [VAR:NATIVENAME:MEETING:NOBLE]."
-msgstr ""
-
-#: human_standard_bye.txt
-msgid "I bid you farewell."
+msgid "[VAR:NATIVENAME:MEETING:ACTOR]:  It has been an honor, noble [VAR:NATIVENAME:MEETING:NOBLE].\n"
+"I bid you farewell."
 msgstr ""
 
 #: human_trade1.txt
@@ -184,11 +160,8 @@ msgid "[VAR:NATIVENAME:MEETING:ACTOR]:  On behalf of the Merchants' Guild, let m
 msgstr ""
 
 #: human_trade_bye.txt
-msgid "[VAR:NATIVENAME:MEETING:ACTOR]:  Again on behalf of the Merchants' Guild, let me bid farewell"
-msgstr ""
-
-#: human_trade_bye.txt
-msgid "to you and your stout dwarves."
+msgid "[VAR:NATIVENAME:MEETING:ACTOR]:  Again on behalf of the Merchants' Guild, let me bid farewell\n"
+"to you and your stout dwarves."
 msgstr ""
 
 #: accounts.txt
@@ -200,8 +173,8 @@ msgid "Once you get a baron, your dwarves will all be given accounts in the curr
 msgstr ""
 
 #: accounts.txt
-msgid "They can no longer freely acquire goods, or even food, but instead must purchase these things.  The only exception is that penniless starving
-dwarves can eat the cheapest food items in the fortress."
+msgid "They can no longer freely acquire goods, or even food, but instead must purchase these things.  The only exception is that penniless starving\n"
+"dwarves can eat the cheapest food items in the fortress."
 msgstr ""
 
 #: accounts.txt
@@ -217,9 +190,9 @@ msgid "[C:7:0:1]Coins[C:7:0:0]"
 msgstr ""
 
 #: accounts.txt
-msgid "Once accounts are active, dwarves will want shiny coins to reflect their balances.  The bookkeeper sets mandates that let you know how many coins to make.
-These mandates are exceptional in that there are no punishments associated to them.  Dwarves will periodically bring coins to their rooms or give
-up coins if they have too many."
+msgid "Once accounts are active, dwarves will want shiny coins to reflect their balances.  The bookkeeper sets mandates that let you know how many coins to make.\n"
+"These mandates are exceptional in that there are no punishments associated to them.  Dwarves will periodically bring coins to their rooms or give\n"
+"up coins if they have too many."
 msgstr ""
 
 #: accounts.txt
@@ -231,8 +204,8 @@ msgid "[C:7:0:1]Shops[C:7:0:0]"
 msgstr ""
 
 #: accounts.txt
-msgid "In order to sell goods to your dwarves, you'll have to set up shops.  Initially, shops are run by the bookkeeper and broker, but these dwarves
-will attempt to sell the shops off to any willing buyer."
+msgid "In order to sell goods to your dwarves, you'll have to set up shops.  Initially, shops are run by the bookkeeper and broker, but these dwarves\n"
+"will attempt to sell the shops off to any willing buyer."
 msgstr ""
 
 #: accounts.txt
@@ -240,8 +213,8 @@ msgid "The shopkeeper buys finished goods from the fortress stockpiles and has t
 msgstr ""
 
 #: accounts.txt
-msgid "All purchases occur at the account level.  Coins are not needed.  The bookkeeper handles all of the accounting.  All dwarves have exceptional
-abilities with coin counting and seem to know the balances of every dwarf in the fortress, so there are no attempts to cheat the shopkeeper."
+msgid "All purchases occur at the account level.  Coins are not needed.  The bookkeeper handles all of the accounting.  All dwarves have exceptional\n"
+"abilities with coin counting and seem to know the balances of every dwarf in the fortress, so there are no attempts to cheat the shopkeeper."
 msgstr ""
 
 #: accounts.txt
@@ -317,14 +290,14 @@ msgid "[TITLE]The Manual: Adventure Mode Introduction[/TITLE]"
 msgstr ""
 
 #: a_intro.txt
-msgid "Maybe you attempted to guide the dwarves to fortune and things just didn't work out?
-Welcome to adventure mode.  Now you'll create a character and go on a journey of
-discovery throughout the world your dwarves left behind.  Perhaps you'll set out for
-the ruins of your old fortress or help a nearby town.  Throughout the course
-of your explorations, you'll not only build your own legend, but unearth tales of
-ancient heroes and fallen civilizations (possibly your own).  Whether you are in it for personal glory,
-or so that the legend of your dwarf fortress can be exposed to the scrutiny of history, you'll
-find what you're looking for...  or die trying several times."
+msgid "Maybe you attempted to guide the dwarves to fortune and things just didn't work out?\n"
+"Welcome to adventure mode.  Now you'll create a character and go on a journey of\n"
+"discovery throughout the world your dwarves left behind.  Perhaps you'll set out for\n"
+"the ruins of your old fortress or help a nearby town.  Throughout the course\n"
+"of your explorations, you'll not only build your own legend, but unearth tales of\n"
+"ancient heroes and fallen civilizations (possibly your own).  Whether you are in it for personal glory,\n"
+"or so that the legend of your dwarf fortress can be exposed to the scrutiny of history, you'll\n"
+"find what you're looking for...  or die trying several times."
 msgstr ""
 
 #: a_keys.txt
@@ -660,10 +633,10 @@ msgid "[TITLE]The Manual: Making Crafts[/TITLE]"
 msgstr ""
 
 #: crafts.txt
-msgid "To the dwarves, all of this mining is pointless unless the end result is a fortress filled with treasure.
-Once you've mined out some stone, you'll be ready to make crafts.  You can also make objects out of wood,
-bone, shell, glass, silk... whatever your dwarves can get their hands on.  You can also decorate existing objects
-with these materials."
+msgid "To the dwarves, all of this mining is pointless unless the end result is a fortress filled with treasure.\n"
+"Once you've mined out some stone, you'll be ready to make crafts.  You can also make objects out of wood,\n"
+"bone, shell, glass, silk... whatever your dwarves can get their hands on.  You can also decorate existing objects\n"
+"with these materials."
 msgstr ""
 
 #: crafts.txt
@@ -719,8 +692,8 @@ msgid "[C:7:0:1]Metal[C:7:0:0]"
 msgstr ""
 
 #: crafts.txt
-msgid "Metal is more valuable than stone, but also harder to find and process.  The ore that you find must
-be refined at a smelter.  Then you will have bars.  Bars can be made into objects at the metalsmith's forge."
+msgid "Metal is more valuable than stone, but also harder to find and process.  The ore that you find must\n"
+"be refined at a smelter.  Then you will have bars.  Bars can be made into objects at the metalsmith's forge."
 msgstr ""
 
 #: crafts.txt
@@ -736,13 +709,13 @@ msgid "[C:7:0:1]Gems[C:7:0:0]"
 msgstr ""
 
 #: crafts.txt
-msgid "Gems are rare and valuable.  When you mine them from the mountain, they are initially \"rough\".  Rough gems are unfinished stones
-that need to be cut by a jeweler.  Build a jeweler's workshop to assign these jobs."
+msgid "Gems are rare and valuable.  When you mine them from the mountain, they are initially \"rough\".  Rough gems are unfinished stones\n"
+"that need to be cut by a jeweler.  Build a jeweler's workshop to assign these jobs."
 msgstr ""
 
 #: crafts.txt
-msgid "Rarely, the gem cutter will be inspired and make
-a large finished gem or gem crafts.  Most of the time, you'll obtain small gems.  These objects are valuable in their own right, but can also be used to encrust other objects."
+msgid "Rarely, the gem cutter will be inspired and make\n"
+"a large finished gem or gem crafts.  Most of the time, you'll obtain small gems.  These objects are valuable in their own right, but can also be used to encrust other objects."
 msgstr ""
 
 #: crafts.txt
@@ -750,10 +723,10 @@ msgid "[C:7:0:1]Wood[C:7:0:0]"
 msgstr ""
 
 #: crafts.txt
-msgid "Wood is easy to obtain and requires no processing.  It is also an early source of fuel and can be used to make lye.
-Cut wood by designating trees for logging outside.  You can then use the logs at the carpenter's workshop, the bowyer's workshop and
-the wood furnace.  Keep in mind that wood is the only material that can be used for beds and axles, so it's good to keep
-a steady supply of logs coming in from outdoors."
+msgid "Wood is easy to obtain and requires no processing.  It is also an early source of fuel and can be used to make lye.\n"
+"Cut wood by designating trees for logging outside.  You can then use the logs at the carpenter's workshop, the bowyer's workshop and\n"
+"the wood furnace.  Keep in mind that wood is the only material that can be used for beds and axles, so it's good to keep\n"
+"a steady supply of logs coming in from outdoors."
 msgstr ""
 
 #: crafts.txt
@@ -765,8 +738,8 @@ msgid "[C:7:0:1]Bone and Shell[C:7:0:0]"
 msgstr ""
 
 #: crafts.txt
-msgid "Bone and shell are the debris of eating and butchery, but they can be used to make crafts or enhance existing objects as well.  This work
-is done at the craftsdwarf's workshop."
+msgid "Bone and shell are the debris of eating and butchery, but they can be used to make crafts or enhance existing objects as well.  This work\n"
+"is done at the craftsdwarf's workshop."
 msgstr ""
 
 #: crafts.txt
@@ -774,13 +747,13 @@ msgid "[C:7:0:1]Leather[C:7:0:0]"
 msgstr ""
 
 #: crafts.txt
-msgid "Raw skins are obtained from the butcher's shop any time a corpse is butchered, and these can be processed at the tanner's workshop to make leather.
-The butcher and tanner assign jobs automatically."
+msgid "Raw skins are obtained from the butcher's shop any time a corpse is butchered, and these can be processed at the tanner's workshop to make leather.\n"
+"The butcher and tanner assign jobs automatically."
 msgstr ""
 
 #: crafts.txt
-msgid "Leather can then be used to make clothing, armor, backpacks, quivers, bags and crafts.
-Soldiers use backpacks to hold food so that they can stay on duty longer.  The value of leather depends on the creature."
+msgid "Leather can then be used to make clothing, armor, backpacks, quivers, bags and crafts.\n"
+"Soldiers use backpacks to hold food so that they can stay on duty longer.  The value of leather depends on the creature."
 msgstr ""
 
 #: crafts.txt
@@ -788,8 +761,8 @@ msgid "[C:7:0:1]Cloth[C:7:0:0]"
 msgstr ""
 
 #: crafts.txt
-msgid "Cloth is made at a loom from thread.  Thread is obtained from plants which have been processed at the farmer's workshop.  Cloth can be used at the
-clothes maker's shop to create clothes, crafts or bags."
+msgid "Cloth is made at a loom from thread.  Thread is obtained from plants which have been processed at the farmer's workshop.  Cloth can be used at the\n"
+"clothes maker's shop to create clothes, crafts or bags."
 msgstr ""
 
 #: crafts.txt
@@ -797,9 +770,9 @@ msgid "[C:7:0:1]Silk[C:7:0:0]"
 msgstr ""
 
 #: crafts.txt
-msgid "Silk is like the cloth made from plant, but generally more valuable.  You'll occasionally find webs in your fortress, and if you have a loom,
-a task will appear automatically which lets the dwarves collect these webs.  Once you have silk cloth from the loom, you can use it like standard
-cloths."
+msgid "Silk is like the cloth made from plant, but generally more valuable.  You'll occasionally find webs in your fortress, and if you have a loom,\n"
+"a task will appear automatically which lets the dwarves collect these webs.  Once you have silk cloth from the loom, you can use it like standard\n"
+"cloths."
 msgstr ""
 
 #: crafts.txt
@@ -819,9 +792,9 @@ msgid "[LINK:data/help/menu_activity_zones]Activity Zones[/LINK]"
 msgstr ""
 
 #: crafts.txt
-msgid "Using sand, you can create green glass goods at the glass furnace.  Green glass isn't very valuable, but if you also have pearlash, you can make clear glass.
-Pearlash is potash which has been baked in a kiln.  As described in the paragraph on fertilizing farms, potash is obtained by evaporating
-lye water, and lye water is obtained from soaking wood ash at the ashery."
+msgid "Using sand, you can create green glass goods at the glass furnace.  Green glass isn't very valuable, but if you also have pearlash, you can make clear glass.\n"
+"Pearlash is potash which has been baked in a kiln.  As described in the paragraph on fertilizing farms, potash is obtained by evaporating\n"
+"lye water, and lye water is obtained from soaking wood ash at the ashery."
 msgstr ""
 
 #: crafts.txt
@@ -833,9 +806,9 @@ msgid "[C:7:0:1]Soap[C:7:0:0]"
 msgstr ""
 
 #: crafts.txt
-msgid "Soap is a fairly valuable commodity, but its creation is somewhat involved.
-You need to create a soap maker's workshop, as well as lye and some rendered fat.  The value of soap depends on the creature.
-Unrotten fat can be rendered in the kitchen."
+msgid "Soap is a fairly valuable commodity, but its creation is somewhat involved.\n"
+"You need to create a soap maker's workshop, as well as lye and some rendered fat.  The value of soap depends on the creature.\n"
+"Unrotten fat can be rendered in the kitchen."
 msgstr ""
 
 #: defense.txt
@@ -851,8 +824,8 @@ msgid "[C:7:0:1]Soldiers[C:7:0:0]"
 msgstr ""
 
 #: defense.txt
-msgid "At any time, any dwarf that isn't a noble or a child can be recruited for service.
-This is done from the military screen, where the dwarves can be organized into squads."
+msgid "At any time, any dwarf that isn't a noble or a child can be recruited for service.\n"
+"This is done from the military screen, where the dwarves can be organized into squads."
 msgstr ""
 
 #: defense.txt
@@ -872,9 +845,9 @@ msgid "[C:7:0:1]Traps[C:7:0:0]"
 msgstr ""
 
 #: defense.txt
-msgid "Traps are another effective method of thwarting your opposition.  These come in many forms.  The components required
-depend on the trap, but all traps need mechanisms.  You can link levers and pressure plates to certain furniture to
-trigger more elaborate traps."
+msgid "Traps are another effective method of thwarting your opposition.  These come in many forms.  The components required\n"
+"depend on the trap, but all traps need mechanisms.  You can link levers and pressure plates to certain furniture to\n"
+"trigger more elaborate traps."
 msgstr ""
 
 #: defense.txt
@@ -886,8 +859,8 @@ msgid "[TITLE]The Manual: Obtaining Food[/TITLE]"
 msgstr ""
 
 #: food.txt
-msgid "Dwarves like to eat, and there are many ways to serve them their favorite dishes. These include
-gathering plants, fishing, hunting, butchering livestock and farming."
+msgid "Dwarves like to eat, and there are many ways to serve them their favorite dishes. These include\n"
+"gathering plants, fishing, hunting, butchering livestock and farming."
 msgstr ""
 
 #: food.txt
@@ -895,8 +868,8 @@ msgid "[C:7:0:1]Gathering Plants[C:7:0:0]"
 msgstr ""
 
 #: food.txt
-msgid "Gathering plants is a fairly inefficient way to get food, but you'll have to do it sometimes, if
-only to get seeds that you can use for farming later.  In order to gather plants you need:"
+msgid "Gathering plants is a fairly inefficient way to get food, but you'll have to do it sometimes, if\n"
+"only to get seeds that you can use for farming later.  In order to gather plants you need:"
 msgstr ""
 
 #: food.txt
@@ -912,8 +885,8 @@ msgid "[C:7:0:1]Fishing[C:7:0:0]"
 msgstr ""
 
 #: food.txt
-msgid "Fishing is a fairly easy way to get some initial food, but you'll find yourself running out of fish in larger fortresses.
-In order to fish you need:"
+msgid "Fishing is a fairly easy way to get some initial food, but you'll find yourself running out of fish in larger fortresses.\n"
+"In order to fish you need:"
 msgstr ""
 
 #: food.txt
@@ -933,8 +906,8 @@ msgid "[C:7:0:1]Hunting[C:7:0:0]"
 msgstr ""
 
 #: food.txt
-msgid "Hunting is another way to get some initial food, but it will put the life of your hunter at risk.
-In order to hunt you need:"
+msgid "Hunting is another way to get some initial food, but it will put the life of your hunter at risk.\n"
+"In order to hunt you need:"
 msgstr ""
 
 #: food.txt
@@ -950,8 +923,8 @@ msgid "[C:7:0:1]Butchering Livestock[C:7:0:0]"
 msgstr ""
 
 #: food.txt
-msgid "You can slaughter animals that aren't pets, and you can butcher any animal corpse that doesn't belong to a pet.
-In order to butcher a corpse you need:"
+msgid "You can slaughter animals that aren't pets, and you can butcher any animal corpse that doesn't belong to a pet.\n"
+"In order to butcher a corpse you need:"
 msgstr ""
 
 #: food.txt
@@ -983,25 +956,25 @@ msgid "[C:7:0:1]Farming[C:7:0:0]"
 msgstr ""
 
 #: food.txt
-msgid "Farming is the most reliable way to obtain food, but it is also the most complicated to prepare.
-To get started, you must place a farm plot.  You can place a farm plot on soil or mud, inside or outside.
-Dwarves with the Farming (Fields) profession will plant seeds according to your selections in the farm plot menu, and all dwarves help with the harvest.  A plant will generally grow either inside or outside, so be careful with the seeds you select."
+msgid "Farming is the most reliable way to obtain food, but it is also the most complicated to prepare.\n"
+"To get started, you must place a farm plot.  You can place a farm plot on soil or mud, inside or outside.\n"
+"Dwarves with the Farming (Fields) profession will plant seeds according to your selections in the farm plot menu, and all dwarves help with the harvest.  A plant will generally grow either inside or outside, so be careful with the seeds you select."
 msgstr ""
 
 #: food.txt
-msgid "Should you find a water source, you can divert the water using channels and floodgates to control
-which squares become muddy (all water currently places mud)."
+msgid "Should you find a water source, you can divert the water using channels and floodgates to control\n"
+"which squares become muddy (all water currently places mud)."
 msgstr ""
 
 #: food.txt
-msgid "Some plants that you farm aren't immediately edible, but can be processed at a mill or farmer's workshop to make
-flour, sugar, syrup, spices or thread for cloth-making."
+msgid "Some plants that you farm aren't immediately edible, but can be processed at a mill or farmer's workshop to make\n"
+"flour, sugar, syrup, spices or thread for cloth-making."
 msgstr ""
 
 #: food.txt
-msgid "You can greatly increase your farm output by using potash as a fertilizer.
-Potash is obtained from evaporating lye water, and lye water is obtained from soaking wood ash.  These jobs
-are carried out at the Ashery.  The Making Crafts section of the First Outpost tutorial will discuss how to assign jobs."
+msgid "You can greatly increase your farm output by using potash as a fertilizer.\n"
+"Potash is obtained from evaporating lye water, and lye water is obtained from soaking wood ash.  These jobs\n"
+"are carried out at the Ashery.  The Making Crafts section of the First Outpost tutorial will discuss how to assign jobs."
 msgstr ""
 
 #: food.txt
@@ -1017,9 +990,9 @@ msgid "[C:7:0:1]Preparing Food[C:7:0:0]"
 msgstr ""
 
 #: food.txt
-msgid "Each dwarf has preferred foods, but they only eat one piece of food when they are hungry.  In order to maximize the chance that a dwarf can find
-a piece of food that they really enjoy, it is important to use a kitchen to prepare food.  This mixes the food types together.  It also allows a dwarven
-cook the opportunity to apply their craft to the ingredients and produce higher quality foods.  The Making Crafts section of the First Outpost tutorial covers job assignment."
+msgid "Each dwarf has preferred foods, but they only eat one piece of food when they are hungry.  In order to maximize the chance that a dwarf can find\n"
+"a piece of food that they really enjoy, it is important to use a kitchen to prepare food.  This mixes the food types together.  It also allows a dwarven\n"
+"cook the opportunity to apply their craft to the ingredients and produce higher quality foods.  The Making Crafts section of the First Outpost tutorial covers job assignment."
 msgstr ""
 
 #: food.txt
@@ -1475,12 +1448,12 @@ msgid "[TITLE]The Manual: Introduction[/TITLE]"
 msgstr ""
 
 #: intro.txt
-msgid "Welcome to Dwarf Fortress.  Prepare to guide your stout charges to fortune in a world fraught with many perils.
-You'll begin by creating your world and watching an animation of the region's history.  Once this process
-is completed, you can prepare a group of dwarves and send them out to seek wealth deep in the mountains.
-As you dig deeper and more dwarves take up residence in your outpost, your doings will attract attention, both
-wanted and unwanted.  Deal with challenges as they arise, and you might one day find that your fortress
-has grown to become the capital of the kingdom."
+msgid "Welcome to Dwarf Fortress.  Prepare to guide your stout charges to fortune in a world fraught with many perils.\n"
+"You'll begin by creating your world and watching an animation of the region's history.  Once this process\n"
+"is completed, you can prepare a group of dwarves and send them out to seek wealth deep in the mountains.\n"
+"As you dig deeper and more dwarves take up residence in your outpost, your doings will attract attention, both\n"
+"wanted and unwanted.  Deal with challenges as they arise, and you might one day find that your fortress\n"
+"has grown to become the capital of the kingdom."
 msgstr ""
 
 #: living_quarters.txt
@@ -1488,8 +1461,8 @@ msgid "[TITLE]The Manual: Living Quarters[/TITLE]"
 msgstr ""
 
 #: living_quarters.txt
-msgid "Your dwarves don't like to sleep and eat outside in the mud and rain, so you'll like to set up some
-living quarters early on."
+msgid "Your dwarves don't like to sleep and eat outside in the mud and rain, so you'll like to set up some\n"
+"living quarters early on."
 msgstr ""
 
 #: living_quarters.txt
@@ -1497,9 +1470,9 @@ msgid "[C:7:0:1]Sleeping Quarters[C:7:0:0]"
 msgstr ""
 
 #: living_quarters.txt
-msgid "If you build some beds and place them, the dwarves will sleep in them when they are tired.  If you use the building interface
-to create a bedroom, then the first dwarf to sleep in the room will claim it unless you assign a dwarf first.  The better the room,
-the happier the dwarf, but regular workers don't expect much.  Keep your eyes on their thoughts to see how you are doing."
+msgid "If you build some beds and place them, the dwarves will sleep in them when they are tired.  If you use the building interface\n"
+"to create a bedroom, then the first dwarf to sleep in the room will claim it unless you assign a dwarf first.  The better the room,\n"
+"the happier the dwarf, but regular workers don't expect much.  Keep your eyes on their thoughts to see how you are doing."
 msgstr ""
 
 #: living_quarters.txt
@@ -1507,9 +1480,9 @@ msgid "[C:7:0:1]Dining Rooms[C:7:0:0]"
 msgstr ""
 
 #: living_quarters.txt
-msgid "A dwarf expects a decent dining experience.  To keep the dwarves satisfied the bare minimum is a table with an adjacent chair.  You'll
-know that you are doing this correctly because the dwarf will sit on the chair and you'll see the dwarf's meal placed on the table.  Dragging out
-a dining room from the table will enhance the dining experience, but it is not required."
+msgid "A dwarf expects a decent dining experience.  To keep the dwarves satisfied the bare minimum is a table with an adjacent chair.  You'll\n"
+"know that you are doing this correctly because the dwarf will sit on the chair and you'll see the dwarf's meal placed on the table.  Dragging out\n"
+"a dining room from the table will enhance the dining experience, but it is not required."
 msgstr ""
 
 #: living_quarters.txt
@@ -1517,9 +1490,9 @@ msgid "[C:7:0:1]Meeting Halls[C:7:0:0]"
 msgstr ""
 
 #: living_quarters.txt
-msgid "Another way to keep dwarves happy is to give them places to meet and hold social events.  Meeting halls work well for this purpose.  You can
-drag out a meeting hall from a well or a table.  Note that a room dragged out from a table will be a dining room unless you specifically designate it a
-meeting hall."
+msgid "Another way to keep dwarves happy is to give them places to meet and hold social events.  Meeting halls work well for this purpose.  You can\n"
+"drag out a meeting hall from a well or a table.  Note that a room dragged out from a table will be a dining room unless you specifically designate it a\n"
+"meeting hall."
 msgstr ""
 
 #: living_quarters.txt
@@ -1527,8 +1500,8 @@ msgid "[C:7:0:1]Other Rooms[C:7:0:0]"
 msgstr ""
 
 #: living_quarters.txt
-msgid "You can also drag out rooms from statues, cages and chains.  This will create sculpture gardens or zoos, respectively.  You can assign
-these rooms to specific dwarves, or you can leave them as general meeting places."
+msgid "You can also drag out rooms from statues, cages and chains.  This will create sculpture gardens or zoos, respectively.  You can assign\n"
+"these rooms to specific dwarves, or you can leave them as general meeting places."
 msgstr ""
 
 #: living_quarters.txt
@@ -1624,8 +1597,8 @@ msgid "[TITLE]The Manual: The Many Menus[/TITLE]"
 msgstr ""
 
 #: menus.txt
-msgid "Starting from the main dwarf fortress screen, there are many options, and it can
-be difficult to sort things out at first.  Here each choice will be described."
+msgid "Starting from the main dwarf fortress screen, there are many options, and it can\n"
+"be difficult to sort things out at first.  Here each choice will be described."
 msgstr ""
 
 #: menus.txt
@@ -1645,9 +1618,9 @@ msgid "Use [IKEY:CHANGETAB] to cycle through different arrangements of the view 
 msgstr ""
 
 #: menus.txt
-msgid "Keep in mind that you can pause the game at any time using [IKEY:D_PAUSE].  If you want to step through
-the game Very slowly, use [IKEY:D_ONESTEP].  It takes about ten presses of this key for the average dwarf to move one square,
-but it lets you watch battles very precisely if you like."
+msgid "Keep in mind that you can pause the game at any time using [IKEY:D_PAUSE].  If you want to step through\n"
+"the game Very slowly, use [IKEY:D_ONESTEP].  It takes about ten presses of this key for the average dwarf to move one square,\n"
+"but it lets you watch battles very precisely if you like."
 msgstr ""
 
 #: menus.txt
@@ -1663,9 +1636,9 @@ msgid "[C:7:0:1]Placing Buildings[C:7:0:0]"
 msgstr ""
 
 #: menus.txt
-msgid "Press [IKEY:D_BUILDING] to place a building.  Most buildings require some kind of material and a dwarf
-with the proper profession settings to build them.  Note that many buildings first need to be designed
-by a dwarf with the Architecture profession.  Follow the link for more information."
+msgid "Press [IKEY:D_BUILDING] to place a building.  Most buildings require some kind of material and a dwarf\n"
+"with the proper profession settings to build them.  Note that many buildings first need to be designed\n"
+"by a dwarf with the Architecture profession.  Follow the link for more information."
 msgstr ""
 
 #: menus.txt
@@ -1677,8 +1650,8 @@ msgid "[C:7:0:1]Designations[C:7:0:0]"
 msgstr ""
 
 #: menus.txt
-msgid "Press [IKEY:D_DESIGNATE] to designate areas for digging, detailing, plant gathering and wood cutting.
-If a dwarf has the appropriate profession and equipment, work will begin immediately."
+msgid "Press [IKEY:D_DESIGNATE] to designate areas for digging, detailing, plant gathering and wood cutting.\n"
+"If a dwarf has the appropriate profession and equipment, work will begin immediately."
 msgstr ""
 
 #: menus.txt
@@ -1690,9 +1663,9 @@ msgid "[C:7:0:1]View Units[C:7:0:0]"
 msgstr ""
 
 #: menus.txt
-msgid "Press [IKEY:D_VIEWUNIT] to view unit information.  Move the cursor to a unit and you'll see a menu.
-This is where you set professions, view thoughts and wounds, view skills and set soldier preferences,
-among other things."
+msgid "Press [IKEY:D_VIEWUNIT] to view unit information.  Move the cursor to a unit and you'll see a menu.\n"
+"This is where you set professions, view thoughts and wounds, view skills and set soldier preferences,\n"
+"among other things."
 msgstr ""
 
 #: menus.txt
@@ -1704,8 +1677,8 @@ msgid "[C:7:0:1]Create Building Tasks[C:7:0:0]"
 msgstr ""
 
 #: menus.txt
-msgid "Press [IKEY:D_BUILDJOB] to view the task lists for your buildings.  You also create rooms and set
-some other settings using the menus that arise from this selection."
+msgid "Press [IKEY:D_BUILDJOB] to view the task lists for your buildings.  You also create rooms and set\n"
+"some other settings using the menus that arise from this selection."
 msgstr ""
 
 #: menus.txt
@@ -1717,8 +1690,8 @@ msgid "[C:7:0:1]View Building Items[C:7:0:0]"
 msgstr ""
 
 #: menus.txt
-msgid "Press [IKEY:D_BUILDITEM] to view the objects that are in a building.  You'll often find objects
-you thought were missing inside a building."
+msgid "Press [IKEY:D_BUILDITEM] to view the objects that are in a building.  You'll often find objects\n"
+"you thought were missing inside a building."
 msgstr ""
 
 #: menus.txt
@@ -1754,9 +1727,9 @@ msgid "[C:7:0:1]Overall Status[C:7:0:0]"
 msgstr ""
 
 #: menus.txt
-msgid "Press [IKEY:D_STATUS] to view the overall status of your fortress.  You can check your population and
-your food stores.  At first you can also get advice and set preferences for your kitchens and animals.
-Later on several additional menus open up as you attract specialized dwarves."
+msgid "Press [IKEY:D_STATUS] to view the overall status of your fortress.  You can check your population and\n"
+"your food stores.  At first you can also get advice and set preferences for your kitchens and animals.\n"
+"Later on several additional menus open up as you attract specialized dwarves."
 msgstr ""
 
 #: menus.txt
@@ -1780,8 +1753,8 @@ msgid "[C:7:0:1]Room/Building List[C:7:0:0]"
 msgstr ""
 
 #: menus.txt
-msgid "Press [IKEY:D_ROOMS] to view the list of rooms and buildings.  You can also check
-how a dwarf values a room from here."
+msgid "Press [IKEY:D_ROOMS] to view the list of rooms and buildings.  You can also check\n"
+"how a dwarf values a room from here."
 msgstr ""
 
 #: menus.txt
@@ -1793,8 +1766,8 @@ msgid "[C:7:0:1]Job List[C:7:0:0]"
 msgstr ""
 
 #: menus.txt
-msgid "Press [IKEY:D_JOBLIST] to view a list of jobs.  This is similar to the Unit List screen.  If you have a manager,
-you can get to the manager screen from here."
+msgid "Press [IKEY:D_JOBLIST] to view a list of jobs.  This is similar to the Unit List screen.  If you have a manager,\n"
+"you can get to the manager screen from here."
 msgstr ""
 
 #: menus.txt
@@ -1806,8 +1779,8 @@ msgid "[C:7:0:1]Unit List[C:7:0:0]"
 msgstr ""
 
 #: menus.txt
-msgid "Press [IKEY:D_UNITLIST] to view a list of units.  This is similar to the Job List screen.  If you have a manager,
-you can get to the manager screen from here."
+msgid "Press [IKEY:D_UNITLIST] to view a list of units.  This is similar to the Job List screen.  If you have a manager,\n"
+"you can get to the manager screen from here."
 msgstr ""
 
 #: menus.txt
@@ -1815,8 +1788,8 @@ msgid "[C:7:0:1]Military[C:7:0:0]"
 msgstr ""
 
 #: menus.txt
-msgid "Press [IKEY:D_MILITARY] to view and change your military.  You can access the menus of individual squads and set the
-chain of command from this screen."
+msgid "Press [IKEY:D_MILITARY] to view and change your military.  You can access the menus of individual squads and set the\n"
+"chain of command from this screen."
 msgstr ""
 
 #: menus.txt
@@ -1892,8 +1865,8 @@ msgid "An activity zone is an area where your dwarves perform any of a variety o
 msgstr ""
 
 #: menu_activity_zones.txt
-msgid "First you need to place an activity zone.  This is done by selecting two of its opposing corners with your cursor.
-As you move to the second corner, you will be shown a count of how many of the squares in the rectangle are valid for a given activity."
+msgid "First you need to place an activity zone.  This is done by selecting two of its opposing corners with your cursor.\n"
+"As you move to the second corner, you will be shown a count of how many of the squares in the rectangle are valid for a given activity."
 msgstr ""
 
 #: menu_activity_zones.txt
@@ -1953,8 +1926,8 @@ msgid "This menu allows you to look inside buildings.  A cursor will appear on t
 msgstr ""
 
 #: menu_builditem.txt
-msgid "The contents of the closest building are displayed, along with instructions on how to select items.  You can view items from this menu, and you can
-order the removal of the building.  You can also view the progress of building construction from this menu."
+msgid "The contents of the closest building are displayed, along with instructions on how to select items.  You can view items from this menu, and you can\n"
+"order the removal of the building.  You can also view the progress of building construction from this menu."
 msgstr ""
 
 #: menu_builditem.txt
@@ -2018,8 +1991,8 @@ msgid "[C:7:0:1]Standard Menu[C:7:0:0]"
 msgstr ""
 
 #: menu_buildjob.txt
-msgid "Most buildings, including workshops, use a standard menu.  Here you can create tasks, set their priority, cancel them,
-or set them to repeat.  Any healthy unoccupied dwarf with the proper professions will perform these tasks."
+msgid "Most buildings, including workshops, use a standard menu.  Here you can create tasks, set their priority, cancel them,\n"
+"or set them to repeat.  Any healthy unoccupied dwarf with the proper professions will perform these tasks."
 msgstr ""
 
 #: menu_buildjob.txt
@@ -2075,8 +2048,8 @@ msgid "Press [IKEY:D_BUILDJOB] from the main view and move to an animal trap."
 msgstr ""
 
 #: menu_buildjob_animaltrap.txt
-msgid "Animal traps catch small animals.  In order for them to be effective, bait must be used.  The type of bait determines the possible captive.
-Do not use gems."
+msgid "Animal traps catch small animals.  In order for them to be effective, bait must be used.  The type of bait determines the possible captive.\n"
+"Do not use gems."
 msgstr ""
 
 #: menu_buildjob_animaltrap.txt
@@ -2100,8 +2073,8 @@ msgid "If merchants have arrived and unloaded their goods, you can trade with th
 msgstr ""
 
 #: menu_buildjob_depot.txt
-msgid "When trading, you select goods on both sides of the partition.  Then you can trade.
-The merchant will give you feedback and make a counter offer if possible."
+msgid "When trading, you select goods on both sides of the partition.  Then you can trade.\n"
+"The merchant will give you feedback and make a counter offer if possible."
 msgstr ""
 
 #: menu_buildjob_depot.txt
@@ -2149,9 +2122,9 @@ msgid "Press [IKEY:D_BUILDJOB] from the main view and move to a farm plot."
 msgstr ""
 
 #: menu_buildjob_farmplot.txt
-msgid "Here you can select which crop to plant in the farm plot each season.
-There is no reason to let a field stand fallow at the present time.
-Prepare multiple plots to plant more than one crop type per season."
+msgid "Here you can select which crop to plant in the farm plot each season.\n"
+"There is no reason to let a field stand fallow at the present time.\n"
+"Prepare multiple plots to plant more than one crop type per season."
 msgstr ""
 
 #: menu_buildjob_farmplot.txt
@@ -2171,9 +2144,9 @@ msgid "Press [IKEY:D_BUILDJOB] from the main view and move to a lever (or pressu
 msgstr ""
 
 #: menu_buildjob_lever.txt
-msgid "The lever menu is a standard menu, but the tasks are unusual.  The lever (or pressure plate) can be linked to one or
-more buildings.  Pulling the lever (or stepping on the pressure plate) causes the effect to be trigger.  Linking a
-building requires two mechanisms and takes some time."
+msgid "The lever menu is a standard menu, but the tasks are unusual.  The lever (or pressure plate) can be linked to one or\n"
+"more buildings.  Pulling the lever (or stepping on the pressure plate) causes the effect to be trigger.  Linking a\n"
+"building requires two mechanisms and takes some time."
 msgstr ""
 
 #: menu_buildjob_lever.txt
@@ -2217,8 +2190,8 @@ msgid "If accounts are active, press [IKEY:D_BUILDJOB] from the main view and mo
 msgstr ""
 
 #: menu_buildjob_shop.txt
-msgid "Shops are run by their shopkeeper.  You do not have any control over what happens here, but you
-can view the status of the shop here."
+msgid "Shops are run by their shopkeeper.  You do not have any control over what happens here, but you\n"
+"can view the status of the shop here."
 msgstr ""
 
 #: menu_buildjob_siege.txt
@@ -2230,13 +2203,13 @@ msgid "Press [IKEY:D_BUILDJOB] from the main view and move to a siege engine."
 msgstr ""
 
 #: menu_buildjob_siege.txt
-msgid "You can orient a siege engine and set its firing state.  Siege engines require ammunition.  Ballistas require specially constructed arrows.
-Any stone will work in a catapult."
+msgid "You can orient a siege engine and set its firing state.  Siege engines require ammunition.  Ballistas require specially constructed arrows.\n"
+"Any stone will work in a catapult."
 msgstr ""
 
 #: menu_buildjob_siege.txt
-msgid "Siege engines work best against large armies since the firing is imprecise, although having a ballista set to
-fire down a hallway is an option that can provide some relief from invading forces that enter your fortress."
+msgid "Siege engines work best against large armies since the firing is imprecise, although having a ballista set to\n"
+"fire down a hallway is an option that can provide some relief from invading forces that enter your fortress."
 msgstr ""
 
 #: menu_buildjob_stockpile.txt
@@ -2252,9 +2225,9 @@ msgid "Here you can customize stockpile settings."
 msgstr ""
 
 #: menu_buildjob_stockpile.txt
-msgid "You can make one pile want items from another pile.
-Once you select \"take from a pile\", move to another pile and press [IKEY:SELECT].
-You'll see the second pile appear in a list."
+msgid "You can make one pile want items from another pile.\n"
+"Once you select \"take from a pile\", move to another pile and press [IKEY:SELECT].\n"
+"You'll see the second pile appear in a list."
 msgstr ""
 
 #: menu_civlist.txt
@@ -2266,14 +2239,14 @@ msgid "Press [IKEY:D_CIVLIST] from the main view."
 msgstr ""
 
 #: menu_civlist.txt
-msgid "Here you have a list of the civilizations.
-Use [IKEY:STANDARDSCROLL_UP][IKEY:STANDARDSCROLL_DOWN][IKEY:STANDARDSCROLL_PAGEUP][IKEY:STANDARDSCROLL_PAGEDOWN] to scroll."
+msgid "Here you have a list of the civilizations.\n"
+"Use [IKEY:STANDARDSCROLL_UP][IKEY:STANDARDSCROLL_DOWN][IKEY:STANDARDSCROLL_PAGEUP][IKEY:STANDARDSCROLL_PAGEDOWN] to scroll."
 msgstr ""
 
 #: menu_civlist.txt
-msgid "Depending on the number of civilizations you've located, there will be two columns of [C:2:1:1]P[C:7:0:0]s and [C:6:4:1]W[C:7:0:0]s.
-The first column indicates the state of peace/war with your civilization, and the second relates the currently selected civilization to
-the other civilizations."
+msgid "Depending on the number of civilizations you've located, there will be two columns of [C:2:1:1]P[C:7:0:0]s and [C:6:4:1]W[C:7:0:0]s.\n"
+"The first column indicates the state of peace/war with your civilization, and the second relates the currently selected civilization to\n"
+"the other civilizations."
 msgstr ""
 
 #: menu_civlist.txt
@@ -2301,19 +2274,19 @@ msgid "Use the displayed keys to select which type of activity you are designati
 msgstr ""
 
 #: menu_designations.txt
-msgid "Press [IKEY:SELECT] to place one corner of the area you are designating.  All designated areas are rectangles.
-Move the cursor and press [IKEY:SELECT] again to finish the designation."
+msgid "Press [IKEY:SELECT] to place one corner of the area you are designating.  All designated areas are rectangles.\n"
+"Move the cursor and press [IKEY:SELECT] again to finish the designation."
 msgstr ""
 
 #: menu_designations.txt
-msgid "If your designated area has encompassed any appropriate map squares, they will become highlighted.  Detail
-highlighting is not always visible, but you can view it whenever you are designating.  Dig, chop and gather detailing
-is always visible."
+msgid "If your designated area has encompassed any appropriate map squares, they will become highlighted.  Detail\n"
+"highlighting is not always visible, but you can view it whenever you are designating.  Dig, chop and gather detailing\n"
+"is always visible."
 msgstr ""
 
 #: menu_designations.txt
-msgid "Removing designations works in the same way as assigning them.  Any highlighted designations that are encompassed by
-your rectangle will be removed.  This includes any active jobs."
+msgid "Removing designations works in the same way as assigning them.  Any highlighted designations that are encompassed by\n"
+"your rectangle will be removed.  This includes any active jobs."
 msgstr ""
 
 #: menu_designations.txt
@@ -2337,9 +2310,9 @@ msgid "[C:7:0:1]Fortifications[C:7:0:0]"
 msgstr ""
 
 #: menu_designations.txt
-msgid "Any detailed wall that is open on opposing sides (up/down or left/right) can be turned into a fortification.  Fortifications have no
-monetary value, as opposed to normal detailed walls.  However, dwarves can fire through fortifications.  If you have dwarves equipped
-with crossbows, they can be positioned safely behind fortifications, which still act as walls."
+msgid "Any detailed wall that is open on opposing sides (up/down or left/right) can be turned into a fortification.  Fortifications have no\n"
+"monetary value, as opposed to normal detailed walls.  However, dwarves can fire through fortifications.  If you have dwarves equipped\n"
+"with crossbows, they can be positioned safely behind fortifications, which still act as walls."
 msgstr ""
 
 #: menu_designations.txt
@@ -2375,13 +2348,13 @@ msgid "[TITLE]The Manual: Job/Unit List[/TITLE]"
 msgstr ""
 
 #: menu_jobunitlist.txt
-msgid "Press [IKEY:D_JOBLIST] or press [IKEY:D_UNITLIST] from the main view.  The first emphasizes jobs and the
-second emphasizes units."
+msgid "Press [IKEY:D_JOBLIST] or press [IKEY:D_UNITLIST] from the main view.  The first emphasizes jobs and the\n"
+"second emphasizes units."
 msgstr ""
 
 #: menu_jobunitlist.txt
-msgid "This screen is a convenient way to few which tasks are active in the fortress and what your dwarves are doing.
-Use [IKEY:STANDARDSCROLL_UP][IKEY:STANDARDSCROLL_DOWN][IKEY:STANDARDSCROLL_PAGEUP][IKEY:STANDARDSCROLL_PAGEDOWN] to scroll."
+msgid "This screen is a convenient way to few which tasks are active in the fortress and what your dwarves are doing.\n"
+"Use [IKEY:STANDARDSCROLL_UP][IKEY:STANDARDSCROLL_DOWN][IKEY:STANDARDSCROLL_PAGEUP][IKEY:STANDARDSCROLL_PAGEDOWN] to scroll."
 msgstr ""
 
 #: menu_jobunitlist.txt
@@ -2437,8 +2410,8 @@ msgid "If you don't have the required materials, you will be told what you need.
 msgstr ""
 
 #: menu_make_buildings.txt
-msgid "Once you are ready to place a building, you'll see one or many Xs appear on the screen.  You can maneuver these in the same way as the standard cursor.
-This is the location of your new building.  Some buildings have additional options for sizing and orientation."
+msgid "Once you are ready to place a building, you'll see one or many Xs appear on the screen.  You can maneuver these in the same way as the standard cursor.\n"
+"This is the location of your new building.  Some buildings have additional options for sizing and orientation."
 msgstr ""
 
 #: menu_make_buildings.txt
@@ -2462,13 +2435,13 @@ msgid "The [C:4:0:1]X[C:7:0:0] can also appear in other special cases.  The reas
 msgstr ""
 
 #: menu_make_buildings.txt
-msgid "Once a building is placed, you'll be able to choose the objects you want to use from a list.  Some buildings require multiple items.
-And of these, some buildings like bridges can be sized according to how many objects you select.  Other buildings like dirt roads do not require items."
+msgid "Once a building is placed, you'll be able to choose the objects you want to use from a list.  Some buildings require multiple items.\n"
+"And of these, some buildings like bridges can be sized according to how many objects you select.  Other buildings like dirt roads do not require items."
 msgstr ""
 
 #: menu_make_buildings.txt
-msgid "When you've finished selecting items, healthy unoccupied dwarves with the appropriate professions will get to work on it.  Some buildings require an architect
-to design them.  Some require a carpenter or mason, while others require a dwarf of the profession used by the building's tasks."
+msgid "When you've finished selecting items, healthy unoccupied dwarves with the appropriate professions will get to work on it.  Some buildings require an architect\n"
+"to design them.  Some require a carpenter or mason, while others require a dwarf of the profession used by the building's tasks."
 msgstr ""
 
 #: menu_manager.txt
@@ -2492,8 +2465,8 @@ msgid "Press [IKEY:MANAGER_NEW_ORDER] to set up a new order.  You'll be faced wi
 msgstr ""
 
 #: menu_manager.txt
-msgid "Type a portion of the name of the task you are looking for to narrow down the list.
-Use [IKEY:STANDARDSCROLL_UP][IKEY:STANDARDSCROLL_DOWN][IKEY:STANDARDSCROLL_LEFT][IKEY:STANDARDSCROLL_RIGHT][IKEY:STANDARDSCROLL_PAGEUP][IKEY:STANDARDSCROLL_PAGEDOWN] to scroll."
+msgid "Type a portion of the name of the task you are looking for to narrow down the list.\n"
+"Use [IKEY:STANDARDSCROLL_UP][IKEY:STANDARDSCROLL_DOWN][IKEY:STANDARDSCROLL_LEFT][IKEY:STANDARDSCROLL_RIGHT][IKEY:STANDARDSCROLL_PAGEUP][IKEY:STANDARDSCROLL_PAGEDOWN] to scroll."
 msgstr ""
 
 #: menu_manager.txt
@@ -2537,8 +2510,8 @@ msgid "Press [IKEY:D_NOBLES] from the main view."
 msgstr ""
 
 #: menu_nobles.txt
-msgid "These are the important figures in your fortress.
-Use [IKEY:STANDARDSCROLL_UP][IKEY:STANDARDSCROLL_DOWN][IKEY:STANDARDSCROLL_PAGEUP][IKEY:STANDARDSCROLL_PAGEDOWN] to scroll."
+msgid "These are the important figures in your fortress.\n"
+"Use [IKEY:STANDARDSCROLL_UP][IKEY:STANDARDSCROLL_DOWN][IKEY:STANDARDSCROLL_PAGEUP][IKEY:STANDARDSCROLL_PAGEDOWN] to scroll."
 msgstr ""
 
 #: menu_nobles.txt
@@ -2654,8 +2627,8 @@ msgid "Press [IKEY:D_ORDERS] from the main view."
 msgstr ""
 
 #: menu_orders.txt
-msgid "Here you'll find a number of options that govern the behavior of your dwarves.
-The descriptions of each follow."
+msgid "Here you'll find a number of options that govern the behavior of your dwarves.\n"
+"The descriptions of each follow."
 msgstr ""
 
 #: menu_orders.txt
@@ -2663,9 +2636,9 @@ msgid "[C:7:0:1]Cancellation Announcements[C:7:0:0]"
 msgstr ""
 
 #: menu_orders.txt
-msgid "The game announces when jobs fail, unless you don't want to hear about it.
-Some of these announcements are important, while others are just incidental.
-The default setting is good for most purposes, but if you find it intrusive, change it here."
+msgid "The game announces when jobs fail, unless you don't want to hear about it.\n"
+"Some of these announcements are important, while others are just incidental.\n"
+"The default setting is good for most purposes, but if you find it intrusive, change it here."
 msgstr ""
 
 #: menu_orders.txt
@@ -2737,8 +2710,8 @@ msgid "[C:7:0:1]Harvesting[C:7:0:0]"
 msgstr ""
 
 #: menu_orders.txt
-msgid "By default, all dwarves help with the harvest, even nobles.  This is to prevent the loss of food.  If you feel
-you have the situation under control, you can set only your farmers to harvest."
+msgid "By default, all dwarves help with the harvest, even nobles.  This is to prevent the loss of food.  If you feel\n"
+"you have the situation under control, you can set only your farmers to harvest."
 msgstr ""
 
 #: menu_orders.txt
@@ -2746,8 +2719,8 @@ msgid "[C:7:0:1]Food Mixing[C:7:0:0]"
 msgstr ""
 
 #: menu_orders.txt
-msgid "By default, dwarves will put all meats in a \"meat barrel\" and all plants in a \"plant barrel\", for example.  If
-you'd like them to separate foods out more specifically, you can do that here."
+msgid "By default, dwarves will put all meats in a \"meat barrel\" and all plants in a \"plant barrel\", for example.  If\n"
+"you'd like them to separate foods out more specifically, you can do that here."
 msgstr ""
 
 #: menu_orders.txt
@@ -2771,8 +2744,8 @@ msgid "[TITLE]The Manual: Setting Professions[/TITLE]"
 msgstr ""
 
 #: menu_professions.txt
-msgid "Press [IKEY:D_VIEWUNIT] from the main view and move to the desired unit.
-After that, press [IKEY:UNITVIEW_PRF] followed by [IKEY:UNITVIEW_PRF_PROF]."
+msgid "Press [IKEY:D_VIEWUNIT] from the main view and move to the desired unit.\n"
+"After that, press [IKEY:UNITVIEW_PRF] followed by [IKEY:UNITVIEW_PRF_PROF]."
 msgstr ""
 
 #: menu_professions.txt
@@ -2792,8 +2765,8 @@ msgid "Press [IKEY:D_ROOMS] from the main view."
 msgstr ""
 
 #: menu_roomlist.txt
-msgid "Here you have a list of all of the buildings in the fortress, starting with the proper rooms.
-Use [IKEY:STANDARDSCROLL_UP][IKEY:STANDARDSCROLL_DOWN][IKEY:STANDARDSCROLL_PAGEUP][IKEY:STANDARDSCROLL_PAGEDOWN] to scroll."
+msgid "Here you have a list of all of the buildings in the fortress, starting with the proper rooms.\n"
+"Use [IKEY:STANDARDSCROLL_UP][IKEY:STANDARDSCROLL_DOWN][IKEY:STANDARDSCROLL_PAGEUP][IKEY:STANDARDSCROLL_PAGEDOWN] to scroll."
 msgstr ""
 
 #: menu_roomlist.txt
@@ -2801,18 +2774,18 @@ msgid "On the right, there is a map of your fortress and the location of the roo
 msgstr ""
 
 #: menu_roomlist.txt
-msgid "If you press [IKEY:CHANGETAB], and the room has an owner, you'll be presented with two evaluations of the room.
-One of them is impartial.  The other is based on the perception of the owner."
+msgid "If you press [IKEY:CHANGETAB], and the room has an owner, you'll be presented with two evaluations of the room.\n"
+"One of them is impartial.  The other is based on the perception of the owner."
 msgstr ""
 
 #: menu_roomlist.txt
-msgid "If you use materials that
-a dwarf prefers, you can often save objects and building space when you are trying to meet requirements."
+msgid "If you use materials that\n"
+"a dwarf prefers, you can often save objects and building space when you are trying to meet requirements."
 msgstr ""
 
 #: menu_roomlist.txt
-msgid "If a room is shared by a spouse, you'll also be able to view the spouse's evaluation.  Note that it
-might say \"[[Name]] / Spouse\" but you receive no spouse evaluation.  This means that the spouse is dead."
+msgid "If a room is shared by a spouse, you'll also be able to view the spouse's evaluation.  Note that it\n"
+"might say \"[[Name]] / Spouse\" but you receive no spouse evaluation.  This means that the spouse is dead."
 msgstr ""
 
 #: menu_rooms.txt
@@ -2824,18 +2797,18 @@ msgid "Press [IKEY:D_BUILDJOB] from the main view and move to one of the buildin
 msgstr ""
 
 #: menu_rooms.txt
-msgid "Many buildings allow you to create rooms.  Many other buildings are \"masterable\" by a room.  For instance,
-if you place a chest in a bedroom, that chest will be associated to that bedroom, and the occupant of the bedroom will use it for storage."
+msgid "Many buildings allow you to create rooms.  Many other buildings are \"masterable\" by a room.  For instance,\n"
+"if you place a chest in a bedroom, that chest will be associated to that bedroom, and the occupant of the bedroom will use it for storage."
 msgstr ""
 
 #: menu_rooms.txt
-msgid "You create a room by selecting the appropriate option from the menu, and then sizing the room.  You'll see flashing [C:3:0:1]X[C:7:0:0]s.
-These are the floor plan of the room."
+msgid "You create a room by selecting the appropriate option from the menu, and then sizing the room.  You'll see flashing [C:3:0:1]X[C:7:0:0]s.\n"
+"These are the floor plan of the room."
 msgstr ""
 
 #: menu_rooms.txt
-msgid "If you are making rooms for individual dwarves to use, it is best for them to have wall/door/window boundaries,
-and for them not to be shared with other rooms."
+msgid "If you are making rooms for individual dwarves to use, it is best for them to have wall/door/window boundaries,\n"
+"and for them not to be shared with other rooms."
 msgstr ""
 
 #: menu_rooms.txt
@@ -2847,8 +2820,8 @@ msgid "[C:7:0:1]Bed[C:7:0:0]"
 msgstr ""
 
 #: menu_rooms.txt
-msgid "Use beds to create rooms for dwarves to sleep in, or a barracks for soldiers to sleep in.  Beds that are not set as rooms are used
-by homeless dwarves and for medical care."
+msgid "Use beds to create rooms for dwarves to sleep in, or a barracks for soldiers to sleep in.  Beds that are not set as rooms are used\n"
+"by homeless dwarves and for medical care."
 msgstr ""
 
 #: menu_rooms.txt
@@ -2856,8 +2829,8 @@ msgid "[C:7:0:1]Table[C:7:0:0]"
 msgstr ""
 
 #: menu_rooms.txt
-msgid "Use tables to create dining rooms.  Once a dining room is created, you can designate it as a meeting hall.  Creating a number of meeting halls
-as your fortress grows is a good way to get your dwarves to make new friends.  They will also organize parties in meeting halls."
+msgid "Use tables to create dining rooms.  Once a dining room is created, you can designate it as a meeting hall.  Creating a number of meeting halls\n"
+"as your fortress grows is a good way to get your dwarves to make new friends.  They will also organize parties in meeting halls."
 msgstr ""
 
 #: menu_rooms.txt
@@ -2873,9 +2846,9 @@ msgid "[C:7:0:1]Coffin[C:7:0:0]"
 msgstr ""
 
 #: menu_rooms.txt
-msgid "Place coffins for your dwarves to be buried in.  If they are set on \"general burial\", any needy corpse will be placed in the coffin.  Certain nobles
-require tombs to be buried in.  This is the room that you drag out, and then assign to the noble prior to death.  If a dwarf has a tomb, they will
-keep their possessions after death and they'll be moved to the tomb.  Otherwise all possessions will revert to the fortress."
+msgid "Place coffins for your dwarves to be buried in.  If they are set on \"general burial\", any needy corpse will be placed in the coffin.  Certain nobles\n"
+"require tombs to be buried in.  This is the room that you drag out, and then assign to the noble prior to death.  If a dwarf has a tomb, they will\n"
+"keep their possessions after death and they'll be moved to the tomb.  Otherwise all possessions will revert to the fortress."
 msgstr ""
 
 #: menu_rooms.txt
@@ -2899,8 +2872,8 @@ msgid "The officer in charge of a criminal will place prisoners in any free just
 msgstr ""
 
 #: menu_rooms.txt
-msgid "If you are using an appropriate cage, you can designate it as an aquarium.  It will then be filled with water by a free dwarf, and you can place
-live aquatic creatures inside for the viewing pleasure of passersby."
+msgid "If you are using an appropriate cage, you can designate it as an aquarium.  It will then be filled with water by a free dwarf, and you can place\n"
+"live aquatic creatures inside for the viewing pleasure of passersby."
 msgstr ""
 
 #: menu_rooms.txt
@@ -2916,8 +2889,8 @@ msgid "[C:7:0:1]Statue[C:7:0:0]"
 msgstr ""
 
 #: menu_rooms.txt
-msgid "A statue can be made into a sculpture garden.  These can be kept public or assigned to dwarves for private use.  Any building mastered by
-a sculpture garden gives bonuses to the art-appreciation assessments that dwarves make as they wander your fortress."
+msgid "A statue can be made into a sculpture garden.  These can be kept public or assigned to dwarves for private use.  Any building mastered by\n"
+"a sculpture garden gives bonuses to the art-appreciation assessments that dwarves make as they wander your fortress."
 msgstr ""
 
 #: menu_rooms.txt
@@ -2925,8 +2898,8 @@ msgid "[C:7:0:1]Archery Target[C:7:0:0]"
 msgstr ""
 
 #: menu_rooms.txt
-msgid "You need to create a room from an archery target to tell potential marksdwarves where to stand.  The room doesn't need to be large, but
-they should stand a few squares away from the target."
+msgid "You need to create a room from an archery target to tell potential marksdwarves where to stand.  The room doesn't need to be large, but\n"
+"they should stand a few squares away from the target."
 msgstr ""
 
 #: menu_squads.txt
@@ -2970,13 +2943,13 @@ msgid "From the status screen, you can get lots of information about your fortre
 msgstr ""
 
 #: menu_status.txt
-msgid "In the beginning, you'll see your food stores and a population breakdown, as well as some options across the top.  When you appoint some
-skilled administrative dwarves, you'll also get some additional information about your wealth and trade statistics."
+msgid "In the beginning, you'll see your food stores and a population breakdown, as well as some options across the top.  When you appoint some\n"
+"skilled administrative dwarves, you'll also get some additional information about your wealth and trade statistics."
 msgstr ""
 
 #: menu_status.txt
-msgid "The options at the top take you to additional status screens.
-Use [IKEY:STANDARDSCROLL_LEFT] and [IKEY:STANDARDSCROLL_RIGHT] to move, and [IKEY:SELECT] to select."
+msgid "The options at the top take you to additional status screens.\n"
+"Use [IKEY:STANDARDSCROLL_LEFT] and [IKEY:STANDARDSCROLL_RIGHT] to move, and [IKEY:SELECT] to select."
 msgstr ""
 
 #: menu_status.txt
@@ -3004,8 +2977,8 @@ msgid "Press [IKEY:D_STATUS] from the main view, scroll to \"Animals\" and press
 msgstr ""
 
 #: menu_status_animals.txt
-msgid "This lists all of the animals in your fortress.
-Use [IKEY:STANDARDSCROLL_UP][IKEY:STANDARDSCROLL_DOWN][IKEY:STANDARDSCROLL_PAGEUP][IKEY:STANDARDSCROLL_PAGEDOWN] to scroll."
+msgid "This lists all of the animals in your fortress.\n"
+"Use [IKEY:STANDARDSCROLL_UP][IKEY:STANDARDSCROLL_DOWN][IKEY:STANDARDSCROLL_PAGEUP][IKEY:STANDARDSCROLL_PAGEDOWN] to scroll."
 msgstr ""
 
 #: menu_status_animals.txt
@@ -3037,8 +3010,8 @@ msgid "If you have a sheriff or captain of the guard, press [IKEY:D_STATUS] from
 msgstr ""
 
 #: menu_status_justice.txt
-msgid "Here you can view a list of all of the fortress's criminals.
-Use [IKEY:STANDARDSCROLL_UP][IKEY:STANDARDSCROLL_DOWN][IKEY:STANDARDSCROLL_PAGEUP][IKEY:STANDARDSCROLL_PAGEDOWN] to scroll."
+msgid "Here you can view a list of all of the fortress's criminals.\n"
+"Use [IKEY:STANDARDSCROLL_UP][IKEY:STANDARDSCROLL_DOWN][IKEY:STANDARDSCROLL_PAGEUP][IKEY:STANDARDSCROLL_PAGEDOWN] to scroll."
 msgstr ""
 
 #: menu_status_justice.txt
@@ -3062,14 +3035,14 @@ msgid "[C:7:0:1]Dwarven Justice and You[C:7:0:0]"
 msgstr ""
 
 #: menu_status_justice.txt
-msgid "Many crimes are committed by dwarves throwing tantrums.  However, crimes can occur when you break a mandate.  When a mandate is broken, the
-offended noble blames a related dwarf.  So if you fail to make metal goods, a metalsmith is charged with violation of a production order.  If you
-export a prohibited item, the dwarf that brought it to the trade depot is charged."
+msgid "Many crimes are committed by dwarves throwing tantrums.  However, crimes can occur when you break a mandate.  When a mandate is broken, the\n"
+"offended noble blames a related dwarf.  So if you fail to make metal goods, a metalsmith is charged with violation of a production order.  If you\n"
+"export a prohibited item, the dwarf that brought it to the trade depot is charged."
 msgstr ""
 
 #: menu_status_justice.txt
-msgid "Dwarven justice can be very harsh, especially if the offended noble has a high rank.  It is therefore very important to obey mandates given out
-by the nobles, lest your prized metalsmith be subjected to five hammerstrikes."
+msgid "Dwarven justice can be very harsh, especially if the offended noble has a high rank.  It is therefore very important to obey mandates given out\n"
+"by the nobles, lest your prized metalsmith be subjected to five hammerstrikes."
 msgstr ""
 
 #: menu_status_justice.txt
@@ -3077,18 +3050,18 @@ msgid "[C:7:0:1]The Hammerer[C:7:0:0]"
 msgstr ""
 
 #: menu_status_justice.txt
-msgid "Hammering is the ultimate form of dwarven punishment.  The criminal is brought to a justice chain by the Hammerer and restrained.
-The location of the hammerstrikes is calculated by the Hammerer, determined by an ancient formula.  Dwarves do not gather and spectate at such events."
+msgid "Hammering is the ultimate form of dwarven punishment.  The criminal is brought to a justice chain by the Hammerer and restrained.\n"
+"The location of the hammerstrikes is calculated by the Hammerer, determined by an ancient formula.  Dwarves do not gather and spectate at such events."
 msgstr ""
 
 #: menu_status_justice.txt
-msgid "Given such a sentence, death is not uncommon.  The Hammerer is not swayed by the
-pleas of a friend or even his or her own spouse at the time of the punishment, although the Hammerer is not immune to later anguish and can sink into bitter depression."
+msgid "Given such a sentence, death is not uncommon.  The Hammerer is not swayed by the\n"
+"pleas of a friend or even his or her own spouse at the time of the punishment, although the Hammerer is not immune to later anguish and can sink into bitter depression."
 msgstr ""
 
 #: menu_status_justice.txt
-msgid "Particularly egregious crimes are punished by execution.  Typically, an execution is a sentence of 50 to 100 hammerstrikes.  If the condemned dwarf somehow
-survives, no further punishment is carried out and the dwarf can rejoin society to the extent that they are able."
+msgid "Particularly egregious crimes are punished by execution.  Typically, an execution is a sentence of 50 to 100 hammerstrikes.  If the condemned dwarf somehow\n"
+"survives, no further punishment is carried out and the dwarf can rejoin society to the extent that they are able."
 msgstr ""
 
 #: menu_status_justice.txt
@@ -3104,8 +3077,8 @@ msgid "Press [IKEY:D_STATUS] from the main view, scroll to \"Kitchen\" and press
 msgstr ""
 
 #: menu_status_kitchen.txt
-msgid "Here you can set whether or not different kinds of food are cooked or brewed.
-Use [IKEY:STANDARDSCROLL_UP][IKEY:STANDARDSCROLL_DOWN][IKEY:STANDARDSCROLL_PAGEUP][IKEY:STANDARDSCROLL_PAGEDOWN] to scroll."
+msgid "Here you can set whether or not different kinds of food are cooked or brewed.\n"
+"Use [IKEY:STANDARDSCROLL_UP][IKEY:STANDARDSCROLL_DOWN][IKEY:STANDARDSCROLL_PAGEUP][IKEY:STANDARDSCROLL_PAGEDOWN] to scroll."
 msgstr ""
 
 #: menu_status_kitchen.txt
@@ -3121,13 +3094,13 @@ msgid "If accounts are active, press [IKEY:D_STATUS] from the main view, scroll 
 msgstr ""
 
 #: menu_status_prices.txt
-msgid "Here you can view the relative prices of objects.
-Use [IKEY:STANDARDSCROLL_UP][IKEY:STANDARDSCROLL_DOWN][IKEY:STANDARDSCROLL_PAGEUP][IKEY:STANDARDSCROLL_PAGEDOWN] to scroll."
+msgid "Here you can view the relative prices of objects.\n"
+"Use [IKEY:STANDARDSCROLL_UP][IKEY:STANDARDSCROLL_DOWN][IKEY:STANDARDSCROLL_PAGEUP][IKEY:STANDARDSCROLL_PAGEDOWN] to scroll."
 msgstr ""
 
 #: menu_status_prices.txt
-msgid "Prices are displayed as a percentage.  These are originally set by the bookkeeper corresponding to item availability, but occasionally nobles
-will tweak prices to make objects they like harder for peasants to buy.  Produce more of an object or material to make it cheaper."
+msgid "Prices are displayed as a percentage.  These are originally set by the bookkeeper corresponding to item availability, but occasionally nobles\n"
+"will tweak prices to make objects they like harder for peasants to buy.  Produce more of an object or material to make it cheaper."
 msgstr ""
 
 #: menu_status_prices.txt
@@ -3147,13 +3120,13 @@ msgid "If you have a bookkeeper, press [IKEY:D_STATUS] from the main view, scrol
 msgstr ""
 
 #: menu_status_stocks.txt
-msgid "Here you can view every single object on the map.
-Use [IKEY:STANDARDSCROLL_UP][IKEY:STANDARDSCROLL_DOWN][IKEY:STANDARDSCROLL_LEFT][IKEY:STANDARDSCROLL_RIGHT][IKEY:STANDARDSCROLL_PAGEUP][IKEY:STANDARDSCROLL_PAGEDOWN] to scroll."
+msgid "Here you can view every single object on the map.\n"
+"Use [IKEY:STANDARDSCROLL_UP][IKEY:STANDARDSCROLL_DOWN][IKEY:STANDARDSCROLL_LEFT][IKEY:STANDARDSCROLL_RIGHT][IKEY:STANDARDSCROLL_PAGEUP][IKEY:STANDARDSCROLL_PAGEDOWN] to scroll."
 msgstr ""
 
 #: menu_status_stocks.txt
-msgid "There are two modes.  One compresses the item list for convenience, and one displays the items individually in a list.  When you are in
-the individual list, you can view an object's description or zoom to its location on the map."
+msgid "There are two modes.  One compresses the item list for convenience, and one displays the items individually in a list.  When you are in\n"
+"the individual list, you can view an object's description or zoom to its location on the map."
 msgstr ""
 
 #: menu_status_stocks.txt
@@ -3169,8 +3142,8 @@ msgid "Press [IKEY:D_STATUS] from the main view, scroll to \"Stone\" and press [
 msgstr ""
 
 #: menu_status_stone.txt
-msgid "Here you can set whether or not the economically valuable stones are used by the mason and others for tasks that don't relate directly to their primary economic value.  For instance, limestone can be used in the production of steel, but if you select limestone here, you can use it to make a limestone throne or limestone trinkets.
-Use [IKEY:STANDARDSCROLL_UP][IKEY:STANDARDSCROLL_DOWN][IKEY:STANDARDSCROLL_PAGEUP][IKEY:STANDARDSCROLL_PAGEDOWN] to scroll."
+msgid "Here you can set whether or not the economically valuable stones are used by the mason and others for tasks that don't relate directly to their primary economic value.  For instance, limestone can be used in the production of steel, but if you select limestone here, you can use it to make a limestone throne or limestone trinkets.\n"
+"Use [IKEY:STANDARDSCROLL_UP][IKEY:STANDARDSCROLL_DOWN][IKEY:STANDARDSCROLL_PAGEUP][IKEY:STANDARDSCROLL_PAGEDOWN] to scroll."
 msgstr ""
 
 #: menu_stockpiles.txt
@@ -3190,13 +3163,13 @@ msgid "[LINK:data/help/storage]More on Storage[/LINK]"
 msgstr ""
 
 #: menu_stockpiles.txt
-msgid "When you get to the stockpile menu, you'll be faced by several stockpile options.  Each of these stockpile
-types holds different kinds of objects."
+msgid "When you get to the stockpile menu, you'll be faced by several stockpile options.  Each of these stockpile\n"
+"types holds different kinds of objects."
 msgstr ""
 
 #: menu_stockpiles.txt
-msgid "To place a stockpile, press [IKEY:SELECT] to designate one corner, move the cursor, and press [IKEY:SELECT] again to finish.
-Stockpiles are denoted by [C:0:0:1]=[C:7:0:0].  You can only have one type of stockpile per square, and they cannot be placed on buildings."
+msgid "To place a stockpile, press [IKEY:SELECT] to designate one corner, move the cursor, and press [IKEY:SELECT] again to finish.\n"
+"Stockpiles are denoted by [C:0:0:1]=[C:7:0:0].  You can only have one type of stockpile per square, and they cannot be placed on buildings."
 msgstr ""
 
 #: menu_stockpiles.txt
@@ -3216,9 +3189,9 @@ msgid "[C:7:0:1]Refuse Stockpile[C:7:0:0]"
 msgstr ""
 
 #: menu_stockpiles.txt
-msgid "This holds anything inedible that can rot, as well as tattered clothing, bones and shells.
-It's important to get refuse above ground before it starts to stink and bother your dwarves.
-You'll notice purple clouds in your cave if something is rotting indoors."
+msgid "This holds anything inedible that can rot, as well as tattered clothing, bones and shells.\n"
+"It's important to get refuse above ground before it starts to stink and bother your dwarves.\n"
+"You'll notice purple clouds in your cave if something is rotting indoors."
 msgstr ""
 
 #: menu_stockpiles.txt
@@ -3278,8 +3251,8 @@ msgid "Creatures do not have a \"life rating\", although they can bleed to death
 msgstr ""
 
 #: menu_viewunit.txt
-msgid "Parts that are broken cannot be used to stand on the ground or to hold objects.  A dwarf with such an injury should be allowed to rest or ideally should receive medical treatment.
-Severe injuries to the spine or brain cause paralysis and they do not heal.  Missing parts do not grow back."
+msgid "Parts that are broken cannot be used to stand on the ground or to hold objects.  A dwarf with such an injury should be allowed to rest or ideally should receive medical treatment.\n"
+"Severe injuries to the spine or brain cause paralysis and they do not heal.  Missing parts do not grow back."
 msgstr ""
 
 #: menu_wages.txt
@@ -3303,8 +3276,8 @@ msgid "Use [IKEY:STANDARDSCROLL_LEFT] and [IKEY:STANDARDSCROLL_RIGHT] to switch 
 msgstr ""
 
 #: menu_wages.txt
-msgid "The percentages on the first screen are general guild modifiers.  These are not applied to the wage numbers in subsequent screens.
-So if mining is displayed as \"[C:3:0:1]5[CHAR:15][C:7:0:0]\" and the mining modifier is set at \"[C:3:0:1]200%[C:7:0:0]\", mining is actually worth [C:3:0:1]10[CHAR:15][C:7:0:0]."
+msgid "The percentages on the first screen are general guild modifiers.  These are not applied to the wage numbers in subsequent screens.\n"
+"So if mining is displayed as \"[C:3:0:1]5[CHAR:15][C:7:0:0]\" and the mining modifier is set at \"[C:3:0:1]200%[C:7:0:0]\", mining is actually worth [C:3:0:1]10[CHAR:15][C:7:0:0]."
 msgstr ""
 
 #: mining.txt
@@ -3324,10 +3297,10 @@ msgid "[C:6:0:1][CHAR:15][C:2:0:1] A rock wall in a designated mining area that 
 msgstr ""
 
 #: mining.txt
-msgid "Mining serves two purposes.  First, you get minerals which you can turn into treasure.  Second, you
-create living space for your dwarves to shelter in.  The rest of the First Outpost tutorial
-will guide you through how to create living spaces, how to make crafts and how to store the minerals
-and crafts that come under your control."
+msgid "Mining serves two purposes.  First, you get minerals which you can turn into treasure.  Second, you\n"
+"create living space for your dwarves to shelter in.  The rest of the First Outpost tutorial\n"
+"will guide you through how to create living spaces, how to make crafts and how to store the minerals\n"
+"and crafts that come under your control."
 msgstr ""
 
 #: new_region.txt
@@ -3335,25 +3308,25 @@ msgid "[TITLE]The Manual: Creating Your World[/TITLE]"
 msgstr ""
 
 #: new_region.txt
-msgid "When you start your first game, you'll notice that it goes through a lengthy world generation process.
-You only have to do this once in a long while, so sit back and enjoy it."
+msgid "When you start your first game, you'll notice that it goes through a lengthy world generation process.\n"
+"You only have to do this once in a long while, so sit back and enjoy it."
 msgstr ""
 
 #: new_region.txt
-msgid "At first, the game produces
-several fractally generated landscapes, searching for an ideal balance.  You'll notice that there are
-many rejects, sometimes well over one hundred.  This is normal -- you'll be playing several fortresses
-in this world, so it's important that terrain is evenly distributed."
+msgid "At first, the game produces\n"
+"several fractally generated landscapes, searching for an ideal balance.  You'll notice that there are\n"
+"many rejects, sometimes well over one hundred.  This is normal -- you'll be playing several fortresses\n"
+"in this world, so it's important that terrain is evenly distributed."
 msgstr ""
 
 #: new_region.txt
-msgid "After the basic terrain is prepared,
-the game will simulate erosion and run rivers and lakes.  It's still possible to have a few rejects at this point."
+msgid "After the basic terrain is prepared,\n"
+"the game will simulate erosion and run rivers and lakes.  It's still possible to have a few rejects at this point."
 msgstr ""
 
 #: new_region.txt
-msgid "Once the history animation begins, you are indeed watching the world you'll be playing in.  The civilizations
-that are spreading out and fighting over the ages will be the same ones you interact with when you are running a fortress."
+msgid "Once the history animation begins, you are indeed watching the world you'll be playing in.  The civilizations\n"
+"that are spreading out and fighting over the ages will be the same ones you interact with when you are running a fortress."
 msgstr ""
 
 #: new_region.txt
@@ -3429,24 +3402,24 @@ msgid "[TITLE]The Manual: Reclaim Outpost Introduction[/TITLE]"
 msgstr ""
 
 #: r_intro.txt
-msgid "Welcome to Dwarf Fortress.  Your old fortress.  Things didn't go well, and now you're back to set the record straight or die trying.
-I wonder which it will be.  In any case, the game runs in the same way, except there is a pre-carved and pre-populated outpost
-waiting for you."
+msgid "Welcome to Dwarf Fortress.  Your old fortress.  Things didn't go well, and now you're back to set the record straight or die trying.\n"
+"I wonder which it will be.  In any case, the game runs in the same way, except there is a pre-carved and pre-populated outpost\n"
+"waiting for you."
 msgstr ""
 
 #: r_intro.txt
-msgid "You'll notice that your dwarves do not interact with the objects in the fortress at first.  This is to prevent accidents.
-The last thing you want is for your dwarves to run alone to fetch something deep in enemy territory."
+msgid "You'll notice that your dwarves do not interact with the objects in the fortress at first.  This is to prevent accidents.\n"
+"The last thing you want is for your dwarves to run alone to fetch something deep in enemy territory."
 msgstr ""
 
 #: r_intro.txt
-msgid "In order to let your dwarves know where to go, use the Claim designation.  When you select it, you'll notice that many of
-the items on the screen turn green.  These are objects which are currently being ignored.  They'll also be surrounded by {}."
+msgid "In order to let your dwarves know where to go, use the Claim designation.  When you select it, you'll notice that many of\n"
+"the items on the screen turn green.  These are objects which are currently being ignored.  They'll also be surrounded by {}."
 msgstr ""
 
 #: r_main.txt
-msgid "You can press [IKEY:HELP] any time for help.  Press it now for help on how to use this text viewer.
-And remember:"
+msgid "You can press [IKEY:HELP] any time for help.  Press it now for help on how to use this text viewer.\n"
+"And remember:"
 msgstr ""
 
 #: r_main.txt
@@ -3466,8 +3439,8 @@ msgid "[TITLE]The Manual: Preparing For The Journey[/TITLE]"
 msgstr ""
 
 #: setup_game.txt
-msgid "Now that the world has been generated, it's time to prepare your settlers to travel.  There are three main screens.
-Instructions for which keys to press are displayed at the bottom of each screen."
+msgid "Now that the world has been generated, it's time to prepare your settlers to travel.  There are three main screens.\n"
+"Instructions for which keys to press are displayed at the bottom of each screen."
 msgstr ""
 
 #: setup_game.txt
@@ -3475,21 +3448,21 @@ msgid "The Site Selection Screen shows you where your fortress is located, and t
 msgstr ""
 
 #: setup_game.txt
-msgid "The Unit Preparation Screen has a list of the dwarves that are going on the journey and their skills.
-Dwarves learn as they work, so it's not essential to spend a lot of points here, but you might find it convenient to
-let them know what their main roles are at this point by making them novices in a few skills.  For instance, if you make
-one of the dwarves a \"Novice Miner\", then that dwarf will immediately grab a pick and take any mining orders you prepare."
+msgid "The Unit Preparation Screen has a list of the dwarves that are going on the journey and their skills.\n"
+"Dwarves learn as they work, so it's not essential to spend a lot of points here, but you might find it convenient to\n"
+"let them know what their main roles are at this point by making them novices in a few skills.  For instance, if you make\n"
+"one of the dwarves a \"Novice Miner\", then that dwarf will immediately grab a pick and take any mining orders you prepare."
 msgstr ""
 
 #: setup_game.txt
-msgid "You buy skills with points.  Keep in mind that the skill list scrolls.
-The amount of points you have is displayed on the lower right.
-These points are also used to buy equipment on the Equipment Preparation Screen."
+msgid "You buy skills with points.  Keep in mind that the skill list scrolls.\n"
+"The amount of points you have is displayed on the lower right.\n"
+"These points are also used to buy equipment on the Equipment Preparation Screen."
 msgstr ""
 
 #: setup_game.txt
-msgid "The Equipment Preparation Screen is the most complicated of the three screens.  The list of objects your dwarves are bringing along appears on the left, and the list of animals going on the journey appears on the right.  If you choose to add a new object, you'll be taken to a screen with a list of all the potential items that you can bring.  Type in a partial name to narrow the list.
-You can leave this screen by selecting an object or by pressing [IKEY:LEAVESCREEN]."
+msgid "The Equipment Preparation Screen is the most complicated of the three screens.  The list of objects your dwarves are bringing along appears on the left, and the list of animals going on the journey appears on the right.  If you choose to add a new object, you'll be taken to a screen with a list of all the potential items that you can bring.  Type in a partial name to narrow the list.\n"
+"You can leave this screen by selecting an object or by pressing [IKEY:LEAVESCREEN]."
 msgstr ""
 
 #: storage.txt
@@ -3497,20 +3470,20 @@ msgid "[TITLE]The Manual: Storage[/TITLE]"
 msgstr ""
 
 #: storage.txt
-msgid "If you aren't careful, your fortress can become a cluttered and inefficient mess.
-In fact, you'll find one of your principal roles in managing the fortress is to get food, materials and finished goods to
-move around efficiently."
+msgid "If you aren't careful, your fortress can become a cluttered and inefficient mess.\n"
+"In fact, you'll find one of your principal roles in managing the fortress is to get food, materials and finished goods to\n"
+"move around efficiently."
 msgstr ""
 
 #: storage.txt
-msgid "The main method for moving objects around is the designation of stockpiles.  A stockpile has certain object types associated to it,
-and any object that isn't already stored will be brought to a free space in the pile when a dwarf with the proper hauling profession
-has some free time."
+msgid "The main method for moving objects around is the designation of stockpiles.  A stockpile has certain object types associated to it,\n"
+"and any object that isn't already stored will be brought to a free space in the pile when a dwarf with the proper hauling profession\n"
+"has some free time."
 msgstr ""
 
 #: storage.txt
-msgid "Using the mastery option, you can make piles take objects from other piles to create a flow of goods throughout
-the fortress."
+msgid "Using the mastery option, you can make piles take objects from other piles to create a flow of goods throughout\n"
+"the fortress."
 msgstr ""
 
 #: storage.txt
@@ -3618,9 +3591,9 @@ msgid "[TITLE]The Manual: Technical[/TITLE]"
 msgstr ""
 
 #: technical.txt
-msgid "See readme.txt for the license.
-See file_changes.txt for new init/interface information.
-See command_line.txt for information on world generation from command lines."
+msgid "See readme.txt for the license.\n"
+"See file_changes.txt for new init/interface information.\n"
+"See command_line.txt for information on world generation from command lines."
 msgstr ""
 
 #: technical.txt
@@ -3632,8 +3605,8 @@ msgid "(2) When you want to reuse it, copy that region back to \"data/save\".  D
 msgstr ""
 
 #: technical.txt
-msgid "Please *DO* back up saves.  Although the game has permanent death and you might want to play it in that spirit, the game
-is also in development, and your world might become corrupted by an error.  You can also make use of the auto save features settable in \"data/init/init.txt\"."
+msgid "Please *DO* back up saves.  Although the game has permanent death and you might want to play it in that spirit, the game\n"
+"is also in development, and your world might become corrupted by an error.  You can also make use of the auto save features settable in \"data/init/init.txt\"."
 msgstr ""
 
 #: technical.txt
@@ -3673,20 +3646,14 @@ msgid "Use"
 msgstr ""
 
 #: text_viewer.txt
-msgid "[IKEY:STANDARDSCROLL_PAGEDOWN] to scroll.  You can check the key bindings for your current settings.  You can get to the key bindings"
+msgid "[IKEY:STANDARDSCROLL_PAGEDOWN] to scroll.  You can check the key bindings for your current settings.  You can get to the key bindings\n"
+"by pressing [IKEY:OPTIONS]."
 msgstr ""
 
 #: text_viewer.txt
-msgid "by pressing [IKEY:OPTIONS]."
-msgstr ""
-
-#: text_viewer.txt
-msgid "[B]Press [IKEY:SECONDSCROLL_DOWN][IKEY:SECONDSCROLL_UP] to move between any highlighted links,"
-msgstr ""
-
-#: text_viewer.txt
-msgid "and press [IKEY:SELECT] to select a highlighted link.
-Here are some practice links to try:"
+msgid "[B]Press [IKEY:SECONDSCROLL_DOWN][IKEY:SECONDSCROLL_UP] to move between any highlighted links,\n"
+"and press [IKEY:SELECT] to select a highlighted link.\n"
+"Here are some practice links to try:"
 msgstr ""
 
 #: text_viewer.txt
@@ -3694,11 +3661,8 @@ msgid "[LINK:data/help/practice]Practice Link[/LINK]"
 msgstr ""
 
 #: text_viewer.txt
-msgid "[B]Press [IKEY:LEAVESCREEN] to close the text viewer.  If there"
-msgstr ""
-
-#: text_viewer.txt
-msgid "it a paused section (as there is in this screen), it will open up before [IKEY:LEAVESCREEN] makes you leave.  [IKEY:SELECT] will also work if no link is highlighted."
+msgid "[B]Press [IKEY:LEAVESCREEN] to close the text viewer.  If there\n"
+"it a paused section (as there is in this screen), it will open up before [IKEY:LEAVESCREEN] makes you leave.  [IKEY:SELECT] will also work if no link is highlighted."
 msgstr ""
 
 #: text_viewer.txt
@@ -3718,10 +3682,10 @@ msgid "[TITLE]The Manual: Text Viewers (Again)[/TITLE]"
 msgstr ""
 
 #: text_viewer2.txt
-msgid "You have pressed the help key from the text viewer help screen.
-Press [IKEY:LEAVESCREEN] to go back to that screen.
-I don't know how to explain it any better.  Go to the forums
-at www.bay12games.com if you are having technical issues."
+msgid "You have pressed the help key from the text viewer help screen.\n"
+"Press [IKEY:LEAVESCREEN] to go back to that screen.\n"
+"I don't know how to explain it any better.  Go to the forums\n"
+"at www.bay12games.com if you are having technical issues."
 msgstr ""
 
 #: text_viewer3.txt
@@ -3729,11 +3693,11 @@ msgid "[TITLE]The Manual: Helpless or Hopeless?[/TITLE]"
 msgstr ""
 
 #: text_viewer3.txt
-msgid "You have pressed the help key many times.
-You only need to press the help key once, no matter how urgent your problem may seem at the time.
-Press [IKEY:LEAVESCREEN] to go back to the previous screen.
-Despite my promise to have the help key work on any screen, it doesn't work on this screen.
-If you are having technical trouble, go to www.bay12games.com and ask for help on the forums."
+msgid "You have pressed the help key many times.\n"
+"You only need to press the help key once, no matter how urgent your problem may seem at the time.\n"
+"Press [IKEY:LEAVESCREEN] to go back to the previous screen.\n"
+"Despite my promise to have the help key work on any screen, it doesn't work on this screen.\n"
+"If you are having technical trouble, go to www.bay12games.com and ask for help on the forums."
 msgstr ""
 
 #: trading.txt
@@ -3741,13 +3705,13 @@ msgid "[TITLE]The Manual: Trading[/TITLE]"
 msgstr ""
 
 #: trading.txt
-msgid "Sometimes your dwarves need to trade away their wealth to obtain necessities.  You do this at a trade depot.
-Merchants arrive throughout the year, starting in the first autumn."
+msgid "Sometimes your dwarves need to trade away their wealth to obtain necessities.  You do this at a trade depot.\n"
+"Merchants arrive throughout the year, starting in the first autumn."
 msgstr ""
 
 #: trading.txt
-msgid "You can go to the trade depot both to designate goods to be brought to the depot for trade and to perform
-the actual transactions."
+msgid "You can go to the trade depot both to designate goods to be brought to the depot for trade and to perform\n"
+"the actual transactions."
 msgstr ""
 
 #: trading.txt
@@ -3759,8 +3723,8 @@ msgid "[TITLE]The Manual: Unit Profiles[/TITLE]"
 msgstr ""
 
 #: unit_profile.txt
-msgid "A common way to get to unit profiles is pressing [IKEY:D_VIEWUNIT] from the main view, moving
-the cursor over a unit and pressing [IKEY:UNITVIEW_PRF] then [IKEY:UNITVIEW_PRF_VIEW]."
+msgid "A common way to get to unit profiles is pressing [IKEY:D_VIEWUNIT] from the main view, moving\n"
+"the cursor over a unit and pressing [IKEY:UNITVIEW_PRF] then [IKEY:UNITVIEW_PRF_VIEW]."
 msgstr ""
 
 #: unit_profile.txt
@@ -3772,18 +3736,18 @@ msgid "Here you can view a unit's holdings and requirements, as well as their th
 msgstr ""
 
 #: unit_profile.txt
-msgid "The holdings, requirements, demands and mandates of the unit will be listed on the screen.  To access thoughts and preferences,
-simply press [IKEY:SELECT]."
+msgid "The holdings, requirements, demands and mandates of the unit will be listed on the screen.  To access thoughts and preferences,\n"
+"simply press [IKEY:SELECT]."
 msgstr ""
 
 #: unit_profile.txt
-msgid "The thoughts and preferences of a unit let you know what has been happening to a unit and the things that would please them.  All of the
-information you see here is used by the game."
+msgid "The thoughts and preferences of a unit let you know what has been happening to a unit and the things that would please them.  All of the\n"
+"information you see here is used by the game."
 msgstr ""
 
 #: unit_profile.txt
-msgid "An important part of Dwarf Fortress is learning how to keep dwarves happy.  If dwarves become
-unhappy, they can throw tantrums, damage property, start fights and eventually lose their minds."
+msgid "An important part of Dwarf Fortress is learning how to keep dwarves happy.  If dwarves become\n"
+"unhappy, they can throw tantrums, damage property, start fights and eventually lose their minds."
 msgstr ""
 
 #: water.txt
@@ -3795,8 +3759,8 @@ msgid "Your dwarves need to drink.  They'll attempt to drink from nearby water s
 msgstr ""
 
 #: water.txt
-msgid "Eventually, you'll want to secure alcohol for your dwarves.  To do this, you need plants and a still.  We'll talk about how to operate
-buildings like the still in the Making Crafts section, and in the Obtaining Food section we'll go over how to get plants."
+msgid "Eventually, you'll want to secure alcohol for your dwarves.  To do this, you need plants and a still.  We'll talk about how to operate\n"
+"buildings like the still in the Making Crafts section, and in the Obtaining Food section we'll go over how to get plants."
 msgstr ""
 
 #: wood.txt
