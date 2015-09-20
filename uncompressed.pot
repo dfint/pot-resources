@@ -10,6 +10,194 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Poedit 1.8.4\n"
 
+#: index.txt
+msgid "1~data/help/icons"
+msgstr ""
+
+#: index.txt
+msgid "2~data/announcement/diplomatrebuffed"
+msgstr ""
+
+#: index.txt
+msgid "3~data/announcement/merchantintro"
+msgstr ""
+
+#: index.txt
+msgid "4~data/announcement/semiend"
+msgstr ""
+
+#: index.txt
+msgid "5~data/announcement/invasion_elves"
+msgstr ""
+
+#: index.txt
+msgid "6~data/announcement/hastyking"
+msgstr ""
+
+#: index.txt
+msgid "7~data/announcement/kingarrival"
+msgstr ""
+
+#: index.txt
+msgid "8~data/announcement/invasion_goblin"
+msgstr ""
+
+#: index.txt
+msgid "9~data/announcement/invasion_human"
+msgstr ""
+
+#: index.txt
+msgid "10~data/announcement/merchantexit"
+msgstr ""
+
+#: index.txt
+msgid "11~data/announcement/fortressintro"
+msgstr ""
+
+#: index.txt
+msgid "12~data/help/main"
+msgstr ""
+
+#: index.txt
+msgid "18~v0.40.24"
+msgstr ""
+
+#: index.txt
+msgid "20~Programmed by Tarn Adams"
+msgstr ""
+
+#: index.txt
+msgid "21~Designed by Tarn and Zach Adams"
+msgstr ""
+
+#: index.txt
+msgid "22~Visit Bay 12 Games"
+msgstr ""
+
+#: index.txt
+msgid "23~www.bay12games.com"
+msgstr ""
+
+#: index.txt
+msgid "24~Dwarf Fortress"
+msgstr ""
+
+#: index.txt
+msgid "25~Adventurer"
+msgstr ""
+
+#: index.txt
+msgid "26~data/announcement/end2"
+msgstr ""
+
+#: index.txt
+msgid "27~data/announcement/end3"
+msgstr ""
+
+#: index.txt
+msgid "28~data/announcement/end4"
+msgstr ""
+
+#: index.txt
+msgid "29~data/save/permits"
+msgstr ""
+
+#: index.txt
+msgid "30~data/help/a_main"
+msgstr ""
+
+#: index.txt
+msgid "31~Legends"
+msgstr ""
+
+#: index.txt
+msgid "32~Reclaim Fortress"
+msgstr ""
+
+#: index.txt
+msgid "33~data/help/r_main"
+msgstr ""
+
+#: index.txt
+msgid "34~data/initial_movies/bay12games.cmv"
+msgstr ""
+
+#: index.txt
+msgid "35~data/initial_movies/toadyone.cmv"
+msgstr ""
+
+#: index.txt
+msgid "36~data/initial_movies/dwarf_fortress.cmv"
+msgstr ""
+
+#: index.txt
+msgid "37~data/movies/last_record.cmv"
+msgstr ""
+
+#: index.txt
+msgid "38~Really?  You're playing like a peasant."
+msgstr ""
+
+#: index.txt
+msgid "39~Really?  I thought you should quit."
+msgstr ""
+
+#: index.txt
+msgid "40~Slaves to Armok:  God of Blood"
+msgstr ""
+
+#: index.txt
+msgid "41~Chapter II: Dwarf Fortress"
+msgstr ""
+
+#: index.txt
+msgid "42~Dwarf Fortress"
+msgstr ""
+
+#: index.txt
+msgid "43~Copyright (C) 2002-2015 by Tarn Adams"
+msgstr ""
+
+#: index.txt
+msgid "44~Welcome to the alpha of Dwarf Fortress."
+msgstr ""
+
+#: index.txt
+msgid "45~As there has been some time between releases, instability is to be expected."
+msgstr ""
+
+#: index.txt
+msgid "46~Report crashes, hangs, lags, bugs and general disappointment at the forums."
+msgstr ""
+
+#: index.txt
+msgid "47~They are at our website, bay12games.com.  Check there for updates."
+msgstr ""
+
+#: index.txt
+msgid "48~You can also find an older yet more stable version of the game there."
+msgstr ""
+
+#: index.txt
+msgid "49~As of January 2015, you can get help at the fan-created dwarffortresswiki.org."
+msgstr ""
+
+#: index.txt
+msgid "50~Please make use of and contribute to this valuable resource."
+msgstr ""
+
+#: index.txt
+msgid "51~If you enjoy the game, please consider supporting Bay 12 Games."
+msgstr ""
+
+#: index.txt
+msgid "52~There is more information at our website and in the readme file."
+msgstr ""
+
+#: index.txt
+msgid "53~data/announcement/end5"
+msgstr ""
+
 #: diplomatrebuffed.txt
 msgid "[TITLE]Diplomacy Stymied[/TITLE]"
 msgstr ""
