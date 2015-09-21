@@ -3460,11 +3460,8 @@ msgid "[TITLE]The Manual: Wages Screen[/TITLE]"
 msgstr ""
 
 #: menu_wages.txt
-msgid "If accounts are active, press [IKEY:D_JOBLIST] or press [IKEY:D_UNITLIST] from the main view.  Then press"
-msgstr ""
-
-#: menu_wages.txt
-msgid "[IKEY:UNITJOB_MANAGER] and finally [IKEY:MANAGER_WAGES]."
+msgid "If accounts are active, press [IKEY:D_JOBLIST] or press [IKEY:D_UNITLIST] from the main view.  Then press\n"
+"[IKEY:UNITJOB_MANAGER] and finally [IKEY:MANAGER_WAGES]."
 msgstr ""
 
 #: menu_wages.txt
