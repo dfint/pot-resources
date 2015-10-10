@@ -1,0 +1,408 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.4\n"
+
+#: book_art.txt
+msgid "The [ADJ] [NO_ART_NAME]"
+msgstr ""
+
+#: book_art.txt
+msgid "[NAME] and the [NOUN]"
+msgstr ""
+
+#: book_art.txt
+msgid "[NAME] and the [ADJ] [NOUN]"
+msgstr ""
+
+#: book_art.txt
+msgid "The [NOUN] and [NAME]"
+msgstr ""
+
+#: book_art.txt
+msgid "The [ADJ] [NOUN] and [NAME]"
+msgstr ""
+
+#: book_art.txt
+msgid "It Must Have Been [NAME]"
+msgstr ""
+
+#: book_art.txt
+msgid "My Friend [NAME]"
+msgstr ""
+
+#: book_art.txt
+msgid "The Birth of [NAME]"
+msgstr ""
+
+#: book_art.txt
+msgid "The Sun Sets on [NAME]"
+msgstr ""
+
+#: book_art.txt
+msgid "We See [NAME]"
+msgstr ""
+
+#: book_art.txt
+msgid "[NAME] Ever Onward"
+msgstr ""
+
+#: book_art.txt
+msgid "[NAME] and Nothing More"
+msgstr ""
+
+#: book_art.txt
+msgid "And [ANY_PRONOUN] Sang '[NAME]!'"
+msgstr ""
+
+#: book_instruction.txt
+msgid "A Humble Offering to [NAME]"
+msgstr ""
+
+#: book_instruction.txt
+msgid "After [NAME]"
+msgstr ""
+
+#: book_instruction.txt
+msgid "At One With [NAME]"
+msgstr ""
+
+#: book_instruction.txt
+msgid "Before [NAME]"
+msgstr ""
+
+#: book_instruction.txt
+msgid "Better [NO_ART_NAME]"
+msgstr ""
+
+#: book_instruction.txt
+msgid "Beyond [NAME]"
+msgstr ""
+
+#: book_instruction.txt
+msgid "Choose [NAME]"
+msgstr ""
+
+#: book_instruction.txt
+msgid "Common Sense [NO_ART_NAME]"
+msgstr ""
+
+#: book_instruction.txt
+msgid "Errors In [NAME]"
+msgstr ""
+
+#: book_instruction.txt
+msgid "Give Me [NAME]"
+msgstr ""
+
+#: book_instruction.txt
+msgid "It Is [NAME]"
+msgstr ""
+
+#: book_instruction.txt
+msgid "More [NO_ART_NAME]"
+msgstr ""
+
+#: book_instruction.txt
+msgid "Musings on [NAME]"
+msgstr ""
+
+#: book_instruction.txt
+msgid "My Thoughts on [NAME]"
+msgstr ""
+
+#: book_instruction.txt
+msgid "Never Underestimate [NAME]"
+msgstr ""
+
+#: book_instruction.txt
+msgid "Pathways to [NAME]"
+msgstr ""
+
+#: book_instruction.txt
+msgid "Start Your Day With [NAME]"
+msgstr ""
+
+#: book_instruction.txt
+msgid "The Art of [NAME]"
+msgstr ""
+
+#: book_instruction.txt
+msgid "The Future of [NAME]"
+msgstr ""
+
+#: book_instruction.txt
+msgid "The History of [NAME]"
+msgstr ""
+
+#: book_instruction.txt
+msgid "The Nuanced [NO_ART_NAME]"
+msgstr ""
+
+#: book_instruction.txt
+msgid "The Secret of [NAME]"
+msgstr ""
+
+#: book_instruction.txt
+msgid "The Truth About [NAME]"
+msgstr ""
+
+#: book_instruction.txt
+msgid "The Unabridged [NO_ART_NAME]"
+msgstr ""
+
+#: book_instruction.txt
+msgid "The Wizard's Guide to [NAME]"
+msgstr ""
+
+#: book_instruction.txt
+msgid "The World Without [NAME]"
+msgstr ""
+
+#: book_instruction.txt
+msgid "Traditional [NO_ART_NAME]"
+msgstr ""
+
+#: book_instruction.txt
+msgid "Uncanny [NO_ART_NAME]"
+msgstr ""
+
+#: book_instruction.txt
+msgid "Victory By [NAME]"
+msgstr ""
+
+#: book_instruction.txt
+msgid "[NAME] After The End"
+msgstr ""
+
+#: book_instruction.txt
+msgid "[NAME] and Other Travesties"
+msgstr ""
+
+#: book_instruction.txt
+msgid "[NAME] and The Coming Troubles"
+msgstr ""
+
+#: book_instruction.txt
+msgid "[NAME] and The Universe"
+msgstr ""
+
+#: book_instruction.txt
+msgid "[NAME] Comes Full Circle"
+msgstr ""
+
+#: book_instruction.txt
+msgid "[NAME] Explained"
+msgstr ""
+
+#: book_instruction.txt
+msgid "[NAME] Exposed"
+msgstr ""
+
+#: book_instruction.txt
+msgid "[NAME] For Everyone"
+msgstr ""
+
+#: book_instruction.txt
+msgid "[NAME] For The Beginning Practicioner"
+msgstr ""
+
+#: book_instruction.txt
+msgid "[NAME] In [ANY_AGE]"
+msgstr ""
+
+#: book_instruction.txt
+msgid "[NAME] In The Modern Era"
+msgstr ""
+
+#: book_instruction.txt
+msgid "[NAME] In The Time of My Ancestors"
+msgstr ""
+
+#: book_instruction.txt
+msgid "[NAME] Is My Life"
+msgstr ""
+
+#: book_instruction.txt
+msgid "[NAME] Is The Way"
+msgstr ""
+
+#: book_instruction.txt
+msgid "[NAME] Questioned"
+msgstr ""
+
+#: book_instruction.txt
+msgid "[NAME] The Easy Way"
+msgstr ""
+
+#: book_instruction.txt
+msgid "[NAME] When It Counts"
+msgstr ""
+
+#: book_instruction.txt
+msgid "[NAME] Without Limits"
+msgstr ""
+
+#: book_instruction.txt
+msgid "[NAME], Abridged"
+msgstr ""
+
+#: book_instruction.txt
+msgid "[NAME], My Love"
+msgstr ""
+
+#: book_instruction.txt
+msgid "[NAME]: A Brief History"
+msgstr ""
+
+#: book_instruction.txt
+msgid "[NAME]: A New Approach"
+msgstr ""
+
+#: book_instruction.txt
+msgid "[NAME]: Before and After"
+msgstr ""
+
+#: book_instruction.txt
+msgid "[NAME]: Common Practice"
+msgstr ""
+
+#: book_instruction.txt
+msgid "[NAME]: Fact or Fiction?"
+msgstr ""
+
+#: book_instruction.txt
+msgid "[NAME]: Further Musings"
+msgstr ""
+
+#: book_instruction.txt
+msgid "[NAME]: My Only Mistake"
+msgstr ""
+
+#: book_instruction.txt
+msgid "[NAME]: Natural or Supernatural?"
+msgstr ""
+
+#: book_instruction.txt
+msgid "[NAME]: Principles and Practice"
+msgstr ""
+
+#: book_instruction.txt
+msgid "[NAME]: Problems And Solutions"
+msgstr ""
+
+#: book_instruction.txt
+msgid "[NAME]: The Definitive Guide"
+msgstr ""
+
+#: book_instruction.txt
+msgid "[NAME]: The Truth"
+msgstr ""
+
+#: book_instruction.txt
+msgid "Can [NAME] Save The World?"
+msgstr ""
+
+#: book_instruction.txt
+msgid "Could It Be [NAME]?"
+msgstr ""
+
+#: book_instruction.txt
+msgid "Did [NAME] Falter?"
+msgstr ""
+
+#: book_instruction.txt
+msgid "First [NAME], Then The World!"
+msgstr ""
+
+#: book_instruction.txt
+msgid "To [NAME] and Glory!"
+msgstr ""
+
+#: secret_death.txt
+msgid "Bereavement"
+msgstr ""
+
+#: secret_death.txt
+msgid "Death"
+msgstr ""
+
+#: secret_death.txt
+msgid "Demise"
+msgstr ""
+
+#: secret_death.txt
+msgid "Departure"
+msgstr ""
+
+#: secret_death.txt
+msgid "Doom"
+msgstr ""
+
+#: secret_death.txt
+msgid "Dying"
+msgstr ""
+
+#: secret_death.txt
+msgid "Eternal Rest"
+msgstr ""
+
+#: secret_death.txt
+msgid "Expiration"
+msgstr ""
+
+#: secret_death.txt
+msgid "Extinction"
+msgstr ""
+
+#: secret_death.txt
+msgid "Mortality"
+msgstr ""
+
+#: secret_death.txt
+msgid "Immortality"
+msgstr ""
+
+#: secret_death.txt
+msgid "Loss"
+msgstr ""
+
+#: secret_death.txt
+msgid "Oblivion"
+msgstr ""
+
+#: secret_death.txt
+msgid "Parting"
+msgstr ""
+
+#: secret_death.txt
+msgid "Ruin"
+msgstr ""
+
+#: secret_death.txt
+msgid "Ruination"
+msgstr ""
+
+#: secret_death.txt
+msgid "Sleep"
+msgstr ""
+
+#: secret_death.txt
+msgid "the Afterlife"
+msgstr ""
+
+#: secret_death.txt
+msgid "the End"
+msgstr ""
+
+#: secret_death.txt
+msgid "the Grave"
+msgstr ""
+
