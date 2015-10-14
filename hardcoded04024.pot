@@ -14223,9 +14223,6 @@ msgstr ""
 msgid "Site"
 msgstr ""
 
-msgid "current"
-msgstr ""
-
 msgid "  Dwarf Fortress Options: Save Game  "
 msgstr ""
 
