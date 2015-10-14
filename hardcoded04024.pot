@@ -753,9 +753,6 @@ msgstr ""
 msgid "the deity of "
 msgstr ""
 
-msgid "bad cast"
-msgstr ""
-
 msgid "negative "
 msgstr ""
 
