@@ -21048,9 +21048,6 @@ msgstr ""
 msgid "Command Line: "
 msgstr ""
 
-msgid "text"
-msgstr ""
-
 msgid "Command Line: World generation initiated."
 msgstr ""
 
