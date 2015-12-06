@@ -61,7 +61,7 @@ msgid "12~data/help/main"
 msgstr ""
 
 #: index.txt
-msgid "18~v0.42.01"
+msgid "18~v0.42.02"
 msgstr ""
 
 #: index.txt
