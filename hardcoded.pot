@@ -21852,6 +21852,9 @@ msgstr ""
 msgid "old save: fixing possibly broken knowledge from unretire"
 msgstr ""
 
+msgid "patching corruption: item off-loaded and also in play"
+msgstr ""
+
 msgid "Repairing squad info for Unit #"
 msgstr ""
 
@@ -26103,7 +26106,7 @@ msgstr ""
 msgid "                  --> Dutiful"
 msgstr ""
 
-msgid "Too deliberate <-> Thoughtess"
+msgid "Too deliberate <> Thoughtless"
 msgstr ""
 
 msgid "Sloppy      <->       Orderly"
@@ -27715,9 +27718,6 @@ msgid " trying to generate musical form without speech or instruments"
 msgstr ""
 
 msgid "ENT"
-msgstr ""
-
-msgid " -H"
 msgstr ""
 
 msgid "Miner destination wiped"
@@ -30343,6 +30343,12 @@ msgid "Tables: "
 msgstr ""
 
 msgid "Chairs: "
+msgstr ""
+
+msgid "Dedicated to "
+msgstr ""
+
+msgid "No particular deity"
 msgstr ""
 
 msgid "All visitors welcome"
@@ -33085,9 +33091,6 @@ msgid "TTF error"
 msgstr ""
 
 msgid "No font found!"
-msgstr ""
-
-msgid "<reason>"
 msgstr ""
 
 msgid "glorify hf"
@@ -36427,9 +36430,6 @@ msgid "leadership overthrown"
 msgstr ""
 
 msgid "population gone"
-msgstr ""
-
-msgid "</wounder_hfid>"
 msgstr ""
 
 msgid "scuffle"
@@ -43692,7 +43692,7 @@ msgstr ""
 msgid "does the main melody"
 msgstr ""
 
-msgid "always does the counterpoint melody"
+msgid "does the counterpoint melody"
 msgstr ""
 
 msgid "does harmony"
