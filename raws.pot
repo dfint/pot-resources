@@ -11,6 +11,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
 "X-Generator: Poedit 1.7.3\n"
+
 #: body_default.txt:7
 msgctxt "BODY:BASIC_1PARTBODY"
 msgid "[BP:UB:body:bodies]"
@@ -9006,897 +9007,897 @@ msgctxt "CREATURE:BARK_SCORPION"
 msgid "[SYN_NAME:bark scorpion sting]"
 msgstr ""
 
-#: creature_bug_slug_new.txt:375
+#: creature_bug_slug_new.txt:376
 msgctxt "CREATURE:BARK_SCORPION"
 msgid "[VERMIN_BITE:10:stung:]"
 msgstr ""
 
-#: creature_bug_slug_new.txt:400
+#: creature_bug_slug_new.txt:401
 msgctxt "CREATURE:BARK_SCORPION"
 msgid "[TLCM_NOUN:chitin:SINGULAR]"
 msgstr ""
 
-#: creature_bug_slug_new.txt:403
+#: creature_bug_slug_new.txt:404
 msgctxt "CREATURE:BARK_SCORPION"
 msgid "[TLCM_NOUN:eyes:PLURAL]"
 msgstr ""
 
-#: creature_bug_slug_new.txt:410
+#: creature_bug_slug_new.txt:411
 msgctxt "CREATURE:BARK_SCORPION_MAN"
 msgid "[CASTE_NAME:bark scorpion man:bark scorpion men:bark scorpion man]"
 msgstr ""
 
-#: creature_bug_slug_new.txt:412
+#: creature_bug_slug_new.txt:413
 msgctxt "CREATURE:BARK_SCORPION_MAN"
 msgid "[CASTE_NAME:bark scorpion woman:bark scorpion women:bark scorpion woman]"
 msgstr ""
 
-#: creature_bug_slug_new.txt:421
+#: creature_bug_slug_new.txt:422
 msgctxt "CREATURE:BARK_SCORPION_MAN"
 msgid "[NAME:bark scorpion man:bark scorpion men:bark scorpion man]"
 msgstr ""
 
-#: creature_bug_slug_new.txt:422
+#: creature_bug_slug_new.txt:423
 msgctxt "CREATURE:BARK_SCORPION_MAN"
 msgid "[DESCRIPTION:A person with the head, pincers and tail of a bark scorpion.]"
 msgstr ""
 
-#: creature_bug_slug_new.txt:438
+#: creature_bug_slug_new.txt:439
 msgctxt "CREATURE:GIANT_BARK_SCORPION"
 msgid "[NAME:giant bark scorpion:giant bark scorpions:giant bark scorpion]"
 msgstr ""
 
-#: creature_bug_slug_new.txt:439
+#: creature_bug_slug_new.txt:440
 msgctxt "CREATURE:GIANT_BARK_SCORPION"
 msgid "[CASTE_NAME:giant bark scorpion:giant bark scorpions:giant bark scorpion]"
 msgstr ""
 
-#: creature_bug_slug_new.txt:440
+#: creature_bug_slug_new.txt:441
 msgctxt "CREATURE:GIANT_BARK_SCORPION"
 msgid "[DESCRIPTION:A huge monster in the form of a bark scorpion.]"
 msgstr ""
 
-#: creature_bug_slug_new.txt:449
+#: creature_bug_slug_new.txt:450
 msgctxt "CREATURE:GIANT_BARK_SCORPION"
 msgid "[PREFSTRING:pincers]"
 msgstr ""
 
-#: creature_bug_slug_new.txt:450
+#: creature_bug_slug_new.txt:451
 msgctxt "CREATURE:GIANT_BARK_SCORPION"
 msgid "[PREFSTRING:stinging tail]"
 msgstr ""
 
-#: creature_bug_slug_new.txt:458
+#: creature_bug_slug_new.txt:459
 msgctxt "CREATURE:MANTIS"
 msgid "[DESCRIPTION:A tiny green insect.  It has long, distinctive forelimbs that it uses to catch its prey.]"
 msgstr ""
 
-#: creature_bug_slug_new.txt:459
+#: creature_bug_slug_new.txt:460
 msgctxt "CREATURE:MANTIS"
 msgid "[NAME:mantis:mantises:mantis]"
 msgstr ""
 
-#: creature_bug_slug_new.txt:460
+#: creature_bug_slug_new.txt:461
 msgctxt "CREATURE:MANTIS"
 msgid "[CASTE_NAME:mantis:mantises:mantis]"
 msgstr ""
 
-#: creature_bug_slug_new.txt:468
+#: creature_bug_slug_new.txt:469
 msgctxt "CREATURE:MANTIS"
 msgid "[PREFSTRING:predatory nature]"
 msgstr ""
 
-#: creature_bug_slug_new.txt:469
+#: creature_bug_slug_new.txt:470
 msgctxt "CREATURE:MANTIS"
 msgid "[PREFSTRING:grasping legs]"
 msgstr ""
 
-#: creature_bug_slug_new.txt:508
+#: creature_bug_slug_new.txt:509
 msgctxt "CREATURE:MANTIS"
 msgid "[TLCM_NOUN:chitin:SINGULAR]"
 msgstr ""
 
-#: creature_bug_slug_new.txt:511
+#: creature_bug_slug_new.txt:512
 msgctxt "CREATURE:MANTIS"
 msgid "[TLCM_NOUN:eyes:PLURAL]"
 msgstr ""
 
-#: creature_bug_slug_new.txt:518
+#: creature_bug_slug_new.txt:519
 msgctxt "CREATURE:MANTIS_MAN"
 msgid "[CASTE_NAME:mantis man:mantis men:mantis man]"
 msgstr ""
 
-#: creature_bug_slug_new.txt:520
+#: creature_bug_slug_new.txt:521
 msgctxt "CREATURE:MANTIS_MAN"
 msgid "[CASTE_NAME:mantis woman:mantis women:mantis woman]"
 msgstr ""
 
-#: creature_bug_slug_new.txt:530
+#: creature_bug_slug_new.txt:531
 msgctxt "CREATURE:MANTIS_MAN"
 msgid "[NAME:mantis man:mantis men:mantis man]"
 msgstr ""
 
-#: creature_bug_slug_new.txt:531
+#: creature_bug_slug_new.txt:532
 msgctxt "CREATURE:MANTIS_MAN"
 msgid "[DESCRIPTION:A green person with the head and arms of a mantis.]"
 msgstr ""
 
-#: creature_bug_slug_new.txt:547
+#: creature_bug_slug_new.txt:548
 msgctxt "CREATURE:GIANT_MANTIS"
 msgid "[NAME:giant mantis:giant mantises:giant mantis]"
 msgstr ""
 
-#: creature_bug_slug_new.txt:548
+#: creature_bug_slug_new.txt:549
 msgctxt "CREATURE:GIANT_MANTIS"
 msgid "[CASTE_NAME:giant mantis:giant mantises:giant mantis]"
 msgstr ""
 
-#: creature_bug_slug_new.txt:549
+#: creature_bug_slug_new.txt:550
 msgctxt "CREATURE:GIANT_MANTIS"
 msgid "[DESCRIPTION:A large monster in the shape of a mantis.]"
 msgstr ""
 
-#: creature_bug_slug_new.txt:558
+#: creature_bug_slug_new.txt:559
 msgctxt "CREATURE:GIANT_MANTIS"
 msgid "[PREFSTRING:predatory nature]"
 msgstr ""
 
-#: creature_bug_slug_new.txt:559
+#: creature_bug_slug_new.txt:560
 msgctxt "CREATURE:GIANT_MANTIS"
 msgid "[PREFSTRING:grasping legs]"
 msgstr ""
 
-#: creature_bug_slug_new.txt:570
+#: creature_bug_slug_new.txt:571
 msgctxt "CREATURE:TICK"
 msgid "[DESCRIPTION:A tiny, blood-sucking bug found in wooded areas.]"
 msgstr ""
 
-#: creature_bug_slug_new.txt:571
+#: creature_bug_slug_new.txt:572
 msgctxt "CREATURE:TICK"
 msgid "[NAME:tick:ticks:tick]"
 msgstr ""
 
-#: creature_bug_slug_new.txt:572
+#: creature_bug_slug_new.txt:573
 msgctxt "CREATURE:TICK"
 msgid "[CASTE_NAME:tick:ticks:tick]"
 msgstr ""
 
-#: creature_bug_slug_new.txt:581
+#: creature_bug_slug_new.txt:582
 msgctxt "CREATURE:TICK"
 msgid "[PREFSTRING:ability to expand]"
 msgstr ""
 
-#: creature_bug_slug_new.txt:618
+#: creature_bug_slug_new.txt:619
 msgctxt "CREATURE:TICK"
 msgid "[TLCM_NOUN:chitin:SINGULAR]"
 msgstr ""
 
-#: creature_bug_slug_new.txt:621
+#: creature_bug_slug_new.txt:622
 msgctxt "CREATURE:TICK"
 msgid "[TLCM_NOUN:eyes:PLURAL]"
 msgstr ""
 
-#: creature_bug_slug_new.txt:628
+#: creature_bug_slug_new.txt:629
 msgctxt "CREATURE:TICK_MAN"
 msgid "[CASTE_NAME:tick man:tick men:tick man]"
 msgstr ""
 
-#: creature_bug_slug_new.txt:630
+#: creature_bug_slug_new.txt:631
 msgctxt "CREATURE:TICK_MAN"
 msgid "[CASTE_NAME:tick woman:tick women:tick woman]"
 msgstr ""
 
-#: creature_bug_slug_new.txt:639
+#: creature_bug_slug_new.txt:640
 msgctxt "CREATURE:TICK_MAN"
 msgid "[NAME:tick man:tick men:tick man]"
 msgstr ""
 
-#: creature_bug_slug_new.txt:640
+#: creature_bug_slug_new.txt:641
 msgctxt "CREATURE:TICK_MAN"
 msgid "[DESCRIPTION:A person with the head and legs of a tick.]"
 msgstr ""
 
-#: creature_bug_slug_new.txt:656
+#: creature_bug_slug_new.txt:657
 msgctxt "CREATURE:GIANT_TICK"
 msgid "[NAME:giant tick:giant ticks:giant tick]"
 msgstr ""
 
-#: creature_bug_slug_new.txt:657
+#: creature_bug_slug_new.txt:658
 msgctxt "CREATURE:GIANT_TICK"
 msgid "[CASTE_NAME:giant tick:giant ticks:giant tick]"
 msgstr ""
 
-#: creature_bug_slug_new.txt:658
+#: creature_bug_slug_new.txt:659
 msgctxt "CREATURE:GIANT_TICK"
 msgid "[DESCRIPTION:A large monster taking the shape of a tick.]"
 msgstr ""
 
-#: creature_bug_slug_new.txt:667
+#: creature_bug_slug_new.txt:668
 msgctxt "CREATURE:GIANT_TICK"
 msgid "[PREFSTRING:ability to expand]"
 msgstr ""
 
-#: creature_bug_slug_new.txt:678
+#: creature_bug_slug_new.txt:679
 msgctxt "CREATURE:LOUSE"
 msgid "[DESCRIPTION:A tiny parasitic insect.  It feeds on skin and blood.]"
 msgstr ""
 
-#: creature_bug_slug_new.txt:679
+#: creature_bug_slug_new.txt:680
 msgctxt "CREATURE:LOUSE"
 msgid "[NAME:louse:lice:louse]"
 msgstr ""
 
-#: creature_bug_slug_new.txt:680
+#: creature_bug_slug_new.txt:681
 msgctxt "CREATURE:LOUSE"
 msgid "[CASTE_NAME:louse:lice:louse]"
 msgstr ""
 
-#: creature_bug_slug_new.txt:689
+#: creature_bug_slug_new.txt:690
 msgctxt "CREATURE:LOUSE"
 msgid "[PREFSTRING:ability to infest]"
 msgstr ""
 
-#: creature_bug_slug_new.txt:725
+#: creature_bug_slug_new.txt:726
 msgctxt "CREATURE:LOUSE"
 msgid "[TLCM_NOUN:chitin:SINGULAR]"
 msgstr ""
 
-#: creature_bug_slug_new.txt:728
+#: creature_bug_slug_new.txt:729
 msgctxt "CREATURE:LOUSE"
 msgid "[TLCM_NOUN:eyes:PLURAL]"
 msgstr ""
 
-#: creature_bug_slug_new.txt:735
+#: creature_bug_slug_new.txt:736
 msgctxt "CREATURE:LOUSE_MAN"
 msgid "[CASTE_NAME:louse man:louse men:louse man]"
 msgstr ""
 
-#: creature_bug_slug_new.txt:737
+#: creature_bug_slug_new.txt:738
 msgctxt "CREATURE:LOUSE_MAN"
 msgid "[CASTE_NAME:louse woman:louse women:louse woman]"
 msgstr ""
 
-#: creature_bug_slug_new.txt:746
+#: creature_bug_slug_new.txt:747
 msgctxt "CREATURE:LOUSE_MAN"
 msgid "[NAME:louse man:louse men:louse man]"
 msgstr ""
 
-#: creature_bug_slug_new.txt:747
+#: creature_bug_slug_new.txt:748
 msgctxt "CREATURE:LOUSE_MAN"
 msgid "[DESCRIPTION:A person with the head and legs of a louse.]"
 msgstr ""
 
-#: creature_bug_slug_new.txt:763
+#: creature_bug_slug_new.txt:764
 msgctxt "CREATURE:GIANT_LOUSE"
 msgid "[NAME:giant louse:giant lice:giant louse]"
 msgstr ""
 
-#: creature_bug_slug_new.txt:764
+#: creature_bug_slug_new.txt:765
 msgctxt "CREATURE:GIANT_LOUSE"
 msgid "[CASTE_NAME:giant louse:giant lice:giant louse]"
 msgstr ""
 
-#: creature_bug_slug_new.txt:765
+#: creature_bug_slug_new.txt:766
 msgctxt "CREATURE:GIANT_LOUSE"
 msgid "[DESCRIPTION:A huge monster in the shape of a louse.]"
 msgstr ""
 
-#: creature_bug_slug_new.txt:774
+#: creature_bug_slug_new.txt:775
 msgctxt "CREATURE:GIANT_LOUSE"
 msgid "[PREFSTRING:ability to infest]"
 msgstr ""
 
-#: creature_bug_slug_new.txt:784
+#: creature_bug_slug_new.txt:785
 msgctxt "CREATURE:THRIPS"
 msgid "[DESCRIPTION:A tiny pest insect.  It feeds on both crops and other bugs.]"
 msgstr ""
 
-#: creature_bug_slug_new.txt:785
+#: creature_bug_slug_new.txt:786
 msgctxt "CREATURE:THRIPS"
 msgid "[NAME:thrips:thrips:thrips]"
 msgstr ""
 
-#: creature_bug_slug_new.txt:786
+#: creature_bug_slug_new.txt:787
 msgctxt "CREATURE:THRIPS"
 msgid "[CASTE_NAME:thrips:thrips:thrips]"
 msgstr ""
 
-#: creature_bug_slug_new.txt:795
+#: creature_bug_slug_new.txt:796
 msgctxt "CREATURE:THRIPS"
 msgid "[PREFSTRING:prolific breeding]"
 msgstr ""
 
-#: creature_bug_slug_new.txt:833
+#: creature_bug_slug_new.txt:834
 msgctxt "CREATURE:THRIPS"
 msgid "[TLCM_NOUN:chitin:SINGULAR]"
 msgstr ""
 
-#: creature_bug_slug_new.txt:836
+#: creature_bug_slug_new.txt:837
 msgctxt "CREATURE:THRIPS"
 msgid "[TLCM_NOUN:eyes:PLURAL]"
 msgstr ""
 
-#: creature_bug_slug_new.txt:843
+#: creature_bug_slug_new.txt:844
 msgctxt "CREATURE:THRIPS_MAN"
 msgid "[CASTE_NAME:thrips man:thrips men:thrips man]"
 msgstr ""
 
-#: creature_bug_slug_new.txt:845
+#: creature_bug_slug_new.txt:846
 msgctxt "CREATURE:THRIPS_MAN"
 msgid "[CASTE_NAME:thrips woman:thrips women:thrips woman]"
 msgstr ""
 
-#: creature_bug_slug_new.txt:854
+#: creature_bug_slug_new.txt:855
 msgctxt "CREATURE:THRIPS_MAN"
 msgid "[NAME:thrips man:thrips men:thrips man]"
 msgstr ""
 
-#: creature_bug_slug_new.txt:855
+#: creature_bug_slug_new.txt:856
 msgctxt "CREATURE:THRIPS_MAN"
 msgid "[DESCRIPTION:A person with the head and wings of a thrips.]"
 msgstr ""
 
-#: creature_bug_slug_new.txt:871
+#: creature_bug_slug_new.txt:872
 msgctxt "CREATURE:GIANT_THRIPS"
 msgid "[NAME:giant thrips:giant thrips:giant thrips]"
 msgstr ""
 
-#: creature_bug_slug_new.txt:872
+#: creature_bug_slug_new.txt:873
 msgctxt "CREATURE:GIANT_THRIPS"
 msgid "[CASTE_NAME:giant thrips:giant thrips:giant thrips]"
 msgstr ""
 
-#: creature_bug_slug_new.txt:873
+#: creature_bug_slug_new.txt:874
 msgctxt "CREATURE:GIANT_THRIPS"
 msgid "[DESCRIPTION:A huge monster in the form of a thrips.]"
 msgstr ""
 
-#: creature_bug_slug_new.txt:882
+#: creature_bug_slug_new.txt:883
 msgctxt "CREATURE:GIANT_THRIPS"
 msgid "[PREFSTRING:prolific breeding]"
 msgstr ""
 
-#: creature_bug_slug_new.txt:891
+#: creature_bug_slug_new.txt:892
 msgctxt "CREATURE:SLUG"
 msgid "[DESCRIPTION:A tiny land mollusk.  It can be found under rotten logs and in gardens.]"
 msgstr ""
 
-#: creature_bug_slug_new.txt:892
+#: creature_bug_slug_new.txt:893
 msgctxt "CREATURE:SLUG"
 msgid "[NAME:slug:slugs:slug]"
 msgstr ""
 
-#: creature_bug_slug_new.txt:893
+#: creature_bug_slug_new.txt:894
 msgctxt "CREATURE:SLUG"
 msgid "[CASTE_NAME:slug:slugs:slug]"
 msgstr ""
 
-#: creature_bug_slug_new.txt:902
+#: creature_bug_slug_new.txt:903
 msgctxt "CREATURE:SLUG"
 msgid "[PREFSTRING:slime trails]"
 msgstr ""
 
-#: creature_bug_slug_new.txt:931
+#: creature_bug_slug_new.txt:932
 msgctxt "CREATURE:SLUG"
 msgid "[TLCM_NOUN:skin:SINGULAR]"
-msgstr ""
-
-#: creature_bug_slug_new.txt:942
-msgctxt "CREATURE:SLUG_MAN"
-msgid "[NAME:slug man:slug men:slug man]"
 msgstr ""
 
 #: creature_bug_slug_new.txt:943
 msgctxt "CREATURE:SLUG_MAN"
-msgid "[CASTE_NAME:slug man:slug men:slug man]"
+msgid "[NAME:slug man:slug men:slug man]"
 msgstr ""
 
 #: creature_bug_slug_new.txt:944
 msgctxt "CREATURE:SLUG_MAN"
-msgid "[DESCRIPTION:A great slug with the torso of a man.  It pulls itself across the ground with its hands for greater speed.]"
+msgid "[CASTE_NAME:slug man:slug men:slug man]"
 msgstr ""
 
-#: creature_bug_slug_new.txt:960
-msgctxt "CREATURE:GIANT_SLUG"
-msgid "[NAME:giant slug:giant slugs:giant slug]"
+#: creature_bug_slug_new.txt:945
+msgctxt "CREATURE:SLUG_MAN"
+msgid "[DESCRIPTION:A great slug with the torso of a man.  It pulls itself across the ground with its hands for greater speed.]"
 msgstr ""
 
 #: creature_bug_slug_new.txt:961
 msgctxt "CREATURE:GIANT_SLUG"
-msgid "[CASTE_NAME:giant slug:giant slugs:giant slug]"
+msgid "[NAME:giant slug:giant slugs:giant slug]"
 msgstr ""
 
 #: creature_bug_slug_new.txt:962
 msgctxt "CREATURE:GIANT_SLUG"
+msgid "[CASTE_NAME:giant slug:giant slugs:giant slug]"
+msgstr ""
+
+#: creature_bug_slug_new.txt:963
+msgctxt "CREATURE:GIANT_SLUG"
 msgid "[DESCRIPTION:A huge monster in the form of a slug.]"
 msgstr ""
 
-#: creature_bug_slug_new.txt:971
+#: creature_bug_slug_new.txt:972
 msgctxt "CREATURE:GIANT_SLUG"
 msgid "[PREFSTRING:slime trails]"
 msgstr ""
 
-#: creature_bug_slug_new.txt:978
+#: creature_bug_slug_new.txt:979
 msgctxt "CREATURE:MOSQUITO"
 msgid "[DESCRIPTION:A tiny pest insect.  It uses its long nose to suck blood from its host.]"
 msgstr ""
 
-#: creature_bug_slug_new.txt:979
+#: creature_bug_slug_new.txt:980
 msgctxt "CREATURE:MOSQUITO"
 msgid "[NAME:mosquito:mosquitos:mosquito]"
 msgstr ""
 
-#: creature_bug_slug_new.txt:980
+#: creature_bug_slug_new.txt:981
 msgctxt "CREATURE:MOSQUITO"
 msgid "[CASTE_NAME:mosquito:mosquitos:mosquito]"
 msgstr ""
 
-#: creature_bug_slug_new.txt:991
+#: creature_bug_slug_new.txt:992
 msgctxt "CREATURE:MOSQUITO"
 msgid "[PREFSTRING:high-pitched buzz]"
 msgstr ""
 
-#: creature_bug_slug_new.txt:992
+#: creature_bug_slug_new.txt:993
 msgctxt "CREATURE:MOSQUITO"
 msgid "[PREFSTRING:ability to feast on blood]"
 msgstr ""
 
-#: creature_bug_slug_new.txt:1030
+#: creature_bug_slug_new.txt:1031
 msgctxt "CREATURE:MOSQUITO"
 msgid "[TLCM_NOUN:chitin:SINGULAR]"
 msgstr ""
 
-#: creature_bug_slug_new.txt:1033
+#: creature_bug_slug_new.txt:1034
 msgctxt "CREATURE:MOSQUITO"
 msgid "[TLCM_NOUN:eyes:PLURAL]"
 msgstr ""
 
-#: creature_bug_slug_new.txt:1040
+#: creature_bug_slug_new.txt:1041
 msgctxt "CREATURE:MOSQUITO_MAN"
 msgid "[CASTE_NAME:mosquito man:mosquito men:mosquito man]"
 msgstr ""
 
-#: creature_bug_slug_new.txt:1042
+#: creature_bug_slug_new.txt:1043
 msgctxt "CREATURE:MOSQUITO_MAN"
 msgid "[CASTE_NAME:mosquito woman:mosquito women:mosquito woman]"
 msgstr ""
 
-#: creature_bug_slug_new.txt:1052
+#: creature_bug_slug_new.txt:1053
 msgctxt "CREATURE:MOSQUITO_MAN"
 msgid "[NAME:mosquito man:mosquito men:mosquito man]"
 msgstr ""
 
-#: creature_bug_slug_new.txt:1053
+#: creature_bug_slug_new.txt:1054
 msgctxt "CREATURE:MOSQUITO_MAN"
 msgid "[DESCRIPTION:A person with the head and wings of a mosquito.]"
 msgstr ""
 
-#: creature_bug_slug_new.txt:1069
+#: creature_bug_slug_new.txt:1070
 msgctxt "CREATURE:GIANT_MOSQUITO"
 msgid "[NAME:giant mosquito:giant mosquitos:giant mosquito]"
 msgstr ""
 
-#: creature_bug_slug_new.txt:1070
+#: creature_bug_slug_new.txt:1071
 msgctxt "CREATURE:GIANT_MOSQUITO"
 msgid "[CASTE_NAME:giant mosquito:giant mosquitos:giant mosquito]"
 msgstr ""
 
-#: creature_bug_slug_new.txt:1071
+#: creature_bug_slug_new.txt:1072
 msgctxt "CREATURE:GIANT_MOSQUITO"
 msgid "[DESCRIPTION:A huge monster in the shape of a mosquito.]"
 msgstr ""
 
-#: creature_bug_slug_new.txt:1080
+#: creature_bug_slug_new.txt:1081
 msgctxt "CREATURE:GIANT_MOSQUITO"
 msgid "[PREFSTRING:high-pitched buzz]"
 msgstr ""
 
-#: creature_bug_slug_new.txt:1081
+#: creature_bug_slug_new.txt:1082
 msgctxt "CREATURE:GIANT_MOSQUITO"
 msgid "[PREFSTRING:ability to feast on blood]"
 msgstr ""
 
-#: creature_bug_slug_new.txt:1092
+#: creature_bug_slug_new.txt:1093
 msgctxt "CREATURE:SPIDER_JUMPING"
 msgid "[DESCRIPTION:A tiny black bug that lacks a web but can leap short distances.]"
 msgstr ""
 
-#: creature_bug_slug_new.txt:1093
+#: creature_bug_slug_new.txt:1094
 msgctxt "CREATURE:SPIDER_JUMPING"
 msgid "[NAME:jumping spider:jumping spiders:jumping spider]"
 msgstr ""
 
-#: creature_bug_slug_new.txt:1094
+#: creature_bug_slug_new.txt:1095
 msgctxt "CREATURE:SPIDER_JUMPING"
 msgid "[CASTE_NAME:jumping spider:jumping spiders:jumping spider]"
 msgstr ""
 
-#: creature_bug_slug_new.txt:1103
+#: creature_bug_slug_new.txt:1104
 msgctxt "CREATURE:SPIDER_JUMPING"
 msgid "[PREFSTRING:striking appearance]"
 msgstr ""
 
-#: creature_bug_slug_new.txt:1104
+#: creature_bug_slug_new.txt:1105
 msgctxt "CREATURE:SPIDER_JUMPING"
 msgid "[PREFSTRING:ability to leap]"
 msgstr ""
 
-#: creature_bug_slug_new.txt:1138
+#: creature_bug_slug_new.txt:1139
 msgctxt "CREATURE:SPIDER_JUMPING"
 msgid "[TLCM_NOUN:chitin:SINGULAR]"
 msgstr ""
 
-#: creature_bug_slug_new.txt:1141
+#: creature_bug_slug_new.txt:1142
 msgctxt "CREATURE:SPIDER_JUMPING"
 msgid "[TLCM_NOUN:eyes:PLURAL]"
 msgstr ""
 
-#: creature_bug_slug_new.txt:1148
+#: creature_bug_slug_new.txt:1149
 msgctxt "CREATURE:JUMPING_SPIDER_MAN"
 msgid "[CASTE_NAME:jumping spider man:jumping spider men:jumping spider man]"
 msgstr ""
 
-#: creature_bug_slug_new.txt:1150
+#: creature_bug_slug_new.txt:1151
 msgctxt "CREATURE:JUMPING_SPIDER_MAN"
 msgid "[CASTE_NAME:jumping spider woman:jumping spider women:jumping spider woman]"
 msgstr ""
 
-#: creature_bug_slug_new.txt:1159
+#: creature_bug_slug_new.txt:1160
 msgctxt "CREATURE:JUMPING_SPIDER_MAN"
 msgid "[NAME:jumping spider man:jumping spider men:jumping spider man]"
 msgstr ""
 
-#: creature_bug_slug_new.txt:1160
+#: creature_bug_slug_new.txt:1161
 msgctxt "CREATURE:JUMPING_SPIDER_MAN"
 msgid "[DESCRIPTION:A person with the head and arms of a jumping spider.]"
 msgstr ""
 
-#: creature_bug_slug_new.txt:1177
+#: creature_bug_slug_new.txt:1178
 msgctxt "CREATURE:GIANT_JUMPING_SPIDER"
 msgid "[NAME:giant jumping spider:giant jumping spiders:giant jumping spider]"
 msgstr ""
 
-#: creature_bug_slug_new.txt:1178
+#: creature_bug_slug_new.txt:1179
 msgctxt "CREATURE:GIANT_JUMPING_SPIDER"
 msgid "[CASTE_NAME:giant jumping spider:giant jumping spiders:giant jumping spider]"
 msgstr ""
 
-#: creature_bug_slug_new.txt:1179
+#: creature_bug_slug_new.txt:1180
 msgctxt "CREATURE:GIANT_JUMPING_SPIDER"
 msgid "[DESCRIPTION:A huge monster in the form of a jumping spider.]"
 msgstr ""
 
-#: creature_bug_slug_new.txt:1188
+#: creature_bug_slug_new.txt:1189
 msgctxt "CREATURE:GIANT_JUMPING_SPIDER"
 msgid "[PREFSTRING:striking appearance]"
 msgstr ""
 
-#: creature_bug_slug_new.txt:1189
+#: creature_bug_slug_new.txt:1190
 msgctxt "CREATURE:GIANT_JUMPING_SPIDER"
 msgid "[PREFSTRING:ability to leap]"
 msgstr ""
 
-#: creature_bug_slug_new.txt:1198
+#: creature_bug_slug_new.txt:1199
 msgctxt "CREATURE:TERMITE"
 msgid "[DESCRIPTION:A tiny insect capable of destroying large wooden structures when in large numbers.]"
 msgstr ""
 
-#: creature_bug_slug_new.txt:1199
+#: creature_bug_slug_new.txt:1200
 msgctxt "CREATURE:TERMITE"
 msgid "[NAME:termite:termites:termite]"
 msgstr ""
 
-#: creature_bug_slug_new.txt:1211
+#: creature_bug_slug_new.txt:1212
 msgctxt "CREATURE:TERMITE"
 msgid "[PREFSTRING:industrious nature]"
 msgstr ""
 
-#: creature_bug_slug_new.txt:1212
+#: creature_bug_slug_new.txt:1213
 msgctxt "CREATURE:TERMITE"
 msgid "[PREFSTRING:ability to devour wood]"
 msgstr ""
 
-#: creature_bug_slug_new.txt:1233
+#: creature_bug_slug_new.txt:1234
 msgctxt "CREATURE:TERMITE"
 msgid "[CASTE_NAME:worker termite:worker termites:worker termite]"
 msgstr ""
 
-#: creature_bug_slug_new.txt:1236
+#: creature_bug_slug_new.txt:1237
 msgctxt "CREATURE:TERMITE"
 msgid "[CASTE_NAME:soldier termite:soldier termites:soldier termite]"
 msgstr ""
 
-#: creature_bug_slug_new.txt:1240
+#: creature_bug_slug_new.txt:1241
 msgctxt "CREATURE:TERMITE"
 msgid "[CASTE_NAME:king termite:king termites:king termite]"
 msgstr ""
 
-#: creature_bug_slug_new.txt:1244
+#: creature_bug_slug_new.txt:1245
 msgctxt "CREATURE:TERMITE"
 msgid "[CASTE_NAME:queen termite:queen termites:queen termite]"
 msgstr ""
 
-#: creature_bug_slug_new.txt:1255
+#: creature_bug_slug_new.txt:1256
 msgctxt "CREATURE:TERMITE"
 msgid "[TLCM_NOUN:chitin:SINGULAR]"
 msgstr ""
 
-#: creature_bug_slug_new.txt:1258
+#: creature_bug_slug_new.txt:1259
 msgctxt "CREATURE:TERMITE"
 msgid "[TLCM_NOUN:eyes:PLURAL]"
-msgstr ""
-
-#: creature_bug_slug_new.txt:1265
-msgctxt "CREATURE:MOON_SNAIL"
-msgid "[DESCRIPTION:A tiny predatory mollusk.  It is brightly colored.]"
 msgstr ""
 
 #: creature_bug_slug_new.txt:1266
 msgctxt "CREATURE:MOON_SNAIL"
-msgid "[NAME:moon snail:moon snails:moon snail]"
+msgid "[DESCRIPTION:A tiny predatory mollusk.  It is brightly colored.]"
 msgstr ""
 
 #: creature_bug_slug_new.txt:1267
 msgctxt "CREATURE:MOON_SNAIL"
-msgid "[CASTE_NAME:moon snail:moon snails:moon snail]"
+msgid "[NAME:moon snail:moon snails:moon snail]"
 msgstr ""
 
-#: creature_bug_slug_new.txt:1279
+#: creature_bug_slug_new.txt:1268
 msgctxt "CREATURE:MOON_SNAIL"
-msgid "[PREFSTRING:predatory nature]"
+msgid "[CASTE_NAME:moon snail:moon snails:moon snail]"
 msgstr ""
 
 #: creature_bug_slug_new.txt:1280
 msgctxt "CREATURE:MOON_SNAIL"
+msgid "[PREFSTRING:predatory nature]"
+msgstr ""
+
+#: creature_bug_slug_new.txt:1281
+msgctxt "CREATURE:MOON_SNAIL"
 msgid "[PREFSTRING:striking coloration]"
 msgstr ""
 
-#: creature_bug_slug_new.txt:1314
+#: creature_bug_slug_new.txt:1315
 msgctxt "CREATURE:MOON_SNAIL"
 msgid "[TLCM_NOUN:shell:SINGULAR]"
 msgstr ""
 
-#: creature_bug_slug_new.txt:1317
+#: creature_bug_slug_new.txt:1318
 msgctxt "CREATURE:MOON_SNAIL"
 msgid "[TLCM_NOUN:skin:SINGULAR]"
 msgstr ""
 
-#: creature_bug_slug_new.txt:1324
+#: creature_bug_slug_new.txt:1325
 msgctxt "CREATURE:MOON_SNAIL_MAN"
 msgid "[CASTE_NAME:moon snail man:moon snail men:moon snail man]"
 msgstr ""
 
-#: creature_bug_slug_new.txt:1326
+#: creature_bug_slug_new.txt:1327
 msgctxt "CREATURE:MOON_SNAIL_MAN"
 msgid "[CASTE_NAME:moon snail woman:moon snail women:moon snail woman]"
 msgstr ""
 
-#: creature_bug_slug_new.txt:1334
+#: creature_bug_slug_new.txt:1335
 msgctxt "CREATURE:MOON_SNAIL_MAN"
 msgid "[NAME:moon snail man:moon snail men:moon snail man]"
 msgstr ""
 
-#: creature_bug_slug_new.txt:1335
+#: creature_bug_slug_new.txt:1336
 msgctxt "CREATURE:MOON_SNAIL_MAN"
 msgid "[DESCRIPTION:A colorful person with the head and shell of a moon snail.]"
 msgstr ""
 
-#: creature_bug_slug_new.txt:1351
+#: creature_bug_slug_new.txt:1352
 msgctxt "CREATURE:GIANT_MOON_SNAIL"
 msgid "[NAME:giant moon snail:giant moon snails:giant moon snail]"
 msgstr ""
 
-#: creature_bug_slug_new.txt:1352
+#: creature_bug_slug_new.txt:1353
 msgctxt "CREATURE:GIANT_MOON_SNAIL"
 msgid "[CASTE_NAME:giant moon snail:giant moon snails:giant moon snail]"
 msgstr ""
 
-#: creature_bug_slug_new.txt:1353
+#: creature_bug_slug_new.txt:1354
 msgctxt "CREATURE:GIANT_MOON_SNAIL"
 msgid "[DESCRIPTION:A huge monster in the shape of a moon snail.]"
 msgstr ""
 
-#: creature_bug_slug_new.txt:1362
+#: creature_bug_slug_new.txt:1363
 msgctxt "CREATURE:GIANT_MOON_SNAIL"
 msgid "[PREFSTRING:predatory nature]"
 msgstr ""
 
-#: creature_bug_slug_new.txt:1363
+#: creature_bug_slug_new.txt:1364
 msgctxt "CREATURE:GIANT_MOON_SNAIL"
 msgid "[PREFSTRING:striking coloration]"
 msgstr ""
 
-#: creature_bug_slug_new.txt:1372
+#: creature_bug_slug_new.txt:1373
 msgctxt "CREATURE:SPIDER_BROWN_RECLUSE"
 msgid "[DESCRIPTION:A tiny brown bug known for its powerful poison.]"
 msgstr ""
 
-#: creature_bug_slug_new.txt:1373
+#: creature_bug_slug_new.txt:1374
 msgctxt "CREATURE:SPIDER_BROWN_RECLUSE"
 msgid "[NAME:brown recluse spider:brown recluse spiders:brown recluse spider]"
 msgstr ""
 
-#: creature_bug_slug_new.txt:1374
+#: creature_bug_slug_new.txt:1375
 msgctxt "CREATURE:SPIDER_BROWN_RECLUSE"
 msgid "[CASTE_NAME:brown recluse spider:brown recluse spiders:brown recluse spider]"
 msgstr ""
 
-#: creature_bug_slug_new.txt:1384
+#: creature_bug_slug_new.txt:1385
 msgctxt "CREATURE:SPIDER_BROWN_RECLUSE"
 msgid "[PREFSTRING:venomous bite]"
-msgstr ""
-
-#: creature_bug_slug_new.txt:1397
-msgctxt "CREATURE:SPIDER_BROWN_RECLUSE"
-msgid "[STATE_NAME:ALL_SOLID:frozen brown recluse spider venom]"
 msgstr ""
 
 #: creature_bug_slug_new.txt:1398
 msgctxt "CREATURE:SPIDER_BROWN_RECLUSE"
-msgid "[STATE_ADJ:ALL_SOLID:frozen brown recluse spider venom]"
+msgid "[STATE_NAME:ALL_SOLID:frozen brown recluse spider venom]"
 msgstr ""
 
 #: creature_bug_slug_new.txt:1399
 msgctxt "CREATURE:SPIDER_BROWN_RECLUSE"
-msgid "[STATE_NAME:LIQUID:brown recluse spider venom]"
+msgid "[STATE_ADJ:ALL_SOLID:frozen brown recluse spider venom]"
 msgstr ""
 
 #: creature_bug_slug_new.txt:1400
 msgctxt "CREATURE:SPIDER_BROWN_RECLUSE"
-msgid "[STATE_ADJ:LIQUID:brown recluse spider venom]"
+msgid "[STATE_NAME:LIQUID:brown recluse spider venom]"
 msgstr ""
 
 #: creature_bug_slug_new.txt:1401
 msgctxt "CREATURE:SPIDER_BROWN_RECLUSE"
-msgid "[STATE_NAME:GAS:boiling brown recluse spider venom]"
+msgid "[STATE_ADJ:LIQUID:brown recluse spider venom]"
 msgstr ""
 
 #: creature_bug_slug_new.txt:1402
 msgctxt "CREATURE:SPIDER_BROWN_RECLUSE"
+msgid "[STATE_NAME:GAS:boiling brown recluse spider venom]"
+msgstr ""
+
+#: creature_bug_slug_new.txt:1403
+msgctxt "CREATURE:SPIDER_BROWN_RECLUSE"
 msgid "[STATE_ADJ:GAS:boiling brown recluse spider venom]"
 msgstr ""
 
-#: creature_bug_slug_new.txt:1406
+#: creature_bug_slug_new.txt:1407
 msgctxt "CREATURE:SPIDER_BROWN_RECLUSE"
 msgid "[SYN_NAME:brown recluse spider bite]"
 msgstr ""
 
-#: creature_bug_slug_new.txt:1416
+#: creature_bug_slug_new.txt:1417
 msgctxt "CREATURE:SPIDER_BROWN_RECLUSE"
 msgid "[VERMIN_BITE:1:bitten:]"
 msgstr ""
 
-#: creature_bug_slug_new.txt:1440
+#: creature_bug_slug_new.txt:1441
 msgctxt "CREATURE:SPIDER_BROWN_RECLUSE"
 msgid "[TLCM_NOUN:chitin:SINGULAR]"
 msgstr ""
 
-#: creature_bug_slug_new.txt:1443
+#: creature_bug_slug_new.txt:1444
 msgctxt "CREATURE:SPIDER_BROWN_RECLUSE"
 msgid "[TLCM_NOUN:eyes:PLURAL]"
 msgstr ""
 
-#: creature_bug_slug_new.txt:1449
+#: creature_bug_slug_new.txt:1450
 msgctxt "CREATURE:BROWN_RECLUSE_SPIDER_MAN"
 msgid "[CVCT_TARGET:brown recluse spider]"
 msgstr ""
 
-#: creature_bug_slug_new.txt:1450
+#: creature_bug_slug_new.txt:1451
 msgctxt "CREATURE:BROWN_RECLUSE_SPIDER_MAN"
 msgid "[CVCT_REPLACEMENT:brown recluse spider man]"
 msgstr ""
 
-#: creature_bug_slug_new.txt:1467
+#: creature_bug_slug_new.txt:1468
 msgctxt "CREATURE:BROWN_RECLUSE_SPIDER_MAN"
 msgid "[CASTE_NAME:brown recluse spider man:brown recluse spider men:brown recluse spider man]"
 msgstr ""
 
-#: creature_bug_slug_new.txt:1469
+#: creature_bug_slug_new.txt:1470
 msgctxt "CREATURE:BROWN_RECLUSE_SPIDER_MAN"
 msgid "[CASTE_NAME:brown recluse spider woman:brown recluse spider women:brown recluse spider woman]"
 msgstr ""
 
-#: creature_bug_slug_new.txt:1478
+#: creature_bug_slug_new.txt:1479
 msgctxt "CREATURE:BROWN_RECLUSE_SPIDER_MAN"
 msgid "[NAME:brown recluse spider man:brown recluse spider men:brown recluse spider man]"
 msgstr ""
 
-#: creature_bug_slug_new.txt:1479
+#: creature_bug_slug_new.txt:1480
 msgctxt "CREATURE:BROWN_RECLUSE_SPIDER_MAN"
 msgid "[DESCRIPTION:A person with the head and arms of a brown recluse spider.]"
 msgstr ""
 
-#: creature_bug_slug_new.txt:1490
+#: creature_bug_slug_new.txt:1491
 msgctxt "CREATURE:GIANT_BROWN_RECLUSE_SPIDER"
 msgid "[CVCT_TARGET:brown recluse spider]"
 msgstr ""
 
-#: creature_bug_slug_new.txt:1491
+#: creature_bug_slug_new.txt:1492
 msgctxt "CREATURE:GIANT_BROWN_RECLUSE_SPIDER"
 msgid "[CVCT_REPLACEMENT:giant brown recluse spider]"
 msgstr ""
 
-#: creature_bug_slug_new.txt:1513
+#: creature_bug_slug_new.txt:1514
 msgctxt "CREATURE:GIANT_BROWN_RECLUSE_SPIDER"
 msgid "[NAME:giant brown recluse spider:giant brown recluse spiders:giant brown recluse spider]"
 msgstr ""
 
-#: creature_bug_slug_new.txt:1514
+#: creature_bug_slug_new.txt:1515
 msgctxt "CREATURE:GIANT_BROWN_RECLUSE_SPIDER"
 msgid "[CASTE_NAME:giant brown recluse spider:giant brown recluse spiders:giant brown recluse spider]"
 msgstr ""
 
-#: creature_bug_slug_new.txt:1515
+#: creature_bug_slug_new.txt:1516
 msgctxt "CREATURE:GIANT_BROWN_RECLUSE_SPIDER"
 msgid "[DESCRIPTION:A huge monster in the shape of a brown recluse spider.]"
 msgstr ""
 
-#: creature_bug_slug_new.txt:1524
+#: creature_bug_slug_new.txt:1525
 msgctxt "CREATURE:GIANT_BROWN_RECLUSE_SPIDER"
 msgid "[PREFSTRING:venomous bite]"
 msgstr ""
 
-#: creature_bug_slug_new.txt:1533
+#: creature_bug_slug_new.txt:1534
 msgctxt "CREATURE:SNAIL"
 msgid "[DESCRIPTION:A tiny land mollusk with a large shell.]"
 msgstr ""
 
-#: creature_bug_slug_new.txt:1534
+#: creature_bug_slug_new.txt:1535
 msgctxt "CREATURE:SNAIL"
 msgid "[NAME:snail:snails:snail]"
 msgstr ""
 
-#: creature_bug_slug_new.txt:1535
+#: creature_bug_slug_new.txt:1536
 msgctxt "CREATURE:SNAIL"
 msgid "[CASTE_NAME:snail:snails:snail]"
 msgstr ""
 
-#: creature_bug_slug_new.txt:1544
+#: creature_bug_slug_new.txt:1545
 msgctxt "CREATURE:SNAIL"
 msgid "[PREFSTRING:shells]"
 msgstr ""
 
-#: creature_bug_slug_new.txt:1576
+#: creature_bug_slug_new.txt:1577
 msgctxt "CREATURE:SNAIL"
 msgid "[TLCM_NOUN:shell:SINGULAR]"
 msgstr ""
 
-#: creature_bug_slug_new.txt:1579
+#: creature_bug_slug_new.txt:1580
 msgctxt "CREATURE:SNAIL"
 msgid "[TLCM_NOUN:skin:SINGULAR]"
 msgstr ""
 
-#: creature_bug_slug_new.txt:1591
+#: creature_bug_slug_new.txt:1592
 msgctxt "CREATURE:SNAIL_MAN"
 msgid "[NAME:snail man:snail men:snail man]"
 msgstr ""
 
-#: creature_bug_slug_new.txt:1592
+#: creature_bug_slug_new.txt:1593
 msgctxt "CREATURE:SNAIL_MAN"
 msgid "[CASTE_NAME:snail man:snail men:snail man]"
 msgstr ""
 
-#: creature_bug_slug_new.txt:1593
+#: creature_bug_slug_new.txt:1594
 msgctxt "CREATURE:SNAIL_MAN"
 msgid "[DESCRIPTION:A creature with the shape of a man, but with stalks for eyes, and a great shell on its back.]"
 msgstr ""
 
-#: creature_bug_slug_new.txt:1609
+#: creature_bug_slug_new.txt:1610
 msgctxt "CREATURE:GIANT_SNAIL"
 msgid "[NAME:giant snail:giant snails:giant snail]"
 msgstr ""
 
-#: creature_bug_slug_new.txt:1610
+#: creature_bug_slug_new.txt:1611
 msgctxt "CREATURE:GIANT_SNAIL"
 msgid "[CASTE_NAME:giant snail:giant snails:giant snail]"
 msgstr ""
 
-#: creature_bug_slug_new.txt:1611
+#: creature_bug_slug_new.txt:1612
 msgctxt "CREATURE:GIANT_SNAIL"
 msgid "[DESCRIPTION:A huge monster in the form of a snail.]"
 msgstr ""
 
-#: creature_bug_slug_new.txt:1620
+#: creature_bug_slug_new.txt:1621
 msgctxt "CREATURE:GIANT_SNAIL"
 msgid "[PREFSTRING:shells]"
 msgstr ""
@@ -10238,12 +10239,12 @@ msgstr ""
 
 #: creature_domestic.txt:7
 msgctxt "CREATURE:DOG"
-msgid "[NAME:dog:dogs:dog]"
+msgid "[NAME:dog:dogs:canine]"
 msgstr ""
 
 #: creature_domestic.txt:8
 msgctxt "CREATURE:DOG"
-msgid "[CASTE_NAME:dog:dogs:dog]"
+msgid "[CASTE_NAME:dog:dogs:canine]"
 msgstr ""
 
 #: creature_domestic.txt:14
@@ -10313,12 +10314,12 @@ msgstr ""
 
 #: creature_domestic.txt:126
 msgctxt "CREATURE:CAT"
-msgid "[NAME:cat:cats:cat]"
+msgid "[NAME:cat:cats:feline]"
 msgstr ""
 
 #: creature_domestic.txt:127
 msgctxt "CREATURE:CAT"
-msgid "[CASTE_NAME:cat:cats:cat]"
+msgid "[CASTE_NAME:cat:cats:feline]"
 msgstr ""
 
 #: creature_domestic.txt:137
@@ -10458,12 +10459,12 @@ msgstr ""
 
 #: creature_domestic.txt:364
 msgctxt "CREATURE:DONKEY"
-msgid "[NAME:donkey:donkeys:donkey]"
+msgid "[NAME:donkey:donkeys:asinine]"
 msgstr ""
 
 #: creature_domestic.txt:365
 msgctxt "CREATURE:DONKEY"
-msgid "[CASTE_NAME:donkey:donkeys:donkey]"
+msgid "[CASTE_NAME:donkey:donkeys:asinine]"
 msgstr ""
 
 #: creature_domestic.txt:366
@@ -10578,12 +10579,12 @@ msgstr ""
 
 #: creature_domestic.txt:477
 msgctxt "CREATURE:HORSE"
-msgid "[NAME:horse:horses:horse]"
+msgid "[NAME:horse:horses:equine]"
 msgstr ""
 
 #: creature_domestic.txt:478
 msgctxt "CREATURE:HORSE"
-msgid "[CASTE_NAME:horse:horses:horse]"
+msgid "[CASTE_NAME:horse:horses:equine]"
 msgstr ""
 
 #: creature_domestic.txt:481
@@ -10843,7 +10844,7 @@ msgstr ""
 
 #: creature_domestic.txt:722
 msgctxt "CREATURE:SHEEP"
-msgid "[NAME:sheep:sheep:sheep]"
+msgid "[NAME:sheep:sheep:ovine]"
 msgstr ""
 
 #: creature_domestic.txt:723
@@ -10998,7 +10999,7 @@ msgstr ""
 
 #: creature_domestic.txt:864
 msgctxt "CREATURE:PIG"
-msgid "[NAME:pig:pigs:pig]"
+msgid "[NAME:pig:pigs:porcine]"
 msgstr ""
 
 #: creature_domestic.txt:865
@@ -11133,7 +11134,7 @@ msgstr ""
 
 #: creature_domestic.txt:978
 msgctxt "CREATURE:GOAT"
-msgid "[NAME:goat:goats:goat]"
+msgid "[NAME:goat:goats:hircine]"
 msgstr ""
 
 #: creature_domestic.txt:979
@@ -16741,1782 +16742,1837 @@ msgctxt "CREATURE:ELEPHANT"
 msgid "[PREFSTRING:strength]"
 msgstr ""
 
+#: creature_large_tropical.txt:23
+msgctxt "CREATURE:ELEPHANT"
+msgid "[PREFSTRING:amazing trunks]"
+msgstr ""
+
+#: creature_large_tropical.txt:24
+msgctxt "CREATURE:ELEPHANT"
+msgid "[PREFSTRING:calves' spirited antics]"
+msgstr ""
+
+#: creature_large_tropical.txt:25
+msgctxt "CREATURE:ELEPHANT"
+msgid "[PREFSTRING:tusks]"
+msgstr ""
+
 #: creature_large_tropical.txt:26
 msgctxt "CREATURE:ELEPHANT"
-msgid "[STATE_NAME:ALL_SOLID:ivory]"
+msgid "[PREFSTRING:great weight]"
 msgstr ""
 
 #: creature_large_tropical.txt:27
 msgctxt "CREATURE:ELEPHANT"
-msgid "[STATE_ADJ:ALL_SOLID:ivory]"
+msgid "[PREFSTRING:social behavior]"
+msgstr ""
+
+#: creature_large_tropical.txt:28
+msgctxt "CREATURE:ELEPHANT"
+msgid "[PREFSTRING:flappy ears]"
+msgstr ""
+
+#: creature_large_tropical.txt:29
+msgctxt "CREATURE:ELEPHANT"
+msgid "[PREFSTRING:uprooting of trees]"
 msgstr ""
 
 #: creature_large_tropical.txt:30
 msgctxt "CREATURE:ELEPHANT"
+msgid "[PREFSTRING:aggressive sparring]"
+msgstr ""
+
+#: creature_large_tropical.txt:31
+msgctxt "CREATURE:ELEPHANT"
+msgid "[PREFSTRING:trumpeting]"
+msgstr ""
+
+#: creature_large_tropical.txt:32
+msgctxt "CREATURE:ELEPHANT"
+msgid "[PREFSTRING:tool use]"
+msgstr ""
+
+#: creature_large_tropical.txt:33
+msgctxt "CREATURE:ELEPHANT"
+msgid "[PREFSTRING:self-awareness]"
+msgstr ""
+
+#: creature_large_tropical.txt:37
+msgctxt "CREATURE:ELEPHANT"
+msgid "[STATE_NAME:ALL_SOLID:ivory]"
+msgstr ""
+
+#: creature_large_tropical.txt:38
+msgctxt "CREATURE:ELEPHANT"
+msgid "[STATE_ADJ:ALL_SOLID:ivory]"
+msgstr ""
+
+#: creature_large_tropical.txt:41
+msgctxt "CREATURE:ELEPHANT"
 msgid "[TISSUE_NAME:ivory:NP]"
 msgstr ""
 
-#: creature_large_tropical.txt:57
+#: creature_large_tropical.txt:68
 msgctxt "CREATURE:ELEPHANT"
 msgid "[ATTACK_VERB:kick:kicks]"
 msgstr ""
 
-#: creature_large_tropical.txt:65
+#: creature_large_tropical.txt:76
 msgctxt "CREATURE:ELEPHANT"
 msgid "[ATTACK_VERB:gore:gores]"
 msgstr ""
 
-#: creature_large_tropical.txt:85
+#: creature_large_tropical.txt:96
 msgctxt "CREATURE:ELEPHANT"
 msgid "[TLCM_NOUN:skin:SINGULAR]"
 msgstr ""
 
-#: creature_large_tropical.txt:88
+#: creature_large_tropical.txt:99
 msgctxt "CREATURE:ELEPHANT"
 msgid "[TLCM_NOUN:eyes:PLURAL]"
 msgstr ""
 
-#: creature_large_tropical.txt:93
+#: creature_large_tropical.txt:104
 msgctxt "CREATURE:WARTHOG"
 msgid "[DESCRIPTION:A medium-sized animal living in grass and woodland.  It has a large snout with four sharp tusks.  It will aggressively defend itself.]"
 msgstr ""
 
-#: creature_large_tropical.txt:94
+#: creature_large_tropical.txt:105
 msgctxt "CREATURE:WARTHOG"
 msgid "[NAME:warthog:warthogs:warthog]"
 msgstr ""
 
-#: creature_large_tropical.txt:95
+#: creature_large_tropical.txt:106
 msgctxt "CREATURE:WARTHOG"
 msgid "[CASTE_NAME:warthog:warthogs:warthog]"
 msgstr ""
 
-#: creature_large_tropical.txt:96
+#: creature_large_tropical.txt:107
 msgctxt "CREATURE:WARTHOG"
 msgid "[GENERAL_CHILD_NAME:warthog piglet:warthog piglets]"
 msgstr ""
 
-#: creature_large_tropical.txt:102
+#: creature_large_tropical.txt:113
 msgctxt "CREATURE:WARTHOG"
 msgid "[PREFSTRING:short tempers]"
 msgstr ""
 
-#: creature_large_tropical.txt:115
+#: creature_large_tropical.txt:126
 msgctxt "CREATURE:WARTHOG"
 msgid "[STATE_NAME:ALL_SOLID:ivory]"
 msgstr ""
 
-#: creature_large_tropical.txt:116
+#: creature_large_tropical.txt:127
 msgctxt "CREATURE:WARTHOG"
 msgid "[STATE_ADJ:ALL_SOLID:ivory]"
 msgstr ""
 
-#: creature_large_tropical.txt:120
+#: creature_large_tropical.txt:131
 msgctxt "CREATURE:WARTHOG"
 msgid "[TISSUE_NAME:ivory:NP]"
 msgstr ""
 
-#: creature_large_tropical.txt:148
+#: creature_large_tropical.txt:159
 msgctxt "CREATURE:WARTHOG"
 msgid "[ATTACK_VERB:kick:kicks]"
 msgstr ""
 
-#: creature_large_tropical.txt:164
+#: creature_large_tropical.txt:175
 msgctxt "CREATURE:WARTHOG"
 msgid "[ATTACK_VERB:bite:bites]"
 msgstr ""
 
-#: creature_large_tropical.txt:187
+#: creature_large_tropical.txt:198
 msgctxt "CREATURE:WARTHOG"
 msgid "[TLCM_NOUN:hair:SINGULAR]"
 msgstr ""
 
-#: creature_large_tropical.txt:190
+#: creature_large_tropical.txt:201
 msgctxt "CREATURE:WARTHOG"
 msgid "[TLCM_NOUN:skin:SINGULAR]"
 msgstr ""
 
-#: creature_large_tropical.txt:193
+#: creature_large_tropical.txt:204
 msgctxt "CREATURE:WARTHOG"
 msgid "[TLCM_NOUN:eyes:PLURAL]"
 msgstr ""
 
-#: creature_large_tropical.txt:196
+#: creature_large_tropical.txt:207
 msgctxt "CREATURE:LION"
 msgid "[DESCRIPTION:A large ferocious predator found in grasslands.  It lives in groups of females and one male with a large mane.  They hunt together and are capable of felling extremely large prey.]"
 msgstr ""
 
-#: creature_large_tropical.txt:197
+#: creature_large_tropical.txt:208
 msgctxt "CREATURE:LION"
 msgid "[NAME:lion:lions:lion]"
 msgstr ""
 
-#: creature_large_tropical.txt:198
+#: creature_large_tropical.txt:209
 msgctxt "CREATURE:LION"
 msgid "[CASTE_NAME:lion:lions:lion]"
 msgstr ""
 
-#: creature_large_tropical.txt:199
+#: creature_large_tropical.txt:210
 msgctxt "CREATURE:LION"
 msgid "[GENERAL_CHILD_NAME:lion cub:lion cubs]"
 msgstr ""
 
-#: creature_large_tropical.txt:214
+#: creature_large_tropical.txt:225
 msgctxt "CREATURE:LION"
 msgid "[PREFSTRING:roars]"
 msgstr ""
 
-#: creature_large_tropical.txt:249
+#: creature_large_tropical.txt:260
 msgctxt "CREATURE:LION"
 msgid "[ATTACK_VERB:bite:bites]"
 msgstr ""
 
-#: creature_large_tropical.txt:258
+#: creature_large_tropical.txt:269
 msgctxt "CREATURE:LION"
 msgid "[ATTACK_VERB:scratch:scratches]"
 msgstr ""
 
-#: creature_large_tropical.txt:279
+#: creature_large_tropical.txt:290
 msgctxt "CREATURE:LION"
 msgid "[TLCM_NOUN:hair:SINGULAR]"
 msgstr ""
 
-#: creature_large_tropical.txt:282
+#: creature_large_tropical.txt:293
 msgctxt "CREATURE:LION"
 msgid "[TLCM_NOUN:skin:SINGULAR]"
 msgstr ""
 
-#: creature_large_tropical.txt:285
+#: creature_large_tropical.txt:296
 msgctxt "CREATURE:LION"
 msgid "[TLCM_NOUN:eyes:PLURAL]"
 msgstr ""
 
-#: creature_large_tropical.txt:290
+#: creature_large_tropical.txt:301
 msgctxt "CREATURE:LEOPARD"
 msgid "[DESCRIPTION:A large spotted feline found in grass and woodland.  It is known for great speed in hunting.]"
 msgstr ""
 
-#: creature_large_tropical.txt:291
+#: creature_large_tropical.txt:302
 msgctxt "CREATURE:LEOPARD"
 msgid "[NAME:leopard:leopards:leopard]"
 msgstr ""
 
-#: creature_large_tropical.txt:292
+#: creature_large_tropical.txt:303
 msgctxt "CREATURE:LEOPARD"
 msgid "[CASTE_NAME:leopard:leopards:leopard]"
 msgstr ""
 
-#: creature_large_tropical.txt:293
+#: creature_large_tropical.txt:304
 msgctxt "CREATURE:LEOPARD"
 msgid "[GENERAL_CHILD_NAME:leopard cub:leopard cubs]"
 msgstr ""
 
-#: creature_large_tropical.txt:308
+#: creature_large_tropical.txt:319
 msgctxt "CREATURE:LEOPARD"
 msgid "[PREFSTRING:spotted coats]"
 msgstr ""
 
-#: creature_large_tropical.txt:343
+#: creature_large_tropical.txt:354
 msgctxt "CREATURE:LEOPARD"
 msgid "[ATTACK_VERB:bite:bites]"
 msgstr ""
 
-#: creature_large_tropical.txt:352
+#: creature_large_tropical.txt:363
 msgctxt "CREATURE:LEOPARD"
 msgid "[ATTACK_VERB:scratch:scratches]"
 msgstr ""
 
-#: creature_large_tropical.txt:373
+#: creature_large_tropical.txt:384
 msgctxt "CREATURE:LEOPARD"
 msgid "[TLCM_NOUN:hair:SINGULAR]"
 msgstr ""
 
-#: creature_large_tropical.txt:376
+#: creature_large_tropical.txt:387
 msgctxt "CREATURE:LEOPARD"
 msgid "[TLCM_NOUN:skin:SINGULAR]"
 msgstr ""
 
-#: creature_large_tropical.txt:379
+#: creature_large_tropical.txt:390
 msgctxt "CREATURE:LEOPARD"
 msgid "[TLCM_NOUN:eyes:PLURAL]"
 msgstr ""
 
-#: creature_large_tropical.txt:384
+#: creature_large_tropical.txt:395
 msgctxt "CREATURE:JAGUAR"
 msgid "[DESCRIPTION:A large, muscular, spotted feline found in tropical jungles.  It is solitary and stalks and ambushes its prey.]"
 msgstr ""
 
-#: creature_large_tropical.txt:385
+#: creature_large_tropical.txt:396
 msgctxt "CREATURE:JAGUAR"
 msgid "[NAME:jaguar:jaguars:jaguar]"
 msgstr ""
 
-#: creature_large_tropical.txt:386
+#: creature_large_tropical.txt:397
 msgctxt "CREATURE:JAGUAR"
 msgid "[CASTE_NAME:jaguar:jaguars:jaguar]"
 msgstr ""
 
-#: creature_large_tropical.txt:387
+#: creature_large_tropical.txt:398
 msgctxt "CREATURE:JAGUAR"
 msgid "[GENERAL_CHILD_NAME:jaguar cub:jaguar cubs]"
 msgstr ""
 
-#: creature_large_tropical.txt:402
+#: creature_large_tropical.txt:413
 msgctxt "CREATURE:JAGUAR"
 msgid "[PREFSTRING:spotted coats]"
 msgstr ""
 
-#: creature_large_tropical.txt:437
+#: creature_large_tropical.txt:448
 msgctxt "CREATURE:JAGUAR"
 msgid "[ATTACK_VERB:bite:bites]"
 msgstr ""
 
-#: creature_large_tropical.txt:446
+#: creature_large_tropical.txt:457
 msgctxt "CREATURE:JAGUAR"
 msgid "[ATTACK_VERB:scratch:scratches]"
 msgstr ""
 
-#: creature_large_tropical.txt:467
+#: creature_large_tropical.txt:478
 msgctxt "CREATURE:JAGUAR"
 msgid "[TLCM_NOUN:hair:SINGULAR]"
 msgstr ""
 
-#: creature_large_tropical.txt:470
+#: creature_large_tropical.txt:481
 msgctxt "CREATURE:JAGUAR"
 msgid "[TLCM_NOUN:skin:SINGULAR]"
 msgstr ""
 
-#: creature_large_tropical.txt:473
+#: creature_large_tropical.txt:484
 msgctxt "CREATURE:JAGUAR"
 msgid "[TLCM_NOUN:eyes:PLURAL]"
 msgstr ""
 
-#: creature_large_tropical.txt:478
+#: creature_large_tropical.txt:489
 msgctxt "CREATURE:TIGER"
 msgid "[DESCRIPTION:A huge, striped predator.  It is found in almost any climate on a lone hunt for its prey.]"
 msgstr ""
 
-#: creature_large_tropical.txt:479
+#: creature_large_tropical.txt:490
 msgctxt "CREATURE:TIGER"
 msgid "[NAME:tiger:tigers:tiger]"
 msgstr ""
 
-#: creature_large_tropical.txt:480
+#: creature_large_tropical.txt:491
 msgctxt "CREATURE:TIGER"
 msgid "[CASTE_NAME:tiger:tigers:tiger]"
 msgstr ""
 
-#: creature_large_tropical.txt:481
+#: creature_large_tropical.txt:492
 msgctxt "CREATURE:TIGER"
 msgid "[GENERAL_CHILD_NAME:tiger cub:tiger cubs]"
 msgstr ""
 
-#: creature_large_tropical.txt:498
+#: creature_large_tropical.txt:509
 msgctxt "CREATURE:TIGER"
 msgid "[PREFSTRING:stripes, of course]"
 msgstr ""
 
-#: creature_large_tropical.txt:533
+#: creature_large_tropical.txt:544
 msgctxt "CREATURE:TIGER"
 msgid "[ATTACK_VERB:bite:bites]"
 msgstr ""
 
-#: creature_large_tropical.txt:542
+#: creature_large_tropical.txt:553
 msgctxt "CREATURE:TIGER"
 msgid "[ATTACK_VERB:scratch:scratches]"
 msgstr ""
 
-#: creature_large_tropical.txt:563
+#: creature_large_tropical.txt:574
 msgctxt "CREATURE:TIGER"
 msgid "[TLCM_NOUN:hair:SINGULAR]"
 msgstr ""
 
-#: creature_large_tropical.txt:566
+#: creature_large_tropical.txt:577
 msgctxt "CREATURE:TIGER"
 msgid "[TLCM_NOUN:skin:SINGULAR]"
 msgstr ""
 
-#: creature_large_tropical.txt:569
+#: creature_large_tropical.txt:580
 msgctxt "CREATURE:TIGER"
 msgid "[TLCM_NOUN:eyes:PLURAL]"
 msgstr ""
 
-#: creature_large_tropical.txt:578
+#: creature_large_tropical.txt:589
 msgctxt "CREATURE:TIGERMAN"
 msgid "[CASTE_NAME:tiger man:tiger men:tiger man]"
 msgstr ""
 
-#: creature_large_tropical.txt:580
+#: creature_large_tropical.txt:591
 msgctxt "CREATURE:TIGERMAN"
 msgid "[CASTE_NAME:tiger woman:tiger women:tiger woman]"
 msgstr ""
 
-#: creature_large_tropical.txt:591
+#: creature_large_tropical.txt:602
 msgctxt "CREATURE:TIGERMAN"
 msgid "[NAME:tiger man:tiger men:tiger man]"
 msgstr ""
 
-#: creature_large_tropical.txt:592
+#: creature_large_tropical.txt:603
 msgctxt "CREATURE:TIGERMAN"
 msgid "[DESCRIPTION:An orange striped man with the head of a tiger.]"
 msgstr ""
 
-#: creature_large_tropical.txt:602
+#: creature_large_tropical.txt:613
 msgctxt "CREATURE:CHEETAH"
 msgid "[DESCRIPTION:A large spotted feline predator.  It is capable of incredible speed when ambushing its prey.]"
 msgstr ""
 
-#: creature_large_tropical.txt:603
+#: creature_large_tropical.txt:614
 msgctxt "CREATURE:CHEETAH"
 msgid "[NAME:cheetah:cheetahs:cheetah]"
 msgstr ""
 
-#: creature_large_tropical.txt:604
+#: creature_large_tropical.txt:615
 msgctxt "CREATURE:CHEETAH"
 msgid "[CASTE_NAME:cheetah:cheetahs:cheetah]"
 msgstr ""
 
-#: creature_large_tropical.txt:605
+#: creature_large_tropical.txt:616
 msgctxt "CREATURE:CHEETAH"
 msgid "[GENERAL_CHILD_NAME:cheetah cub:cheetah cubs]"
 msgstr ""
 
-#: creature_large_tropical.txt:619
+#: creature_large_tropical.txt:630
 msgctxt "CREATURE:CHEETAH"
 msgid "[PREFSTRING:speed]"
 msgstr ""
 
-#: creature_large_tropical.txt:654
+#: creature_large_tropical.txt:665
 msgctxt "CREATURE:CHEETAH"
 msgid "[ATTACK_VERB:bite:bites]"
 msgstr ""
 
-#: creature_large_tropical.txt:663
+#: creature_large_tropical.txt:674
 msgctxt "CREATURE:CHEETAH"
 msgid "[ATTACK_VERB:scratch:scratches]"
 msgstr ""
 
-#: creature_large_tropical.txt:684
+#: creature_large_tropical.txt:695
 msgctxt "CREATURE:CHEETAH"
 msgid "[TLCM_NOUN:hair:SINGULAR]"
 msgstr ""
 
-#: creature_large_tropical.txt:687
+#: creature_large_tropical.txt:698
 msgctxt "CREATURE:CHEETAH"
 msgid "[TLCM_NOUN:skin:SINGULAR]"
 msgstr ""
 
-#: creature_large_tropical.txt:690
+#: creature_large_tropical.txt:701
 msgctxt "CREATURE:CHEETAH"
 msgid "[TLCM_NOUN:eyes:PLURAL]"
 msgstr ""
 
-#: creature_large_tropical.txt:695
+#: creature_large_tropical.txt:706
 msgctxt "CREATURE:GAZELLE"
 msgid "[DESCRIPTION:A small hooved creature found in large groups in the grasslands.  It has short horns and moves by leaps and bounds.]"
 msgstr ""
 
-#: creature_large_tropical.txt:696
+#: creature_large_tropical.txt:707
 msgctxt "CREATURE:GAZELLE"
 msgid "[NAME:gazelle:gazelles:gazelle]"
 msgstr ""
 
-#: creature_large_tropical.txt:697
+#: creature_large_tropical.txt:708
 msgctxt "CREATURE:GAZELLE"
 msgid "[CASTE_NAME:gazelle:gazelles:gazelle]"
 msgstr ""
 
-#: creature_large_tropical.txt:698
+#: creature_large_tropical.txt:709
 msgctxt "CREATURE:GAZELLE"
 msgid "[GENERAL_CHILD_NAME:gazelle fawn:gazelle fawns]"
 msgstr ""
 
-#: creature_large_tropical.txt:704
+#: creature_large_tropical.txt:715
 msgctxt "CREATURE:GAZELLE"
 msgid "[PREFSTRING:grace]"
 msgstr ""
 
-#: creature_large_tropical.txt:744
+#: creature_large_tropical.txt:755
 msgctxt "CREATURE:GAZELLE"
 msgid "[ATTACK_VERB:kick:kicks]"
 msgstr ""
 
-#: creature_large_tropical.txt:760
+#: creature_large_tropical.txt:771
 msgctxt "CREATURE:GAZELLE"
 msgid "[ATTACK_VERB:bite:bites]"
 msgstr ""
 
-#: creature_large_tropical.txt:783
+#: creature_large_tropical.txt:794
 msgctxt "CREATURE:GAZELLE"
 msgid "[TLCM_NOUN:hair:SINGULAR]"
 msgstr ""
 
-#: creature_large_tropical.txt:786
+#: creature_large_tropical.txt:797
 msgctxt "CREATURE:GAZELLE"
 msgid "[TLCM_NOUN:skin:SINGULAR]"
 msgstr ""
 
-#: creature_large_tropical.txt:789
+#: creature_large_tropical.txt:800
 msgctxt "CREATURE:GAZELLE"
 msgid "[TLCM_NOUN:eyes:PLURAL]"
 msgstr ""
 
-#: creature_large_tropical.txt:792
+#: creature_large_tropical.txt:803
 msgctxt "CREATURE:MANDRILL"
 msgid "[DESCRIPTION:A large monkey with blue face and rump.  It lives in large groups and often survives by destroying crops and stealing garbage.  The males are larger, with powerful jaws.]"
 msgstr ""
 
-#: creature_large_tropical.txt:793
+#: creature_large_tropical.txt:804
 msgctxt "CREATURE:MANDRILL"
 msgid "[NAME:mandrill:mandrills:mandrill]"
 msgstr ""
 
-#: creature_large_tropical.txt:794
+#: creature_large_tropical.txt:805
 msgctxt "CREATURE:MANDRILL"
 msgid "[CASTE_NAME:mandrill:mandrills:mandrill]"
 msgstr ""
 
-#: creature_large_tropical.txt:807
+#: creature_large_tropical.txt:818
 msgctxt "CREATURE:MANDRILL"
 msgid "[PREFSTRING:colorful faces]"
 msgstr ""
 
-#: creature_large_tropical.txt:841
+#: creature_large_tropical.txt:852
 msgctxt "CREATURE:MANDRILL"
 msgid "[ATTACK_VERB:bite:bites]"
 msgstr ""
 
-#: creature_large_tropical.txt:850
+#: creature_large_tropical.txt:861
 msgctxt "CREATURE:MANDRILL"
 msgid "[ATTACK_VERB:scratch:scratches]"
 msgstr ""
 
-#: creature_large_tropical.txt:874
+#: creature_large_tropical.txt:885
 msgctxt "CREATURE:MANDRILL"
 msgid "[TLCM_NOUN:hair:SINGULAR]"
 msgstr ""
 
-#: creature_large_tropical.txt:878
+#: creature_large_tropical.txt:889
 msgctxt "CREATURE:MANDRILL"
 msgid "[TLCM_NOUN:skin:SINGULAR]"
 msgstr ""
 
-#: creature_large_tropical.txt:881
+#: creature_large_tropical.txt:892
 msgctxt "CREATURE:MANDRILL"
 msgid "[TLCM_NOUN:eyes:PLURAL]"
 msgstr ""
 
-#: creature_large_tropical.txt:884
+#: creature_large_tropical.txt:895
 msgctxt "CREATURE:CHIMPANZEE"
 msgid "[DESCRIPTION:A large ape which lives in the tropical forests.  It lives in complex social groups of many members.  Though it is quite intelligent, it has been known for ferocious attacks.]"
 msgstr ""
 
-#: creature_large_tropical.txt:885
+#: creature_large_tropical.txt:896
 msgctxt "CREATURE:CHIMPANZEE"
 msgid "[NAME:chimpanzee:chimpanzees:chimpanzee]"
 msgstr ""
 
-#: creature_large_tropical.txt:886
+#: creature_large_tropical.txt:897
 msgctxt "CREATURE:CHIMPANZEE"
 msgid "[CASTE_NAME:chimpanzee:chimpanzees:chimpanzee]"
 msgstr ""
 
-#: creature_large_tropical.txt:898
+#: creature_large_tropical.txt:909
 msgctxt "CREATURE:CHIMPANZEE"
 msgid "[PREFSTRING:antics]"
 msgstr ""
 
-#: creature_large_tropical.txt:932
+#: creature_large_tropical.txt:943
 msgctxt "CREATURE:CHIMPANZEE"
 msgid "[ATTACK_VERB:bite:bites]"
 msgstr ""
 
-#: creature_large_tropical.txt:941
+#: creature_large_tropical.txt:952
 msgctxt "CREATURE:CHIMPANZEE"
 msgid "[ATTACK_VERB:scratch:scratches]"
 msgstr ""
 
-#: creature_large_tropical.txt:965
+#: creature_large_tropical.txt:976
 msgctxt "CREATURE:CHIMPANZEE"
 msgid "[TLCM_NOUN:hair:SINGULAR]"
 msgstr ""
 
-#: creature_large_tropical.txt:968
+#: creature_large_tropical.txt:979
 msgctxt "CREATURE:CHIMPANZEE"
 msgid "[TLCM_NOUN:skin:SINGULAR]"
 msgstr ""
 
-#: creature_large_tropical.txt:971
+#: creature_large_tropical.txt:982
 msgctxt "CREATURE:CHIMPANZEE"
 msgid "[TLCM_NOUN:eyes:PLURAL]"
 msgstr ""
 
-#: creature_large_tropical.txt:974
+#: creature_large_tropical.txt:985
 msgctxt "CREATURE:BONOBO"
 msgid "[DESCRIPTION:A large ape which lives in the tropical forests.  It is quite intelligent and lives in large and complex social groups.]"
 msgstr ""
 
-#: creature_large_tropical.txt:975
+#: creature_large_tropical.txt:986
 msgctxt "CREATURE:BONOBO"
 msgid "[NAME:bonobo:bonobos:bonobo]"
 msgstr ""
 
-#: creature_large_tropical.txt:976
+#: creature_large_tropical.txt:987
 msgctxt "CREATURE:BONOBO"
 msgid "[CASTE_NAME:bonobo:bonobos:bonobo]"
 msgstr ""
 
-#: creature_large_tropical.txt:988
+#: creature_large_tropical.txt:999
 msgctxt "CREATURE:BONOBO"
 msgid "[PREFSTRING:antics]"
 msgstr ""
 
-#: creature_large_tropical.txt:1022
+#: creature_large_tropical.txt:1033
 msgctxt "CREATURE:BONOBO"
 msgid "[ATTACK_VERB:bite:bites]"
 msgstr ""
 
-#: creature_large_tropical.txt:1031
+#: creature_large_tropical.txt:1042
 msgctxt "CREATURE:BONOBO"
 msgid "[ATTACK_VERB:scratch:scratches]"
 msgstr ""
 
-#: creature_large_tropical.txt:1055
+#: creature_large_tropical.txt:1066
 msgctxt "CREATURE:BONOBO"
 msgid "[TLCM_NOUN:hair:SINGULAR]"
 msgstr ""
 
-#: creature_large_tropical.txt:1058
+#: creature_large_tropical.txt:1069
 msgctxt "CREATURE:BONOBO"
 msgid "[TLCM_NOUN:skin:SINGULAR]"
 msgstr ""
 
-#: creature_large_tropical.txt:1061
+#: creature_large_tropical.txt:1072
 msgctxt "CREATURE:BONOBO"
 msgid "[TLCM_NOUN:eyes:PLURAL]"
 msgstr ""
 
-#: creature_large_tropical.txt:1064
+#: creature_large_tropical.txt:1075
 msgctxt "CREATURE:GORILLA"
 msgid "[DESCRIPTION:A huge ape found in the forest.  It lives in small groups eating plants.  The groups are lead by a large dominant male with a silver back.]"
 msgstr ""
 
-#: creature_large_tropical.txt:1065
+#: creature_large_tropical.txt:1076
 msgctxt "CREATURE:GORILLA"
 msgid "[NAME:gorilla:gorillas:gorilla]"
 msgstr ""
 
-#: creature_large_tropical.txt:1066
+#: creature_large_tropical.txt:1077
 msgctxt "CREATURE:GORILLA"
 msgid "[CASTE_NAME:gorilla:gorillas:gorilla]"
 msgstr ""
 
-#: creature_large_tropical.txt:1081
+#: creature_large_tropical.txt:1092
 msgctxt "CREATURE:GORILLA"
 msgid "[PREFSTRING:strength]"
 msgstr ""
 
-#: creature_large_tropical.txt:1115
+#: creature_large_tropical.txt:1126
 msgctxt "CREATURE:GORILLA"
 msgid "[ATTACK_VERB:bite:bites]"
 msgstr ""
 
-#: creature_large_tropical.txt:1124
+#: creature_large_tropical.txt:1135
 msgctxt "CREATURE:GORILLA"
 msgid "[ATTACK_VERB:scratch:scratches]"
 msgstr ""
 
-#: creature_large_tropical.txt:1148
+#: creature_large_tropical.txt:1159
 msgctxt "CREATURE:GORILLA"
 msgid "[TLCM_NOUN:hair:SINGULAR]"
 msgstr ""
 
-#: creature_large_tropical.txt:1151
+#: creature_large_tropical.txt:1162
 msgctxt "CREATURE:GORILLA"
 msgid "[TLCM_NOUN:skin:SINGULAR]"
 msgstr ""
 
-#: creature_large_tropical.txt:1154
+#: creature_large_tropical.txt:1165
 msgctxt "CREATURE:GORILLA"
 msgid "[TLCM_NOUN:eyes:PLURAL]"
 msgstr ""
 
-#: creature_large_tropical.txt:1157
+#: creature_large_tropical.txt:1168
 msgctxt "CREATURE:ORANGUTAN"
 msgid "[DESCRIPTION:A huge intelligent ape found in the tropical forests.  It is bright red and found living in the trees.]"
 msgstr ""
 
-#: creature_large_tropical.txt:1158
+#: creature_large_tropical.txt:1169
 msgctxt "CREATURE:ORANGUTAN"
 msgid "[NAME:orangutan:orangutans:orangutan]"
 msgstr ""
 
-#: creature_large_tropical.txt:1159
+#: creature_large_tropical.txt:1170
 msgctxt "CREATURE:ORANGUTAN"
 msgid "[CASTE_NAME:orangutan:orangutans:orangutan]"
 msgstr ""
 
-#: creature_large_tropical.txt:1169
+#: creature_large_tropical.txt:1180
 msgctxt "CREATURE:ORANGUTAN"
 msgid "[PREFSTRING:colorful hair]"
 msgstr ""
 
-#: creature_large_tropical.txt:1170
+#: creature_large_tropical.txt:1181
 msgctxt "CREATURE:ORANGUTAN"
 msgid "[PREFSTRING:long arms]"
 msgstr ""
 
-#: creature_large_tropical.txt:1171
+#: creature_large_tropical.txt:1182
 msgctxt "CREATURE:ORANGUTAN"
 msgid "[PREFSTRING:antics]"
 msgstr ""
 
-#: creature_large_tropical.txt:1205
+#: creature_large_tropical.txt:1216
 msgctxt "CREATURE:ORANGUTAN"
 msgid "[ATTACK_VERB:bite:bites]"
 msgstr ""
 
-#: creature_large_tropical.txt:1214
+#: creature_large_tropical.txt:1225
 msgctxt "CREATURE:ORANGUTAN"
 msgid "[ATTACK_VERB:scratch:scratches]"
 msgstr ""
 
-#: creature_large_tropical.txt:1238
+#: creature_large_tropical.txt:1249
 msgctxt "CREATURE:ORANGUTAN"
 msgid "[TLCM_NOUN:hair:SINGULAR]"
 msgstr ""
 
-#: creature_large_tropical.txt:1241
+#: creature_large_tropical.txt:1252
 msgctxt "CREATURE:ORANGUTAN"
 msgid "[TLCM_NOUN:skin:SINGULAR]"
 msgstr ""
 
-#: creature_large_tropical.txt:1244
+#: creature_large_tropical.txt:1255
 msgctxt "CREATURE:ORANGUTAN"
 msgid "[TLCM_NOUN:eyes:PLURAL]"
 msgstr ""
 
-#: creature_large_tropical.txt:1247
+#: creature_large_tropical.txt:1258
 msgctxt "CREATURE:GIBBON_SIAMANG"
 msgid "[DESCRIPTION:A medium-sized ape found in the trees.  It is known for its loud calls.]"
 msgstr ""
 
-#: creature_large_tropical.txt:1248
+#: creature_large_tropical.txt:1259
 msgctxt "CREATURE:GIBBON_SIAMANG"
 msgid "[NAME:siamang:siamangs:siamang]"
 msgstr ""
 
-#: creature_large_tropical.txt:1249
+#: creature_large_tropical.txt:1260
 msgctxt "CREATURE:GIBBON_SIAMANG"
 msgid "[CASTE_NAME:siamang:siamangs:siamang]"
 msgstr ""
 
-#: creature_large_tropical.txt:1260
+#: creature_large_tropical.txt:1271
 msgctxt "CREATURE:GIBBON_SIAMANG"
 msgid "[PREFSTRING:loud calls]"
 msgstr ""
 
-#: creature_large_tropical.txt:1261
+#: creature_large_tropical.txt:1272
 msgctxt "CREATURE:GIBBON_SIAMANG"
 msgid "[PREFSTRING:ability to swing through the trees]"
 msgstr ""
 
-#: creature_large_tropical.txt:1295
+#: creature_large_tropical.txt:1306
 msgctxt "CREATURE:GIBBON_SIAMANG"
 msgid "[ATTACK_VERB:bite:bites]"
 msgstr ""
 
-#: creature_large_tropical.txt:1304
+#: creature_large_tropical.txt:1315
 msgctxt "CREATURE:GIBBON_SIAMANG"
 msgid "[ATTACK_VERB:scratch:scratches]"
 msgstr ""
 
-#: creature_large_tropical.txt:1328
+#: creature_large_tropical.txt:1339
 msgctxt "CREATURE:GIBBON_SIAMANG"
 msgid "[TLCM_NOUN:hair:SINGULAR]"
 msgstr ""
 
-#: creature_large_tropical.txt:1331
+#: creature_large_tropical.txt:1342
 msgctxt "CREATURE:GIBBON_SIAMANG"
 msgid "[TLCM_NOUN:skin:SINGULAR]"
 msgstr ""
 
-#: creature_large_tropical.txt:1334
+#: creature_large_tropical.txt:1345
 msgctxt "CREATURE:GIBBON_SIAMANG"
 msgid "[TLCM_NOUN:eyes:PLURAL]"
 msgstr ""
 
-#: creature_large_tropical.txt:1337
+#: creature_large_tropical.txt:1348
 msgctxt "CREATURE:GIBBON_WHITE_HANDED"
 msgid "[DESCRIPTION:A small, long-armed ape.  It lives in trees and eats fruit.]"
 msgstr ""
 
-#: creature_large_tropical.txt:1338
+#: creature_large_tropical.txt:1349
 msgctxt "CREATURE:GIBBON_WHITE_HANDED"
 msgid "[NAME:white-handed gibbon:white-handed gibbons:white-handed gibbon]"
 msgstr ""
 
-#: creature_large_tropical.txt:1339
+#: creature_large_tropical.txt:1350
 msgctxt "CREATURE:GIBBON_WHITE_HANDED"
 msgid "[CASTE_NAME:white-handed gibbon:white-handed gibbons:white-handed gibbon]"
 msgstr ""
 
-#: creature_large_tropical.txt:1350
+#: creature_large_tropical.txt:1361
 msgctxt "CREATURE:GIBBON_WHITE_HANDED"
 msgid "[PREFSTRING:coloration]"
 msgstr ""
 
-#: creature_large_tropical.txt:1351
+#: creature_large_tropical.txt:1362
 msgctxt "CREATURE:GIBBON_WHITE_HANDED"
 msgid "[PREFSTRING:ability to swing through the trees]"
 msgstr ""
 
-#: creature_large_tropical.txt:1385
+#: creature_large_tropical.txt:1396
 msgctxt "CREATURE:GIBBON_WHITE_HANDED"
 msgid "[ATTACK_VERB:bite:bites]"
 msgstr ""
 
-#: creature_large_tropical.txt:1394
+#: creature_large_tropical.txt:1405
 msgctxt "CREATURE:GIBBON_WHITE_HANDED"
 msgid "[ATTACK_VERB:scratch:scratches]"
 msgstr ""
 
-#: creature_large_tropical.txt:1419
+#: creature_large_tropical.txt:1430
 msgctxt "CREATURE:GIBBON_WHITE_HANDED"
 msgid "[TLCM_NOUN:hair:SINGULAR]"
 msgstr ""
 
-#: creature_large_tropical.txt:1422
+#: creature_large_tropical.txt:1433
 msgctxt "CREATURE:GIBBON_WHITE_HANDED"
 msgid "[TLCM_NOUN:skin:SINGULAR]"
 msgstr ""
 
-#: creature_large_tropical.txt:1425
+#: creature_large_tropical.txt:1436
 msgctxt "CREATURE:GIBBON_WHITE_HANDED"
 msgid "[TLCM_NOUN:eyes:PLURAL]"
 msgstr ""
 
-#: creature_large_tropical.txt:1428
+#: creature_large_tropical.txt:1439
 msgctxt "CREATURE:GIBBON_BLACK_HANDED"
 msgid "[DESCRIPTION:A small fruit-eating ape, found in the trees.]"
 msgstr ""
 
-#: creature_large_tropical.txt:1429
+#: creature_large_tropical.txt:1440
 msgctxt "CREATURE:GIBBON_BLACK_HANDED"
 msgid "[NAME:black-handed gibbon:black-handed gibbons:black-handed gibbon]"
 msgstr ""
 
-#: creature_large_tropical.txt:1430
+#: creature_large_tropical.txt:1441
 msgctxt "CREATURE:GIBBON_BLACK_HANDED"
 msgid "[CASTE_NAME:black-handed gibbon:black-handed gibbons:black-handed gibbon]"
 msgstr ""
 
-#: creature_large_tropical.txt:1441
+#: creature_large_tropical.txt:1452
 msgctxt "CREATURE:GIBBON_BLACK_HANDED"
 msgid "[PREFSTRING:coloration]"
 msgstr ""
 
-#: creature_large_tropical.txt:1442
+#: creature_large_tropical.txt:1453
 msgctxt "CREATURE:GIBBON_BLACK_HANDED"
 msgid "[PREFSTRING:ability to swing through the trees]"
 msgstr ""
 
-#: creature_large_tropical.txt:1476
+#: creature_large_tropical.txt:1487
 msgctxt "CREATURE:GIBBON_BLACK_HANDED"
 msgid "[ATTACK_VERB:bite:bites]"
 msgstr ""
 
-#: creature_large_tropical.txt:1485
+#: creature_large_tropical.txt:1496
 msgctxt "CREATURE:GIBBON_BLACK_HANDED"
 msgid "[ATTACK_VERB:scratch:scratches]"
 msgstr ""
 
-#: creature_large_tropical.txt:1510
+#: creature_large_tropical.txt:1521
 msgctxt "CREATURE:GIBBON_BLACK_HANDED"
 msgid "[TLCM_NOUN:hair:SINGULAR]"
 msgstr ""
 
-#: creature_large_tropical.txt:1513
+#: creature_large_tropical.txt:1524
 msgctxt "CREATURE:GIBBON_BLACK_HANDED"
 msgid "[TLCM_NOUN:skin:SINGULAR]"
 msgstr ""
 
-#: creature_large_tropical.txt:1516
+#: creature_large_tropical.txt:1527
 msgctxt "CREATURE:GIBBON_BLACK_HANDED"
 msgid "[TLCM_NOUN:eyes:PLURAL]"
 msgstr ""
 
-#: creature_large_tropical.txt:1519
+#: creature_large_tropical.txt:1530
 msgctxt "CREATURE:GIBBON_GRAY"
 msgid "[DESCRIPTION:A small ape found in the trees of the tropical forest.  It is known for its calls.]"
 msgstr ""
 
-#: creature_large_tropical.txt:1520
+#: creature_large_tropical.txt:1531
 msgctxt "CREATURE:GIBBON_GRAY"
 msgid "[NAME:gray gibbon:gray gibbons:gray gibbon]"
 msgstr ""
 
-#: creature_large_tropical.txt:1521
+#: creature_large_tropical.txt:1532
 msgctxt "CREATURE:GIBBON_GRAY"
 msgid "[CASTE_NAME:gray gibbon:gray gibbons:gray gibbon]"
 msgstr ""
 
-#: creature_large_tropical.txt:1532
+#: creature_large_tropical.txt:1543
 msgctxt "CREATURE:GIBBON_GRAY"
 msgid "[PREFSTRING:coloration]"
 msgstr ""
 
-#: creature_large_tropical.txt:1533
+#: creature_large_tropical.txt:1544
 msgctxt "CREATURE:GIBBON_GRAY"
 msgid "[PREFSTRING:ability to swing through the trees]"
 msgstr ""
 
-#: creature_large_tropical.txt:1567
+#: creature_large_tropical.txt:1578
 msgctxt "CREATURE:GIBBON_GRAY"
 msgid "[ATTACK_VERB:bite:bites]"
 msgstr ""
 
-#: creature_large_tropical.txt:1576
+#: creature_large_tropical.txt:1587
 msgctxt "CREATURE:GIBBON_GRAY"
 msgid "[ATTACK_VERB:scratch:scratches]"
 msgstr ""
 
-#: creature_large_tropical.txt:1600
+#: creature_large_tropical.txt:1611
 msgctxt "CREATURE:GIBBON_GRAY"
 msgid "[TLCM_NOUN:hair:SINGULAR]"
 msgstr ""
 
-#: creature_large_tropical.txt:1603
+#: creature_large_tropical.txt:1614
 msgctxt "CREATURE:GIBBON_GRAY"
 msgid "[TLCM_NOUN:skin:SINGULAR]"
 msgstr ""
 
-#: creature_large_tropical.txt:1606
+#: creature_large_tropical.txt:1617
 msgctxt "CREATURE:GIBBON_GRAY"
 msgid "[TLCM_NOUN:eyes:PLURAL]"
 msgstr ""
 
-#: creature_large_tropical.txt:1609
+#: creature_large_tropical.txt:1620
 msgctxt "CREATURE:GIBBON_SILVERY"
 msgid "[DESCRIPTION:A small ape found in the trees eating fruit.]"
 msgstr ""
 
-#: creature_large_tropical.txt:1610
+#: creature_large_tropical.txt:1621
 msgctxt "CREATURE:GIBBON_SILVERY"
 msgid "[NAME:silvery gibbon:silvery gibbons:silvery gibbon]"
 msgstr ""
 
-#: creature_large_tropical.txt:1611
+#: creature_large_tropical.txt:1622
 msgctxt "CREATURE:GIBBON_SILVERY"
 msgid "[CASTE_NAME:silvery gibbon:silvery gibbons:silvery gibbon]"
 msgstr ""
 
-#: creature_large_tropical.txt:1622
+#: creature_large_tropical.txt:1633
 msgctxt "CREATURE:GIBBON_SILVERY"
 msgid "[PREFSTRING:coloration]"
 msgstr ""
 
-#: creature_large_tropical.txt:1623
+#: creature_large_tropical.txt:1634
 msgctxt "CREATURE:GIBBON_SILVERY"
 msgid "[PREFSTRING:ability to swing through the trees]"
 msgstr ""
 
-#: creature_large_tropical.txt:1657
+#: creature_large_tropical.txt:1668
 msgctxt "CREATURE:GIBBON_SILVERY"
 msgid "[ATTACK_VERB:bite:bites]"
 msgstr ""
 
-#: creature_large_tropical.txt:1666
+#: creature_large_tropical.txt:1677
 msgctxt "CREATURE:GIBBON_SILVERY"
 msgid "[ATTACK_VERB:scratch:scratches]"
 msgstr ""
 
-#: creature_large_tropical.txt:1690
+#: creature_large_tropical.txt:1701
 msgctxt "CREATURE:GIBBON_SILVERY"
 msgid "[TLCM_NOUN:hair:SINGULAR]"
 msgstr ""
 
-#: creature_large_tropical.txt:1693
+#: creature_large_tropical.txt:1704
 msgctxt "CREATURE:GIBBON_SILVERY"
 msgid "[TLCM_NOUN:skin:SINGULAR]"
 msgstr ""
 
-#: creature_large_tropical.txt:1696
+#: creature_large_tropical.txt:1707
 msgctxt "CREATURE:GIBBON_SILVERY"
 msgid "[TLCM_NOUN:eyes:PLURAL]"
 msgstr ""
 
-#: creature_large_tropical.txt:1699
+#: creature_large_tropical.txt:1710
 msgctxt "CREATURE:GIBBON_PILEATED"
 msgid "[DESCRIPTION:A small ape found in pairs, swinging from the trees.]"
 msgstr ""
 
-#: creature_large_tropical.txt:1700
+#: creature_large_tropical.txt:1711
 msgctxt "CREATURE:GIBBON_PILEATED"
 msgid "[NAME:pileated gibbon:pileated gibbons:pileated gibbon]"
 msgstr ""
 
-#: creature_large_tropical.txt:1701
+#: creature_large_tropical.txt:1712
 msgctxt "CREATURE:GIBBON_PILEATED"
 msgid "[CASTE_NAME:pileated gibbon:pileated gibbons:pileated gibbon]"
 msgstr ""
 
-#: creature_large_tropical.txt:1712
+#: creature_large_tropical.txt:1723
 msgctxt "CREATURE:GIBBON_PILEATED"
 msgid "[PREFSTRING:white head rings]"
 msgstr ""
 
-#: creature_large_tropical.txt:1713
+#: creature_large_tropical.txt:1724
 msgctxt "CREATURE:GIBBON_PILEATED"
 msgid "[PREFSTRING:ability to swing through the trees]"
 msgstr ""
 
-#: creature_large_tropical.txt:1747
+#: creature_large_tropical.txt:1758
 msgctxt "CREATURE:GIBBON_PILEATED"
 msgid "[ATTACK_VERB:bite:bites]"
 msgstr ""
 
-#: creature_large_tropical.txt:1756
+#: creature_large_tropical.txt:1767
 msgctxt "CREATURE:GIBBON_PILEATED"
 msgid "[ATTACK_VERB:scratch:scratches]"
 msgstr ""
 
-#: creature_large_tropical.txt:1776
+#: creature_large_tropical.txt:1787
 msgctxt "CREATURE:GIBBON_PILEATED"
 msgid "[TLCM_NOUN:hair:SINGULAR]"
 msgstr ""
 
-#: creature_large_tropical.txt:1786
+#: creature_large_tropical.txt:1797
 msgctxt "CREATURE:GIBBON_PILEATED"
 msgid "[TLCM_NOUN:skin:SINGULAR]"
 msgstr ""
 
-#: creature_large_tropical.txt:1789
+#: creature_large_tropical.txt:1800
 msgctxt "CREATURE:GIBBON_PILEATED"
 msgid "[TLCM_NOUN:eyes:PLURAL]"
 msgstr ""
 
-#: creature_large_tropical.txt:1792
+#: creature_large_tropical.txt:1803
 msgctxt "CREATURE:GIBBON_BILOU"
 msgid "[DESCRIPTION:A small ape that swings from the trees, eating fruit.]"
 msgstr ""
 
-#: creature_large_tropical.txt:1793
+#: creature_large_tropical.txt:1804
 msgctxt "CREATURE:GIBBON_BILOU"
 msgid "[NAME:bilou:bilous:bilou]"
 msgstr ""
 
-#: creature_large_tropical.txt:1794
+#: creature_large_tropical.txt:1805
 msgctxt "CREATURE:GIBBON_BILOU"
 msgid "[CASTE_NAME:bilou:bilous:bilou]"
 msgstr ""
 
-#: creature_large_tropical.txt:1805
+#: creature_large_tropical.txt:1816
 msgctxt "CREATURE:GIBBON_BILOU"
 msgid "[PREFSTRING:beautiful songs]"
 msgstr ""
 
-#: creature_large_tropical.txt:1806
+#: creature_large_tropical.txt:1817
 msgctxt "CREATURE:GIBBON_BILOU"
 msgid "[PREFSTRING:ability to swing through the trees]"
 msgstr ""
 
-#: creature_large_tropical.txt:1840
+#: creature_large_tropical.txt:1851
 msgctxt "CREATURE:GIBBON_BILOU"
 msgid "[ATTACK_VERB:bite:bites]"
 msgstr ""
 
-#: creature_large_tropical.txt:1849
+#: creature_large_tropical.txt:1860
 msgctxt "CREATURE:GIBBON_BILOU"
 msgid "[ATTACK_VERB:scratch:scratches]"
 msgstr ""
 
-#: creature_large_tropical.txt:1873
+#: creature_large_tropical.txt:1884
 msgctxt "CREATURE:GIBBON_BILOU"
 msgid "[TLCM_NOUN:hair:SINGULAR]"
 msgstr ""
 
-#: creature_large_tropical.txt:1876
+#: creature_large_tropical.txt:1887
 msgctxt "CREATURE:GIBBON_BILOU"
 msgid "[TLCM_NOUN:skin:SINGULAR]"
 msgstr ""
 
-#: creature_large_tropical.txt:1879
+#: creature_large_tropical.txt:1890
 msgctxt "CREATURE:GIBBON_BILOU"
 msgid "[TLCM_NOUN:eyes:PLURAL]"
 msgstr ""
 
-#: creature_large_tropical.txt:1882
+#: creature_large_tropical.txt:1893
 msgctxt "CREATURE:GIBBON_WHITE_BROWED"
 msgid "[DESCRIPTION:A small fruit-eating ape, found in the trees.]"
 msgstr ""
 
-#: creature_large_tropical.txt:1883
+#: creature_large_tropical.txt:1894
 msgctxt "CREATURE:GIBBON_WHITE_BROWED"
 msgid "[NAME:white-browed gibbon:white-browed gibbons:white-browed gibbon]"
 msgstr ""
 
-#: creature_large_tropical.txt:1884
+#: creature_large_tropical.txt:1895
 msgctxt "CREATURE:GIBBON_WHITE_BROWED"
 msgid "[CASTE_NAME:white-browed gibbon:white-browed gibbons:white-browed gibbon]"
 msgstr ""
 
-#: creature_large_tropical.txt:1895
+#: creature_large_tropical.txt:1906
 msgctxt "CREATURE:GIBBON_WHITE_BROWED"
 msgid "[PREFSTRING:mask-like facial coloration]"
 msgstr ""
 
-#: creature_large_tropical.txt:1896
+#: creature_large_tropical.txt:1907
 msgctxt "CREATURE:GIBBON_WHITE_BROWED"
 msgid "[PREFSTRING:ability to swing through the trees]"
 msgstr ""
 
-#: creature_large_tropical.txt:1930
+#: creature_large_tropical.txt:1941
 msgctxt "CREATURE:GIBBON_WHITE_BROWED"
 msgid "[ATTACK_VERB:bite:bites]"
 msgstr ""
 
-#: creature_large_tropical.txt:1939
+#: creature_large_tropical.txt:1950
 msgctxt "CREATURE:GIBBON_WHITE_BROWED"
 msgid "[ATTACK_VERB:scratch:scratches]"
 msgstr ""
 
-#: creature_large_tropical.txt:1963
+#: creature_large_tropical.txt:1974
 msgctxt "CREATURE:GIBBON_WHITE_BROWED"
 msgid "[TLCM_NOUN:hair:SINGULAR]"
 msgstr ""
 
-#: creature_large_tropical.txt:1966
+#: creature_large_tropical.txt:1977
 msgctxt "CREATURE:GIBBON_WHITE_BROWED"
 msgid "[TLCM_NOUN:skin:SINGULAR]"
 msgstr ""
 
-#: creature_large_tropical.txt:1969
+#: creature_large_tropical.txt:1980
 msgctxt "CREATURE:GIBBON_WHITE_BROWED"
 msgid "[TLCM_NOUN:eyes:PLURAL]"
 msgstr ""
 
-#: creature_large_tropical.txt:1972
+#: creature_large_tropical.txt:1983
 msgctxt "CREATURE:GIBBON_BLACK_CRESTED"
 msgid "[DESCRIPTION:A small ape from the tropical forest.  It can be found in the trees eating fruit.]"
 msgstr ""
 
-#: creature_large_tropical.txt:1973
+#: creature_large_tropical.txt:1984
 msgctxt "CREATURE:GIBBON_BLACK_CRESTED"
 msgid "[NAME:black-crested gibbon:black-crested gibbons:black-crested gibbon]"
 msgstr ""
 
-#: creature_large_tropical.txt:1974
+#: creature_large_tropical.txt:1985
 msgctxt "CREATURE:GIBBON_BLACK_CRESTED"
 msgid "[CASTE_NAME:black-crested gibbon:black-crested gibbons:black-crested gibbon]"
 msgstr ""
 
-#: creature_large_tropical.txt:1985
+#: creature_large_tropical.txt:1996
 msgctxt "CREATURE:GIBBON_BLACK_CRESTED"
 msgid "[PREFSTRING:coloration]"
 msgstr ""
 
-#: creature_large_tropical.txt:1986
+#: creature_large_tropical.txt:1997
 msgctxt "CREATURE:GIBBON_BLACK_CRESTED"
 msgid "[PREFSTRING:ability to swing through the trees]"
 msgstr ""
 
-#: creature_large_tropical.txt:2020
+#: creature_large_tropical.txt:2031
 msgctxt "CREATURE:GIBBON_BLACK_CRESTED"
 msgid "[ATTACK_VERB:bite:bites]"
 msgstr ""
 
-#: creature_large_tropical.txt:2029
+#: creature_large_tropical.txt:2040
 msgctxt "CREATURE:GIBBON_BLACK_CRESTED"
 msgid "[ATTACK_VERB:scratch:scratches]"
 msgstr ""
 
-#: creature_large_tropical.txt:2053
+#: creature_large_tropical.txt:2064
 msgctxt "CREATURE:GIBBON_BLACK_CRESTED"
 msgid "[TLCM_NOUN:hair:SINGULAR]"
 msgstr ""
 
-#: creature_large_tropical.txt:2056
+#: creature_large_tropical.txt:2067
 msgctxt "CREATURE:GIBBON_BLACK_CRESTED"
 msgid "[TLCM_NOUN:skin:SINGULAR]"
 msgstr ""
 
-#: creature_large_tropical.txt:2059
+#: creature_large_tropical.txt:2070
 msgctxt "CREATURE:GIBBON_BLACK_CRESTED"
 msgid "[TLCM_NOUN:eyes:PLURAL]"
-msgstr ""
-
-#: creature_large_tropical.txt:2062
-msgctxt "CREATURE:CAMEL_1_HUMP"
-msgid "[DESCRIPTION:A large long-necked creature with a large hump on its sturdy body.  It has been domesticated to carry passengers and cargo but is nonetheless bad-tempered and will spit.]"
-msgstr ""
-
-#: creature_large_tropical.txt:2063
-msgctxt "CREATURE:CAMEL_1_HUMP"
-msgid "[NAME:one-humped camel:one-humped camels:one-humped camel]"
-msgstr ""
-
-#: creature_large_tropical.txt:2064
-msgctxt "CREATURE:CAMEL_1_HUMP"
-msgid "[CASTE_NAME:one-humped camel:one-humped camels:one-humped camel]"
-msgstr ""
-
-#: creature_large_tropical.txt:2065
-msgctxt "CREATURE:CAMEL_1_HUMP"
-msgid "[GENERAL_CHILD_NAME:one-humped camel calf:one-humped camel calves]"
 msgstr ""
 
 #: creature_large_tropical.txt:2073
 msgctxt "CREATURE:CAMEL_1_HUMP"
+msgid "[DESCRIPTION:A large long-necked creature with a large hump on its sturdy body.  It has been domesticated to carry passengers and cargo but is nonetheless bad-tempered and will spit.]"
+msgstr ""
+
+#: creature_large_tropical.txt:2074
+msgctxt "CREATURE:CAMEL_1_HUMP"
+msgid "[NAME:one-humped camel:one-humped camels:one-humped camel]"
+msgstr ""
+
+#: creature_large_tropical.txt:2075
+msgctxt "CREATURE:CAMEL_1_HUMP"
+msgid "[CASTE_NAME:one-humped camel:one-humped camels:one-humped camel]"
+msgstr ""
+
+#: creature_large_tropical.txt:2076
+msgctxt "CREATURE:CAMEL_1_HUMP"
+msgid "[GENERAL_CHILD_NAME:one-humped camel calf:one-humped camel calves]"
+msgstr ""
+
+#: creature_large_tropical.txt:2084
+msgctxt "CREATURE:CAMEL_1_HUMP"
 msgid "[PREFSTRING:hump]"
 msgstr ""
 
-#: creature_large_tropical.txt:2111
+#: creature_large_tropical.txt:2122
 msgctxt "CREATURE:CAMEL_1_HUMP"
 msgid "[ATTACK_VERB:kick:kicks]"
 msgstr ""
 
-#: creature_large_tropical.txt:2127
+#: creature_large_tropical.txt:2138
 msgctxt "CREATURE:CAMEL_1_HUMP"
 msgid "[ATTACK_VERB:bite:bites]"
-msgstr ""
-
-#: creature_large_tropical.txt:2145
-msgctxt "CREATURE:CAMEL_1_HUMP"
-msgid "[STATE_NAME:ALL_SOLID:frozen one-humped camel's milk]"
-msgstr ""
-
-#: creature_large_tropical.txt:2146
-msgctxt "CREATURE:CAMEL_1_HUMP"
-msgid "[STATE_ADJ:ALL_SOLID:frozen one-humped camel's milk]"
-msgstr ""
-
-#: creature_large_tropical.txt:2147
-msgctxt "CREATURE:CAMEL_1_HUMP"
-msgid "[STATE_NAME:LIQUID:one-humped camel's milk]"
-msgstr ""
-
-#: creature_large_tropical.txt:2148
-msgctxt "CREATURE:CAMEL_1_HUMP"
-msgid "[STATE_ADJ:LIQUID:one-humped camel's milk]"
-msgstr ""
-
-#: creature_large_tropical.txt:2149
-msgctxt "CREATURE:CAMEL_1_HUMP"
-msgid "[STATE_NAME:GAS:boiling one-humped camel's milk]"
-msgstr ""
-
-#: creature_large_tropical.txt:2150
-msgctxt "CREATURE:CAMEL_1_HUMP"
-msgid "[STATE_ADJ:GAS:boiling one-humped camel's milk]"
-msgstr ""
-
-#: creature_large_tropical.txt:2154
-msgctxt "CREATURE:CAMEL_1_HUMP"
-msgid "[STATE_NAME:SOLID:one-humped camel cheese]"
-msgstr ""
-
-#: creature_large_tropical.txt:2155
-msgctxt "CREATURE:CAMEL_1_HUMP"
-msgid "[STATE_ADJ:SOLID:one-humped camel cheese]"
 msgstr ""
 
 #: creature_large_tropical.txt:2156
 msgctxt "CREATURE:CAMEL_1_HUMP"
-msgid "[STATE_NAME:SOLID_POWDER:one-humped camel cheese powder]"
+msgid "[STATE_NAME:ALL_SOLID:frozen one-humped camel's milk]"
 msgstr ""
 
 #: creature_large_tropical.txt:2157
 msgctxt "CREATURE:CAMEL_1_HUMP"
-msgid "[STATE_ADJ:SOLID_POWDER:one-humped camel cheese powder]"
+msgid "[STATE_ADJ:ALL_SOLID:frozen one-humped camel's milk]"
 msgstr ""
 
 #: creature_large_tropical.txt:2158
 msgctxt "CREATURE:CAMEL_1_HUMP"
-msgid "[STATE_NAME:LIQUID:melted one-humped camel cheese]"
+msgid "[STATE_NAME:LIQUID:one-humped camel's milk]"
 msgstr ""
 
 #: creature_large_tropical.txt:2159
 msgctxt "CREATURE:CAMEL_1_HUMP"
-msgid "[STATE_ADJ:LIQUID:melted one-humped camel cheese]"
+msgid "[STATE_ADJ:LIQUID:one-humped camel's milk]"
 msgstr ""
 
 #: creature_large_tropical.txt:2160
 msgctxt "CREATURE:CAMEL_1_HUMP"
-msgid "[STATE_NAME:GAS:boiling one-humped camel cheese]"
+msgid "[STATE_NAME:GAS:boiling one-humped camel's milk]"
 msgstr ""
 
 #: creature_large_tropical.txt:2161
 msgctxt "CREATURE:CAMEL_1_HUMP"
-msgid "[STATE_ADJ:GAS:boiling one-humped camel cheese]"
+msgid "[STATE_ADJ:GAS:boiling one-humped camel's milk]"
+msgstr ""
+
+#: creature_large_tropical.txt:2165
+msgctxt "CREATURE:CAMEL_1_HUMP"
+msgid "[STATE_NAME:SOLID:one-humped camel cheese]"
+msgstr ""
+
+#: creature_large_tropical.txt:2166
+msgctxt "CREATURE:CAMEL_1_HUMP"
+msgid "[STATE_ADJ:SOLID:one-humped camel cheese]"
+msgstr ""
+
+#: creature_large_tropical.txt:2167
+msgctxt "CREATURE:CAMEL_1_HUMP"
+msgid "[STATE_NAME:SOLID_POWDER:one-humped camel cheese powder]"
+msgstr ""
+
+#: creature_large_tropical.txt:2168
+msgctxt "CREATURE:CAMEL_1_HUMP"
+msgid "[STATE_ADJ:SOLID_POWDER:one-humped camel cheese powder]"
 msgstr ""
 
 #: creature_large_tropical.txt:2169
 msgctxt "CREATURE:CAMEL_1_HUMP"
-msgid "[TLCM_NOUN:hair:SINGULAR]"
+msgid "[STATE_NAME:LIQUID:melted one-humped camel cheese]"
+msgstr ""
+
+#: creature_large_tropical.txt:2170
+msgctxt "CREATURE:CAMEL_1_HUMP"
+msgid "[STATE_ADJ:LIQUID:melted one-humped camel cheese]"
+msgstr ""
+
+#: creature_large_tropical.txt:2171
+msgctxt "CREATURE:CAMEL_1_HUMP"
+msgid "[STATE_NAME:GAS:boiling one-humped camel cheese]"
 msgstr ""
 
 #: creature_large_tropical.txt:2172
 msgctxt "CREATURE:CAMEL_1_HUMP"
+msgid "[STATE_ADJ:GAS:boiling one-humped camel cheese]"
+msgstr ""
+
+#: creature_large_tropical.txt:2180
+msgctxt "CREATURE:CAMEL_1_HUMP"
+msgid "[TLCM_NOUN:hair:SINGULAR]"
+msgstr ""
+
+#: creature_large_tropical.txt:2183
+msgctxt "CREATURE:CAMEL_1_HUMP"
 msgid "[TLCM_NOUN:skin:SINGULAR]"
 msgstr ""
 
-#: creature_large_tropical.txt:2175
+#: creature_large_tropical.txt:2186
 msgctxt "CREATURE:CAMEL_1_HUMP"
 msgid "[TLCM_NOUN:eyes:PLURAL]"
 msgstr ""
 
-#: creature_large_tropical.txt:2178
+#: creature_large_tropical.txt:2189
 msgctxt "CREATURE:CAMEL_2_HUMP"
 msgid "[DESCRIPTION:A large, long-necked creature with two fleshy humps on its back.  It is domesticated to carry passengers and cargo.]"
 msgstr ""
 
-#: creature_large_tropical.txt:2179
+#: creature_large_tropical.txt:2190
 msgctxt "CREATURE:CAMEL_2_HUMP"
 msgid "[NAME:two-humped camel:two-humped camels:two-humped camel]"
 msgstr ""
 
-#: creature_large_tropical.txt:2180
+#: creature_large_tropical.txt:2191
 msgctxt "CREATURE:CAMEL_2_HUMP"
 msgid "[CASTE_NAME:two-humped camel:two-humped camels:two-humped camel]"
 msgstr ""
 
-#: creature_large_tropical.txt:2181
+#: creature_large_tropical.txt:2192
 msgctxt "CREATURE:CAMEL_2_HUMP"
 msgid "[GENERAL_CHILD_NAME:two-humped camel calf:two-humped camel calves]"
 msgstr ""
 
-#: creature_large_tropical.txt:2189
+#: creature_large_tropical.txt:2200
 msgctxt "CREATURE:CAMEL_2_HUMP"
 msgid "[PREFSTRING:humps]"
 msgstr ""
 
-#: creature_large_tropical.txt:2227
+#: creature_large_tropical.txt:2238
 msgctxt "CREATURE:CAMEL_2_HUMP"
 msgid "[ATTACK_VERB:kick:kicks]"
 msgstr ""
 
-#: creature_large_tropical.txt:2243
+#: creature_large_tropical.txt:2254
 msgctxt "CREATURE:CAMEL_2_HUMP"
 msgid "[ATTACK_VERB:bite:bites]"
-msgstr ""
-
-#: creature_large_tropical.txt:2261
-msgctxt "CREATURE:CAMEL_2_HUMP"
-msgid "[STATE_NAME:ALL_SOLID:frozen two-humped camel's milk]"
-msgstr ""
-
-#: creature_large_tropical.txt:2262
-msgctxt "CREATURE:CAMEL_2_HUMP"
-msgid "[STATE_ADJ:ALL_SOLID:frozen two-humped camel's milk]"
-msgstr ""
-
-#: creature_large_tropical.txt:2263
-msgctxt "CREATURE:CAMEL_2_HUMP"
-msgid "[STATE_NAME:LIQUID:two-humped camel's milk]"
-msgstr ""
-
-#: creature_large_tropical.txt:2264
-msgctxt "CREATURE:CAMEL_2_HUMP"
-msgid "[STATE_ADJ:LIQUID:two-humped camel's milk]"
-msgstr ""
-
-#: creature_large_tropical.txt:2265
-msgctxt "CREATURE:CAMEL_2_HUMP"
-msgid "[STATE_NAME:GAS:boiling two-humped camel's milk]"
-msgstr ""
-
-#: creature_large_tropical.txt:2266
-msgctxt "CREATURE:CAMEL_2_HUMP"
-msgid "[STATE_ADJ:GAS:boiling two-humped camel's milk]"
-msgstr ""
-
-#: creature_large_tropical.txt:2270
-msgctxt "CREATURE:CAMEL_2_HUMP"
-msgid "[STATE_NAME:SOLID:two-humped camel cheese]"
-msgstr ""
-
-#: creature_large_tropical.txt:2271
-msgctxt "CREATURE:CAMEL_2_HUMP"
-msgid "[STATE_ADJ:SOLID:two-humped camel cheese]"
 msgstr ""
 
 #: creature_large_tropical.txt:2272
 msgctxt "CREATURE:CAMEL_2_HUMP"
-msgid "[STATE_NAME:SOLID_POWDER:two-humped camel cheese powder]"
+msgid "[STATE_NAME:ALL_SOLID:frozen two-humped camel's milk]"
 msgstr ""
 
 #: creature_large_tropical.txt:2273
 msgctxt "CREATURE:CAMEL_2_HUMP"
-msgid "[STATE_ADJ:SOLID_POWDER:two-humped camel cheese powder]"
+msgid "[STATE_ADJ:ALL_SOLID:frozen two-humped camel's milk]"
 msgstr ""
 
 #: creature_large_tropical.txt:2274
 msgctxt "CREATURE:CAMEL_2_HUMP"
-msgid "[STATE_NAME:LIQUID:melted two-humped camel cheese]"
+msgid "[STATE_NAME:LIQUID:two-humped camel's milk]"
 msgstr ""
 
 #: creature_large_tropical.txt:2275
 msgctxt "CREATURE:CAMEL_2_HUMP"
-msgid "[STATE_ADJ:LIQUID:melted two-humped camel cheese]"
+msgid "[STATE_ADJ:LIQUID:two-humped camel's milk]"
 msgstr ""
 
 #: creature_large_tropical.txt:2276
 msgctxt "CREATURE:CAMEL_2_HUMP"
-msgid "[STATE_NAME:GAS:boiling two-humped camel cheese]"
+msgid "[STATE_NAME:GAS:boiling two-humped camel's milk]"
 msgstr ""
 
 #: creature_large_tropical.txt:2277
 msgctxt "CREATURE:CAMEL_2_HUMP"
-msgid "[STATE_ADJ:GAS:boiling two-humped camel cheese]"
+msgid "[STATE_ADJ:GAS:boiling two-humped camel's milk]"
+msgstr ""
+
+#: creature_large_tropical.txt:2281
+msgctxt "CREATURE:CAMEL_2_HUMP"
+msgid "[STATE_NAME:SOLID:two-humped camel cheese]"
+msgstr ""
+
+#: creature_large_tropical.txt:2282
+msgctxt "CREATURE:CAMEL_2_HUMP"
+msgid "[STATE_ADJ:SOLID:two-humped camel cheese]"
+msgstr ""
+
+#: creature_large_tropical.txt:2283
+msgctxt "CREATURE:CAMEL_2_HUMP"
+msgid "[STATE_NAME:SOLID_POWDER:two-humped camel cheese powder]"
+msgstr ""
+
+#: creature_large_tropical.txt:2284
+msgctxt "CREATURE:CAMEL_2_HUMP"
+msgid "[STATE_ADJ:SOLID_POWDER:two-humped camel cheese powder]"
 msgstr ""
 
 #: creature_large_tropical.txt:2285
 msgctxt "CREATURE:CAMEL_2_HUMP"
-msgid "[TLCM_NOUN:hair:SINGULAR]"
+msgid "[STATE_NAME:LIQUID:melted two-humped camel cheese]"
+msgstr ""
+
+#: creature_large_tropical.txt:2286
+msgctxt "CREATURE:CAMEL_2_HUMP"
+msgid "[STATE_ADJ:LIQUID:melted two-humped camel cheese]"
+msgstr ""
+
+#: creature_large_tropical.txt:2287
+msgctxt "CREATURE:CAMEL_2_HUMP"
+msgid "[STATE_NAME:GAS:boiling two-humped camel cheese]"
 msgstr ""
 
 #: creature_large_tropical.txt:2288
 msgctxt "CREATURE:CAMEL_2_HUMP"
+msgid "[STATE_ADJ:GAS:boiling two-humped camel cheese]"
+msgstr ""
+
+#: creature_large_tropical.txt:2296
+msgctxt "CREATURE:CAMEL_2_HUMP"
+msgid "[TLCM_NOUN:hair:SINGULAR]"
+msgstr ""
+
+#: creature_large_tropical.txt:2299
+msgctxt "CREATURE:CAMEL_2_HUMP"
 msgid "[TLCM_NOUN:skin:SINGULAR]"
 msgstr ""
 
-#: creature_large_tropical.txt:2291
+#: creature_large_tropical.txt:2302
 msgctxt "CREATURE:CAMEL_2_HUMP"
 msgid "[TLCM_NOUN:eyes:PLURAL]"
 msgstr ""
 
-#: creature_large_tropical.txt:2294
+#: creature_large_tropical.txt:2305
 msgctxt "CREATURE:CROCODILE_SALTWATER"
 msgid "[DESCRIPTION:A huge, predatory reptile found in coastal marshes and river deltas.  It ambushes its prey at the shore and uses its great size to drag the victim under and drown them.]"
 msgstr ""
 
-#: creature_large_tropical.txt:2295
+#: creature_large_tropical.txt:2306
 msgctxt "CREATURE:CROCODILE_SALTWATER"
 msgid "[NAME:saltwater crocodile:saltwater crocodiles:saltwater crocodile]"
 msgstr ""
 
-#: creature_large_tropical.txt:2296
+#: creature_large_tropical.txt:2307
 msgctxt "CREATURE:CROCODILE_SALTWATER"
 msgid "[CASTE_NAME:saltwater crocodile:saltwater crocodiles:saltwater crocodile]"
 msgstr ""
 
-#: creature_large_tropical.txt:2297
+#: creature_large_tropical.txt:2308
 msgctxt "CREATURE:CROCODILE_SALTWATER"
 msgid "[GENERAL_CHILD_NAME:saltwater crocodile hatchling:saltwater crocodile hatchlings]"
 msgstr ""
 
-#: creature_large_tropical.txt:2318
+#: creature_large_tropical.txt:2329
 msgctxt "CREATURE:CROCODILE_SALTWATER"
 msgid "[PREFSTRING:strength]"
 msgstr ""
 
-#: creature_large_tropical.txt:2363
+#: creature_large_tropical.txt:2374
 msgctxt "CREATURE:CROCODILE_SALTWATER"
 msgid "[ATTACK_VERB:bite:bites]"
 msgstr ""
 
-#: creature_large_tropical.txt:2390
+#: creature_large_tropical.txt:2401
 msgctxt "CREATURE:CROCODILE_SALTWATER"
 msgid "[TLCM_NOUN:scales:PLURAL]"
 msgstr ""
 
-#: creature_large_tropical.txt:2393
+#: creature_large_tropical.txt:2404
 msgctxt "CREATURE:CROCODILE_SALTWATER"
 msgid "[TLCM_NOUN:eyes:PLURAL]"
 msgstr ""
 
-#: creature_large_tropical.txt:2398
+#: creature_large_tropical.txt:2409
 msgctxt "CREATURE:BIRD_VULTURE"
 msgid "[DESCRIPTION:A large bird with a featherless red head found in the sky of tropical deserts, scanning the ground for dead carcasses.]"
 msgstr ""
 
-#: creature_large_tropical.txt:2399
+#: creature_large_tropical.txt:2410
 msgctxt "CREATURE:BIRD_VULTURE"
 msgid "[NAME:vulture:vultures:vulture]"
 msgstr ""
 
-#: creature_large_tropical.txt:2400
+#: creature_large_tropical.txt:2411
 msgctxt "CREATURE:BIRD_VULTURE"
 msgid "[CASTE_NAME:vulture:vultures:vulture]"
 msgstr ""
 
-#: creature_large_tropical.txt:2401
+#: creature_large_tropical.txt:2412
 msgctxt "CREATURE:BIRD_VULTURE"
 msgid "[GENERAL_CHILD_NAME:vulture hatchling:vulture hatchlings]"
 msgstr ""
 
-#: creature_large_tropical.txt:2425
+#: creature_large_tropical.txt:2436
 msgctxt "CREATURE:BIRD_VULTURE"
 msgid "[PREFSTRING:patience]"
 msgstr ""
 
-#: creature_large_tropical.txt:2463
+#: creature_large_tropical.txt:2474
 msgctxt "CREATURE:BIRD_VULTURE"
 msgid "[ATTACK_VERB:bite:bites]"
 msgstr ""
 
-#: creature_large_tropical.txt:2472
+#: creature_large_tropical.txt:2483
 msgctxt "CREATURE:BIRD_VULTURE"
 msgid "[ATTACK_VERB:snatch at:snatches at]"
 msgstr ""
 
-#: creature_large_tropical.txt:2493
+#: creature_large_tropical.txt:2504
 msgctxt "CREATURE:BIRD_VULTURE"
 msgid "[TLCM_NOUN:feathers:PLURAL]"
 msgstr ""
 
-#: creature_large_tropical.txt:2496
+#: creature_large_tropical.txt:2507
 msgctxt "CREATURE:BIRD_VULTURE"
 msgid "[TLCM_NOUN:skin:SINGULAR]"
 msgstr ""
 
-#: creature_large_tropical.txt:2499
+#: creature_large_tropical.txt:2510
 msgctxt "CREATURE:BIRD_VULTURE"
 msgid "[TLCM_NOUN:eyes:PLURAL]"
 msgstr ""
 
-#: creature_large_tropical.txt:2502
+#: creature_large_tropical.txt:2513
 msgctxt "CREATURE:RHINOCEROS"
 msgid "[DESCRIPTION:A huge herbivore with thick plated skin and powerful build.  It is known for the thick horns on the end of its nose.]"
 msgstr ""
 
-#: creature_large_tropical.txt:2503
+#: creature_large_tropical.txt:2514
 msgctxt "CREATURE:RHINOCEROS"
 msgid "[NAME:rhinoceros:rhinoceroses:rhinoceros]"
 msgstr ""
 
-#: creature_large_tropical.txt:2504
+#: creature_large_tropical.txt:2515
 msgctxt "CREATURE:RHINOCEROS"
 msgid "[CASTE_NAME:rhinoceros:rhinoceroses:rhinoceros]"
 msgstr ""
 
-#: creature_large_tropical.txt:2505
+#: creature_large_tropical.txt:2516
 msgctxt "CREATURE:RHINOCEROS"
 msgid "[GENERAL_CHILD_NAME:rhinoceros calf:rhinoceros calves]"
 msgstr ""
 
-#: creature_large_tropical.txt:2520
+#: creature_large_tropical.txt:2531
 msgctxt "CREATURE:RHINOCEROS"
 msgid "[PREFSTRING:horns]"
 msgstr ""
 
-#: creature_large_tropical.txt:2552
+#: creature_large_tropical.txt:2563
 msgctxt "CREATURE:RHINOCEROS"
 msgid "[ATTACK_VERB:kick:kicks]"
 msgstr ""
 
-#: creature_large_tropical.txt:2560
+#: creature_large_tropical.txt:2571
 msgctxt "CREATURE:RHINOCEROS"
 msgid "[ATTACK_VERB:gore:gores]"
 msgstr ""
 
-#: creature_large_tropical.txt:2580
+#: creature_large_tropical.txt:2591
 msgctxt "CREATURE:RHINOCEROS"
 msgid "[TLCM_NOUN:skin:SINGULAR]"
 msgstr ""
 
-#: creature_large_tropical.txt:2583
+#: creature_large_tropical.txt:2594
 msgctxt "CREATURE:RHINOCEROS"
 msgid "[TLCM_NOUN:eyes:PLURAL]"
 msgstr ""
 
-#: creature_large_tropical.txt:2588
+#: creature_large_tropical.txt:2599
 msgctxt "CREATURE:GIRAFFE"
 msgid "[DESCRIPTION:A huge leaf-eating mammal.  It has an extremely long neck.  Its skin has a distinctive brown and white pattern.]"
 msgstr ""
 
-#: creature_large_tropical.txt:2589
+#: creature_large_tropical.txt:2600
 msgctxt "CREATURE:GIRAFFE"
 msgid "[NAME:giraffe:giraffes:giraffe]"
 msgstr ""
 
-#: creature_large_tropical.txt:2590
+#: creature_large_tropical.txt:2601
 msgctxt "CREATURE:GIRAFFE"
 msgid "[CASTE_NAME:giraffe:giraffes:giraffe]"
 msgstr ""
 
-#: creature_large_tropical.txt:2591
+#: creature_large_tropical.txt:2602
 msgctxt "CREATURE:GIRAFFE"
 msgid "[GENERAL_CHILD_NAME:giraffe calf:giraffe calves]"
 msgstr ""
 
-#: creature_large_tropical.txt:2605
+#: creature_large_tropical.txt:2615
 msgctxt "CREATURE:GIRAFFE"
 msgid "[PREFSTRING:long necks]"
 msgstr ""
 
-#: creature_large_tropical.txt:2641
+#: creature_large_tropical.txt:2651
 msgctxt "CREATURE:GIRAFFE"
 msgid "[ATTACK_VERB:kick:kicks]"
 msgstr ""
 
-#: creature_large_tropical.txt:2660
+#: creature_large_tropical.txt:2670
 msgctxt "CREATURE:GIRAFFE"
 msgid "[TLCM_NOUN:hair:SINGULAR]"
 msgstr ""
 
-#: creature_large_tropical.txt:2663
+#: creature_large_tropical.txt:2673
 msgctxt "CREATURE:GIRAFFE"
 msgid "[TLCM_NOUN:skin:SINGULAR]"
 msgstr ""
 
-#: creature_large_tropical.txt:2666
+#: creature_large_tropical.txt:2676
 msgctxt "CREATURE:GIRAFFE"
 msgid "[TLCM_NOUN:eyes:PLURAL]"
 msgstr ""
 
-#: creature_large_tropical.txt:2671
+#: creature_large_tropical.txt:2681
 msgctxt "CREATURE:HONEY BADGER"
 msgid "[DESCRIPTION:A small mammal known to defend itself ferociously in combat, often fighting off multiple animals many times its size.]"
 msgstr ""
 
-#: creature_large_tropical.txt:2672
+#: creature_large_tropical.txt:2682
 msgctxt "CREATURE:HONEY BADGER"
 msgid "[NAME:honey badger:honey badgers:honey badger]"
 msgstr ""
 
-#: creature_large_tropical.txt:2673
+#: creature_large_tropical.txt:2683
 msgctxt "CREATURE:HONEY BADGER"
 msgid "[CASTE_NAME:honey badger:honey badgers:honey badger]"
 msgstr ""
 
-#: creature_large_tropical.txt:2674
+#: creature_large_tropical.txt:2684
 msgctxt "CREATURE:HONEY BADGER"
 msgid "[GENERAL_CHILD_NAME:honey badger cub:honey badger cubs]"
 msgstr ""
 
-#: creature_large_tropical.txt:2692
+#: creature_large_tropical.txt:2702
 msgctxt "CREATURE:HONEY BADGER"
 msgid "[PREFSTRING:tenacity]"
 msgstr ""
 
-#: creature_large_tropical.txt:2693
+#: creature_large_tropical.txt:2703
 msgctxt "CREATURE:HONEY BADGER"
 msgid "[PREFSTRING:fearlessness]"
 msgstr ""
 
-#: creature_large_tropical.txt:2725
+#: creature_large_tropical.txt:2735
 msgctxt "CREATURE:HONEY BADGER"
 msgid "[ATTACK_VERB:bite:bites]"
 msgstr ""
 
-#: creature_large_tropical.txt:2734
+#: creature_large_tropical.txt:2744
 msgctxt "CREATURE:HONEY BADGER"
 msgid "[ATTACK_VERB:scratch:scratches]"
 msgstr ""
 
-#: creature_large_tropical.txt:2765
+#: creature_large_tropical.txt:2775
 msgctxt "CREATURE:HONEY BADGER"
 msgid "[TLCM_NOUN:hair:SINGULAR]"
 msgstr ""
 
-#: creature_large_tropical.txt:2772
+#: creature_large_tropical.txt:2782
 msgctxt "CREATURE:HONEY BADGER"
 msgid "[TLCM_NOUN:legs:PLURAL]"
 msgstr ""
 
-#: creature_large_tropical.txt:2775
+#: creature_large_tropical.txt:2785
 msgctxt "CREATURE:HONEY BADGER"
 msgid "[TLCM_NOUN:skin:SINGULAR]"
 msgstr ""
 
-#: creature_large_tropical.txt:2778
+#: creature_large_tropical.txt:2788
 msgctxt "CREATURE:HONEY BADGER"
 msgid "[TLCM_NOUN:eyes:PLURAL]"
 msgstr ""
 
-#: creature_large_tropical.txt:2787
+#: creature_large_tropical.txt:2797
 msgctxt "CREATURE:GIANT TORTOISE"
 msgid "[DESCRIPTION:A medium-sized reptile with a large shell.  It can retreat into its shell to escape predators.]"
 msgstr ""
 
-#: creature_large_tropical.txt:2788
+#: creature_large_tropical.txt:2798
 msgctxt "CREATURE:GIANT TORTOISE"
 msgid "[NAME:giant tortoise:giant tortoises:giant tortoise]"
 msgstr ""
 
-#: creature_large_tropical.txt:2789
+#: creature_large_tropical.txt:2799
 msgctxt "CREATURE:GIANT TORTOISE"
 msgid "[CASTE_NAME:giant tortoise:giant tortoises:giant tortoise]"
 msgstr ""
 
-#: creature_large_tropical.txt:2790
+#: creature_large_tropical.txt:2800
 msgctxt "CREATURE:GIANT TORTOISE"
 msgid "[GENERAL_CHILD_NAME:giant tortoise hatchling:giant tortoise hatchlings]"
 msgstr ""
 
-#: creature_large_tropical.txt:2799
+#: creature_large_tropical.txt:2809
 msgctxt "CREATURE:GIANT TORTOISE"
 msgid "[PREFSTRING:great size]"
 msgstr ""
 
-#: creature_large_tropical.txt:2839
+#: creature_large_tropical.txt:2849
 msgctxt "CREATURE:GIANT TORTOISE"
 msgid "[ATTACK_VERB:bite:bites]"
 msgstr ""
 
-#: creature_large_tropical.txt:2844
+#: creature_large_tropical.txt:2854
 msgctxt "CREATURE:GIANT TORTOISE"
 msgid "[RETRACT_INTO_BP:BY_CATEGORY:SHELL:retract into <pro_pos> shell:retracts into <pro_pos> shell:come out of <pro_pos> shell:comes out of <pro_pos> shell]"
 msgstr ""
 
-#: creature_large_tropical.txt:2871
+#: creature_large_tropical.txt:2881
 msgctxt "CREATURE:GIANT TORTOISE"
 msgid "[TLCM_NOUN:scales:PLURAL]"
 msgstr ""
 
-#: creature_large_tropical.txt:2874
+#: creature_large_tropical.txt:2884
 msgctxt "CREATURE:GIANT TORTOISE"
 msgid "[TLCM_NOUN:eyes:PLURAL]"
 msgstr ""
 
-#: creature_large_tropical.txt:2881
+#: creature_large_tropical.txt:2891
 msgctxt "CREATURE:GIANT TORTOISE MAN"
 msgid "[CASTE_NAME:giant tortoise man:giant tortoise men:giant tortoise man]"
 msgstr ""
 
-#: creature_large_tropical.txt:2883
+#: creature_large_tropical.txt:2893
 msgctxt "CREATURE:GIANT TORTOISE MAN"
 msgid "[CASTE_NAME:giant tortoise woman:giant tortoise women:giant tortoise woman]"
 msgstr ""
 
-#: creature_large_tropical.txt:2893
+#: creature_large_tropical.txt:2903
 msgctxt "CREATURE:GIANT TORTOISE MAN"
 msgid "[NAME:giant tortoise man:giant tortoise men:giant tortoise man]"
 msgstr ""
 
-#: creature_large_tropical.txt:2894
+#: creature_large_tropical.txt:2904
 msgctxt "CREATURE:GIANT TORTOISE MAN"
 msgid "[DESCRIPTION:A person with a large shell and the head of a giant tortoise.]"
 msgstr ""
 
-#: creature_large_tropical.txt:2909
+#: creature_large_tropical.txt:2919
 msgctxt "CREATURE:GIGANTIC TORTOISE"
 msgid "[NAME:gigantic tortoise:gigantic tortoises:gigantic tortoise]"
 msgstr ""
 
-#: creature_large_tropical.txt:2910
+#: creature_large_tropical.txt:2920
 msgctxt "CREATURE:GIGANTIC TORTOISE"
 msgid "[CASTE_NAME:gigantic tortoise:gigantic tortoises:gigantic tortoise]"
 msgstr ""
 
-#: creature_large_tropical.txt:2911
+#: creature_large_tropical.txt:2921
 msgctxt "CREATURE:GIGANTIC TORTOISE"
 msgid "[GENERAL_CHILD_NAME:gigantic tortoise hatchling:gigantic tortoise hatchlings]"
 msgstr ""
 
-#: creature_large_tropical.txt:2912
+#: creature_large_tropical.txt:2922
 msgctxt "CREATURE:GIGANTIC TORTOISE"
 msgid "[DESCRIPTION:A huge monster with an enormous shell.]"
 msgstr ""
 
-#: creature_large_tropical.txt:2921
+#: creature_large_tropical.txt:2931
 msgctxt "CREATURE:GIGANTIC TORTOISE"
 msgid "[PREFSTRING:great size]"
 msgstr ""
 
-#: creature_large_tropical.txt:2934
+#: creature_large_tropical.txt:2944
 msgctxt "CREATURE:ARMADILLO"
 msgid "[DESCRIPTION:A small mammal with a leathery hide.  It can roll into a ball to escape predators.]"
 msgstr ""
 
-#: creature_large_tropical.txt:2935
+#: creature_large_tropical.txt:2945
 msgctxt "CREATURE:ARMADILLO"
 msgid "[NAME:armadillo:armadillos:armadillo]"
 msgstr ""
 
-#: creature_large_tropical.txt:2936
+#: creature_large_tropical.txt:2946
 msgctxt "CREATURE:ARMADILLO"
 msgid "[GENERAL_CHILD_NAME:armadillo pup:armadillo pups]"
 msgstr ""
 
-#: creature_large_tropical.txt:2940
+#: creature_large_tropical.txt:2950
 msgctxt "CREATURE:ARMADILLO"
 msgid "[PREFSTRING:thick, bony armor plates]"
 msgstr ""
 
-#: creature_large_tropical.txt:2985
+#: creature_large_tropical.txt:2995
 msgctxt "CREATURE:ARMADILLO"
 msgid "[ATTACK_VERB:bite:bites]"
 msgstr ""
 
-#: creature_large_tropical.txt:2992
+#: creature_large_tropical.txt:3002
 msgctxt "CREATURE:ARMADILLO"
 msgid "[RETRACT_INTO_BP:BY_CATEGORY:SHELL:roll into a ball:rolls into a ball:unroll:unrolls]"
 msgstr ""
 
-#: creature_large_tropical.txt:3002
+#: creature_large_tropical.txt:3012
 msgctxt "CREATURE:ARMADILLO"
 msgid "[CASTE_NAME:armadillo sow:armadillo sows:armadillo sow]"
 msgstr ""
 
-#: creature_large_tropical.txt:3006
+#: creature_large_tropical.txt:3016
 msgctxt "CREATURE:ARMADILLO"
 msgid "[CASTE_NAME:armadillo boar:armadillo boars:armadillo boar]"
 msgstr ""
 
-#: creature_large_tropical.txt:3012
+#: creature_large_tropical.txt:3022
 msgctxt "CREATURE:ARMADILLO"
 msgid "[TLCM_NOUN:hair:SINGULAR]"
 msgstr ""
 
-#: creature_large_tropical.txt:3015
+#: creature_large_tropical.txt:3025
 msgctxt "CREATURE:ARMADILLO"
 msgid "[TLCM_NOUN:skin:SINGULAR]"
 msgstr ""
 
-#: creature_large_tropical.txt:3018
+#: creature_large_tropical.txt:3028
 msgctxt "CREATURE:ARMADILLO"
 msgid "[TLCM_NOUN:eyes:PLURAL]"
 msgstr ""
 
-#: creature_large_tropical.txt:3025
+#: creature_large_tropical.txt:3035
 msgctxt "CREATURE:ARMADILLO MAN"
 msgid "[CASTE_NAME:armadillo man:armadillo men:armadillo man]"
 msgstr ""
 
-#: creature_large_tropical.txt:3027
+#: creature_large_tropical.txt:3037
 msgctxt "CREATURE:ARMADILLO MAN"
 msgid "[CASTE_NAME:armadillo woman:armadillo women:armadillo woman]"
 msgstr ""
 
-#: creature_large_tropical.txt:3037
+#: creature_large_tropical.txt:3047
 msgctxt "CREATURE:ARMADILLO MAN"
 msgid "[NAME:armadillo man:armadillo men:armadillo man]"
 msgstr ""
 
-#: creature_large_tropical.txt:3038
+#: creature_large_tropical.txt:3048
 msgctxt "CREATURE:ARMADILLO MAN"
 msgid "[DESCRIPTION:A person with the hide and head of an armadillo.]"
 msgstr ""
 
-#: creature_large_tropical.txt:3053
+#: creature_large_tropical.txt:3063
 msgctxt "CREATURE:ARMADILLO, GIANT"
 msgid "[NAME:giant armadillo:giant armadillos:giant armadillo]"
 msgstr ""
 
-#: creature_large_tropical.txt:3054
+#: creature_large_tropical.txt:3064
 msgctxt "CREATURE:ARMADILLO, GIANT"
 msgid "[GENERAL_CHILD_NAME:giant armadillo pup:giant armadillo pups]"
 msgstr ""
 
-#: creature_large_tropical.txt:3055
+#: creature_large_tropical.txt:3065
 msgctxt "CREATURE:ARMADILLO, GIANT"
 msgid "[DESCRIPTION:A large monster the shape of an armadillo.  It has thick armor for skin.]"
 msgstr ""
 
-#: creature_large_tropical.txt:3064
+#: creature_large_tropical.txt:3074
 msgctxt "CREATURE:ARMADILLO, GIANT"
 msgid "[CASTE_NAME:giant armadillo boar:giant armadillo boars:giant armadillo boar]"
 msgstr ""
 
-#: creature_large_tropical.txt:3066
+#: creature_large_tropical.txt:3076
 msgctxt "CREATURE:ARMADILLO, GIANT"
 msgid "[CASTE_NAME:giant armadillo sow:giant armadillo sows:giant armadillo sow]"
 msgstr ""
 
-#: creature_large_tropical.txt:3068
+#: creature_large_tropical.txt:3078
 msgctxt "CREATURE:ARMADILLO, GIANT"
 msgid "[PREFSTRING:thick, bony armor plates]"
 msgstr ""
@@ -37171,37 +37227,37 @@ msgctxt "ITEM_HELM:ITEM_HELM_HELM"
 msgid "[NAME:helm:helms]"
 msgstr ""
 
-#: item_helm.txt:23
+#: item_helm.txt:22
 msgctxt "ITEM_HELM:ITEM_HELM_CAP"
 msgid "[NAME:cap:caps]"
 msgstr ""
 
-#: item_helm.txt:38
+#: item_helm.txt:37
 msgctxt "ITEM_HELM:ITEM_HELM_HOOD"
 msgid "[NAME:hood:hoods]"
 msgstr ""
 
-#: item_helm.txt:49
+#: item_helm.txt:48
 msgctxt "ITEM_HELM:ITEM_HELM_TURBAN"
 msgid "[NAME:turban:turbans]"
 msgstr ""
 
-#: item_helm.txt:60
+#: item_helm.txt:59
 msgctxt "ITEM_HELM:ITEM_HELM_MASK"
 msgid "[NAME:mask:masks]"
 msgstr ""
 
-#: item_helm.txt:76
+#: item_helm.txt:75
 msgctxt "ITEM_HELM:ITEM_HELM_VEIL_HEAD"
 msgid "[NAME:head veil:head veils]"
 msgstr ""
 
-#: item_helm.txt:87
+#: item_helm.txt:86
 msgctxt "ITEM_HELM:ITEM_HELM_VEIL_FACE"
 msgid "[NAME:face veil:face veils]"
 msgstr ""
 
-#: item_helm.txt:98
+#: item_helm.txt:97
 msgctxt "ITEM_HELM:ITEM_HELM_SCARF_HEAD"
 msgid "[NAME:headscarf:headscarves]"
 msgstr ""
@@ -48931,582 +48987,582 @@ msgctxt "PLANT:FEATHER"
 msgid "[STATE_ADJ:ALL_SOLID:feather wood]"
 msgstr ""
 
-#: plant_standard.txt:1763
+#: plant_standard.txt:1764
 msgctxt "PLANT:FEATHER"
 msgid "[PREFSTRING:feathery leaves]"
 msgstr ""
 
-#: plant_standard.txt:1768
+#: plant_standard.txt:1769
 msgctxt "PLANT:FEATHER"
 msgid "[GROWTH_NAME:feather tree down:feather tree down]"
 msgstr ""
 
-#: plant_standard.txt:1775
+#: plant_standard.txt:1776
 msgctxt "PLANT:FEATHER"
 msgid "[GROWTH_NAME:feather tree egg:STP]"
 msgstr ""
 
-#: plant_standard.txt:1785
+#: plant_standard.txt:1786
 msgctxt "PLANT:HIGHWOOD"
 msgid "[NAME:highwood]"
 msgstr ""
 
-#: plant_standard.txt:1785
+#: plant_standard.txt:1786
 msgctxt "PLANT:HIGHWOOD"
 msgid "[NAME_PLURAL:highwoods]"
 msgstr ""
 
-#: plant_standard.txt:1785
+#: plant_standard.txt:1786
 msgctxt "PLANT:HIGHWOOD"
 msgid "[ADJ:highwood]"
 msgstr ""
 
-#: plant_standard.txt:1789
+#: plant_standard.txt:1790
 msgctxt "PLANT:HIGHWOOD"
 msgid "[STATE_NAME:ALL_SOLID:highwood]"
 msgstr ""
 
-#: plant_standard.txt:1790
+#: plant_standard.txt:1791
 msgctxt "PLANT:HIGHWOOD"
 msgid "[STATE_ADJ:ALL_SOLID:highwood]"
 msgstr ""
 
-#: plant_standard.txt:1812
+#: plant_standard.txt:1813
 msgctxt "PLANT:HIGHWOOD"
 msgid "[PREFSTRING:magnificence]"
 msgstr ""
 
-#: plant_standard.txt:1817
+#: plant_standard.txt:1818
 msgctxt "PLANT:HIGHWOOD"
 msgid "[GROWTH_NAME:highwood leaf:highwood leaves]"
 msgstr ""
 
-#: plant_standard.txt:1824
+#: plant_standard.txt:1825
 msgctxt "PLANT:HIGHWOOD"
 msgid "[GROWTH_NAME:highwood flower:STP]"
 msgstr ""
 
-#: plant_standard.txt:1832
+#: plant_standard.txt:1833
 msgctxt "PLANT:LARCH"
 msgid "[NAME:larch]"
 msgstr ""
 
-#: plant_standard.txt:1832
+#: plant_standard.txt:1833
 msgctxt "PLANT:LARCH"
 msgid "[NAME_PLURAL:larches]"
 msgstr ""
 
-#: plant_standard.txt:1832
+#: plant_standard.txt:1833
 msgctxt "PLANT:LARCH"
 msgid "[ADJ:larch]"
 msgstr ""
 
-#: plant_standard.txt:1836
+#: plant_standard.txt:1837
 msgctxt "PLANT:LARCH"
 msgid "[STATE_NAME:ALL_SOLID:larch]"
 msgstr ""
 
-#: plant_standard.txt:1837
+#: plant_standard.txt:1838
 msgctxt "PLANT:LARCH"
 msgid "[STATE_ADJ:ALL_SOLID:larch]"
 msgstr ""
 
-#: plant_standard.txt:1859
+#: plant_standard.txt:1860
 msgctxt "PLANT:LARCH"
 msgid "[PREFSTRING:cones]"
 msgstr ""
 
-#: plant_standard.txt:1860
+#: plant_standard.txt:1861
 msgctxt "PLANT:LARCH"
 msgid "[PREFSTRING:needles]"
 msgstr ""
 
-#: plant_standard.txt:1866
+#: plant_standard.txt:1867
 msgctxt "PLANT:LARCH"
 msgid "[GROWTH_NAME:larch needle:STP]"
 msgstr ""
 
-#: plant_standard.txt:1878
+#: plant_standard.txt:1879
 msgctxt "PLANT:LARCH"
 msgid "[GROWTH_NAME:larch seed cone:STP]"
 msgstr ""
 
-#: plant_standard.txt:1886
+#: plant_standard.txt:1887
 msgctxt "PLANT:LARCH"
 msgid "[GROWTH_NAME:larch pollen cone:STP]"
 msgstr ""
 
-#: plant_standard.txt:1894
+#: plant_standard.txt:1895
 msgctxt "PLANT:CHESTNUT"
 msgid "[NAME:chestnut]"
 msgstr ""
 
-#: plant_standard.txt:1894
+#: plant_standard.txt:1895
 msgctxt "PLANT:CHESTNUT"
 msgid "[NAME_PLURAL:chestnuts]"
 msgstr ""
 
-#: plant_standard.txt:1894
+#: plant_standard.txt:1895
 msgctxt "PLANT:CHESTNUT"
 msgid "[ADJ:chestnut]"
 msgstr ""
 
-#: plant_standard.txt:1898
+#: plant_standard.txt:1899
 msgctxt "PLANT:CHESTNUT"
 msgid "[STATE_NAME:ALL_SOLID:chestnut]"
 msgstr ""
 
-#: plant_standard.txt:1899
+#: plant_standard.txt:1900
 msgctxt "PLANT:CHESTNUT"
 msgid "[STATE_ADJ:ALL_SOLID:chestnut]"
 msgstr ""
 
-#: plant_standard.txt:1915
+#: plant_standard.txt:1916
 msgctxt "PLANT:CHESTNUT"
 msgid "[SEED:chestnut:chestnuts:]"
 msgstr ""
 
-#: plant_standard.txt:1929
+#: plant_standard.txt:1930
 msgctxt "PLANT:CHESTNUT"
 msgid "[PREFSTRING:smelly catkins]"
 msgstr ""
 
-#: plant_standard.txt:1930
+#: plant_standard.txt:1931
 msgctxt "PLANT:CHESTNUT"
 msgid "[PREFSTRING:spiny pods]"
 msgstr ""
 
-#: plant_standard.txt:1931
+#: plant_standard.txt:1932
 msgctxt "PLANT:CHESTNUT"
 msgid "[PREFSTRING:chestnuts]"
 msgstr ""
 
-#: plant_standard.txt:1932
+#: plant_standard.txt:1933
 msgctxt "PLANT:CHESTNUT"
 msgid "[PREFSTRING:autumn coloration]"
 msgstr ""
 
-#: plant_standard.txt:1937
+#: plant_standard.txt:1938
 msgctxt "PLANT:CHESTNUT"
 msgid "[GROWTH_NAME:chestnut leaf:chestnut leaves]"
 msgstr ""
 
-#: plant_standard.txt:1949
+#: plant_standard.txt:1950
 msgctxt "PLANT:CHESTNUT"
 msgid "[GROWTH_NAME:chestnut pollen catkin:STP]"
 msgstr ""
 
-#: plant_standard.txt:1956
+#: plant_standard.txt:1957
 msgctxt "PLANT:CHESTNUT"
 msgid "[GROWTH_NAME:chestnut seed catkin:STP]"
 msgstr ""
 
-#: plant_standard.txt:1963
+#: plant_standard.txt:1964
 msgctxt "PLANT:CHESTNUT"
 msgid "[GROWTH_NAME:chestnut burr:STP]"
 msgstr ""
 
-#: plant_standard.txt:1974
+#: plant_standard.txt:1975
 msgctxt "PLANT:ALDER"
 msgid "[NAME:alder]"
 msgstr ""
 
-#: plant_standard.txt:1974
+#: plant_standard.txt:1975
 msgctxt "PLANT:ALDER"
 msgid "[NAME_PLURAL:alders]"
 msgstr ""
 
-#: plant_standard.txt:1974
+#: plant_standard.txt:1975
 msgctxt "PLANT:ALDER"
 msgid "[ADJ:alder]"
 msgstr ""
 
-#: plant_standard.txt:1978
+#: plant_standard.txt:1979
 msgctxt "PLANT:ALDER"
 msgid "[STATE_NAME:ALL_SOLID:alder]"
 msgstr ""
 
-#: plant_standard.txt:1979
+#: plant_standard.txt:1980
 msgctxt "PLANT:ALDER"
 msgid "[STATE_ADJ:ALL_SOLID:alder]"
 msgstr ""
 
-#: plant_standard.txt:1999
+#: plant_standard.txt:2000
 msgctxt "PLANT:ALDER"
 msgid "[PREFSTRING:catkins]"
 msgstr ""
 
-#: plant_standard.txt:2000
+#: plant_standard.txt:2001
 msgctxt "PLANT:ALDER"
 msgid "[PREFSTRING:autumn coloration]"
 msgstr ""
 
-#: plant_standard.txt:2005
+#: plant_standard.txt:2006
 msgctxt "PLANT:ALDER"
 msgid "[GROWTH_NAME:alder leaf:alder leaves]"
 msgstr ""
 
-#: plant_standard.txt:2017
+#: plant_standard.txt:2018
 msgctxt "PLANT:ALDER"
 msgid "[GROWTH_NAME:alder pollen catkin:STP]"
 msgstr ""
 
-#: plant_standard.txt:2024
+#: plant_standard.txt:2025
 msgctxt "PLANT:ALDER"
 msgid "[GROWTH_NAME:alder seed catkin:STP]"
 msgstr ""
 
-#: plant_standard.txt:2031
+#: plant_standard.txt:2032
 msgctxt "PLANT:ALDER"
 msgid "[GROWTH_NAME:alder cone:STP]"
 msgstr ""
 
-#: plant_standard.txt:2040
+#: plant_standard.txt:2041
 msgctxt "PLANT:BIRCH"
 msgid "[NAME:birch]"
 msgstr ""
 
-#: plant_standard.txt:2040
+#: plant_standard.txt:2041
 msgctxt "PLANT:BIRCH"
 msgid "[NAME_PLURAL:birches]"
 msgstr ""
 
-#: plant_standard.txt:2040
+#: plant_standard.txt:2041
 msgctxt "PLANT:BIRCH"
 msgid "[ADJ:birchen]"
 msgstr ""
 
-#: plant_standard.txt:2045
+#: plant_standard.txt:2046
 msgctxt "PLANT:BIRCH"
 msgid "[STATE_NAME:ALL_SOLID:birch]"
 msgstr ""
 
-#: plant_standard.txt:2046
+#: plant_standard.txt:2047
 msgctxt "PLANT:BIRCH"
 msgid "[STATE_ADJ:ALL_SOLID:birchen]"
 msgstr ""
 
-#: plant_standard.txt:2067
+#: plant_standard.txt:2068
 msgctxt "PLANT:BIRCH"
 msgid "[PREFSTRING:catkins]"
 msgstr ""
 
-#: plant_standard.txt:2068
+#: plant_standard.txt:2069
 msgctxt "PLANT:BIRCH"
 msgid "[PREFSTRING:silver bark]"
 msgstr ""
 
-#: plant_standard.txt:2069
+#: plant_standard.txt:2070
 msgctxt "PLANT:BIRCH"
 msgid "[PREFSTRING:autumn coloration]"
 msgstr ""
 
-#: plant_standard.txt:2074
+#: plant_standard.txt:2075
 msgctxt "PLANT:BIRCH"
 msgid "[GROWTH_NAME:birch leaf:birch leaves]"
 msgstr ""
 
-#: plant_standard.txt:2086
+#: plant_standard.txt:2087
 msgctxt "PLANT:BIRCH"
 msgid "[GROWTH_NAME:birch pollen catkin:STP]"
 msgstr ""
 
-#: plant_standard.txt:2093
+#: plant_standard.txt:2094
 msgctxt "PLANT:BIRCH"
 msgid "[GROWTH_NAME:birch seed catkin:STP]"
 msgstr ""
 
-#: plant_standard.txt:2102
+#: plant_standard.txt:2103
 msgctxt "PLANT:ASH"
 msgid "[NAME:ash]"
 msgstr ""
 
-#: plant_standard.txt:2102
+#: plant_standard.txt:2103
 msgctxt "PLANT:ASH"
 msgid "[NAME_PLURAL:ashes]"
 msgstr ""
 
-#: plant_standard.txt:2102
+#: plant_standard.txt:2103
 msgctxt "PLANT:ASH"
 msgid "[ADJ:ashen]"
 msgstr ""
 
-#: plant_standard.txt:2106
+#: plant_standard.txt:2107
 msgctxt "PLANT:ASH"
 msgid "[STATE_NAME:ALL_SOLID:ash]"
 msgstr ""
 
-#: plant_standard.txt:2107
+#: plant_standard.txt:2108
 msgctxt "PLANT:ASH"
 msgid "[STATE_ADJ:ALL_SOLID:ashen]"
 msgstr ""
 
-#: plant_standard.txt:2132
+#: plant_standard.txt:2133
 msgctxt "PLANT:ASH"
 msgid "[PREFSTRING:flying keys]"
 msgstr ""
 
-#: plant_standard.txt:2133
+#: plant_standard.txt:2134
 msgctxt "PLANT:ASH"
 msgid "[PREFSTRING:autumn coloration]"
 msgstr ""
 
-#: plant_standard.txt:2138
+#: plant_standard.txt:2139
 msgctxt "PLANT:ASH"
 msgid "[GROWTH_NAME:ash leaf:ash leaves]"
 msgstr ""
 
-#: plant_standard.txt:2150
+#: plant_standard.txt:2151
 msgctxt "PLANT:ASH"
 msgid "[GROWTH_NAME:ash flower:STP]"
 msgstr ""
 
-#: plant_standard.txt:2157
+#: plant_standard.txt:2158
 msgctxt "PLANT:ASH"
 msgid "[GROWTH_NAME:ash samara:STP]"
 msgstr ""
 
-#: plant_standard.txt:2167
+#: plant_standard.txt:2168
 msgctxt "PLANT:CANDLENUT"
 msgid "[NAME:candlenut]"
 msgstr ""
 
-#: plant_standard.txt:2167
+#: plant_standard.txt:2168
 msgctxt "PLANT:CANDLENUT"
 msgid "[NAME_PLURAL:candlenuts]"
 msgstr ""
 
-#: plant_standard.txt:2167
+#: plant_standard.txt:2168
 msgctxt "PLANT:CANDLENUT"
 msgid "[ADJ:candlenut]"
 msgstr ""
 
-#: plant_standard.txt:2171
+#: plant_standard.txt:2172
 msgctxt "PLANT:CANDLENUT"
 msgid "[STATE_NAME:ALL_SOLID:candlenut]"
 msgstr ""
 
-#: plant_standard.txt:2172
+#: plant_standard.txt:2173
 msgctxt "PLANT:CANDLENUT"
 msgid "[STATE_ADJ:ALL_SOLID:candlenut]"
 msgstr ""
 
-#: plant_standard.txt:2191
+#: plant_standard.txt:2192
 msgctxt "PLANT:CANDLENUT"
 msgid "[SEED:candlenut:candlenuts:]"
 msgstr ""
 
-#: plant_standard.txt:2205
+#: plant_standard.txt:2206
 msgctxt "PLANT:CANDLENUT"
 msgid "[PREFSTRING:nuts]"
 msgstr ""
 
-#: plant_standard.txt:2210
+#: plant_standard.txt:2211
 msgctxt "PLANT:CANDLENUT"
 msgid "[GROWTH_NAME:candlenut leaf:candlenut leaves]"
 msgstr ""
 
-#: plant_standard.txt:2217
+#: plant_standard.txt:2218
 msgctxt "PLANT:CANDLENUT"
 msgid "[GROWTH_NAME:candlenut flower:STP]"
 msgstr ""
 
-#: plant_standard.txt:2224
+#: plant_standard.txt:2225
 msgctxt "PLANT:CANDLENUT"
 msgid "[GROWTH_NAME:candlenut:STP]"
 msgstr ""
 
-#: plant_standard.txt:2233
+#: plant_standard.txt:2234
 msgctxt "PLANT:MANGO"
 msgid "[NAME:mango tree]"
 msgstr ""
 
-#: plant_standard.txt:2233
+#: plant_standard.txt:2234
 msgctxt "PLANT:MANGO"
 msgid "[NAME_PLURAL:mango trees]"
 msgstr ""
 
-#: plant_standard.txt:2233
+#: plant_standard.txt:2234
 msgctxt "PLANT:MANGO"
 msgid "[ADJ:mango tree]"
 msgstr ""
 
-#: plant_standard.txt:2237
+#: plant_standard.txt:2238
 msgctxt "PLANT:MANGO"
 msgid "[STATE_NAME:ALL_SOLID:mango wood]"
 msgstr ""
 
-#: plant_standard.txt:2238
+#: plant_standard.txt:2239
 msgctxt "PLANT:MANGO"
 msgid "[STATE_ADJ:ALL_SOLID:mango wood]"
 msgstr ""
 
-#: plant_standard.txt:2260
+#: plant_standard.txt:2261
 msgctxt "PLANT:MANGO"
 msgid "[STATE_NAME_ADJ:ALL_SOLID:frozen mango wine]"
 msgstr ""
 
-#: plant_standard.txt:2261
+#: plant_standard.txt:2262
 msgctxt "PLANT:MANGO"
 msgid "[STATE_NAME_ADJ:LIQUID:mango wine]"
 msgstr ""
 
-#: plant_standard.txt:2262
+#: plant_standard.txt:2263
 msgctxt "PLANT:MANGO"
 msgid "[STATE_NAME_ADJ:GAS:boiling mango wine]"
 msgstr ""
 
-#: plant_standard.txt:2272
+#: plant_standard.txt:2273
 msgctxt "PLANT:MANGO"
 msgid "[SEED:mango pit:mango pits:]"
 msgstr ""
 
-#: plant_standard.txt:2286
+#: plant_standard.txt:2287
 msgctxt "PLANT:MANGO"
 msgid "[PREFSTRING:sweet-smelling flowers]"
 msgstr ""
 
-#: plant_standard.txt:2291
+#: plant_standard.txt:2292
 msgctxt "PLANT:MANGO"
 msgid "[GROWTH_NAME:mango leaf:mango leaves]"
 msgstr ""
 
-#: plant_standard.txt:2298
+#: plant_standard.txt:2299
 msgctxt "PLANT:MANGO"
 msgid "[GROWTH_NAME:mango flower:STP]"
 msgstr ""
 
-#: plant_standard.txt:2305
+#: plant_standard.txt:2306
 msgctxt "PLANT:MANGO"
 msgid "[GROWTH_NAME:mango:STP]"
 msgstr ""
 
-#: plant_standard.txt:2315
+#: plant_standard.txt:2316
 msgctxt "PLANT:RUBBER"
 msgid "[NAME:rubber tree]"
 msgstr ""
 
-#: plant_standard.txt:2315
+#: plant_standard.txt:2316
 msgctxt "PLANT:RUBBER"
 msgid "[NAME_PLURAL:rubber trees]"
 msgstr ""
 
-#: plant_standard.txt:2315
+#: plant_standard.txt:2316
 msgctxt "PLANT:RUBBER"
 msgid "[ADJ:rubber tree]"
 msgstr ""
 
-#: plant_standard.txt:2319
+#: plant_standard.txt:2320
 msgctxt "PLANT:RUBBER"
 msgid "[STATE_NAME:ALL_SOLID:rubber wood]"
 msgstr ""
 
-#: plant_standard.txt:2320
+#: plant_standard.txt:2321
 msgctxt "PLANT:RUBBER"
 msgid "[STATE_ADJ:ALL_SOLID:rubber wood]"
 msgstr ""
 
-#: plant_standard.txt:2342
+#: plant_standard.txt:2343
 msgctxt "PLANT:RUBBER"
 msgid "[PREFSTRING:branch shedding]"
 msgstr ""
 
-#: plant_standard.txt:2347
+#: plant_standard.txt:2348
 msgctxt "PLANT:RUBBER"
 msgid "[GROWTH_NAME:rubber leaf:rubber leaves]"
 msgstr ""
 
-#: plant_standard.txt:2356
+#: plant_standard.txt:2357
 msgctxt "PLANT:CACAO"
 msgid "[NAME:cacao tree]"
 msgstr ""
 
-#: plant_standard.txt:2356
+#: plant_standard.txt:2357
 msgctxt "PLANT:CACAO"
 msgid "[NAME_PLURAL:cacao trees]"
 msgstr ""
 
-#: plant_standard.txt:2356
+#: plant_standard.txt:2357
 msgctxt "PLANT:CACAO"
 msgid "[ADJ:cacao tree]"
 msgstr ""
 
-#: plant_standard.txt:2360
+#: plant_standard.txt:2361
 msgctxt "PLANT:CACAO"
 msgid "[STATE_NAME:ALL_SOLID:cacao wood]"
 msgstr ""
 
-#: plant_standard.txt:2361
+#: plant_standard.txt:2362
 msgctxt "PLANT:CACAO"
 msgid "[STATE_ADJ:ALL_SOLID:cacao wood]"
 msgstr ""
 
-#: plant_standard.txt:2378
+#: plant_standard.txt:2379
 msgctxt "PLANT:CACAO"
 msgid "[SEED:cacao bean:cacao beans:]"
 msgstr ""
 
-#: plant_standard.txt:2392
+#: plant_standard.txt:2393
 msgctxt "PLANT:CACAO"
 msgid "[PREFSTRING:flowers]"
 msgstr ""
 
-#: plant_standard.txt:2397
+#: plant_standard.txt:2398
 msgctxt "PLANT:CACAO"
 msgid "[GROWTH_NAME:cacao leaf:cacao leaves]"
 msgstr ""
 
-#: plant_standard.txt:2404
+#: plant_standard.txt:2405
 msgctxt "PLANT:CACAO"
 msgid "[GROWTH_NAME:cacao flower:STP]"
 msgstr ""
 
-#: plant_standard.txt:2411
+#: plant_standard.txt:2412
 msgctxt "PLANT:CACAO"
 msgid "[GROWTH_NAME:cacao pod:STP]"
 msgstr ""
 
-#: plant_standard.txt:2421
+#: plant_standard.txt:2422
 msgctxt "PLANT:PALM"
 msgid "[NAME:coconut palm]"
 msgstr ""
 
-#: plant_standard.txt:2421
+#: plant_standard.txt:2422
 msgctxt "PLANT:PALM"
 msgid "[NAME_PLURAL:coconut palms]"
 msgstr ""
 
-#: plant_standard.txt:2421
+#: plant_standard.txt:2422
 msgctxt "PLANT:PALM"
 msgid "[ADJ:coconut palm]"
 msgstr ""
 
-#: plant_standard.txt:2425
+#: plant_standard.txt:2426
 msgctxt "PLANT:PALM"
 msgid "[STATE_NAME:ALL_SOLID:coconut palm]"
 msgstr ""
 
-#: plant_standard.txt:2426
+#: plant_standard.txt:2427
 msgctxt "PLANT:PALM"
 msgid "[STATE_ADJ:ALL_SOLID:coconut palm]"
 msgstr ""
 
-#: plant_standard.txt:2454
+#: plant_standard.txt:2455
 msgctxt "PLANT:PALM"
 msgid "[PREFSTRING:leaves]"
 msgstr ""
 
-#: plant_standard.txt:2459
+#: plant_standard.txt:2460
 msgctxt "PLANT:PALM"
 msgid "[GROWTH_NAME:coconut palm frond blade:coconut palm frond blades]"
 msgstr ""
 
-#: plant_standard.txt:2467
+#: plant_standard.txt:2468
 msgctxt "PLANT:PALM"
 msgid "[GROWTH_NAME:coconut palm spathe:STP]"
 msgstr ""
 
-#: plant_standard.txt:2476
+#: plant_standard.txt:2477
 msgctxt "PLANT:PALM"
 msgid "[GROWTH_NAME:coconut:STP]"
 msgstr ""
@@ -50211,17 +50267,17 @@ msgctxt "REACTION:BIND_BOOK"
 msgid "[REAGENT:thread:]"
 msgstr ""
 
-#: reaction_other.txt:432
+#: reaction_other.txt:433
 msgctxt "REACTION:BIND_BOOK"
 msgid "[PRODUCT:100:1:BOOK:NONE:GET_MATERIAL_FROM_REAGENT:binding:]"
 msgstr ""
 
-#: reaction_other.txt:433
+#: reaction_other.txt:434
 msgctxt "REACTION:BIND_BOOK"
 msgid "[PRODUCT_TOKEN:book]"
 msgstr ""
 
-#: reaction_other.txt:435
+#: reaction_other.txt:436
 msgctxt "REACTION:BIND_BOOK"
 msgid "[IMPROVEMENT:100:book:PAGES:GET_MATERIAL_FROM_REAGENT:quire:]"
 msgstr ""
