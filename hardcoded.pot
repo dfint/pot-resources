@@ -17433,6 +17433,9 @@ msgstr ""
 msgid "Crutches"
 msgstr ""
 
+msgid "Cups/Mugs/Goblets"
+msgstr ""
+
 msgid "None"
 msgstr ""
 
@@ -35967,94 +35970,7 @@ msgstr ""
 msgid "an untitled "
 msgstr ""
 
-msgid "a manual"
-msgstr ""
-
-msgid "a guide"
-msgstr ""
-
-msgid "a chronicle"
-msgstr ""
-
-msgid "a short story"
-msgstr ""
-
-msgid "a novel"
-msgstr ""
-
-msgid "a biography"
-msgstr ""
-
-msgid "an autobiography"
-msgstr ""
-
-msgid "a play"
-msgstr ""
-
-msgid "a letter"
-msgstr ""
-
-msgid "an essay"
-msgstr ""
-
-msgid "a dialog"
-msgstr ""
-
-msgid "a musical composition"
-msgstr ""
-
-msgid "a choreography"
-msgstr ""
-
-msgid "a comparative biography"
-msgstr ""
-
-msgid "a biographical dictionary"
-msgstr ""
-
-msgid "a genealogy"
-msgstr ""
-
-msgid "an encyclopedia"
-msgstr ""
-
-msgid "a cultural history"
-msgstr ""
-
-msgid "a cultural comparison"
-msgstr ""
-
-msgid "an alternate history"
-msgstr ""
-
-msgid "a treatise on technological evolution"
-msgstr ""
-
-msgid "a dictionary"
-msgstr ""
-
-msgid "a star chart"
-msgstr ""
-
-msgid "a star catalogue"
-msgstr ""
-
-msgid "an atlas"
-msgstr ""
-
-msgid " entitled "
-msgstr ""
-
-msgid ", authored by "
-msgstr ""
-
-msgid "The written portion consists of "
-msgstr ""
-
-msgid " page "
-msgstr ""
-
-msgid "untitled "
+msgid "an"
 msgstr ""
 
 msgid "manual"
@@ -36121,6 +36037,21 @@ msgid "star catalogue"
 msgstr ""
 
 msgid "atlas"
+msgstr ""
+
+msgid " entitled "
+msgstr ""
+
+msgid ", authored by "
+msgstr ""
+
+msgid "The written portion consists of "
+msgstr ""
+
+msgid " page "
+msgstr ""
+
+msgid "untitled "
 msgstr ""
 
 msgid "did not find instrument piece "
@@ -60079,12 +60010,6 @@ msgid "No controllable entity definitions available"
 msgstr ""
 
 msgid "Did not place controllable entity"
-msgstr ""
-
-msgid "Placed farming entity without orchard crops"
-msgstr ""
-
-msgid "Placed farming entity without non-orchard crops"
 msgstr ""
 
 msgid "Final swamp region count fails by "
