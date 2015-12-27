@@ -119,7 +119,7 @@ msgid "whose insignificant name I struggle to recall"
 msgstr ""
 
 #: general.txt:2
-msgid "a spineless slug whom was crushed under my might"
+msgid "a spineless slug who was crushed under my might"
 msgstr ""
 
 #: general.txt:3
