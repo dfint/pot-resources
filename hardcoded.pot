@@ -426,9 +426,6 @@ msgstr ""
 msgid " weave"
 msgstr ""
 
-msgid "s"
-msgstr ""
-
 msgid " a mesmerizing tale!"
 msgstr ""
 
@@ -525,7 +522,7 @@ msgstr ""
 msgid " beautifully."
 msgstr ""
 
-msgid " sounds"
+msgid " sound"
 msgstr ""
 
 msgid " vaguely like the intended "
@@ -6927,7 +6924,7 @@ msgstr ""
 msgid "I was "
 msgstr ""
 
-msgid " by the ghost"
+msgid " by the ghost "
 msgstr ""
 
 msgid "of a pet"
@@ -9130,6 +9127,9 @@ msgid "a procession"
 msgstr ""
 
 msgid "a ceremony"
+msgstr ""
+
+msgid "a purge"
 msgstr ""
 
 msgid "There is also "
@@ -26184,6 +26184,9 @@ msgstr ""
 msgid " trying to generate musical form without speech or instruments"
 msgstr ""
 
+msgid "Monster"
+msgstr ""
+
 msgid "Miner destination wiped"
 msgstr ""
 
@@ -28752,7 +28755,7 @@ msgstr ""
 msgid "Goblets (Desired): "
 msgstr ""
 
-msgid "Instruments (Desired): "
+msgid "Stored Instruments (Desired): "
 msgstr ""
 
 msgid "Rented rooms (Total): "
@@ -34662,6 +34665,9 @@ msgstr ""
 msgid "Destruction"
 msgstr ""
 
+msgid "Purge in "
+msgstr ""
+
 msgid "Insurrection in "
 msgstr ""
 
@@ -34672,9 +34678,6 @@ msgid "Abduction"
 msgstr ""
 
 msgid " in the Wilds"
-msgstr ""
-
-msgid "Monster"
 msgstr ""
 
 msgid "Rampage"
@@ -35967,7 +35970,7 @@ msgstr ""
 msgid "Written on the item is "
 msgstr ""
 
-msgid "an untitled "
+msgid "an untitled"
 msgstr ""
 
 msgid "an"
@@ -43461,7 +43464,7 @@ msgstr ""
 msgid "finds the very idea of competition obscene"
 msgstr ""
 
-msgid "believe that perseverance is one of the greatest qualities somebody can have"
+msgid "believes that perseverance is one of the greatest qualities somebody can have"
 msgstr ""
 
 msgid "greatly respects individuals that persevere through their trials and labors"
@@ -44844,7 +44847,7 @@ msgstr ""
 msgid "can easily become absorbed in art and the beauty of the natural world"
 msgstr ""
 
-msgid "greatly moved by art and natural beauty"
+msgid "is greatly moved by art and natural beauty"
 msgstr ""
 
 msgid "is moved by art and natural beauty"
@@ -60309,6 +60312,9 @@ msgstr ""
 msgid "Unnumbered"
 msgstr ""
 
+msgid "visitor"
+msgstr ""
+
 msgid "outcast"
 msgstr ""
 
@@ -61284,7 +61290,7 @@ msgstr ""
 msgid "quite often tells pointless stories when "
 msgstr ""
 
-msgid "will frequently ramble on with stories that don't any point or even conclusion"
+msgid "will frequently ramble on with stories that don't have any point or even conclusion"
 msgstr ""
 
 msgid "becomes very focused during conversations when "
