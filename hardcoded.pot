@@ -35046,6 +35046,9 @@ msgstr ""
 msgid "defender won"
 msgstr ""
 
+msgid "<type>purge</type>"
+msgstr ""
+
 msgid "world view filter not set (adjust ci ps)"
 msgstr ""
 
@@ -41920,6 +41923,9 @@ msgid "! marks the primary accent, "
 msgstr ""
 
 msgid "X marks an accented beat, "
+msgstr ""
+
+msgid "` marks a beat as early, "
 msgstr ""
 
 msgid "' marks a beat as late, "
