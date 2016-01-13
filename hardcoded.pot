@@ -41937,6 +41937,9 @@ msgstr ""
 msgid ", - is silent"
 msgstr ""
 
+msgid " and | indicates a bar.  "
+msgstr ""
+
 msgid " has been overthrown by the stresses of day-to-day living.  "
 msgstr ""
 
