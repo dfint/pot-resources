@@ -3552,6 +3552,147 @@ msgstr ""
 msgid "Squad Order"
 msgstr ""
 
+msgid "  Knowing no mercy, "
+msgstr ""
+
+msgid "devoured "
+msgstr ""
+
+msgid "devoured our livestock"
+msgstr ""
+
+msgid "stole "
+msgstr ""
+
+msgid "stole our treasures"
+msgstr ""
+
+msgid "destroyed "
+msgstr ""
+
+msgid "a mead hall"
+msgstr ""
+
+msgid "a keep"
+msgstr ""
+
+msgid "a temple"
+msgstr ""
+
+msgid "a library"
+msgstr ""
+
+msgid "a tavern"
+msgstr ""
+
+msgid "a tower"
+msgstr ""
+
+msgid "a market"
+msgstr ""
+
+msgid "a tomb"
+msgstr ""
+
+msgid "an underworld spire"
+msgstr ""
+
+msgid "a dungeon"
+msgstr ""
+
+msgid "the sewers"
+msgstr ""
+
+msgid "the catacombs"
+msgstr ""
+
+msgid "destroyed our homes"
+msgstr ""
+
+msgid "profaned"
+msgstr ""
+
+msgid "disturbed"
+msgstr ""
+
+msgid "profaned our homes"
+msgstr ""
+
+msgid "  This bloodsucking fiend "
+msgstr ""
+
+msgid "  This vile fiend "
+msgstr ""
+
+msgid "even "
+msgstr ""
+
+msgid "murdered "
+msgstr ""
+
+msgid "my "
+msgstr ""
+
+msgid "has even killed "
+msgstr ""
+
+msgid "has killed "
+msgstr ""
+
+msgid "somebody"
+msgstr ""
+
+msgid " in "
+msgstr ""
+
+msgid " lust for murder"
+msgstr ""
+
+msgid ", among them "
+msgstr ""
+
+msgid " pauses to regain "
+msgstr ""
+
+msgid " composure.]"
+msgstr ""
+
+msgid "  It pains me all the more, for the foul villain "
+msgstr ""
+
+msgid "was once"
+msgstr ""
+
+msgid " my own "
+msgstr ""
+
+msgid ", now twisted into monstrosity"
+msgstr ""
+
+msgid ", now cursed"
+msgstr ""
+
+msgid "  Save us from this "
+msgstr ""
+
+msgid "horror"
+msgstr ""
+
+msgid "traitor"
+msgstr ""
+
+msgid "  Beware!  It it said that only "
+msgstr ""
+
+msgid "  It is said that "
+msgstr ""
+
+msgid " harms the creature."
+msgstr ""
+
+msgid "  Other arms may not cut so deeply."
+msgstr ""
+
 msgid "This is "
 msgstr ""
 
@@ -3819,6 +3960,9 @@ msgstr ""
 msgid "a brigand"
 msgstr ""
 
+msgid " are dangerous outlaws."
+msgstr ""
+
 msgid " robbed "
 msgstr ""
 
@@ -3948,6 +4092,21 @@ msgstr ""
 msgid ", but now this stands between us."
 msgstr ""
 
+msgid "a legendary hunter"
+msgstr ""
+
+msgid "a great hunter"
+msgstr ""
+
+msgid "a talented hunter"
+msgstr ""
+
+msgid "a skilled hunter"
+msgstr ""
+
+msgid "something of a hunter"
+msgstr ""
+
 msgid "a legendary killer"
 msgstr ""
 
@@ -4015,6 +4174,18 @@ msgid " attacked "
 msgstr ""
 
 msgid " killed "
+msgstr ""
+
+msgid " a protector of the defenseless"
+msgstr ""
+
+msgid ", but that hardly matters now."
+msgstr ""
+
+msgid " challenged "
+msgstr ""
+
+msgid " justly slew "
 msgstr ""
 
 msgid " on my side"
@@ -6537,7 +6708,127 @@ msgstr ""
 msgid "I died."
 msgstr ""
 
-msgid " died."
+msgid "fell to the passing years"
+msgstr ""
+
+msgid "starved to death"
+msgstr ""
+
+msgid "died of thirst"
+msgstr ""
+
+msgid "was shot and killed"
+msgstr ""
+
+msgid "bled to death"
+msgstr ""
+
+msgid "drowned"
+msgstr ""
+
+msgid "suffocated"
+msgstr ""
+
+msgid "was slain"
+msgstr ""
+
+msgid "was scuttled"
+msgstr ""
+
+msgid "died in magma"
+msgstr ""
+
+msgid "burned in dragonfire"
+msgstr ""
+
+msgid "burned to death"
+msgstr ""
+
+msgid "was scalded to death"
+msgstr ""
+
+msgid "was crushed"
+msgstr ""
+
+msgid "was crushed by a bridge"
+msgstr ""
+
+msgid "was crushed by a rock"
+msgstr ""
+
+msgid "fell into a chasm"
+msgstr ""
+
+msgid "died in a cage"
+msgstr ""
+
+msgid "was murdered"
+msgstr ""
+
+msgid "died in a trap"
+msgstr ""
+
+msgid "vanished"
+msgstr ""
+
+msgid "died in the heat"
+msgstr ""
+
+msgid "died in the cold"
+msgstr ""
+
+msgid "was killed by spikes"
+msgstr ""
+
+msgid "froze to death"
+msgstr ""
+
+msgid "was beheaded"
+msgstr ""
+
+msgid "was crucified"
+msgstr ""
+
+msgid "was buried alive"
+msgstr ""
+
+msgid "was executed by drowning"
+msgstr ""
+
+msgid "was burned alive"
+msgstr ""
+
+msgid "was fed to beasts"
+msgstr ""
+
+msgid "was hacked to pieces"
+msgstr ""
+
+msgid "was left out to suffocate"
+msgstr ""
+
+msgid "died of an illness"
+msgstr ""
+
+msgid "was put to rest"
+msgstr ""
+
+msgid "was scared to death"
+msgstr ""
+
+msgid "died in the dark"
+msgstr ""
+
+msgid "collapsed"
+msgstr ""
+
+msgid "was drained of blood"
+msgstr ""
+
+msgid "was slaughtered"
+msgstr ""
+
+msgid "died"
 msgstr ""
 
 msgid "I"
@@ -7413,9 +7704,6 @@ msgstr ""
 msgid "I am forming a grudge against "
 msgstr ""
 
-msgid "somebody"
-msgstr ""
-
 msgid "I was accosted by "
 msgstr ""
 
@@ -7824,9 +8112,6 @@ msgstr ""
 msgid "the forces of "
 msgstr ""
 
-msgid " in "
-msgstr ""
-
 msgid "It is scorching hot!"
 msgstr ""
 
@@ -8041,9 +8326,6 @@ msgid "alarm"
 msgstr ""
 
 msgid "shock"
-msgstr ""
-
-msgid "horror"
 msgstr ""
 
 msgid "grief"
@@ -8442,7 +8724,13 @@ msgstr ""
 msgid "  The task is accomplished."
 msgstr ""
 
-msgid " has been driven from "
+msgid " is dead!"
+msgstr ""
+
+msgid " will be slain."
+msgstr ""
+
+msgid " have been driven from "
 msgstr ""
 
 msgid "  The need for my task seems to have passed."
@@ -8658,6 +8946,9 @@ msgstr ""
 msgid "Don't let the enemy rest."
 msgstr ""
 
+msgid "Thank you for all you do."
+msgstr ""
+
 msgid "Don't try to throw your weight around."
 msgstr ""
 
@@ -8686,6 +8977,9 @@ msgid "Are in a foul mood?"
 msgstr ""
 
 msgid "You'll get nothing from me with your flattery."
+msgstr ""
+
+msgid "Are you stalking a dangerous beast?"
 msgstr ""
 
 msgid "It is amazing how far you've come.  Welcome home."
@@ -8886,6 +9180,9 @@ msgstr ""
 msgid "They are terrific."
 msgstr ""
 
+msgid "They are outlaws."
+msgstr ""
+
 msgid "Now we will have to build our own future."
 msgstr ""
 
@@ -8959,6 +9256,111 @@ msgid "How's life here?"
 msgstr ""
 
 msgid "It has been the same as ever."
+msgstr ""
+
+msgid "You must kill "
+msgstr ""
+
+msgid "  This "
+msgstr ""
+
+msgid "great beast"
+msgstr ""
+
+msgid "ancient force of nature"
+msgstr ""
+
+msgid "cursed demon"
+msgstr ""
+
+msgid "fearsome beast"
+msgstr ""
+
+msgid "horrible beast"
+msgstr ""
+
+msgid "night creature"
+msgstr ""
+
+msgid "evil being"
+msgstr ""
+
+msgid "terror from the evil depths"
+msgstr ""
+
+msgid "vile monster from the bowels of the earth"
+msgstr ""
+
+msgid "beast from underground"
+msgstr ""
+
+msgid "creeping thing"
+msgstr ""
+
+msgid "terrifying wilderness monster"
+msgstr ""
+
+msgid "savage beast"
+msgstr ""
+
+msgid "ferocious wild animal"
+msgstr ""
+
+msgid "ferocious unnatural beast"
+msgstr ""
+
+msgid "beast from the wilds"
+msgstr ""
+
+msgid " threatens our people with its very presence."
+msgstr ""
+
+msgid "  Seek your foe in the "
+msgstr ""
+
+msgid "  Our hopes travel with you."
+msgstr ""
+
+msgid "  Enjoy the hunt!"
+msgstr ""
+
+msgid "You must drive the ruffians of "
+msgstr ""
+
+msgid " from "
+msgstr ""
+
+msgid "our "
+msgstr ""
+
+msgid ".  They have been harassing the people for too long."
+msgstr ""
+
+msgid " sent "
+msgstr ""
+
+msgid " to try to boss us around, but you'll show them the true nature of power."
+msgstr ""
+
+msgid " came try to boss us around, but you'll teach that coward a lesson."
+msgstr ""
+
+msgid "You must drive the skulking vermin "
+msgstr ""
+
+msgid " out of "
+msgstr ""
+
+msgid "You must drive "
+msgstr ""
+
+msgid ".  These outlaws must be punished."
+msgstr ""
+
+msgid ".  These criminals have been allowed to thrive for too long."
+msgstr ""
+
+msgid " from their home at "
 msgstr ""
 
 msgid "The group"
@@ -9276,9 +9678,6 @@ msgstr ""
 msgid "a metal furniture shop"
 msgstr ""
 
-msgid "a tavern"
-msgstr ""
-
 msgid "the imported goods market"
 msgstr ""
 
@@ -9385,9 +9784,6 @@ msgid "  The seat of "
 msgstr ""
 
 msgid " is also located here"
-msgstr ""
-
-msgid "my "
 msgstr ""
 
 msgid " agreed to "
@@ -9529,9 +9925,6 @@ msgid "I hear that refugees calling themselves "
 msgstr ""
 
 msgid " fled"
-msgstr ""
-
-msgid " from "
 msgstr ""
 
 msgid " just before an army"
@@ -9940,6 +10333,57 @@ msgid "These lyrics are too austere."
 msgstr ""
 
 msgid "I can't stand poetry this serious."
+msgstr ""
+
+msgid "This legendary hunt has saved us from a mighty enemy!"
+msgstr ""
+
+msgid "This magnificent hunt has saved us from a fearsome enemy!"
+msgstr ""
+
+msgid "This great hunt has saved us from a dangerous enemy!"
+msgstr ""
+
+msgid "This worthy hunt has rid us of an enemy."
+msgstr ""
+
+msgid "This hunt has rid us of a nuisance."
+msgstr ""
+
+msgid "That was a legendary hunt!"
+msgstr ""
+
+msgid "That was a magnificent hunt!"
+msgstr ""
+
+msgid "That was a great hunt!"
+msgstr ""
+
+msgid "That was a worthy hunt."
+msgstr ""
+
+msgid "That was hunter's work."
+msgstr ""
+
+msgid "We are saved from a mighty enemy!"
+msgstr ""
+
+msgid "We are saved from a fearsome enemy!"
+msgstr ""
+
+msgid "We are saved from a dangerous enemy!"
+msgstr ""
+
+msgid "We are rid of an enemy."
+msgstr ""
+
+msgid "We are rid of a nuisance."
+msgstr ""
+
+msgid "The defenseless are safer from outlaws."
+msgstr ""
+
+msgid "You have my thanks."
 msgstr ""
 
 msgid "Nevermind."
@@ -11205,141 +11649,6 @@ msgstr ""
 msgid " assumes a beastly form to terrorize us."
 msgstr ""
 
-msgid "  Knowing no mercy, "
-msgstr ""
-
-msgid "devoured "
-msgstr ""
-
-msgid "devoured our livestock"
-msgstr ""
-
-msgid "stole "
-msgstr ""
-
-msgid "stole our treasures"
-msgstr ""
-
-msgid "destroyed "
-msgstr ""
-
-msgid "a mead hall"
-msgstr ""
-
-msgid "a keep"
-msgstr ""
-
-msgid "a temple"
-msgstr ""
-
-msgid "a library"
-msgstr ""
-
-msgid "a tower"
-msgstr ""
-
-msgid "a market"
-msgstr ""
-
-msgid "a tomb"
-msgstr ""
-
-msgid "an underworld spire"
-msgstr ""
-
-msgid "a dungeon"
-msgstr ""
-
-msgid "the sewers"
-msgstr ""
-
-msgid "the catacombs"
-msgstr ""
-
-msgid "destroyed our homes"
-msgstr ""
-
-msgid "profaned"
-msgstr ""
-
-msgid "disturbed"
-msgstr ""
-
-msgid "profaned our homes"
-msgstr ""
-
-msgid "  This bloodsucking fiend "
-msgstr ""
-
-msgid "  This vile fiend "
-msgstr ""
-
-msgid "even "
-msgstr ""
-
-msgid "murdered "
-msgstr ""
-
-msgid "has even killed "
-msgstr ""
-
-msgid "has killed "
-msgstr ""
-
-msgid " lust for murder"
-msgstr ""
-
-msgid ", among them "
-msgstr ""
-
-msgid " calms down.]"
-msgstr ""
-
-msgid "  There is no clear evidence, but there have been so many strange happenings that every honest person in the community now holds it to be true."
-msgstr ""
-
-msgid "  None of us are brave enough to level an accusation against the beast, but since you would help us, that is what I ask of you."
-msgstr ""
-
-msgid " pauses to regain "
-msgstr ""
-
-msgid " composure.]"
-msgstr ""
-
-msgid "  It pains me all the more, for the foul villain "
-msgstr ""
-
-msgid "was once"
-msgstr ""
-
-msgid " my own "
-msgstr ""
-
-msgid ", now twisted into monstrosity"
-msgstr ""
-
-msgid ", now cursed"
-msgstr ""
-
-msgid "  Save us from this "
-msgstr ""
-
-msgid "traitor"
-msgstr ""
-
-msgid "  Beware!  It it said that only "
-msgstr ""
-
-msgid "  It is said that "
-msgstr ""
-
-msgid " harms the creature."
-msgstr ""
-
-msgid "  Other arms may not cut so deeply."
-msgstr ""
-
 msgid "Our people have been pestered by skulking villains."
 msgstr ""
 
@@ -11382,16 +11691,13 @@ msgstr ""
 msgid "around here"
 msgstr ""
 
-msgid "A bandit gang "
+msgid "A bandit gang calling itself "
 msgstr ""
 
-msgid "led by "
+msgid ", led by "
 msgstr ""
 
-msgid "calling itself "
-msgstr ""
-
-msgid "has been harassing people on the street!"
+msgid "has been harassing people right here on the streets of "
 msgstr ""
 
 msgid "has been harassing people over in "
@@ -11884,6 +12190,18 @@ msgid "Tell listener that nothing has changed"
 msgstr ""
 
 msgid "nothing"
+msgstr ""
+
+msgid "Order listener to "
+msgstr ""
+
+msgid "kill "
+msgstr ""
+
+msgid "drive the forces of "
+msgstr ""
+
+msgid "drive "
 msgstr ""
 
 msgid "Give an order based on "
@@ -12948,6 +13266,12 @@ msgstr ""
 msgid "State that you don't know anything about it"
 msgstr ""
 
+msgid "State that they are outlaws"
+msgstr ""
+
+msgid "outlaws"
+msgstr ""
+
 msgid "State that you are right in all matters"
 msgstr ""
 
@@ -13122,6 +13446,36 @@ msgstr ""
 msgid "State that you hate solemn poems"
 msgstr ""
 
+msgid "State that listener's hunt saved you from an enemy"
+msgstr ""
+
+msgid "hunt"
+msgstr ""
+
+msgid "saved"
+msgstr ""
+
+msgid "enemy"
+msgstr ""
+
+msgid "State that listener had a good hunt"
+msgstr ""
+
+msgid "State that listener saved you from an enemy"
+msgstr ""
+
+msgid "State that listener protected the defenseless from outlaws"
+msgstr ""
+
+msgid "protected"
+msgstr ""
+
+msgid "defenseless"
+msgstr ""
+
+msgid "oulaws"
+msgstr ""
+
 msgid "Grant sleep permission"
 msgstr ""
 
@@ -13288,9 +13642,6 @@ msgid "Say something about your family"
 msgstr ""
 
 msgid "Announce that you are hunting in your lair"
-msgstr ""
-
-msgid "hunt"
 msgstr ""
 
 msgid "lair"
@@ -17685,9 +18036,6 @@ msgstr ""
 msgid "forgiving"
 msgstr ""
 
-msgid "protected"
-msgstr ""
-
 msgid "gambling"
 msgstr ""
 
@@ -20862,6 +21210,12 @@ msgstr ""
 msgid "Handling compatibility issues..."
 msgstr ""
 
+msgid "Testing Arena"
+msgstr ""
+
+msgid "Testing Arena (Adventurer)"
+msgstr ""
+
 msgid "Folder: "
 msgstr ""
 
@@ -21826,6 +22180,12 @@ msgid "Considers Quarreler"
 msgstr ""
 
 msgid "Considers Flatterer"
+msgstr ""
+
+msgid "Hunter"
+msgstr ""
+
+msgid "Protector of the Weak"
 msgstr ""
 
 msgid ": Back to Main"
@@ -23442,6 +23802,9 @@ msgstr ""
 msgid "Grant of Citizenship"
 msgstr ""
 
+msgid "Order:Kill/"
+msgstr ""
+
 msgid "Order:DriveOff/"
 msgstr ""
 
@@ -23515,6 +23878,15 @@ msgid "throughout the world"
 msgstr ""
 
 msgid "Agreement concluded"
+msgstr ""
+
+msgid "Kill"
+msgstr ""
+
+msgid "Drive members of"
+msgstr ""
+
+msgid "out of"
 msgstr ""
 
 msgid "Drive"
@@ -32412,9 +32784,6 @@ msgstr ""
 msgid "solidified"
 msgstr ""
 
-msgid "died in the heat"
-msgstr ""
-
 msgid "was encased in cooling lava"
 msgstr ""
 
@@ -32424,28 +32793,10 @@ msgstr ""
 msgid "was encased in ice"
 msgstr ""
 
-msgid "froze to death"
-msgstr ""
-
-msgid "died in a cage"
-msgstr ""
-
 msgid "fell into a deep chasm"
 msgstr ""
 
 msgid "died of old age"
-msgstr ""
-
-msgid "died in the dark"
-msgstr ""
-
-msgid "starved to death"
-msgstr ""
-
-msgid "died of thirst"
-msgstr ""
-
-msgid "drowned"
 msgstr ""
 
 msgid "burned up in magma"
@@ -32472,12 +32823,6 @@ msgstr ""
 msgid "was burned to death by a "
 msgstr ""
 
-msgid "burned to death"
-msgstr ""
-
-msgid "was scalded to death"
-msgstr ""
-
 msgid "burned up in a magma mist"
 msgstr ""
 
@@ -32488,12 +32833,6 @@ msgid "was crushed under a collapsing ceiling"
 msgstr ""
 
 msgid "was killed by falling rocks"
-msgstr ""
-
-msgid "was shot and killed"
-msgstr ""
-
-msgid "bled to death"
 msgstr ""
 
 msgid ", slain by "
@@ -32508,46 +32847,13 @@ msgstr ""
 msgid "succumbed to infection"
 msgstr ""
 
-msgid "suffocated"
-msgstr ""
-
-msgid "was hacked to pieces"
-msgstr ""
-
-msgid "was beheaded"
-msgstr ""
-
-msgid "was crucified"
-msgstr ""
-
-msgid "was buried alive"
-msgstr ""
-
 msgid "was left out in the air"
 msgstr ""
 
 msgid "was drowned"
 msgstr ""
 
-msgid "was burned alive"
-msgstr ""
-
-msgid "was fed to beasts"
-msgstr ""
-
 msgid "was struck down"
-msgstr ""
-
-msgid "was slaughtered"
-msgstr ""
-
-msgid "was scuttled"
-msgstr ""
-
-msgid "was drained of blood"
-msgstr ""
-
-msgid "was murdered"
 msgstr ""
 
 msgid "was killed by a trap"
@@ -32565,12 +32871,6 @@ msgstr ""
 msgid "was banished by a "
 msgstr ""
 
-msgid "vanished"
-msgstr ""
-
-msgid "collapsed"
-msgstr ""
-
 msgid ", struck down by "
 msgstr ""
 
@@ -32580,16 +32880,10 @@ msgstr ""
 msgid ", struck down "
 msgstr ""
 
-msgid "was put to rest"
-msgstr ""
-
 msgid "died after colliding with an obstacle"
 msgstr ""
 
 msgid "was impaled on spikes"
-msgstr ""
-
-msgid "was scared to death"
 msgstr ""
 
 msgid "initial discovery"
@@ -34275,9 +34569,6 @@ msgstr ""
 msgid "former mercenary"
 msgstr ""
 
-msgid "enemy"
-msgstr ""
-
 msgid "former member"
 msgstr ""
 
@@ -34386,6 +34677,21 @@ msgstr ""
 msgid "rumored villain"
 msgstr ""
 
+msgid "legendary hunter"
+msgstr ""
+
+msgid "great hunter"
+msgstr ""
+
+msgid "talented hunter"
+msgstr ""
+
+msgid "skilled hunter"
+msgstr ""
+
+msgid "rumored hunter"
+msgstr ""
+
 msgid "legendary killer"
 msgstr ""
 
@@ -34459,6 +34765,21 @@ msgid "known fighter"
 msgstr ""
 
 msgid "rumored fighter"
+msgstr ""
+
+msgid "legendary protector of the weak"
+msgstr ""
+
+msgid "famous protector of the weak"
+msgstr ""
+
+msgid "noted protector of the weak"
+msgstr ""
+
+msgid "known protector of the weak"
+msgstr ""
+
+msgid "rumored protector of the weak"
 msgstr ""
 
 msgid "site occ"
@@ -42465,6 +42786,21 @@ msgstr ""
 msgid "feared as a villain by"
 msgstr ""
 
+msgid "a legendary hunter of"
+msgstr ""
+
+msgid "a great hunter of"
+msgstr ""
+
+msgid "a talented hunter of"
+msgstr ""
+
+msgid "a skilled hunter of"
+msgstr ""
+
+msgid "respected as a hunter by"
+msgstr ""
+
 msgid "a legendary killer of"
 msgstr ""
 
@@ -42538,6 +42874,21 @@ msgid "greatly respected for loyalty to"
 msgstr ""
 
 msgid "respected for loyalty to"
+msgstr ""
+
+msgid "a legendary protector of the weak in"
+msgstr ""
+
+msgid "a famous protector of the weak in"
+msgstr ""
+
+msgid "a noted protector of the weak in"
+msgstr ""
+
+msgid "greatly respected for protecting the weak in"
+msgstr ""
+
+msgid "respected for protecting the weak in"
 msgstr ""
 
 msgid " arrived at "
@@ -51307,9 +51658,6 @@ msgid " apart!"
 msgstr ""
 
 msgid " into an obstacle!"
-msgstr ""
-
-msgid " out of "
 msgstr ""
 
 msgid " flight path!"
@@ -61845,9 +62193,6 @@ msgstr ""
 msgid "Station"
 msgstr ""
 
-msgid "Kill"
-msgstr ""
-
 msgid "Defend Burrows"
 msgstr ""
 
@@ -61861,6 +62206,12 @@ msgid "Invalid order"
 msgstr ""
 
 msgid "No scheduled order"
+msgstr ""
+
+msgid "Kill "
+msgstr ""
+
+msgid "Drive any members of "
 msgstr ""
 
 msgid "Drive "
@@ -62665,9 +63016,6 @@ msgid "Stoneworker"
 msgstr ""
 
 msgid "Ranger"
-msgstr ""
-
-msgid "Hunter"
 msgstr ""
 
 msgid "Armorer"
@@ -64852,6 +65200,9 @@ msgid "ivory/tooth"
 msgstr ""
 
 msgid "unknown material"
+msgstr ""
+
+msgid "arena"
 msgstr ""
 
 msgid "underworld"
