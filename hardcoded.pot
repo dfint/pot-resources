@@ -30153,6 +30153,9 @@ msgstr ""
 msgid ": View details"
 msgstr ""
 
+msgid "[B][P]Active Syndromes[B]"
+msgstr ""
+
 msgid " phase"
 msgstr ""
 
@@ -34524,6 +34527,9 @@ msgstr ""
 msgid ", a force"
 msgstr ""
 
+msgid "[C:3:0:1]Related Historical Figures[C:7:0:0][B]"
+msgstr ""
+
 msgid "object of "
 msgstr ""
 
@@ -34558,6 +34564,9 @@ msgid "former master"
 msgstr ""
 
 msgid "former apprentice"
+msgstr ""
+
+msgid "[C:1:0:1]Related Entities[C:7:0:0][B]"
 msgstr ""
 
 msgid " to present"
@@ -34780,6 +34789,9 @@ msgid "known protector of the weak"
 msgstr ""
 
 msgid "rumored protector of the weak"
+msgstr ""
+
+msgid "[C:6:0:1]Related Sites[C:7:0:0][B]"
 msgstr ""
 
 msgid "site occ"
@@ -53115,6 +53127,12 @@ msgstr ""
 msgid "composed of "
 msgstr ""
 
+msgid "[CDI:ADV_NAME:Hurl fireball]"
+msgstr ""
+
+msgid "[CDI:ADV_NAME:Spray jet of fire]"
+msgstr ""
+
 msgid "[ODOR_STRING:mud]"
 msgstr ""
 
@@ -53146,6 +53164,30 @@ msgid "\\t\\t[SYN_NAME:divine sickness]"
 msgstr ""
 
 msgid "\\t\\t[SYN_NAME:night sickness]"
+msgstr ""
+
+msgid "[CDI:ADV_NAME:Spray web]"
+msgstr ""
+
+msgid "[CDI:ADV_NAME:Spray dust]"
+msgstr ""
+
+msgid "[CDI:ADV_NAME:Spray vapor]"
+msgstr ""
+
+msgid "[CDI:ADV_NAME:Spray gas]"
+msgstr ""
+
+msgid "[CDI:ADV_NAME:Spit glob]"
+msgstr ""
+
+msgid "[CDI:ADV_NAME:Emit dust]"
+msgstr ""
+
+msgid "[CDI:ADV_NAME:Emit vapor]"
+msgstr ""
+
+msgid "[CDI:ADV_NAME:Emit gas]"
 msgstr ""
 
 msgid "\\t[ATTACK_VERB:punch:punches]"
