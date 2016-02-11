@@ -39,15 +39,6 @@ msgstr ""
 msgid " embraces "
 msgstr ""
 
-msgid "you"
-msgstr ""
-
-msgid "You"
-msgstr ""
-
-msgid "The "
-msgstr ""
-
 msgid " empty "
 msgstr ""
 
@@ -211,6 +202,9 @@ msgid "You could not find a partner."
 msgstr ""
 
 msgid "You cannot perform here."
+msgstr ""
+
+msgid "You"
 msgstr ""
 
 msgid "Some"
@@ -621,6 +615,9 @@ msgstr ""
 msgid "its"
 msgstr ""
 
+msgid "The "
+msgstr ""
+
 msgid "spinning "
 msgstr ""
 
@@ -1014,7 +1011,7 @@ msgstr ""
 msgid " are "
 msgstr ""
 
-msgid " prostrating "
+msgid "prostrating "
 msgstr ""
 
 msgid "themselves"
@@ -1023,124 +1020,124 @@ msgstr ""
 msgid " before "
 msgstr ""
 
-msgid " torturing "
+msgid "torturing "
 msgstr ""
 
-msgid " committing a depraved act upon "
+msgid "committing a depraved act upon "
 msgstr ""
 
-msgid " devouring "
+msgid "devouring "
 msgstr ""
 
-msgid " admiring "
+msgid "admiring "
 msgstr ""
 
-msgid " burning "
+msgid "burning "
 msgstr ""
 
-msgid " shooting "
+msgid "shooting "
 msgstr ""
 
-msgid " surrounded by "
+msgid "surrounded by "
 msgstr ""
 
-msgid " massacring "
+msgid "massacring "
 msgstr ""
 
-msgid " fighting with "
+msgid "fighting with "
 msgstr ""
 
-msgid " greeting "
+msgid "greeting "
 msgstr ""
 
-msgid " refusing "
+msgid "refusing "
 msgstr ""
 
-msgid " speaking with "
+msgid "speaking with "
 msgstr ""
 
-msgid " embracing "
+msgid "embracing "
 msgstr ""
 
-msgid " striking down "
+msgid "striking down "
 msgstr ""
 
-msgid " raising "
+msgid "raising "
 msgstr ""
 
-msgid " hiding "
+msgid "hiding "
 msgstr ""
 
-msgid " praying to "
+msgid "praying to "
 msgstr ""
 
-msgid " contemplating "
+msgid "contemplating "
 msgstr ""
 
-msgid " cooking "
+msgid "cooking "
 msgstr ""
 
-msgid " engraving "
+msgid "engraving "
 msgstr ""
 
-msgid " impaled on "
+msgid "impaled on "
 msgstr ""
 
-msgid " being flayed by "
+msgid "being flayed by "
 msgstr ""
 
-msgid " hanging from "
+msgid "hanging from "
 msgstr ""
 
-msgid " being mutilated by "
+msgid "being mutilated by "
 msgstr ""
 
-msgid " praying"
+msgid "praying"
 msgstr ""
 
-msgid " weeping"
+msgid "weeping"
 msgstr ""
 
-msgid " cringing"
+msgid "cringing"
 msgstr ""
 
-msgid " screaming"
+msgid "screaming"
 msgstr ""
 
-msgid " being tortured"
+msgid "being tortured"
 msgstr ""
 
-msgid " committing a depraved act"
+msgid "committing a depraved act"
 msgstr ""
 
-msgid " making a submissive gesture"
+msgid "making a submissive gesture"
 msgstr ""
 
-msgid " in a fetal position"
+msgid "in a fetal position"
 msgstr ""
 
-msgid " smeared out into a spiral"
+msgid "smeared out into a spiral"
 msgstr ""
 
-msgid " falling"
+msgid "falling"
 msgstr ""
 
-msgid " dead"
+msgid "dead"
 msgstr ""
 
-msgid " laughing"
+msgid "laughing"
 msgstr ""
 
-msgid " being shot"
+msgid "being shot"
 msgstr ""
 
-msgid " making a plaintive gesture"
+msgid "making a plaintive gesture"
 msgstr ""
 
-msgid " melting"
+msgid "melting"
 msgstr ""
 
-msgid " burning"
+msgid "burning"
 msgstr ""
 
 msgid "looks"
@@ -1161,55 +1158,43 @@ msgstr ""
 msgid " confused"
 msgstr ""
 
-msgid " suffering"
+msgid "suffering"
 msgstr ""
 
-msgid " withering away"
+msgid "withering away"
 msgstr ""
 
-msgid " striking a menacing pose"
+msgid "striking a menacing pose"
 msgstr ""
 
-msgid " striking a triumphant pose"
+msgid "striking a triumphant pose"
 msgstr ""
 
-msgid " laboring"
+msgid "laboring"
 msgstr ""
 
-msgid " traveling"
+msgid "traveling"
 msgstr ""
 
-msgid " contemplating"
+msgid "contemplating"
 msgstr ""
 
-msgid " cooking"
+msgid "cooking"
 msgstr ""
 
-msgid " engraving"
+msgid "engraving"
 msgstr ""
 
-msgid " unnaturally contorted"
+msgid "unnaturally contorted"
 msgstr ""
 
-msgid " being flayed"
+msgid "being flayed"
 msgstr ""
 
-msgid " being mutilated"
+msgid "being mutilated"
 msgstr ""
 
 msgid "a "
-msgstr ""
-
-msgid "two "
-msgstr ""
-
-msgid "three "
-msgstr ""
-
-msgid "four "
-msgstr ""
-
-msgid "five "
 msgstr ""
 
 msgid "Untitled"
@@ -3192,7 +3177,7 @@ msgstr ""
 msgid "strikes"
 msgstr ""
 
-msgid "You pull"
+msgid " pull"
 msgstr ""
 
 msgid " pulls"
@@ -3763,6 +3748,9 @@ msgid "I worship "
 msgstr ""
 
 msgid "I worship no one."
+msgstr ""
+
+msgid "you"
 msgstr ""
 
 msgid " my "
@@ -4668,9 +4656,6 @@ msgstr ""
 msgid "us"
 msgstr ""
 
-msgid "er"
-msgstr ""
-
 msgid "in"
 msgstr ""
 
@@ -4686,13 +4671,7 @@ msgstr ""
 msgid " been "
 msgstr ""
 
-msgid "contemplating"
-msgstr ""
-
 msgid "considering"
-msgstr ""
-
-msgid "praying"
 msgstr ""
 
 msgid "on "
@@ -13587,9 +13566,6 @@ msgstr ""
 msgid " is dead"
 msgstr ""
 
-msgid "dead"
-msgstr ""
-
 msgid "Give your opinion of "
 msgstr ""
 
@@ -17556,6 +17532,108 @@ msgstr ""
 msgid "jagged scar.  "
 msgstr ""
 
+msgid "gigantic"
+msgstr ""
+
+msgid "very large"
+msgstr ""
+
+msgid "muscular"
+msgstr ""
+
+msgid "frail"
+msgstr ""
+
+msgid "obese"
+msgstr ""
+
+msgid "fat"
+msgstr ""
+
+msgid "chubby"
+msgstr ""
+
+msgid "skinny"
+msgstr ""
+
+msgid "slim"
+msgstr ""
+
+msgid "big"
+msgstr ""
+
+msgid "lanky"
+msgstr ""
+
+msgid "stout"
+msgstr ""
+
+msgid "towering"
+msgstr ""
+
+msgid "squat"
+msgstr ""
+
+msgid "scrawny"
+msgstr ""
+
+msgid "small"
+msgstr ""
+
+msgid "tiny"
+msgstr ""
+
+msgid "average"
+msgstr ""
+
+msgid "splayed"
+msgstr ""
+
+msgid "guttural-voiced"
+msgstr ""
+
+msgid "grating-voiced"
+msgstr ""
+
+msgid "squeaky-voiced"
+msgstr ""
+
+msgid "scratchy-voiced"
+msgstr ""
+
+msgid "low-voiced"
+msgstr ""
+
+msgid "high-cheekbones"
+msgstr ""
+
+msgid "low-cheekbones"
+msgstr ""
+
+msgid "square-chin"
+msgstr ""
+
+msgid "round-chin"
+msgstr ""
+
+msgid "massive-chin"
+msgstr ""
+
+msgid "recessed-chin"
+msgstr ""
+
+msgid "jutting-chin"
+msgstr ""
+
+msgid "prominent-chin"
+msgstr ""
+
+msgid "broad-chin"
+msgstr ""
+
+msgid "narrow-chin"
+msgstr ""
+
 msgid "NW"
 msgstr ""
 
@@ -18069,9 +18147,6 @@ msgstr ""
 msgid "just"
 msgstr ""
 
-msgid "laboring"
-msgstr ""
-
 msgid "wet"
 msgstr ""
 
@@ -18235,9 +18310,6 @@ msgid "wicked"
 msgstr ""
 
 msgid "enterprising"
-msgstr ""
-
-msgid "traveling"
 msgstr ""
 
 msgid "treacherous"
@@ -18763,9 +18835,6 @@ msgid "younger sibling"
 msgstr ""
 
 msgid "no relationship"
-msgstr ""
-
-msgid "ren"
 msgstr ""
 
 msgid "Wetland"
@@ -23190,6 +23259,12 @@ msgstr ""
 msgid "Multi-attack: choose another simultaneous action afterward"
 msgstr ""
 
+msgid " has yielded.  Attack anyway?"
+msgstr ""
+
+msgid "Really start a conflict with "
+msgstr ""
+
 msgid "Really attack "
 msgstr ""
 
@@ -24480,7 +24555,7 @@ msgstr ""
 msgid "You drop "
 msgstr ""
 
-msgid "You pick"
+msgid " pick"
 msgstr ""
 
 msgid " picks"
@@ -26802,6 +26877,9 @@ msgstr ""
 msgid "sand "
 msgstr ""
 
+msgid "edged "
+msgstr ""
+
 msgid "-bearing "
 msgstr ""
 
@@ -28308,9 +28386,6 @@ msgstr ""
 msgid "Jobs removed from unpowered "
 msgstr ""
 
-msgid "small"
-msgstr ""
-
 msgid "grown "
 msgstr ""
 
@@ -28426,9 +28501,6 @@ msgid "splint"
 msgstr ""
 
 msgid "crutch"
-msgstr ""
-
-msgid "es"
 msgstr ""
 
 msgid "quiver"
@@ -29584,6 +29656,30 @@ msgid "Shoe Construction"
 msgstr ""
 
 msgid "Backpack Construction"
+msgstr ""
+
+msgid "Figurine Making"
+msgstr ""
+
+msgid "Amulet Making"
+msgstr ""
+
+msgid "Scepter Making"
+msgstr ""
+
+msgid "Crown Making"
+msgstr ""
+
+msgid "Ring Making"
+msgstr ""
+
+msgid "Earring Making"
+msgstr ""
+
+msgid "Bracelet Making"
+msgstr ""
+
+msgid "Large Gem Cutting"
 msgstr ""
 
 msgid "Animal Trap Construction"
@@ -31299,21 +31395,6 @@ msgstr ""
 msgid "Atlas"
 msgstr ""
 
-msgid "You make "
-msgstr ""
-
-msgid " and more"
-msgstr ""
-
-msgid "You practice your "
-msgstr ""
-
-msgid " but make nothing of note."
-msgstr ""
-
-msgid "You make nothing."
-msgstr ""
-
 msgid "You butcher "
 msgstr ""
 
@@ -31746,6 +31827,324 @@ msgstr ""
 msgid "an unknown artisan"
 msgstr ""
 
+msgid "Untitled/unnamed"
+msgstr ""
+
+msgid "X "
+msgstr ""
+
+msgid " praying"
+msgstr ""
+
+msgid " weeping"
+msgstr ""
+
+msgid " cringing"
+msgstr ""
+
+msgid " screaming"
+msgstr ""
+
+msgid " being tortured"
+msgstr ""
+
+msgid " committing a depraved act"
+msgstr ""
+
+msgid " making a submissive gesture"
+msgstr ""
+
+msgid " in a fetal position"
+msgstr ""
+
+msgid " smeared out into a spiral"
+msgstr ""
+
+msgid " falling"
+msgstr ""
+
+msgid " dead"
+msgstr ""
+
+msgid " laughing"
+msgstr ""
+
+msgid " being shot"
+msgstr ""
+
+msgid " making a plaintive gesture"
+msgstr ""
+
+msgid " melting"
+msgstr ""
+
+msgid " burning"
+msgstr ""
+
+msgid "looks dejected"
+msgstr ""
+
+msgid "looks terrified"
+msgstr ""
+
+msgid "looks offended"
+msgstr ""
+
+msgid "looks confused"
+msgstr ""
+
+msgid " suffering"
+msgstr ""
+
+msgid " withering away"
+msgstr ""
+
+msgid " striking a menacing pose"
+msgstr ""
+
+msgid " striking a triumphant pose"
+msgstr ""
+
+msgid " laboring"
+msgstr ""
+
+msgid " traveling"
+msgstr ""
+
+msgid " contemplating"
+msgstr ""
+
+msgid " cooking"
+msgstr ""
+
+msgid " engraving"
+msgstr ""
+
+msgid " unnaturally contorted"
+msgstr ""
+
+msgid " being flayed"
+msgstr ""
+
+msgid " being mutilated"
+msgstr ""
+
+msgid " prostrating itself before "
+msgstr ""
+
+msgid " torturing "
+msgstr ""
+
+msgid " committing a depraved act upon "
+msgstr ""
+
+msgid " devouring "
+msgstr ""
+
+msgid " admiring "
+msgstr ""
+
+msgid " burning "
+msgstr ""
+
+msgid " shooting "
+msgstr ""
+
+msgid " surrounded by "
+msgstr ""
+
+msgid " massacring "
+msgstr ""
+
+msgid " fighting with "
+msgstr ""
+
+msgid " greeting "
+msgstr ""
+
+msgid " refusing "
+msgstr ""
+
+msgid " speaking with "
+msgstr ""
+
+msgid " embracing "
+msgstr ""
+
+msgid " striking down "
+msgstr ""
+
+msgid " raising "
+msgstr ""
+
+msgid " hiding "
+msgstr ""
+
+msgid " praying to "
+msgstr ""
+
+msgid " contemplating "
+msgstr ""
+
+msgid " cooking "
+msgstr ""
+
+msgid " engraving "
+msgstr ""
+
+msgid " impaled on "
+msgstr ""
+
+msgid " being flayed by "
+msgstr ""
+
+msgid " hanging from "
+msgstr ""
+
+msgid " being mutilated by "
+msgstr ""
+
+msgid "This is a "
+msgstr ""
+
+msgid "These are "
+msgstr ""
+
+msgid "migrating "
+msgstr ""
+
+msgid "nomadic "
+msgstr ""
+
+msgid "local "
+msgstr ""
+
+msgid "outcast "
+msgstr ""
+
+msgid "civilization"
+msgstr ""
+
+msgid "group"
+msgstr ""
+
+msgid "performance troupe"
+msgstr ""
+
+msgid "government"
+msgstr ""
+
+msgid "vessel"
+msgstr ""
+
+msgid "religion"
+msgstr ""
+
+msgid "military unit"
+msgstr ""
+
+msgid "Image information"
+msgstr ""
+
+msgid " for engraving"
+msgstr ""
+
+msgid "Related to historical figure"
+msgstr ""
+
+msgid "Related to site"
+msgstr ""
+
+msgid "Related to civilization or other group"
+msgstr ""
+
+msgid "Related to history event"
+msgstr ""
+
+msgid "Existing image"
+msgstr ""
+
+msgid "Specify a new image"
+msgstr ""
+
+msgid "Let your mind wander"
+msgstr ""
+
+msgid "Allow artist to choose"
+msgstr ""
+
+msgid ": Done filtering"
+msgstr ""
+
+msgid "Group symbol"
+msgstr ""
+
+msgid "Group commission"
+msgstr ""
+
+msgid "Civilization symbol"
+msgstr ""
+
+msgid "Civ commission"
+msgstr ""
+
+msgid "Historical figure"
+msgstr ""
+
+msgid "Tree"
+msgstr ""
+
+msgid "Shape"
+msgstr ""
+
+msgid "Object"
+msgstr ""
+
+msgid "Action or relationship"
+msgstr ""
+
+msgid "Delete element"
+msgstr ""
+
+msgid ": Change name"
+msgstr ""
+
+msgid ": Done!"
+msgstr ""
+
+msgid "How many? "
+msgstr ""
+
+msgid "Enter 0 for an unnumbered plural."
+msgstr ""
+
+msgid "Choose X: "
+msgstr ""
+
+msgid "Choose Y: "
+msgstr ""
+
+msgid ": Use this option"
+msgstr ""
+
+msgid "Warning!"
+msgstr ""
+
+msgid "You won't perform your action if you leave."
+msgstr ""
+
+msgid ": Don't perform action."
+msgstr ""
+
+msgid ": Keep working."
+msgstr ""
+
+msgid "Any image data you've changed will be lost."
+msgstr ""
+
+msgid ": Leave editor and discard data."
+msgstr ""
+
 msgid "Worker: "
 msgstr ""
 
@@ -31888,6 +32287,24 @@ msgid "You have"
 msgstr ""
 
 msgid " created a masterpiece "
+msgstr ""
+
+msgid "Select an element to begin."
+msgstr ""
+
+msgid "You make "
+msgstr ""
+
+msgid " and more"
+msgstr ""
+
+msgid "You practice your "
+msgstr ""
+
+msgid " but make nothing of note."
+msgstr ""
+
+msgid "You make nothing."
 msgstr ""
 
 msgid "shadow"
@@ -32491,9 +32908,6 @@ msgid "ripping"
 msgstr ""
 
 msgid "stabbing"
-msgstr ""
-
-msgid "burning"
 msgstr ""
 
 msgid " was"
@@ -34128,9 +34542,6 @@ msgstr ""
 msgid "the body"
 msgstr ""
 
-msgid "impaled on "
-msgstr ""
-
 msgid "added to a grisly mound"
 msgstr ""
 
@@ -34410,78 +34821,6 @@ msgstr ""
 msgid "a ceremony held by "
 msgstr ""
 
-msgid "This nameless being"
-msgstr ""
-
-msgid "a deity"
-msgstr ""
-
-msgid " that occurs in the myths of "
-msgstr ""
-
-msgid "a force"
-msgstr ""
-
-msgid " which was said to permeate "
-msgstr ""
-
-msgid ", animated by unknown forces"
-msgstr ""
-
-msgid " born in "
-msgstr ""
-
-msgid " of unknown parentage"
-msgstr ""
-
-msgid " is the "
-msgstr ""
-
-msgid " was the "
-msgstr ""
-
-msgid "The identity of "
-msgstr ""
-
-msgid " has been lost to time"
-msgstr ""
-
-msgid " the first of "
-msgstr ""
-
-msgid " one of the first of "
-msgstr ""
-
-msgid " the only one of "
-msgstr ""
-
-msgid " one of the only ones of "
-msgstr ""
-
-msgid " kind"
-msgstr ""
-
-msgid "Although accounts vary, it is universally agreed that "
-msgstr ""
-
-msgid "of divine parentage and possessed of unnatural gifts.  "
-msgstr ""
-
-msgid "chosen by fate as the vanguard of destiny.  "
-msgstr ""
-
-msgid "guided by forces unknown.  "
-msgstr ""
-
-msgid " most often takes the form of a "
-msgstr ""
-
-msgid " was most often depicted as a "
-msgstr ""
-
-msgid "associated with "
-msgstr ""
-
 msgid " was a "
 msgstr ""
 
@@ -34525,6 +34864,9 @@ msgid " centered around the worship of "
 msgstr ""
 
 msgid ", a force"
+msgstr ""
+
+msgid " which was said to permeate "
 msgstr ""
 
 msgid "[C:3:0:1]Related Historical Figures[C:7:0:0][B]"
@@ -35385,6 +35727,75 @@ msgstr ""
 msgid "world view filter not set (adjust ci ps)"
 msgstr ""
 
+msgid "This nameless being"
+msgstr ""
+
+msgid "a deity"
+msgstr ""
+
+msgid " that occurs in the myths of "
+msgstr ""
+
+msgid "a force"
+msgstr ""
+
+msgid ", animated by unknown forces"
+msgstr ""
+
+msgid " born in "
+msgstr ""
+
+msgid " of unknown parentage"
+msgstr ""
+
+msgid " is the "
+msgstr ""
+
+msgid " was the "
+msgstr ""
+
+msgid "The identity of "
+msgstr ""
+
+msgid " has been lost to time"
+msgstr ""
+
+msgid " the first of "
+msgstr ""
+
+msgid " one of the first of "
+msgstr ""
+
+msgid " the only one of "
+msgstr ""
+
+msgid " one of the only ones of "
+msgstr ""
+
+msgid " kind"
+msgstr ""
+
+msgid "Although accounts vary, it is universally agreed that "
+msgstr ""
+
+msgid "of divine parentage and possessed of unnatural gifts.  "
+msgstr ""
+
+msgid "chosen by fate as the vanguard of destiny.  "
+msgstr ""
+
+msgid "guided by forces unknown.  "
+msgstr ""
+
+msgid " most often takes the form of a "
+msgstr ""
+
+msgid " was most often depicted as a "
+msgstr ""
+
+msgid "associated with "
+msgstr ""
+
 msgid "Use OpenGL?"
 msgstr ""
 
@@ -35416,9 +35827,6 @@ msgid "This is"
 msgstr ""
 
 msgid "This is a stack of"
-msgstr ""
-
-msgid "These are "
 msgstr ""
 
 msgid " bundles of"
@@ -36567,6 +36975,33 @@ msgstr ""
 msgid "Tame a Small Animal"
 msgstr ""
 
+msgid " Figurine"
+msgstr ""
+
+msgid " Amulet"
+msgstr ""
+
+msgid " Scepter"
+msgstr ""
+
+msgid " Crown"
+msgstr ""
+
+msgid " Ring"
+msgstr ""
+
+msgid " Earring"
+msgstr ""
+
+msgid " Bracelet"
+msgstr ""
+
+msgid "Make Large "
+msgstr ""
+
+msgid " Gem"
+msgstr ""
+
 msgid "Mint "
 msgstr ""
 
@@ -37038,6 +37473,9 @@ msgstr ""
 msgid "Setup game: Name Group"
 msgstr ""
 
+msgid "Setup game: Symbol"
+msgstr ""
+
 msgid "Setup game: Reclaim"
 msgstr ""
 
@@ -37423,6 +37861,15 @@ msgid "Customize Unit, Nickname"
 msgstr ""
 
 msgid "Customize Unit, Profession"
+msgstr ""
+
+msgid "Image Creator: Filter"
+msgstr ""
+
+msgid "Image Creator: Name"
+msgstr ""
+
+msgid "Image Creator: Done"
 msgstr ""
 
 msgid "Adventure: Clear announcements"
@@ -39984,6 +40431,9 @@ msgstr ""
 msgid "Designate, Engrave"
 msgstr ""
 
+msgid "Designate, Details"
+msgstr ""
+
 msgid "Designate, Fortify"
 msgstr ""
 
@@ -41691,9 +42141,6 @@ msgstr ""
 msgid "rising"
 msgstr ""
 
-msgid "falling"
-msgstr ""
-
 msgid "rising-falling"
 msgstr ""
 
@@ -42244,9 +42691,6 @@ msgid "The beats are named "
 msgstr ""
 
 msgid "The beat is stressed as follows:"
-msgstr ""
-
-msgid "X"
 msgstr ""
 
 msgid "[B]where "
@@ -47340,9 +47784,6 @@ msgstr ""
 msgid "someone recently retired"
 msgstr ""
 
-msgid "religion"
-msgstr ""
-
 msgid "the concept of death"
 msgstr ""
 
@@ -48378,10 +48819,61 @@ msgstr ""
 msgid "changed now."
 msgstr ""
 
-msgid "For "
+msgid "Specify type"
 msgstr ""
 
-msgid ": Done filtering"
+msgid "Specify "
+msgstr ""
+
+msgid "stone"
+msgstr ""
+
+msgid "wood"
+msgstr ""
+
+msgid "leather"
+msgstr ""
+
+msgid "silk"
+msgstr ""
+
+msgid "soap"
+msgstr ""
+
+msgid "Specify image"
+msgstr ""
+
+msgid "Specify size"
+msgstr ""
+
+msgid ": Set details"
+msgstr ""
+
+msgid "Setting type"
+msgstr ""
+
+msgid "Image"
+msgstr ""
+
+msgid "Bands"
+msgstr ""
+
+msgid "Covered"
+msgstr ""
+
+msgid "Hanging rings"
+msgstr ""
+
+msgid ": Set type"
+msgstr ""
+
+msgid "Setting material"
+msgstr ""
+
+msgid ": Set material"
+msgstr ""
+
+msgid "For "
 msgstr ""
 
 msgid ": Set creature"
@@ -50943,9 +51435,6 @@ msgstr ""
 msgid "Dead "
 msgstr ""
 
-msgid "Tree"
-msgstr ""
-
 msgid "Dense "
 msgstr ""
 
@@ -51435,12 +51924,6 @@ msgstr ""
 msgid "Here we have "
 msgstr ""
 
-msgid "prone "
-msgstr ""
-
-msgid "swimming "
-msgstr ""
-
 msgid " lying"
 msgstr ""
 
@@ -51642,7 +52125,7 @@ msgstr ""
 msgid " away from the "
 msgstr ""
 
-msgid "You skip"
+msgid " skip"
 msgstr ""
 
 msgid " skips"
@@ -51651,7 +52134,7 @@ msgstr ""
 msgid " across the "
 msgstr ""
 
-msgid "You slam"
+msgid " slam"
 msgstr ""
 
 msgid " slams"
@@ -51742,15 +52225,6 @@ msgid " pitch and"
 msgstr ""
 
 msgid " has a"
-msgstr ""
-
-msgid "leather"
-msgstr ""
-
-msgid "silk"
-msgstr ""
-
-msgid "stone"
 msgstr ""
 
 msgid "ceramic"
@@ -53830,9 +54304,6 @@ msgid "moaning"
 msgstr ""
 
 msgid "it howls into high winds"
-msgstr ""
-
-msgid "screaming"
 msgstr ""
 
 msgid "howling"
@@ -59559,9 +60030,6 @@ msgstr ""
 msgid "education"
 msgstr ""
 
-msgid "government"
-msgstr ""
-
 msgid "economic policy"
 msgstr ""
 
@@ -61290,10 +61758,13 @@ msgstr ""
 msgid ": Items"
 msgstr ""
 
-msgid ": Name Fortress"
+msgid ": Name Fort"
 msgstr ""
 
 msgid ": Name Group"
+msgstr ""
+
+msgid ": Symbol"
 msgstr ""
 
 msgid ": Add"
@@ -63021,6 +63492,15 @@ msgstr ""
 msgid "peasant"
 msgstr ""
 
+msgid "stray "
+msgstr ""
+
+msgid "cultist"
+msgstr ""
+
+msgid " cultist"
+msgstr ""
+
 msgid "Stray "
 msgstr ""
 
@@ -64257,6 +64737,9 @@ msgstr ""
 msgid "  This spirit has not been properly memorialized or buried."
 msgstr ""
 
+msgid " have "
+msgstr ""
+
 msgid "died in a cage."
 msgstr ""
 
@@ -64633,9 +65116,6 @@ msgid " indiv choice, ranged"
 msgstr ""
 
 msgid "plant fiber"
-msgstr ""
-
-msgid "wood"
 msgstr ""
 
 msgid "individual choice"
@@ -65028,22 +65508,22 @@ msgstr ""
 msgid " fine"
 msgstr ""
 
-msgid " rendition of a"
+msgid " rendition of "
 msgstr ""
 
-msgid " well-designed "
+msgid " well-designed"
 msgstr ""
 
-msgid " finely-designed "
+msgid " finely-designed"
 msgstr ""
 
-msgid " superiorly designed "
+msgid " superiorly designed"
 msgstr ""
 
-msgid "n exceptionally designed "
+msgid "n exceptionally designed"
 msgstr ""
 
-msgid " masterfully designed "
+msgid " masterfully designed"
 msgstr ""
 
 msgid " image"
@@ -65055,37 +65535,13 @@ msgstr ""
 msgid " during "
 msgstr ""
 
-msgid "The image is "
+msgid "The image "
 msgstr ""
 
-msgid "the symbol of"
+msgid "is the symbol of"
 msgstr ""
 
-msgid "migrating "
-msgstr ""
-
-msgid "nomadic "
-msgstr ""
-
-msgid "local "
-msgstr ""
-
-msgid "outcast "
-msgstr ""
-
-msgid "civilization"
-msgstr ""
-
-msgid "group"
-msgstr ""
-
-msgid "performance troupe"
-msgstr ""
-
-msgid "vessel"
-msgstr ""
-
-msgid "military unit"
+msgid "was commissioned by"
 msgstr ""
 
 msgid "Something has collapsed on the surface!"
@@ -65235,9 +65691,6 @@ msgstr ""
 msgid " have married.  Congratulations!"
 msgstr ""
 
-msgid "soap"
-msgstr ""
-
 msgid "ivory/tooth"
 msgstr ""
 
@@ -65292,7 +65745,7 @@ msgstr ""
 msgid "You feed on "
 msgstr ""
 
-msgid "You flounder"
+msgid " flounder"
 msgstr ""
 
 msgid " flounders"
