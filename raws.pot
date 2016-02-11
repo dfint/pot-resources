@@ -52602,6 +52602,216 @@ msgctxt "REACTION:BIND_BOOK"
 msgid "[IMPROVEMENT:100:book:PAGES:GET_MATERIAL_FROM_REAGENT:quire:]"
 msgstr ""
 
+#: reaction_other.txt:441
+msgctxt "REACTION:CARVE_BONE_FIGURINE"
+msgid "[NAME:carve bone figurine]"
+msgstr ""
+
+#: reaction_other.txt:443
+msgctxt "REACTION:CARVE_BONE_FIGURINE"
+msgid "[REAGENT:bone:]"
+msgstr ""
+
+#: reaction_other.txt:445
+msgctxt "REACTION:CARVE_BONE_FIGURINE"
+msgid "[REAGENT:tool:]"
+msgstr ""
+
+#: reaction_other.txt:447
+msgctxt "REACTION:CARVE_BONE_FIGURINE"
+msgid "[PRODUCT:100:1:FIGURINE:NONE:GET_MATERIAL_FROM_REAGENT:bone:]"
+msgstr ""
+
+#: reaction_other.txt:448
+msgctxt "REACTION:CARVE_BONE_FIGURINE"
+msgid "[PRODUCT_TOKEN:figurine]"
+msgstr ""
+
+#: reaction_other.txt:451
+msgctxt "REACTION:CARVE_BONE_FIGURINE"
+msgid "[CATEGORY_NAME:Carve bone]"
+msgstr ""
+
+#: reaction_other.txt:452
+msgctxt "REACTION:CARVE_BONE_FIGURINE"
+msgid "[CATEGORY_DESCRIPTION:Make crafts from bone using a sharp weapon or tool.]"
+msgstr ""
+
+#: reaction_other.txt:455
+msgctxt "REACTION:CARVE_BONE_RING"
+msgid "[NAME:carve bone ring]"
+msgstr ""
+
+#: reaction_other.txt:457
+msgctxt "REACTION:CARVE_BONE_RING"
+msgid "[REAGENT:bone:]"
+msgstr ""
+
+#: reaction_other.txt:459
+msgctxt "REACTION:CARVE_BONE_RING"
+msgid "[REAGENT:tool:]"
+msgstr ""
+
+#: reaction_other.txt:461
+msgctxt "REACTION:CARVE_BONE_RING"
+msgid "[PRODUCT:100:1:RING:NONE:GET_MATERIAL_FROM_REAGENT:bone:]"
+msgstr ""
+
+#: reaction_other.txt:462
+msgctxt "REACTION:CARVE_BONE_RING"
+msgid "[PRODUCT_TOKEN:ring]"
+msgstr ""
+
+#: reaction_other.txt:467
+msgctxt "REACTION:CARVE_BONE_EARRING"
+msgid "[NAME:carve bone earring]"
+msgstr ""
+
+#: reaction_other.txt:469
+msgctxt "REACTION:CARVE_BONE_EARRING"
+msgid "[REAGENT:bone:]"
+msgstr ""
+
+#: reaction_other.txt:471
+msgctxt "REACTION:CARVE_BONE_EARRING"
+msgid "[REAGENT:tool:]"
+msgstr ""
+
+#: reaction_other.txt:473
+msgctxt "REACTION:CARVE_BONE_EARRING"
+msgid "[PRODUCT:100:1:EARRING:NONE:GET_MATERIAL_FROM_REAGENT:bone:]"
+msgstr ""
+
+#: reaction_other.txt:474
+msgctxt "REACTION:CARVE_BONE_EARRING"
+msgid "[PRODUCT_TOKEN:earring]"
+msgstr ""
+
+#: reaction_other.txt:479
+msgctxt "REACTION:CARVE_BONE_SCEPTER"
+msgid "[NAME:carve bone scepter]"
+msgstr ""
+
+#: reaction_other.txt:481
+msgctxt "REACTION:CARVE_BONE_SCEPTER"
+msgid "[REAGENT:bone:]"
+msgstr ""
+
+#: reaction_other.txt:483
+msgctxt "REACTION:CARVE_BONE_SCEPTER"
+msgid "[REAGENT:tool:]"
+msgstr ""
+
+#: reaction_other.txt:485
+msgctxt "REACTION:CARVE_BONE_SCEPTER"
+msgid "[PRODUCT:100:1:SCEPTER:NONE:GET_MATERIAL_FROM_REAGENT:bone:]"
+msgstr ""
+
+#: reaction_other.txt:486
+msgctxt "REACTION:CARVE_BONE_SCEPTER"
+msgid "[PRODUCT_TOKEN:scepter]"
+msgstr ""
+
+#: reaction_other.txt:491
+msgctxt "REACTION:CARVE_BONE_AMULET"
+msgid "[NAME:carve bone amulet]"
+msgstr ""
+
+#: reaction_other.txt:493
+msgctxt "REACTION:CARVE_BONE_AMULET"
+msgid "[REAGENT:bone:]"
+msgstr ""
+
+#: reaction_other.txt:495
+msgctxt "REACTION:CARVE_BONE_AMULET"
+msgid "[REAGENT:tool:]"
+msgstr ""
+
+#: reaction_other.txt:497
+msgctxt "REACTION:CARVE_BONE_AMULET"
+msgid "[PRODUCT:100:1:AMULET:NONE:GET_MATERIAL_FROM_REAGENT:bone:]"
+msgstr ""
+
+#: reaction_other.txt:498
+msgctxt "REACTION:CARVE_BONE_AMULET"
+msgid "[PRODUCT_TOKEN:amulet]"
+msgstr ""
+
+#: reaction_other.txt:503
+msgctxt "REACTION:CARVE_BONE_BRACELET"
+msgid "[NAME:carve bone bracelet]"
+msgstr ""
+
+#: reaction_other.txt:505
+msgctxt "REACTION:CARVE_BONE_BRACELET"
+msgid "[REAGENT:bone:]"
+msgstr ""
+
+#: reaction_other.txt:507
+msgctxt "REACTION:CARVE_BONE_BRACELET"
+msgid "[REAGENT:tool:]"
+msgstr ""
+
+#: reaction_other.txt:509
+msgctxt "REACTION:CARVE_BONE_BRACELET"
+msgid "[PRODUCT:100:1:BRACELET:NONE:GET_MATERIAL_FROM_REAGENT:bone:]"
+msgstr ""
+
+#: reaction_other.txt:510
+msgctxt "REACTION:CARVE_BONE_BRACELET"
+msgid "[PRODUCT_TOKEN:bracelet]"
+msgstr ""
+
+#: reaction_other.txt:515
+msgctxt "REACTION:CARVE_BONE_CROWN"
+msgid "[NAME:carve bone crown]"
+msgstr ""
+
+#: reaction_other.txt:517
+msgctxt "REACTION:CARVE_BONE_CROWN"
+msgid "[REAGENT:bone:]"
+msgstr ""
+
+#: reaction_other.txt:519
+msgctxt "REACTION:CARVE_BONE_CROWN"
+msgid "[REAGENT:tool:]"
+msgstr ""
+
+#: reaction_other.txt:521
+msgctxt "REACTION:CARVE_BONE_CROWN"
+msgid "[PRODUCT:100:1:CROWN:NONE:GET_MATERIAL_FROM_REAGENT:bone:]"
+msgstr ""
+
+#: reaction_other.txt:522
+msgctxt "REACTION:CARVE_BONE_CROWN"
+msgid "[PRODUCT_TOKEN:crown]"
+msgstr ""
+
+#: reaction_other.txt:527
+msgctxt "REACTION:CARVE_BONE_GEM"
+msgid "[NAME:carve bone cabochon]"
+msgstr ""
+
+#: reaction_other.txt:529
+msgctxt "REACTION:CARVE_BONE_GEM"
+msgid "[REAGENT:bone:]"
+msgstr ""
+
+#: reaction_other.txt:531
+msgctxt "REACTION:CARVE_BONE_GEM"
+msgid "[REAGENT:tool:]"
+msgstr ""
+
+#: reaction_other.txt:533
+msgctxt "REACTION:CARVE_BONE_GEM"
+msgid "[PRODUCT:100:1:GEM:NONE:GET_MATERIAL_FROM_REAGENT:bone:]"
+msgstr ""
+
+#: reaction_other.txt:534
+msgctxt "REACTION:CARVE_BONE_GEM"
+msgid "[PRODUCT_TOKEN:gem]"
+msgstr ""
+
 #: reaction_smelter.txt:6
 msgctxt "REACTION:BITUMINOUS_COAL_TO_COKE"
 msgid "[NAME:make coke from bituminous coal]"
