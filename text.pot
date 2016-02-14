@@ -8,7 +8,7 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 1.8.4\n"
+"X-Generator: Poedit 1.8.7\n"
 
 #: book_art.txt:0
 msgid "[NAME]"
@@ -80,10 +80,6 @@ msgstr ""
 
 #: book_art.txt:17
 msgid "And [ANY_PRONOUN] Sang '[NAME]!'"
-msgstr ""
-
-#: book_instruction.txt:0
-msgid "[NAME]"
 msgstr ""
 
 #: book_instruction.txt:1
