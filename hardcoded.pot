@@ -22269,7 +22269,16 @@ msgstr ""
 msgid "  Workshop Profile  "
 msgstr ""
 
-msgid "Permitted Workers"
+msgid ": Permitted Workers"
+msgstr ""
+
+msgid "Work Orders"
+msgstr ""
+
+msgid "Labor Restrictions"
+msgstr ""
+
+msgid ": Permit/Restrict"
 msgstr ""
 
 msgid ": Permit All"
@@ -22279,6 +22288,66 @@ msgid ": Min - "
 msgstr ""
 
 msgid ": Max - "
+msgstr ""
+
+msgid "Work Orders Created For This Shop"
+msgstr ""
+
+msgid "Validated"
+msgstr ""
+
+msgid "Active: "
+msgstr ""
+
+msgid "Waiting: "
+msgstr ""
+
+msgid "Checking: "
+msgstr ""
+
+msgid "Ready: "
+msgstr ""
+
+msgid "There are no active work orders tied to this shop."
+msgstr ""
+
+msgid "All work orders must be validated by the manager before they become active."
+msgstr ""
+
+msgid ": New Order  "
+msgstr ""
+
+msgid ": Remove  "
+msgstr ""
+
+msgid ": Increase priority  "
+msgstr ""
+
+msgid ": Max priority  "
+msgstr ""
+
+msgid ": Wages"
+msgstr ""
+
+msgid ": Conditions"
+msgstr ""
+
+msgid ": Details"
+msgstr ""
+
+msgid ": General work orders cannot task this shop"
+msgstr ""
+
+msgid ": General work orders are allowed to task this shop"
+msgstr ""
+
+msgid ": Maximum general work order tasks allowed = "
+msgstr ""
+
+msgid "Permitted General Work Order Labors"
+msgstr ""
+
+msgid ": Allow/disallow"
 msgstr ""
 
 msgid "Gain possession"
@@ -22644,6 +22713,9 @@ msgstr ""
 msgid "Pick up how many? (0-"
 msgstr ""
 
+msgid "Pull "
+msgstr ""
+
 msgid "Pick "
 msgstr ""
 
@@ -22873,6 +22945,207 @@ msgid ": Scroll (Page "
 msgstr ""
 
 msgid "Current choice's keywords: "
+msgstr ""
+
+msgid ": Done filter"
+msgstr ""
+
+msgid ": Set material"
+msgstr ""
+
+msgid ": Filter"
+msgstr ""
+
+msgid "Zone "
+msgstr ""
+
+msgid ": New"
+msgstr ""
+
+msgid ": Edit"
+msgstr ""
+
+msgid ": Assign"
+msgstr ""
+
+msgid ": Delete"
+msgstr ""
+
+msgid "(No Specific Deity)"
+msgstr ""
+
+msgid " worshipper"
+msgstr ""
+
+msgid "No worshippers"
+msgstr ""
+
+msgid ": Main hall"
+msgstr ""
+
+msgid ": Inn/tavern"
+msgstr ""
+
+msgid ": Library"
+msgstr ""
+
+msgid ": Temple"
+msgstr ""
+
+msgid "Remove assignment"
+msgstr ""
+
+msgid ": Rename location"
+msgstr ""
+
+msgid ": Add location"
+msgstr ""
+
+msgid "Define zone bounds"
+msgstr ""
+
+msgid ": Add rect"
+msgstr ""
+
+msgid ": Start flow"
+msgstr ""
+
+msgid ": Remove rect"
+msgstr ""
+
+msgid ": Start remove"
+msgstr ""
+
+msgid ": Add flow"
+msgstr ""
+
+msgid ": Resize flow"
+msgstr ""
+
+msgid ": Start rect"
+msgstr ""
+
+msgid ": Assign location"
+msgstr ""
+
+msgid ": Unassign"
+msgstr ""
+
+msgid ": Carpenter Wkshp"
+msgstr ""
+
+msgid ": Back"
+msgstr ""
+
+msgid ": Workshop"
+msgstr ""
+
+msgid ": Cancel plans"
+msgstr ""
+
+msgid ": Remove bld/cnst"
+msgstr ""
+
+msgid ": Material"
+msgstr ""
+
+msgid ": Phase "
+msgstr ""
+
+msgid ": Place"
+msgstr ""
+
+msgid ": Constructions"
+msgstr ""
+
+msgid ": Buildings"
+msgstr ""
+
+msgid "Rooms: need site!"
+msgstr ""
+
+msgid "Rooms: need name!"
+msgstr ""
+
+msgid ": Zones/Rooms"
+msgstr ""
+
+msgid ": Start work!"
+msgstr ""
+
+msgid "Constructing "
+msgstr ""
+
+msgid "Constructing unnamed site"
+msgstr ""
+
+msgid ": Name site (irreversible!)"
+msgstr ""
+
+msgid "Plan a construction or building to form a site (irreversible!)"
+msgstr ""
+
+msgid "Phase "
+msgstr ""
+
+msgid "No construction planned at cursor"
+msgstr ""
+
+msgid "No building planned at cursor"
+msgstr ""
+
+msgid "Warning:  This site will be smaller than usual.  Move away from other sites."
+msgstr ""
+
+msgid "Total work hours needed: "
+msgstr ""
+
+msgid " (Workers are needed!)"
+msgstr ""
+
+msgid " workers)"
+msgstr ""
+
+msgid ": You will work for "
+msgstr ""
+
+msgid "an hour"
+msgstr ""
+
+msgid " hours"
+msgstr ""
+
+msgid ": You will not work personally"
+msgstr ""
+
+msgid "[CAN'T WORK]"
+msgstr ""
+
+msgid "[WILL WORK]"
+msgstr ""
+
+msgid "[WITH YOU]"
+msgstr ""
+
+msgid " Bookcase"
+msgstr ""
+
+msgid "Need "
+msgstr ""
+
+msgid "Have "
+msgstr ""
+
+msgid ": Set worker"
+msgstr ""
+
+msgid ": Select worker"
+msgstr ""
+
+msgid ": Scroll material"
+msgstr ""
+
+msgid ": Start working!"
 msgstr ""
 
 msgid " to view other pages"
@@ -23445,6 +23718,12 @@ msgstr ""
 msgid "You cannot jump while wrestling."
 msgstr ""
 
+msgid "You cannot build here."
+msgstr ""
+
+msgid "You do not have the authority to build here."
+msgstr ""
+
 msgid "There are no visible tracks or other signs, aside from yours."
 msgstr ""
 
@@ -23593,45 +23872,6 @@ msgid "You've lost track of time since your death."
 msgstr ""
 
 msgid "It is the "
-msgstr ""
-
-msgid "You are still surrounded by cackling."
-msgstr ""
-
-msgid "You don't feel safe enough to travel."
-msgstr ""
-
-msgid "You can't travel because you are carrying someone else's goods.  Purchase them or put some distance between yourself and the site."
-msgstr ""
-
-msgid "You can't travel until you've stopped the bleeding."
-msgstr ""
-
-msgid "You can't travel because you can't breathe."
-msgstr ""
-
-msgid "You can't travel because you are dying of thirst."
-msgstr ""
-
-msgid "You can't travel because you are starving to death."
-msgstr ""
-
-msgid "You can't travel because you are swimming."
-msgstr ""
-
-msgid "You must move away from the water before you can travel."
-msgstr ""
-
-msgid "You must come down from the mountains before you can travel."
-msgstr ""
-
-msgid "You can't travel until you stop riding this vehicle."
-msgstr ""
-
-msgid "You can't travel until you stop riding this projectile."
-msgstr ""
-
-msgid "You cannot travel until you leave this site."
 msgstr ""
 
 msgid "You need a free grasp to climb."
@@ -23889,6 +24129,9 @@ msgstr ""
 msgid "Unknown"
 msgstr ""
 
+msgid "Unnamed "
+msgstr ""
+
 msgid "Overthrow Agreement"
 msgstr ""
 
@@ -24019,9 +24262,6 @@ msgid ": Toggle line"
 msgstr ""
 
 msgid ": Filter on "
-msgstr ""
-
-msgid ": Filter"
 msgstr ""
 
 msgid ": Filter on _"
@@ -24513,6 +24753,9 @@ msgstr ""
 msgid " into the "
 msgstr ""
 
+msgid " on the "
+msgstr ""
+
 msgid "You eat the "
 msgstr ""
 
@@ -24553,6 +24796,12 @@ msgid "You empty "
 msgstr ""
 
 msgid "You drop "
+msgstr ""
+
+msgid " pull off"
+msgstr ""
+
+msgid " pulls off"
 msgstr ""
 
 msgid " pick"
@@ -24916,9 +25165,6 @@ msgid "Demigod"
 msgstr ""
 
 msgid ": Select   "
-msgstr ""
-
-msgid ": Back"
 msgstr ""
 
 msgid "Specific Person"
@@ -25368,6 +25614,15 @@ msgstr ""
 msgid " is hot enough already."
 msgstr ""
 
+msgid "Put "
+msgstr ""
+
+msgid "on"
+msgstr ""
+
+msgid "Put in "
+msgstr ""
+
 msgid "Suck "
 msgstr ""
 
@@ -25383,7 +25638,22 @@ msgstr ""
 msgid "Make Campfire ("
 msgstr ""
 
-msgid "You don't feel safe enough to make a campfire."
+msgid "Fell "
+msgstr ""
+
+msgid "tree"
+msgstr ""
+
+msgid "You cannot fell trees in the arena."
+msgstr ""
+
+msgid "You need to be holding an axe."
+msgstr ""
+
+msgid "You need to be holding an axe with a sharp edge."
+msgstr ""
+
+msgid "You cannot fell the trees here."
 msgstr ""
 
 msgid "You make a campfire."
@@ -25519,36 +25789,6 @@ msgid "You are surrounded by incessant cackling."
 msgstr ""
 
 msgid "Can I help you with something?"
-msgstr ""
-
-msgid "You cannot rest until you leave this site."
-msgstr ""
-
-msgid "You don't feel safe enough to rest."
-msgstr ""
-
-msgid "You can't rest because you are carrying someone else's goods.  Purchase them or put some distance between yourself and the site."
-msgstr ""
-
-msgid "You can't rest until you've stopped the bleeding."
-msgstr ""
-
-msgid "You can't rest because you can't breathe."
-msgstr ""
-
-msgid "You can't rest because you are drowning."
-msgstr ""
-
-msgid "You can't rest because you are dying of thirst."
-msgstr ""
-
-msgid "You can't rest because you are starving to death."
-msgstr ""
-
-msgid "You can't rest because you are swimming."
-msgstr ""
-
-msgid "You can't rest until you are on a stable surface."
 msgstr ""
 
 msgid "in play interaction "
@@ -26235,6 +26475,72 @@ msgstr ""
 msgid "choreography"
 msgstr ""
 
+msgid "build"
+msgstr ""
+
+msgid "build a fire"
+msgstr ""
+
+msgid "fell trees"
+msgstr ""
+
+msgid "compose"
+msgstr ""
+
+msgid "write"
+msgstr ""
+
+msgid "You are still surrounded by cackling."
+msgstr ""
+
+msgid "You don't feel safe enough to "
+msgstr ""
+
+msgid "You can't "
+msgstr ""
+
+msgid " because you are carrying someone else's goods.  Purchase them or put some distance between yourself and the site."
+msgstr ""
+
+msgid " until you've stopped the bleeding."
+msgstr ""
+
+msgid " because you can't breathe."
+msgstr ""
+
+msgid " because you are dying of thirst."
+msgstr ""
+
+msgid " because you are starving to death."
+msgstr ""
+
+msgid " because you are drowning."
+msgstr ""
+
+msgid " because you are swimming."
+msgstr ""
+
+msgid " until you are on a stable surface."
+msgstr ""
+
+msgid "You must move away from the water before you can "
+msgstr ""
+
+msgid "You must come down from the mountains before you can "
+msgstr ""
+
+msgid " until you stop riding this vehicle."
+msgstr ""
+
+msgid " until you stop riding this projectile."
+msgstr ""
+
+msgid "You cannot "
+msgstr ""
+
+msgid " until you leave this site."
+msgstr ""
+
 msgid "The performance is at "
 msgstr ""
 
@@ -26880,6 +27186,9 @@ msgstr ""
 msgid "edged "
 msgstr ""
 
+msgid "on-ground "
+msgstr ""
+
 msgid "-bearing "
 msgstr ""
 
@@ -26935,6 +27244,21 @@ msgid "small object container"
 msgstr ""
 
 msgid "track cart"
+msgstr ""
+
+msgid "heave object hauler"
+msgstr ""
+
+msgid "stand-and-work"
+msgstr ""
+
+msgid "sheet roller"
+msgstr ""
+
+msgid "folded sheet protector"
+msgstr ""
+
+msgid "writing container"
 msgstr ""
 
 msgid "bookcase"
@@ -27385,9 +27709,6 @@ msgid "Historical Maps"
 msgstr ""
 
 msgid "Underground Regions"
-msgstr ""
-
-msgid "Unnamed "
 msgstr ""
 
 msgid "Unnamed"
@@ -28086,9 +28407,6 @@ msgstr ""
 msgid "Really delete this parameter set?"
 msgstr ""
 
-msgid ": Delete"
-msgstr ""
-
 msgid "Really change the dimensions?"
 msgstr ""
 
@@ -28390,6 +28708,9 @@ msgid "grown "
 msgstr ""
 
 msgid "logs"
+msgstr ""
+
+msgid "branch"
 msgstr ""
 
 msgid "rough gems"
@@ -29247,9 +29568,6 @@ msgstr ""
 msgid ": Change restriction"
 msgstr ""
 
-msgid ": Rename location"
-msgstr ""
-
 msgid ": Retire location"
 msgstr ""
 
@@ -30000,37 +30318,163 @@ msgstr ""
 msgid "Traction Bench Construction"
 msgstr ""
 
-msgid "Work Orders"
+msgid " shop"
 msgstr ""
 
-msgid "Validated"
+msgid " max"
+msgstr ""
+
+msgid "No linked shop"
+msgstr ""
+
+msgid "There are no active work orders."
 msgstr ""
 
 msgid "A manager is required to coordinate work orders."
 msgstr ""
 
-msgid "All work orders must be validated by the manager before they become active."
+msgid "How many workshops can this order task? (0 = no limit)"
 msgstr ""
 
-msgid ": New Order  "
+msgid ": Set maximum workshops"
 msgstr ""
 
-msgid ": Remove  "
-msgstr ""
-
-msgid ": Increase priority  "
-msgstr ""
-
-msgid ": Max priority  "
-msgstr ""
-
-msgid ": Wages"
-msgstr ""
-
-msgid "Quantity: "
+msgid "Quantity (0 for perpetual order): "
 msgstr ""
 
 msgid "Type in parts of the name to narrow your search.  "
+msgstr ""
+
+msgid "Amount of "
+msgstr ""
+
+msgid "available is "
+msgstr ""
+
+msgid "at least"
+msgstr ""
+
+msgid "at most"
+msgstr ""
+
+msgid "greater than"
+msgstr ""
+
+msgid "less than"
+msgstr ""
+
+msgid "exactly"
+msgstr ""
+
+msgid "not"
+msgstr ""
+
+msgid "No material"
+msgstr ""
+
+msgid "Filter:"
+msgstr ""
+
+msgid "Active"
+msgstr ""
+
+msgid "Waiting"
+msgstr ""
+
+msgid "Ready to check"
+msgstr ""
+
+msgid "Ready"
+msgstr ""
+
+msgid "One-time order, conditions checked daily"
+msgstr ""
+
+msgid "Restarts if completed, conditions checked daily"
+msgstr ""
+
+msgid "Restarts if completed, conditions checked monthly"
+msgstr ""
+
+msgid "Restarts if completed, conditions checked seasonally"
+msgstr ""
+
+msgid "Restarts if completed, conditions checked yearly"
+msgstr ""
+
+msgid "One-time order"
+msgstr ""
+
+msgid "Restarts if completed, checked daily"
+msgstr ""
+
+msgid "Restarts if completed, checked monthly"
+msgstr ""
+
+msgid "Restarts if completed, checked seasonally"
+msgstr ""
+
+msgid "Restarts if completed, checked yearly"
+msgstr ""
+
+msgid "Satisfied for next check"
+msgstr ""
+
+msgid "Not satisfied for next check"
+msgstr ""
+
+msgid "must first be activated"
+msgstr ""
+
+msgid "must first be completed"
+msgstr ""
+
+msgid "This work order does not have any conditions."
+msgstr ""
+
+msgid ": Add item condition"
+msgstr ""
+
+msgid ": Add order condition"
+msgstr ""
+
+msgid ": Frequency"
+msgstr ""
+
+msgid ": Change item type"
+msgstr ""
+
+msgid ": Change material"
+msgstr ""
+
+msgid ": Change traits"
+msgstr ""
+
+msgid ": Change inequality"
+msgstr ""
+
+msgid ": Change number"
+msgstr ""
+
+msgid ": Delete condition"
+msgstr ""
+
+msgid ": Activation/completion"
+msgstr ""
+
+msgid ": Add conditions from reagents/materials"
+msgstr ""
+
+msgid ": Add conditions from products"
+msgstr ""
+
+msgid "items"
+msgstr ""
+
+msgid "no material"
+msgstr ""
+
+msgid "/O"
 msgstr ""
 
 msgid "Suspended"
@@ -32296,6 +32740,9 @@ msgid "You make "
 msgstr ""
 
 msgid " and more"
+msgstr ""
+
+msgid "You have finished working on "
 msgstr ""
 
 msgid "You practice your "
@@ -37353,8 +37800,6 @@ msgstr ""
 msgid "Load Weapon Trap"
 msgstr ""
 
-msgid "Cast Spell"
-msgstr ""
 
 msgid "Select"
 msgstr ""
@@ -37957,6 +38402,63 @@ msgid "Adventure: Misc. Action, Compose"
 msgstr ""
 
 msgid "Adventure: Misc. Action, Write"
+msgstr ""
+
+msgid "Adventure: Construction"
+msgstr ""
+
+msgid "Adventure: Construction, New Zone"
+msgstr ""
+
+msgid "Adventure: Construction, Edit Zone"
+msgstr ""
+
+msgid "Adventure: Construction, Assign Zone"
+msgstr ""
+
+msgid "Adventure: Construction, Delete Zone"
+msgstr ""
+
+msgid "Adventure: Construction, Zone Rect"
+msgstr ""
+
+msgid "Adventure: Construction, Zone Flow"
+msgstr ""
+
+msgid "Adventure: Construction, Remove Zone Rect"
+msgstr ""
+
+msgid "Adventure: Construction, Stair Up/down"
+msgstr ""
+
+msgid "Adventure: Construction, Remove Plans"
+msgstr ""
+
+msgid "Adventure: Construction, Remove Existing"
+msgstr ""
+
+msgid "Adventure: Construction, Material"
+msgstr ""
+
+msgid "Adventure: Construction, Constructions"
+msgstr ""
+
+msgid "Adventure: Construction, Buildings"
+msgstr ""
+
+msgid "Adventure: Construction, Zones"
+msgstr ""
+
+msgid "Adventure: Construction, Work Menu"
+msgstr ""
+
+msgid "Adventure: Construction, Name Site"
+msgstr ""
+
+msgid "Adventure: Construction, You Work"
+msgstr ""
+
+msgid "Adventure: Construction, Start"
 msgstr ""
 
 msgid "Adventure: Compose, Filter"
@@ -38977,6 +39479,9 @@ msgid "Location: Temple"
 msgstr ""
 
 msgid "Location: Library"
+msgstr ""
+
+msgid "Location: Main Hall"
 msgstr ""
 
 msgid "Location: Rename"
@@ -40180,6 +40685,45 @@ msgid "Manager, Max"
 msgstr ""
 
 msgid "Manager, Wages"
+msgstr ""
+
+msgid "Manager, Conditions"
+msgstr ""
+
+msgid "Manager, Details"
+msgstr ""
+
+msgid "Work Order, Conditions, Add Item Condition"
+msgstr ""
+
+msgid "Work Order, Conditions, Add Order Condition"
+msgstr ""
+
+msgid "Work Order, Conditions, Item Type"
+msgstr ""
+
+msgid "Work Order, Conditions, Item Material"
+msgstr ""
+
+msgid "Work Order, Conditions, Item Traits"
+msgstr ""
+
+msgid "Work Order, Conditions, Item Inequality"
+msgstr ""
+
+msgid "Work Order, Conditions, Item Number"
+msgstr ""
+
+msgid "Work Order, Conditions, Delete"
+msgstr ""
+
+msgid "Work Order, Conditions, Order Activation"
+msgstr ""
+
+msgid "Work Order, Conditions, Reagents"
+msgstr ""
+
+msgid "Work Order, Conditions, Products"
 msgstr ""
 
 msgid "Animals, Slaughter"
@@ -41701,6 +42245,9 @@ msgid " has been cursed by "
 msgstr ""
 
 msgid " been cursed by "
+msgstr ""
+
+msgid "You chop down the "
 msgstr ""
 
 msgid "form of music used for entertainment"
@@ -43351,9 +43898,6 @@ msgid " arrived at "
 msgstr ""
 
 msgid "the fortress"
-msgstr ""
-
-msgid " on the "
 msgstr ""
 
 msgid " likes "
@@ -48591,30 +49135,6 @@ msgstr ""
 msgid " need to match perfectly.  "
 msgstr ""
 
-msgid "(No Specific Deity)"
-msgstr ""
-
-msgid " worshipper"
-msgstr ""
-
-msgid "No worshippers"
-msgstr ""
-
-msgid ": Assign"
-msgstr ""
-
-msgid ": Inn/tavern"
-msgstr ""
-
-msgid ": Library"
-msgstr ""
-
-msgid ": Temple"
-msgstr ""
-
-msgid "Remove assignment"
-msgstr ""
-
 msgid ": Location details"
 msgstr ""
 
@@ -48658,9 +49178,6 @@ msgid "Details or the main location"
 msgstr ""
 
 msgid "list."
-msgstr ""
-
-msgid ": Add location"
 msgstr ""
 
 msgid "Site not found"
@@ -48808,75 +49325,6 @@ msgid "stacked leather"
 msgstr ""
 
 msgid "stacked cloth"
-msgstr ""
-
-msgid "Task is underway."
-msgstr ""
-
-msgid "Details cannot be"
-msgstr ""
-
-msgid "changed now."
-msgstr ""
-
-msgid "Specify type"
-msgstr ""
-
-msgid "Specify "
-msgstr ""
-
-msgid "stone"
-msgstr ""
-
-msgid "wood"
-msgstr ""
-
-msgid "leather"
-msgstr ""
-
-msgid "silk"
-msgstr ""
-
-msgid "soap"
-msgstr ""
-
-msgid "Specify image"
-msgstr ""
-
-msgid "Specify size"
-msgstr ""
-
-msgid ": Set details"
-msgstr ""
-
-msgid "Setting type"
-msgstr ""
-
-msgid "Image"
-msgstr ""
-
-msgid "Bands"
-msgstr ""
-
-msgid "Covered"
-msgstr ""
-
-msgid "Hanging rings"
-msgstr ""
-
-msgid ": Set type"
-msgstr ""
-
-msgid "Setting material"
-msgstr ""
-
-msgid ": Set material"
-msgstr ""
-
-msgid "For "
-msgstr ""
-
-msgid ": Set creature"
 msgstr ""
 
 msgid ": Collect Webs"
@@ -49044,9 +49492,6 @@ msgstr ""
 msgid ": Cancel task"
 msgstr ""
 
-msgid ": Details"
-msgstr ""
-
 msgid ": Promote task"
 msgstr ""
 
@@ -49072,9 +49517,6 @@ msgid "No bucket"
 msgstr ""
 
 msgid "Bucket full"
-msgstr ""
-
-msgid "Active"
 msgstr ""
 
 msgid "Dry"
@@ -49716,9 +50158,6 @@ msgstr ""
 msgid ": Back to points/notes"
 msgstr ""
 
-msgid ": Place"
-msgstr ""
-
 msgid ": Name"
 msgstr ""
 
@@ -49759,12 +50198,6 @@ msgid "when empty"
 msgstr ""
 
 msgid "when "
-msgstr ""
-
-msgid "at least"
-msgstr ""
-
-msgid "at most"
 msgstr ""
 
 msgid "when full"
@@ -51919,6 +52352,72 @@ msgid "Wood/Stone/Boneworking"
 msgstr ""
 
 msgid "Any Fishing"
+msgstr ""
+
+msgid "Task is underway."
+msgstr ""
+
+msgid "Details cannot be"
+msgstr ""
+
+msgid "changed now."
+msgstr ""
+
+msgid "Specify type"
+msgstr ""
+
+msgid "Specify "
+msgstr ""
+
+msgid "stone"
+msgstr ""
+
+msgid "wood"
+msgstr ""
+
+msgid "leather"
+msgstr ""
+
+msgid "silk"
+msgstr ""
+
+msgid "soap"
+msgstr ""
+
+msgid "Specify image"
+msgstr ""
+
+msgid "Specify size"
+msgstr ""
+
+msgid ": Set details"
+msgstr ""
+
+msgid "Setting type"
+msgstr ""
+
+msgid "Image"
+msgstr ""
+
+msgid "Bands"
+msgstr ""
+
+msgid "Covered"
+msgstr ""
+
+msgid "Hanging rings"
+msgstr ""
+
+msgid ": Set type"
+msgstr ""
+
+msgid "Setting material"
+msgstr ""
+
+msgid "For "
+msgstr ""
+
+msgid ": Set creature"
 msgstr ""
 
 msgid "Here we have "
@@ -59454,7 +59953,7 @@ msgstr ""
 msgid "naturalist:observation:diseases"
 msgstr ""
 
-msgid "naturalist:theory:climactic adaptation"
+msgid "naturalist:theory:climatic adaptation"
 msgstr ""
 
 msgid "naturalist:observation:embriological development"
@@ -60258,7 +60757,7 @@ msgstr ""
 msgid "diseases"
 msgstr ""
 
-msgid "climactic adaptation"
+msgid "climatic adaptation"
 msgstr ""
 
 msgid "embriological development"
@@ -61257,9 +61756,6 @@ msgstr ""
 msgid "yard"
 msgstr ""
 
-msgid "tree"
-msgstr ""
-
 msgid "hillock"
 msgstr ""
 
@@ -61768,9 +62264,6 @@ msgid ": Symbol"
 msgstr ""
 
 msgid ": Add"
-msgstr ""
-
-msgid ": New"
 msgstr ""
 
 msgid "Pts: "
@@ -63492,6 +63985,9 @@ msgstr ""
 msgid "peasant"
 msgstr ""
 
+msgid " prisoner"
+msgstr ""
+
 msgid "stray "
 msgstr ""
 
@@ -63499,6 +63995,12 @@ msgid "cultist"
 msgstr ""
 
 msgid " cultist"
+msgstr ""
+
+msgid " Slave"
+msgstr ""
+
+msgid " Prisoner"
 msgstr ""
 
 msgid "Stray "
@@ -65193,9 +65695,6 @@ msgstr ""
 msgid ": Weapon"
 msgstr ""
 
-msgid ": Material"
-msgstr ""
-
 msgid ": Color"
 msgstr ""
 
@@ -65439,7 +65938,7 @@ msgstr ""
 msgid "Winter has arrived on the calendar."
 msgstr ""
 
-msgid " has improved "
+msgid " improved "
 msgstr ""
 
 msgid " masterfully!"
