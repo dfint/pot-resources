@@ -61,7 +61,7 @@ msgid "12~data/help/main"
 msgstr ""
 
 #: index.txt
-msgid "18~v0.42.05"
+msgid "18~v0.43.03"
 msgstr ""
 
 #: index.txt
@@ -181,7 +181,7 @@ msgid "48~You can also find an older yet more stable version of the game there."
 msgstr ""
 
 #: index.txt
-msgid "49~As of January 2016, you can get help at the fan-created dwarffortresswiki.org."
+msgid "49~As of May 2016, you can get help at the fan-created dwarffortresswiki.org."
 msgstr ""
 
 #: index.txt
@@ -551,6 +551,10 @@ msgid "[IKEY:A_ANNOUNCEMENTS] - View announcements."
 msgstr ""
 
 #: a_keys.txt
+msgid "[IKEY:A_CONSTRUCTION] - Found a site and build."
+msgstr ""
+
+#: a_keys.txt
 msgid "[IKEY:A_COMPANIONS] - View companions."
 msgstr ""
 
@@ -631,7 +635,7 @@ msgid "[IKEY:A_INV_WEAR] - Wear an item."
 msgstr ""
 
 #: a_keys.txt
-msgid "[IKEY:A_ACTION] - Create an object or butcher a corpse."
+msgid "[IKEY:A_ACTION] - Create an object, create art, use powers, or butcher a corpse."
 msgstr ""
 
 #: a_keys.txt
@@ -1759,7 +1763,7 @@ msgid "A windmill generates power according to the wind speed, which can vary wi
 msgstr ""
 
 #: main.txt
-msgid "You can press [IKEY:HELP] any time for help.  Press it now for help on how to use this text viewer.  As of January 2016, you can also find help at the DF Wiki at dwarffortresswiki.org.  And remember:"
+msgid "You can press [IKEY:HELP] any time for help.  Press it now for help on how to use this text viewer.  As of May 2016, you can also find help at the DF Wiki at dwarffortresswiki.org.  And remember:"
 msgstr ""
 
 #: main.txt
