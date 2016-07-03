@@ -67,7 +67,7 @@ msgid "whose tall tales of bravery were all the more embarrassing because of [PR
 msgstr ""
 
 #: elf.txt:0
-msgid "whom was felled like a slender sapling"
+msgid "who was felled like a slender sapling"
 msgstr ""
 
 #: elf.txt:1
