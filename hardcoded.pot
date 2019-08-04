@@ -1102,9 +1102,6 @@ msgstr ""
 msgid "Empty biased index vector"
 msgstr ""
 
-msgid "Biased index vector computation error"
-msgstr ""
-
 msgid "Unknown exception"
 msgstr ""
 
@@ -16459,9 +16456,6 @@ msgstr ""
 msgid "Creature Tissue Material Failure: "
 msgstr ""
 
-msgid "*** Error(s) finalizing the creature "
-msgstr ""
-
 msgid "Swim"
 msgstr ""
 
@@ -16634,9 +16628,6 @@ msgid " missing plural string"
 msgstr ""
 
 msgid "Tissue Definition "
-msgstr ""
-
-msgid "*** Error(s) finalizing the template "
 msgstr ""
 
 msgid "Tissue Template "
@@ -22753,12 +22744,6 @@ msgstr ""
 msgid "Abort Game"
 msgstr ""
 
-msgid "Error 1"
-msgstr ""
-
-msgid "Error 2"
-msgstr ""
-
 msgid "Site"
 msgstr ""
 
@@ -23465,9 +23450,6 @@ msgid "There are no active games."
 msgstr ""
 
 msgid "unprepared "
-msgstr ""
-
-msgid "Unknown Type Error"
 msgstr ""
 
 msgid "Folder: "
@@ -25958,9 +25940,6 @@ msgid "The vegetation is too wet."
 msgstr ""
 
 msgid "You set a fire."
-msgstr ""
-
-msgid "Attack error"
 msgstr ""
 
 msgid "Stand Up"
@@ -29173,16 +29152,7 @@ msgstr ""
 msgid "%s"
 msgstr ""
 
-msgid "Error"
-msgstr ""
-
-msgid "Error Initializing Text: "
-msgstr ""
-
 msgid "Unable to create texture!"
-msgstr ""
-
-msgid "Fatal error"
 msgstr ""
 
 msgid "New window size: "
@@ -29242,9 +29212,6 @@ msgstr ""
 msgid "SDL+"
 msgstr ""
 
-msgid " not found, or I/O error encountered"
-msgstr ""
-
 msgid "Loading bindings from "
 msgstr ""
 
@@ -29255,9 +29222,6 @@ msgid "NO BINDING"
 msgstr ""
 
 msgid "End of macro"
-msgstr ""
-
-msgid "I/O error while loading macro"
 msgstr ""
 
 msgid "\\tEnd of group"
@@ -29297,9 +29261,6 @@ msgid " for writing"
 msgstr ""
 
 msgid ".partial"
-msgstr ""
-
-msgid "I/O error while writing keyboard mapping"
 msgstr ""
 
 msgid "Failed to open "
@@ -29585,9 +29546,6 @@ msgid "chieftesses"
 msgstr ""
 
 msgid "chieftess"
-msgstr ""
-
-msgid "*** Error(s) finalizing the entity "
 msgstr ""
 
 msgid "rsn"
@@ -36631,12 +36589,6 @@ msgstr ""
 msgid "shadow"
 msgstr ""
 
-msgid "*** Error(s) found in the file \""
-msgstr ""
-
-msgid "TTF error"
-msgstr ""
-
 msgid "Missing/broken TTF handle: "
 msgstr ""
 
@@ -41794,9 +41746,6 @@ msgstr ""
 msgid "a secret identity"
 msgstr ""
 
-msgid "*** Error(s) finalizing the interaction "
-msgstr ""
-
 msgid "Target Token not found "
 msgstr ""
 
@@ -43891,12 +43840,6 @@ msgstr ""
 msgid "U+"
 msgstr ""
 
-msgid "*** Error(s) finalizing the symbol "
-msgstr ""
-
-msgid "*** Error(s) finalizing the translation "
-msgstr ""
-
 msgid "Impoverished Word Selector"
 msgstr ""
 
@@ -43907,9 +43850,6 @@ msgid "Failed to find machine node frontier on split"
 msgstr ""
 
 msgid "Machine node out of bounds on split"
-msgstr ""
-
-msgid "*** Error(s) finalizing the material template "
 msgstr ""
 
 msgid "ground amber"
@@ -54874,9 +54814,6 @@ msgstr ""
 msgid "Cannot generate random creatures -- missing material template "
 msgstr ""
 
-msgid "*** Error(s) found in Random Material Generation"
-msgstr ""
-
 msgid "Cannot generate random creatures -- missing tissue template "
 msgstr ""
 
@@ -56108,9 +56045,6 @@ msgid "[PRODUCT_TOKEN:instrument]"
 msgstr ""
 
 msgid "[IMPROVEMENT:100:instrument:INSTRUMENT_PIECE:"
-msgstr ""
-
-msgid "*** Error(s) found in Random Creature Generation"
 msgstr ""
 
 msgid "[ODOR_STRING:death]"
@@ -57688,9 +57622,6 @@ msgstr ""
 msgid "grooms"
 msgstr ""
 
-msgid "*** Error(s) found in Random Interaction Generation"
-msgstr ""
-
 msgid "ogre"
 msgstr ""
 
@@ -58142,9 +58073,6 @@ msgid "art to"
 msgstr ""
 
 msgid "cover to"
-msgstr ""
-
-msgid "*** Error(s) finalizing the reaction "
 msgstr ""
 
 msgid ", Edge"
@@ -63553,12 +63481,6 @@ msgstr ""
 msgid " ran into "
 msgstr ""
 
-msgid "Error sorting rivers: working with "
-msgstr ""
-
-msgid "A world gen error from DF "
-msgstr ""
-
 msgid " will be logged after parameter dump."
 msgstr ""
 
@@ -65777,9 +65699,6 @@ msgid "Station"
 msgstr ""
 
 msgid "Mixed"
-msgstr ""
-
-msgid "GL error"
 msgstr ""
 
 msgid "GPU unable to accommodate texture catalog. Retry without graphical tiles, update your drivers, or better yet update your GPU."
@@ -69079,16 +68998,7 @@ msgstr ""
 msgid "header crc mismatch"
 msgstr ""
 
-msgid "stream error"
-msgstr ""
-
-msgid "data error"
-msgstr ""
-
 msgid "insufficient memory"
-msgstr ""
-
-msgid "buffer error"
 msgstr ""
 
 msgid "incompatible version"
@@ -69098,7 +69008,4 @@ msgid "need dictionary"
 msgstr ""
 
 msgid "stream end"
-msgstr ""
-
-msgid "file error"
 msgstr ""
