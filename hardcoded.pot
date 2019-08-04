@@ -3,7 +3,6 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-
 msgid "Activity"
 msgstr ""
 
@@ -1109,9 +1108,6 @@ msgid "bad cast"
 msgstr ""
 
 msgid "data"
-msgstr ""
-
-msgid ".dat"
 msgstr ""
 
 msgid " are "
@@ -5416,9 +5412,6 @@ msgstr ""
 msgid "Noble quarters"
 msgstr ""
 
-msgid "preparetomb() HAS NULL owner"
-msgstr ""
-
 msgid " has constructed a masterpiece!"
 msgstr ""
 
@@ -5552,9 +5545,6 @@ msgid "Depot"
 msgstr ""
 
 msgid "Forging Workshop"
-msgstr ""
-
-msgid "Building Level Map Overflow"
 msgstr ""
 
 msgid "Invalid Type"
@@ -5981,9 +5971,6 @@ msgid "smear"
 msgstr ""
 
 msgid "covering"
-msgstr ""
-
-msgid "corrected null contaminant"
 msgstr ""
 
 msgid "specks"
@@ -16435,9 +16422,6 @@ msgstr ""
 msgid " : Numbered body parts cannot have children -- number set to 1 (make individual parts if possible)"
 msgstr ""
 
-msgid " : Special attack interaction token not recognized : "
-msgstr ""
-
 msgid " : Special attack material missing state -- set to liquid"
 msgstr ""
 
@@ -16472,12 +16456,6 @@ msgid "Fly"
 msgstr ""
 
 msgid "Custom butcher object shape not found: "
-msgstr ""
-
-msgid ": Cannot find SPECIFIC_FOOD:CREATURE token "
-msgstr ""
-
-msgid ": Cannot find SPECIFIC_FOOD:PLANT token "
 msgstr ""
 
 msgid " was not found, using first tissue instead"
@@ -16570,16 +16548,7 @@ msgstr ""
 msgid " BP Remove Type "
 msgstr ""
 
-msgid "Duplicate Body Token: "
-msgstr ""
-
-msgid "Body Token Recognized But Could Not Connect: "
-msgstr ""
-
 msgid "Gastroliths seem to have correct format but could not find proper BPs in any caste, so not added"
-msgstr ""
-
-msgid "CDI token precedes any CAN_DO_INTERACTION tag: "
 msgstr ""
 
 msgid "Attack "
@@ -16592,12 +16561,6 @@ msgid "remains"
 msgstr ""
 
 msgid "Unknown GAIT flag "
-msgstr ""
-
-msgid "Unknown Body Part Position Token: "
-msgstr ""
-
-msgid "Unknown Body Group/Relation Token(s): "
 msgstr ""
 
 msgid "Attribute range greater than "
@@ -22660,9 +22623,6 @@ msgstr ""
 msgid "ON"
 msgstr ""
 
-msgid "FATAL ERROR"
-msgstr ""
-
 msgid "  Dwarf Fortress Options  "
 msgstr ""
 
@@ -22763,12 +22723,6 @@ msgid "  Dwarf Fortress Options: Save Game  "
 msgstr ""
 
 msgid "current"
-msgstr ""
-
-msgid ": Null Unit Assignment (Id "
-msgstr ""
-
-msgid ": Null Item Assignment (Id "
 msgstr ""
 
 msgid "Civ Zone "
@@ -24275,9 +24229,6 @@ msgid "  Music and Sound Options  "
 msgstr ""
 
 msgid "Volume: "
-msgstr ""
-
-msgid ".txt"
 msgstr ""
 
 msgid "Created in DF "
@@ -26227,9 +26178,6 @@ msgstr ""
 msgid " faithful"
 msgstr ""
 
-msgid "RefusedID/"
-msgstr ""
-
 msgid "Attack/"
 msgstr ""
 
@@ -26294,9 +26242,6 @@ msgid "Robbery"
 msgstr ""
 
 msgid "Blood-drinking"
-msgstr ""
-
-msgid "SelfID/"
 msgstr ""
 
 msgid "Site Government"
@@ -28996,9 +28941,6 @@ msgstr ""
 msgid "  Items Desired/Kept By Vehicle  "
 msgstr ""
 
-msgid "Disconnected Build Overflow"
-msgstr ""
-
 msgid "Furnaces"
 msgstr ""
 
@@ -29009,9 +28951,6 @@ msgid "Machine Components"
 msgstr ""
 
 msgid "Track"
-msgstr ""
-
-msgid "Building Placement Distance Overflow"
 msgstr ""
 
 msgid "This visitor is ready to leave."
@@ -29185,9 +29124,6 @@ msgstr ""
 msgid "Resetting textures"
 msgstr ""
 
-msgid "OpenGL"
-msgstr ""
-
 msgid "TEXT not supported on windows"
 msgstr ""
 
@@ -29236,9 +29172,6 @@ msgstr ""
 msgid "Quantity not numeric or Unexpected tab(s) while loading macro: "
 msgstr ""
 
-msgid ".mak"
-msgstr ""
-
 msgid "Unknown SDLKey: "
 msgstr ""
 
@@ -29258,9 +29191,6 @@ msgid "Unknown binding: "
 msgstr ""
 
 msgid " for writing"
-msgstr ""
-
-msgid ".partial"
 msgstr ""
 
 msgid "Failed to open "
@@ -29302,49 +29232,7 @@ msgstr ""
 msgid "has invalid brightness value (must be 0 or 1), set to 0"
 msgstr ""
 
-msgid ": REQUIRED_RACKS negative, set to 0"
-msgstr ""
-
-msgid ": REQUIRED_RACKS exceeds 100, capped"
-msgstr ""
-
-msgid ": REQUIRED_STANDS exceeds 100, capped"
-msgstr ""
-
-msgid ": REQUIRED_STANDS negative, set to 0"
-msgstr ""
-
-msgid ": REQUIRED_OFFICE negative, set to 0"
-msgstr ""
-
-msgid ": REQUIRED_OFFICE exceeds 1000000, capped"
-msgstr ""
-
-msgid ": REQUIRED_BEDROOM exceeds 1000000, capped"
-msgstr ""
-
-msgid ": REQUIRED_BEDROOM negative, set to 0"
-msgstr ""
-
-msgid ": REQUIRED_DINING negative, set to 0"
-msgstr ""
-
-msgid ": REQUIRED_DINING exceeds 1000000, capped"
-msgstr ""
-
 msgid " capped"
-msgstr ""
-
-msgid ": REQUIRED_BOXES negative, set to 0"
-msgstr ""
-
-msgid ": REQUIRED_BOXES exceeds 100, capped"
-msgstr ""
-
-msgid ": REQUIRED_CABINETS exceeds 100, capped"
-msgstr ""
-
-msgid ": REQUIRED_CABINETS negative, set to 0"
 msgstr ""
 
 msgid "br"
@@ -29393,24 +29281,6 @@ msgid "tl"
 msgstr ""
 
 msgid "tr"
-msgstr ""
-
-msgid ": REQUIRED_TOMB exceeds 1000000, capped"
-msgstr ""
-
-msgid ": REQUIRED_TOMB negative, set to 0"
-msgstr ""
-
-msgid ": MANDATE_MAX negative, set to 0"
-msgstr ""
-
-msgid ": MANDATE_MAX exceeds 100, capped"
-msgstr ""
-
-msgid ": DEMAND_MAX exceeds 100, capped"
-msgstr ""
-
-msgid ": DEMAND_MAX negative, set to 0"
 msgstr ""
 
 msgid "i"
@@ -30025,9 +29895,6 @@ msgstr ""
 msgid "display object"
 msgstr ""
 
-msgid "Short Pathing Flood Overflow"
-msgstr ""
-
 msgid " that isn't a bin"
 msgstr ""
 
@@ -30119,9 +29986,6 @@ msgid "the subterranean water"
 msgstr ""
 
 msgid "the underworld"
-msgstr ""
-
-msgid ": Null Pop Num"
 msgstr ""
 
 msgid "One of the compressed files on disk has errors in it.  Restore from backup if you are able."
@@ -31522,9 +31386,6 @@ msgstr ""
 msgid "All rights reserved."
 msgstr ""
 
-msgid "The FreeType Project (www.freetype.org)."
-msgstr ""
-
 msgid "Portions of this version are Copyright(C)2008"
 msgstr ""
 
@@ -31586,12 +31447,6 @@ msgid "-str"
 msgstr ""
 
 msgid "-trd"
-msgstr ""
-
-msgid "wb"
-msgstr ""
-
-msgid ".bmp"
 msgstr ""
 
 msgid "-dip"
@@ -34537,9 +34392,6 @@ msgstr ""
 msgid "Early "
 msgstr ""
 
-msgid "Null site on overall status"
-msgstr ""
-
 msgid "No access"
 msgstr ""
 
@@ -34556,12 +34408,6 @@ msgid "Mid-"
 msgstr ""
 
 msgid "  Building List  "
-msgstr ""
-
-msgid "Evaluate Depot Caravan Access Overflow"
-msgstr ""
-
-msgid "Evaluate Depot Access Overflow"
 msgstr ""
 
 msgid "Outpost"
@@ -41701,9 +41547,6 @@ msgstr ""
 msgid "Use OpenGL?"
 msgstr ""
 
-msgid "Using only 2D (Click no) is more reliable, but means you lose features and, often, speed. Edit data/init/init.txt PRINT_MODE to avoid this dialog box."
-msgstr ""
-
 msgid "2DSW"
 msgstr ""
 
@@ -41719,16 +41562,10 @@ msgstr ""
 msgid "Start FullScreen?"
 msgstr ""
 
-msgid "Run in Fullscreen Mode?  You can set your preferences in data\\init\\init.txt.\\rUnless you've changed your bindings, you can press F11 to toggle this setting any time."
-msgstr ""
-
 msgid ": Save the active moving record (you will be prompted for a name)"
 msgstr ""
 
 msgid ": Load a moving record"
-msgstr ""
-
-msgid ".cmv"
 msgstr ""
 
 msgid "  Moving Records  "
@@ -41740,16 +41577,7 @@ msgstr ""
 msgid ": Play the active moving record"
 msgstr ""
 
-msgid ".ogg"
-msgstr ""
-
 msgid "a secret identity"
-msgstr ""
-
-msgid "Target Token not found "
-msgstr ""
-
-msgid "Interaction Source IS_SECRET token not found "
 msgstr ""
 
 msgid "well-"
@@ -42005,9 +41833,6 @@ msgid "This object is mangled.  "
 msgstr ""
 
 msgid "&r"
-msgstr ""
-
-msgid "null item load -- type: "
 msgstr ""
 
 msgid "mangled "
@@ -42752,21 +42577,6 @@ msgid "cultural comparison"
 msgstr ""
 
 msgid "alternate history"
-msgstr ""
-
-msgid ": Did not find token following TILE"
-msgstr ""
-
-msgid ": Did not find token following VALUE"
-msgstr ""
-
-msgid ": Did not find token following TOOL_USE"
-msgstr ""
-
-msgid ": Did not find plural token following NAME"
-msgstr ""
-
-msgid ": Did not find token following NAME"
 msgstr ""
 
 msgid ": unrecognized INSTRUMENT PIECE tag "
@@ -44047,15 +43857,6 @@ msgstr ""
 msgid "pressed grime"
 msgstr ""
 
-msgid ":BP missing body part token"
-msgstr ""
-
-msgid ":BP missing body part group token"
-msgstr ""
-
-msgid ":BP missing tissue token"
-msgstr ""
-
 msgid "TL"
 msgstr ""
 
@@ -44068,16 +43869,10 @@ msgstr ""
 msgid "CE"
 msgstr ""
 
-msgid "CDI token precedes any CAN_DO_INTERACTION tag"
-msgstr ""
-
 msgid " vomit"
 msgstr ""
 
 msgid " up blood."
-msgstr ""
-
-msgid ": Unrecognized Color Token in Material Template: "
 msgstr ""
 
 msgid " blood."
@@ -44087,9 +43882,6 @@ msgid " coughs"
 msgstr ""
 
 msgid " cough"
-msgstr ""
-
-msgid "Interaction Token not recognized : "
 msgstr ""
 
 msgid ": Could not locate material template "
@@ -44110,19 +43902,10 @@ msgstr ""
 msgid " roots"
 msgstr ""
 
-msgid ": Environment Spec Stone Not Found, Token - "
-msgstr ""
-
-msgid ": Thread Metal Ore Not Found, Token - "
-msgstr ""
-
 msgid "Extract "
 msgstr ""
 
 msgid "Sharp blades"
-msgstr ""
-
-msgid ": Smelt Ore Not Found, Token - "
 msgstr ""
 
 msgid " strands"
@@ -54358,9 +54141,6 @@ msgstr ""
 msgid "Hanging rings"
 msgstr ""
 
-msgid "Null"
-msgstr ""
-
 msgid "Task is underway."
 msgstr ""
 
@@ -57682,9 +57462,6 @@ msgstr ""
 msgid "[IT_MANUAL_INPUT:corpses]"
 msgstr ""
 
-msgid "[IS_SECRET:MUNDANE_RECORDING_POSSIBLE:objects/text/book_instruction.txt:objects/text/secret_death.txt]"
-msgstr ""
-
 msgid "[CE_DISPLAY_NAME:NAME:necromancer:necromancers:necromantic:START:0:ABRUPT]"
 msgstr ""
 
@@ -57719,9 +57496,6 @@ msgid "[IE_ARENA_NAME:Disturbed dead]"
 msgstr ""
 
 msgid "[CDI:TARGET_VERB:feel horrible:looks horrible]"
-msgstr ""
-
-msgid "[CDI:VERBAL_SPEECH:curse.txt]"
 msgstr ""
 
 msgid "[IE_ARENA_NAME:Vampire]"
@@ -58043,9 +57817,6 @@ msgid "[ATTACK:EDGE:20:10000:stab:stabs:NO_SUB:1000]"
 msgstr ""
 
 msgid "crossbow"
-msgstr ""
-
-msgid ": Unrecognized Building Token: "
 msgstr ""
 
 msgid "hanging"
@@ -63463,9 +63234,6 @@ msgstr ""
 msgid "*START REGION SAVE*"
 msgstr ""
 
-msgid "Set Region Information Overflow"
-msgstr ""
-
 msgid "Not enough mountain cave locations"
 msgstr ""
 
@@ -63748,15 +63516,6 @@ msgstr ""
 msgid " in the west"
 msgstr ""
 
-msgid "Loop Erase River Temp River Placement Overflow"
-msgstr ""
-
-msgid "Loop Erase River Placement Overflow"
-msgstr ""
-
-msgid "Loop Erase River Overflow"
-msgstr ""
-
 msgid "There is a gentle breeze blowing from the "
 msgstr ""
 
@@ -63779,12 +63538,6 @@ msgid "-historical_map-"
 msgstr ""
 
 msgid "-territory_map-"
-msgstr ""
-
-msgid ", Region Pop: Null Square Count"
-msgstr ""
-
-msgid "Mountain-Slope Overflow"
 msgstr ""
 
 msgid "just generated corrupt feature map square"
@@ -64036,15 +63789,6 @@ msgstr ""
 msgid "IF"
 msgstr ""
 
-msgid "Connected Component Overflow"
-msgstr ""
-
-msgid "Connectivity Placement Overflow"
-msgstr ""
-
-msgid "Connectivity Overflow"
-msgstr ""
-
 msgid "Temperate Conifer Forest"
 msgstr ""
 
@@ -64055,9 +63799,6 @@ msgid "Local"
 msgstr ""
 
 msgid "  Choose Fortress Location  "
-msgstr ""
-
-msgid "Update Connectivity Placement Overflow"
 msgstr ""
 
 msgid "River: "
@@ -64763,9 +64504,6 @@ msgid "armorsmith shop (0,0,0)"
 msgstr ""
 
 msgid "Non-feature related elevation hole"
-msgstr ""
-
-msgid "Site Center Flood Overflow"
 msgstr ""
 
 msgid "important location"
@@ -66997,9 +66735,6 @@ msgstr ""
 msgid "Double Caged Unit"
 msgstr ""
 
-msgid "Receive job pay: NULL JOB"
-msgstr ""
-
 msgid " has taken a request from the "
 msgstr ""
 
@@ -67543,9 +67278,6 @@ msgstr ""
 msgid "Unit has misaligned bp modifiers.  Adjusting."
 msgstr ""
 
-msgid "Null Precise Civ Equipment Link: "
-msgstr ""
-
 msgid "In Mouth"
 msgstr ""
 
@@ -67688,12 +67420,6 @@ msgid " year"
 msgstr ""
 
 msgid "Your miners have defaced a "
-msgstr ""
-
-msgid "Acceptable Liquid Flood Overflow"
-msgstr ""
-
-msgid "Acceptable Fish Liquid Flood Overflow"
 msgstr ""
 
 msgid " takes the full force of the impact"
@@ -68509,9 +68235,6 @@ msgstr ""
 msgid "Generating world using parameter set "
 msgstr ""
 
-msgid "Null unit chunk on export"
-msgstr ""
-
 msgid "A cloud of "
 msgstr ""
 
@@ -68671,15 +68394,6 @@ msgstr ""
 msgid " has been elected to the position of "
 msgstr ""
 
-msgid ": NULL job on building load"
-msgstr ""
-
-msgid ": NULL master on building load"
-msgstr ""
-
-msgid ": NULL subord on building load"
-msgstr ""
-
 msgid "Site Map:  Extra Item Occupancy "
 msgstr ""
 
@@ -68767,9 +68481,6 @@ msgstr ""
 msgid "You have composed "
 msgstr ""
 
-msgid ".xml"
-msgstr ""
-
 msgid "A foolish builder defaced a "
 msgstr ""
 
@@ -68789,18 +68500,6 @@ msgid "corrupt feature population"
 msgstr ""
 
 msgid "corrupt feature layer population"
-msgstr ""
-
-msgid "Dungeon Floodfill Overflow"
-msgstr ""
-
-msgid "Dungeon Floodfill Overflow 3"
-msgstr ""
-
-msgid "Dungeon Floodfill Overflow 4"
-msgstr ""
-
-msgid "Dungeon Flood Fill Overflow 2"
 msgstr ""
 
 msgid "The impertinent vegetation has defaced a "
@@ -68824,13 +68523,7 @@ msgstr ""
 msgid "column update out of bounds: "
 msgstr ""
 
-msgid "Evaluate Wagon Edge Access Overflow"
-msgstr ""
-
 msgid "The falling debris has defaced a "
-msgstr ""
-
-msgid "Sizing Flow... Overflow"
 msgstr ""
 
 msgid "underworld"
@@ -69009,3 +68702,4 @@ msgstr ""
 
 msgid "stream end"
 msgstr ""
+
