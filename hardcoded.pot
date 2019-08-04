@@ -1,7 +1,8 @@
 msgid ""
 msgstr ""
-"Content-Transfer-Encoding: 8bit\n"
 "Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
 
 msgid "Activity"
 msgstr ""
@@ -22725,28 +22726,7 @@ msgstr ""
 msgid "Really retire?  All active saves will be deleted.  ("
 msgstr ""
 
-msgid "NULL building pointer on load"
-msgstr ""
-
-msgid "NULL play building on load: id #"
-msgstr ""
-
-msgid "NULL play item on load: id #"
-msgstr ""
-
-msgid "NULL job pointer on load"
-msgstr ""
-
-msgid "NULL play unit on load: id #"
-msgstr ""
-
-msgid "NULL item pointer on load"
-msgstr ""
-
 msgid " (holding another's goods)"
-msgstr ""
-
-msgid "NULL unit pointer on load"
 msgstr ""
 
 msgid "Retire at this location (or rest a while)"
@@ -22773,94 +22753,13 @@ msgstr ""
 msgid "Abort Game"
 msgstr ""
 
-msgid "Nuked Viewscreen Reference"
-msgstr ""
-
-msgid "Nuked Unit Reference (Item Wrestle)"
-msgstr ""
-
-msgid "Nuked Entity Reference"
-msgstr ""
-
-msgid "Nuked Plot Info Reference"
-msgstr ""
-
-msgid "Nuked Vermin Event Reference"
-msgstr ""
-
-msgid "Nuked Vermin Reference (Escaped Pet)"
-msgstr ""
-
-msgid "Nuked Item Reference (General)"
-msgstr ""
-
-msgid "Nuked Effect Reference"
-msgstr ""
-
-msgid "Nuked Unit Reference (Worker/Inventory)"
-msgstr ""
-
-msgid "Nuked Building Reference (Party)"
-msgstr ""
-
-msgid "Nuked Activity Reference"
-msgstr ""
-
-msgid "Nuked Job Reference"
-msgstr ""
-
 msgid "Error 1"
 msgstr ""
 
 msgid "Error 2"
 msgstr ""
 
-msgid "NULL displayed announcement"
-msgstr ""
-
 msgid "Site"
-msgstr ""
-
-msgid "NULL item projectile loaded"
-msgstr ""
-
-msgid "Nuked Creature Def Reference"
-msgstr ""
-
-msgid "Nuked Breed Reference"
-msgstr ""
-
-msgid "Nuked Art Image Reference"
-msgstr ""
-
-msgid "Nuked Feature Layer Reference"
-msgstr ""
-
-msgid "Nuked Entity Population Reference"
-msgstr ""
-
-msgid "Nuked Detail Event Reference"
-msgstr ""
-
-msgid "Nuked Subregion Reference"
-msgstr ""
-
-msgid "Nuked Coin Front Reference"
-msgstr ""
-
-msgid "Nuked Coin Back Reference"
-msgstr ""
-
-msgid "Nuked Artifact Reference"
-msgstr ""
-
-msgid "Nuked Item Improvement Reference"
-msgstr ""
-
-msgid "Nuked Hist Fig Reference"
-msgstr ""
-
-msgid "Nuked Site Reference"
 msgstr ""
 
 msgid "Preliminary cleaning..."
@@ -22878,25 +22777,13 @@ msgstr ""
 msgid "  Dwarf Fortress Options: Save Game  "
 msgstr ""
 
-msgid "NULL Aid Requester"
-msgstr ""
-
 msgid "current"
-msgstr ""
-
-msgid "Cage: Null Unit Assignment"
-msgstr ""
-
-msgid "Cage: Null Item Assignment"
 msgstr ""
 
 msgid ": Null Unit Assignment (Id "
 msgstr ""
 
 msgid ": Null Item Assignment (Id "
-msgstr ""
-
-msgid "NULL unit projectile loaded"
 msgstr ""
 
 msgid "Civ Zone "
@@ -25843,12 +25730,6 @@ msgid "** Unretiring Adventurer **"
 msgstr ""
 
 msgid "** Starting Adventurer **"
-msgstr ""
-
-msgid "invalid lair entrance"
-msgstr ""
-
-msgid "NULL artifact on create site map, skipping"
 msgstr ""
 
 msgid "Dawn is breaking."
@@ -29893,9 +29774,6 @@ msgid " (Set out "
 msgstr ""
 
 msgid "guard army unattached from parent army"
-msgstr ""
-
-msgid "invalid nem in army during guard creation"
 msgstr ""
 
 msgid "Tribute Report: "
@@ -41202,9 +41080,6 @@ msgstr ""
 msgid "seat of power"
 msgstr ""
 
-msgid "NULL artifact from dead wg inventory, skipping"
-msgstr ""
-
 msgid "some vague concept"
 msgstr ""
 
@@ -41215,9 +41090,6 @@ msgid "Many facts are still unclear to historians.  "
 msgstr ""
 
 msgid "A few issues still trouble scholars, but the picture is fairly clear.  "
-msgstr ""
-
-msgid "NULL heirloom artifact"
 msgstr ""
 
 msgid "Age of the "
@@ -41385,9 +41257,6 @@ msgstr ""
 msgid " Notable Kill"
 msgstr ""
 
-msgid "NULL artifact from wg scholar storage, skipping"
-msgstr ""
-
 msgid ", once of the Underworld.  "
 msgstr ""
 
@@ -41404,9 +41273,6 @@ msgid "Main Ceremony"
 msgstr ""
 
 msgid "Ceremony"
-msgstr ""
-
-msgid "NULL artifact from wg storage, skipping"
 msgstr ""
 
 msgid "Storytelling"
@@ -41797,9 +41663,6 @@ msgid "attacker won"
 msgstr ""
 
 msgid "defender won"
-msgstr ""
-
-msgid "NULL artifact from dead post-wg inventory, skipping"
 msgstr ""
 
 msgid "HF"
@@ -42265,12 +42128,6 @@ msgid " cloth"
 msgstr ""
 
 msgid " woven by "
-msgstr ""
-
-msgid "NULL inventory item on load: id #"
-msgstr ""
-
-msgid "NULL inventory pointer on load"
 msgstr ""
 
 msgid "shared"
@@ -64983,9 +64840,6 @@ msgstr ""
 msgid "armorsmith shop (0,0,0)"
 msgstr ""
 
-msgid "NULL artifact removed on load"
-msgstr ""
-
 msgid "Non-feature related elevation hole"
 msgstr ""
 
@@ -65002,9 +64856,6 @@ msgid "mountain halls"
 msgstr ""
 
 msgid "fortress"
-msgstr ""
-
-msgid "NULL artifact on site realization, skipping"
 msgstr ""
 
 msgid "ruin (50,20,20), border (50,50,50)"
@@ -68235,9 +68086,6 @@ msgstr ""
 msgid "raid site"
 msgstr ""
 
-msgid "invalid order"
-msgstr ""
-
 msgid ": Cannot disband"
 msgstr ""
 
@@ -68982,9 +68830,6 @@ msgstr ""
 msgid "site-"
 msgstr ""
 
-msgid "NULL artifact on site adoption, skipping"
-msgstr ""
-
 msgid " has engraved a masterpiece!"
 msgstr ""
 
@@ -69201,9 +69046,6 @@ msgstr ""
 msgid ", ruling "
 msgstr ""
 
-msgid "NULL artifact on wg ruin building, skipping"
-msgstr ""
-
 msgid "adventuring traveler placed out of bounds"
 msgstr ""
 
@@ -69231,49 +69073,7 @@ msgstr ""
 msgid " lies on the ground."
 msgstr ""
 
-msgid "incorrect data check"
-msgstr ""
-
-msgid "incorrect length check"
-msgstr ""
-
-msgid "invalid literal/lengths set"
-msgstr ""
-
-msgid "invalid distances set"
-msgstr ""
-
-msgid "invalid literal/length code"
-msgstr ""
-
-msgid "invalid distance code"
-msgstr ""
-
-msgid "invalid distance too far back"
-msgstr ""
-
-msgid "invalid block type"
-msgstr ""
-
-msgid "invalid stored block lengths"
-msgstr ""
-
 msgid "too many length or distance symbols"
-msgstr ""
-
-msgid "invalid code lengths set"
-msgstr ""
-
-msgid "invalid bit length repeat"
-msgstr ""
-
-msgid "invalid code -- missing end-of-block"
-msgstr ""
-
-msgid "incorrect header check"
-msgstr ""
-
-msgid "invalid window size"
 msgstr ""
 
 msgid "header crc mismatch"
