@@ -16413,9 +16413,6 @@ msgstr ""
 msgid "Acknowledge lack of defeat"
 msgstr ""
 
-msgid "!ARG"
-msgstr ""
-
 msgid "Caste Selection Fails: "
 msgstr ""
 
@@ -22720,9 +22717,6 @@ msgid "Checking directory structure..."
 msgstr ""
 
 msgid "  Dwarf Fortress Options: Save Game  "
-msgstr ""
-
-msgid "current"
 msgstr ""
 
 msgid "Civ Zone "
@@ -29112,13 +29106,7 @@ msgstr ""
 msgid "Resizing font to "
 msgstr ""
 
-msgid "SDL initialization failure, trying windowed mode"
-msgstr ""
-
 msgid "Requested single-buffering not available"
-msgstr ""
-
-msgid "SDL initialization failure"
 msgstr ""
 
 msgid "Resetting textures"
@@ -29143,9 +29131,6 @@ msgid "Ctrl+"
 msgstr ""
 
 msgid "Button "
-msgstr ""
-
-msgid "SDL+"
 msgstr ""
 
 msgid "Loading bindings from "
@@ -31374,9 +31359,6 @@ msgstr ""
 msgid ", Folder: "
 msgstr ""
 
-msgid "This version of DF uses SDL: Simple DirectMedia Layer,"
-msgstr ""
-
 msgid "Copyright(C)1994-2006 Firelight Technologies Pty, Ltd."
 msgstr ""
 
@@ -31387,9 +31369,6 @@ msgid "All rights reserved."
 msgstr ""
 
 msgid "Portions of this version are Copyright(C)2008"
-msgstr ""
-
-msgid "See the SDL folder for license information."
 msgstr ""
 
 msgid "** Starting New Arena **"
@@ -34950,114 +34929,6 @@ msgstr ""
 msgid " of each coin type to match accounts."
 msgstr ""
 
-msgid "Gx"
-msgstr ""
-
-msgid "S~"
-msgstr ""
-
-msgid "Sx"
-msgstr ""
-
-msgid "V"
-msgstr ""
-
-msgid "X~"
-msgstr ""
-
-msgid "X!"
-msgstr ""
-
-msgid "Dz"
-msgstr ""
-
-msgid "St"
-msgstr ""
-
-msgid "Pb!"
-msgstr ""
-
-msgid "D~"
-msgstr ""
-
-msgid "D+"
-msgstr ""
-
-msgid "D!"
-msgstr ""
-
-msgid "Sw+"
-msgstr ""
-
-msgid "Sw!"
-msgstr ""
-
-msgid "Pb~"
-msgstr ""
-
-msgid "Pb+"
-msgstr ""
-
-msgid "Wd"
-msgstr ""
-
-msgid "Dr"
-msgstr ""
-
-msgid "In"
-msgstr ""
-
-msgid "Sw~"
-msgstr ""
-
-msgid "Tn"
-msgstr ""
-
-msgid "A+"
-msgstr ""
-
-msgid "A!"
-msgstr ""
-
-msgid "Nm-"
-msgstr ""
-
-msgid "Ns"
-msgstr ""
-
-msgid "Of"
-msgstr ""
-
-msgid "Cf"
-msgstr ""
-
-msgid "Lg"
-msgstr ""
-
-msgid "Pn+"
-msgstr ""
-
-msgid "Pn!"
-msgstr ""
-
-msgid "F+"
-msgstr ""
-
-msgid "F!"
-msgstr ""
-
-msgid "Tir"
-msgstr ""
-
-msgid "Ovx"
-msgstr ""
-
-msgid "Exh"
-msgstr ""
-
-msgid "Pn~"
-msgstr ""
-
 msgid ": Heavy bleeding"
 msgstr ""
 
@@ -35106,28 +34977,7 @@ msgstr ""
 msgid ": Dizzy"
 msgstr ""
 
-msgid "T~"
-msgstr ""
-
-msgid "T!"
-msgstr ""
-
-msgid "Dw"
-msgstr ""
-
-msgid "Na"
-msgstr ""
-
 msgid ": Key "
-msgstr ""
-
-msgid "Br"
-msgstr ""
-
-msgid "H~"
-msgstr ""
-
-msgid "H!"
 msgstr ""
 
 msgid ": Diagnosis request  "
