@@ -24009,9 +24009,6 @@ msgstr ""
 msgid "Created in DF "
 msgstr ""
 
-msgid "-param-"
-msgstr ""
-
 msgid ": Export Image"
 msgstr ""
 
@@ -31038,21 +31035,6 @@ msgstr ""
 msgid "Design New World with Advanced Parameters"
 msgstr ""
 
-msgid "-nob"
-msgstr ""
-
-msgid "-hyd"
-msgstr ""
-
-msgid "-str"
-msgstr ""
-
-msgid "-trd"
-msgstr ""
-
-msgid "-dip"
-msgstr ""
-
 msgid "temperate saltwater lake  (0,160,255)"
 msgstr ""
 
@@ -31078,42 +31060,6 @@ msgid "tropical freshwater lake (0,96,255)"
 msgstr ""
 
 msgid " to return to the menu."
-msgstr ""
-
-msgid "-tmp"
-msgstr ""
-
-msgid "-elw"
-msgstr ""
-
-msgid "-el"
-msgstr ""
-
-msgid "-detailed"
-msgstr ""
-
-msgid "-vol"
-msgstr ""
-
-msgid "-sav"
-msgstr ""
-
-msgid "-drn"
-msgstr ""
-
-msgid "-rain"
-msgstr ""
-
-msgid "-bm"
-msgstr ""
-
-msgid "-sal"
-msgstr ""
-
-msgid "-evil"
-msgstr ""
-
-msgid "-veg"
 msgstr ""
 
 msgid "temperate grassland (0,255,32)"
@@ -62808,18 +62754,6 @@ msgstr ""
 msgid "The stars are out."
 msgstr ""
 
-msgid "-world_gen_param"
-msgstr ""
-
-msgid "-world_map"
-msgstr ""
-
-msgid "-historical_map-"
-msgstr ""
-
-msgid "-territory_map-"
-msgstr ""
-
 msgid "just generated corrupt feature map square"
 msgstr ""
 
@@ -62853,9 +62787,6 @@ msgstr ""
 msgid "Civilized World Population"
 msgstr ""
 
-msgid "-world_sites_and_pops"
-msgstr ""
-
 msgid "Worships "
 msgstr ""
 
@@ -62887,9 +62818,6 @@ msgid " List"
 msgstr ""
 
 msgid "Worship List"
-msgstr ""
-
-msgid "-world_history"
 msgstr ""
 
 msgid ", *** Original Line"
@@ -63679,9 +63607,6 @@ msgid "watch tower (128,128,128)"
 msgstr ""
 
 msgid "main tower (255,0,255)"
-msgstr ""
-
-msgid "-site_map-"
 msgstr ""
 
 msgid "temple (170,120,230)"
@@ -67768,9 +67693,6 @@ msgid " have married.  Congratulations!"
 msgstr ""
 
 msgid "arena"
-msgstr ""
-
-msgid "-legends"
 msgstr ""
 
 msgid "corrupt feature population"
