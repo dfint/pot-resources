@@ -615,9 +615,6 @@ msgstr ""
 msgid "We must go back."
 msgstr ""
 
-msgid "x"
-msgstr ""
-
 msgid "Empty announcement "
 msgstr ""
 
@@ -1096,18 +1093,6 @@ msgid " incorporated into your holdings."
 msgstr ""
 
 msgid " looks to your thriving economy for its future prosperity."
-msgstr ""
-
-msgid "Empty biased index vector"
-msgstr ""
-
-msgid "Unknown exception"
-msgstr ""
-
-msgid "bad cast"
-msgstr ""
-
-msgid "data"
 msgstr ""
 
 msgid " are "
@@ -3712,9 +3697,6 @@ msgid " delicate"
 msgstr ""
 
 msgid " understated"
-msgstr ""
-
-msgid "n"
 msgstr ""
 
 msgid " refined"
@@ -12123,9 +12105,6 @@ msgstr ""
 msgid "excitement"
 msgstr ""
 
-msgid "S"
-msgstr ""
-
 msgid "([LIP])"
 msgstr ""
 
@@ -16581,9 +16560,6 @@ msgstr ""
 msgid "Tissue layer not added because no BP found: "
 msgstr ""
 
-msgid "NP"
-msgstr ""
-
 msgid " missing plural string"
 msgstr ""
 
@@ -18795,184 +18771,7 @@ msgstr ""
 msgid "prominent-chin"
 msgstr ""
 
-msgid "BP"
-msgstr ""
-
 msgid ": number capped at 32"
-msgstr ""
-
-msgid "scrollx"
-msgstr ""
-
-msgid "scrolly"
-msgstr ""
-
-msgid "buildreq"
-msgstr ""
-
-msgid "jobvalue"
-msgstr ""
-
-msgid "version"
-msgstr ""
-
-msgid "gview"
-msgstr ""
-
-msgid "assignbuildingjobs"
-msgstr ""
-
-msgid "year"
-msgstr ""
-
-msgid "assigndesjobs"
-msgstr ""
-
-msgid "weathertimer"
-msgstr ""
-
-msgid "season"
-msgstr ""
-
-msgid "line"
-msgstr ""
-
-msgid "linechar"
-msgstr ""
-
-msgid "scrollz"
-msgstr ""
-
-msgid "linelim"
-msgstr ""
-
-msgid "gametype"
-msgstr ""
-
-msgid "point"
-msgstr ""
-
-msgid "gamemode"
-msgstr ""
-
-msgid "cursor"
-msgstr ""
-
-msgid "modejob"
-msgstr ""
-
-msgid "modeitem"
-msgstr ""
-
-msgid "addingtask"
-msgstr ""
-
-msgid "modeseason"
-msgstr ""
-
-msgid "selectingtaskobject"
-msgstr ""
-
-msgid "paused"
-msgstr ""
-
-msgid "modepage"
-msgstr ""
-
-msgid "modestation"
-msgstr ""
-
-msgid "squadcount"
-msgstr ""
-
-msgid "modeview"
-msgstr ""
-
-msgid "modeunit"
-msgstr ""
-
-msgid "game"
-msgstr ""
-
-msgid "gps"
-msgstr ""
-
-msgid "plotinfo"
-msgstr ""
-
-msgid "world"
-msgstr ""
-
-msgid "itemmade"
-msgstr ""
-
-msgid "olookz"
-msgstr ""
-
-msgid "oscrollx"
-msgstr ""
-
-msgid "olookx"
-msgstr ""
-
-msgid "olooky"
-msgstr ""
-
-msgid "menuposition"
-msgstr ""
-
-msgid "looklist"
-msgstr ""
-
-msgid "unitprintstack"
-msgstr ""
-
-msgid "title"
-msgstr ""
-
-msgid "init"
-msgstr ""
-
-msgid "mainview"
-msgstr ""
-
-msgid "texture"
-msgstr ""
-
-msgid "interactitem"
-msgstr ""
-
-msgid "interactinvslot"
-msgstr ""
-
-msgid "throwitem"
-msgstr ""
-
-msgid "dunginv"
-msgstr ""
-
-msgid "page"
-msgstr ""
-
-msgid "oscrolly"
-msgstr ""
-
-msgid "oscrollz"
-msgstr ""
-
-msgid "updatelightstate"
-msgstr ""
-
-msgid "handleannounce"
-msgstr ""
-
-msgid "preserveannounce"
-msgstr ""
-
-msgid "manucomp"
-msgstr ""
-
-msgid "enabler"
 msgstr ""
 
 msgid "/Below"
@@ -18999,19 +18798,7 @@ msgstr ""
 msgid "North"
 msgstr ""
 
-msgid "SE"
-msgstr ""
-
 msgid "West"
-msgstr ""
-
-msgid "NE"
-msgstr ""
-
-msgid "SW"
-msgstr ""
-
-msgid "NW"
 msgstr ""
 
 msgid "Fish"
@@ -22612,12 +22399,6 @@ msgid "friendly fighter"
 msgstr ""
 
 msgid "bully"
-msgstr ""
-
-msgid "NO"
-msgstr ""
-
-msgid "ON"
 msgstr ""
 
 msgid "  Dwarf Fortress Options  "
@@ -26943,15 +26724,6 @@ msgstr ""
 msgid "You awaken from your slumber."
 msgstr ""
 
-msgid "N"
-msgstr ""
-
-msgid "E"
-msgstr ""
-
-msgid "W"
-msgstr ""
-
 msgid "Close Combat"
 msgstr ""
 
@@ -27645,18 +27417,6 @@ msgstr ""
 msgid "Need "
 msgstr ""
 
-msgid "/N"
-msgstr ""
-
-msgid "/S"
-msgstr ""
-
-msgid "/E"
-msgstr ""
-
-msgid "/W"
-msgstr ""
-
 msgid "/NE"
 msgstr ""
 
@@ -27874,9 +27634,6 @@ msgid " strike"
 msgstr ""
 
 msgid "No quick attack: enraged"
-msgstr ""
-
-msgid "Y"
 msgstr ""
 
 msgid "Impossible strike"
@@ -28878,9 +28635,6 @@ msgstr ""
 msgid " scroll.  Type in parts of the name to narrow your search."
 msgstr ""
 
-msgid " P"
-msgstr ""
-
 msgid ": View task"
 msgstr ""
 
@@ -29082,9 +28836,6 @@ msgstr ""
 msgid " would make a good base for a mercenary."
 msgstr ""
 
-msgid "%s"
-msgstr ""
-
 msgid "Unable to create texture!"
 msgstr ""
 
@@ -29220,24 +28971,6 @@ msgstr ""
 msgid " capped"
 msgstr ""
 
-msgid "br"
-msgstr ""
-
-msgid "b"
-msgstr ""
-
-msgid "d"
-msgstr ""
-
-msgid "bl"
-msgstr ""
-
-msgid "dl"
-msgstr ""
-
-msgid "dr"
-msgstr ""
-
 msgid "stl"
 msgstr ""
 
@@ -29247,88 +28980,10 @@ msgstr ""
 msgid "shr"
 msgstr ""
 
-msgid "sh"
-msgstr ""
-
-msgid "sr"
-msgstr ""
-
 msgid "shl"
 msgstr ""
 
-msgid "t"
-msgstr ""
-
-msgid "sl"
-msgstr ""
-
-msgid "tl"
-msgstr ""
-
-msgid "tr"
-msgstr ""
-
 msgid "i"
-msgstr ""
-
-msgid "u"
-msgstr ""
-
-msgid "o"
-msgstr ""
-
-msgid "ee"
-msgstr ""
-
-msgid "ay"
-msgstr ""
-
-msgid "pr"
-msgstr ""
-
-msgid "p"
-msgstr ""
-
-msgid "j"
-msgstr ""
-
-msgid "pl"
-msgstr ""
-
-msgid "jl"
-msgstr ""
-
-msgid "jr"
-msgstr ""
-
-msgid "r"
-msgstr ""
-
-msgid "m"
-msgstr ""
-
-msgid "rb"
-msgstr ""
-
-msgid "ng"
-msgstr ""
-
-msgid "lg"
-msgstr ""
-
-msgid "mb"
-msgstr ""
-
-msgid "lm"
-msgstr ""
-
-msgid "lb"
-msgstr ""
-
-msgid "ld"
-msgstr ""
-
-msgid "nk"
 msgstr ""
 
 msgid "thl"
@@ -29340,40 +28995,7 @@ msgstr ""
 msgid "chr"
 msgstr ""
 
-msgid "ch"
-msgstr ""
-
-msgid "l"
-msgstr ""
-
 msgid "chl"
-msgstr ""
-
-msgid "f"
-msgstr ""
-
-msgid "lr"
-msgstr ""
-
-msgid "fl"
-msgstr ""
-
-msgid "fr"
-msgstr ""
-
-msgid "gr"
-msgstr ""
-
-msgid "g"
-msgstr ""
-
-msgid "gl"
-msgstr ""
-
-msgid "kl"
-msgstr ""
-
-msgid "kr"
 msgstr ""
 
 msgid "Stone shape not found: "
@@ -31764,9 +31386,6 @@ msgstr ""
 msgid "coffer"
 msgstr ""
 
-msgid "e"
-msgstr ""
-
 msgid "box"
 msgstr ""
 
@@ -32296,9 +31915,6 @@ msgid "chain "
 msgstr ""
 
 msgid "weapon"
-msgstr ""
-
-msgid " x"
 msgstr ""
 
 msgid "Last Report Date: "
@@ -33475,12 +33091,6 @@ msgid "Inactive"
 msgstr ""
 
 msgid "Suspended"
-msgstr ""
-
-msgid "/R"
-msgstr ""
-
-msgid "/O"
 msgstr ""
 
 msgid "Restarts if completed, conditions checked yearly"
@@ -34857,54 +34467,6 @@ msgstr ""
 msgid " dressing on "
 msgstr ""
 
-msgid "Mn"
-msgstr ""
-
-msgid "F~"
-msgstr ""
-
-msgid "Fx"
-msgstr ""
-
-msgid "G~"
-msgstr ""
-
-msgid "Bl+"
-msgstr ""
-
-msgid "B!~"
-msgstr ""
-
-msgid "B!+"
-msgstr ""
-
-msgid "Sn"
-msgstr ""
-
-msgid "Pz+"
-msgstr ""
-
-msgid "Fnt"
-msgstr ""
-
-msgid "Pal"
-msgstr ""
-
-msgid "Bl~"
-msgstr ""
-
-msgid "Nm~"
-msgstr ""
-
-msgid "Nm+"
-msgstr ""
-
-msgid "Slg"
-msgstr ""
-
-msgid "Pz~"
-msgstr ""
-
 msgid "Takes place at "
 msgstr ""
 
@@ -35652,18 +35214,6 @@ msgstr ""
 msgid "Fine Quarters"
 msgstr ""
 
-msgid "H"
-msgstr ""
-
-msgid "D"
-msgstr ""
-
-msgid "F"
-msgstr ""
-
-msgid "M"
-msgstr ""
-
 msgid ": Dump"
 msgstr ""
 
@@ -35764,9 +35314,6 @@ msgid " weeping"
 msgstr ""
 
 msgid " praying"
-msgstr ""
-
-msgid "X "
 msgstr ""
 
 msgid " making a submissive gesture"
@@ -41313,9 +40860,6 @@ msgstr ""
 msgid "defender won"
 msgstr ""
 
-msgid "HF"
-msgstr ""
-
 msgid "world view filter not set (adjust ci ps)"
 msgstr ""
 
@@ -41401,9 +40945,6 @@ msgid "2DSW"
 msgstr ""
 
 msgid "2DHW"
-msgstr ""
-
-msgid "2D"
 msgstr ""
 
 msgid "Text mode not supported on your platform, using 2D"
@@ -41680,9 +41221,6 @@ msgid "This object is heavily worn.  "
 msgstr ""
 
 msgid "This object is mangled.  "
-msgstr ""
-
-msgid "&r"
 msgstr ""
 
 msgid "mangled "
@@ -43497,9 +43035,6 @@ msgstr ""
 msgid "Mouse: "
 msgstr ""
 
-msgid "U+"
-msgstr ""
-
 msgid "Impoverished Word Selector"
 msgstr ""
 
@@ -43707,16 +43242,10 @@ msgstr ""
 msgid "pressed grime"
 msgstr ""
 
-msgid "TL"
-msgstr ""
-
 msgid "Unsupported CE add tag: "
 msgstr ""
 
 msgid "Unsupported CE remove tag: "
-msgstr ""
-
-msgid "CE"
 msgstr ""
 
 msgid " vomit"
@@ -44517,9 +44046,6 @@ msgstr ""
 msgid " register"
 msgstr ""
 
-msgid "s'"
-msgstr ""
-
 msgid " voice"
 msgstr ""
 
@@ -44791,9 +44317,6 @@ msgid "[B]where "
 msgstr ""
 
 msgid "! marks the primary accent, "
-msgstr ""
-
-msgid "X"
 msgstr ""
 
 msgid ", - is silent"
@@ -50034,9 +49557,6 @@ msgstr ""
 msgid "verse paragraph"
 msgstr ""
 
-msgid "n "
-msgstr ""
-
 msgid " is always written from the perspective of "
 msgstr ""
 
@@ -52425,9 +51945,6 @@ msgstr ""
 msgid "Friction: "
 msgstr ""
 
-msgid "K"
-msgstr ""
-
 msgid ": Max "
 msgstr ""
 
@@ -54343,93 +53860,6 @@ msgid "-and-a-half"
 msgstr ""
 
 msgid " octave range "
-msgstr ""
-
-msgid "ah"
-msgstr ""
-
-msgid "eh"
-msgstr ""
-
-msgid "ui"
-msgstr ""
-
-msgid "uo"
-msgstr ""
-
-msgid "ua"
-msgstr ""
-
-msgid "ue"
-msgstr ""
-
-msgid "oi"
-msgstr ""
-
-msgid "ou"
-msgstr ""
-
-msgid "uy"
-msgstr ""
-
-msgid "iy"
-msgstr ""
-
-msgid "oy"
-msgstr ""
-
-msgid "uh"
-msgstr ""
-
-msgid "ey"
-msgstr ""
-
-msgid "ih"
-msgstr ""
-
-msgid "oh"
-msgstr ""
-
-msgid "ea"
-msgstr ""
-
-msgid "ei"
-msgstr ""
-
-msgid "ao"
-msgstr ""
-
-msgid "au"
-msgstr ""
-
-msgid "ae"
-msgstr ""
-
-msgid "ai"
-msgstr ""
-
-msgid "oa"
-msgstr ""
-
-msgid "oe"
-msgstr ""
-
-msgid "io"
-msgstr ""
-
-msgid "iu"
-msgstr ""
-
-msgid "ia"
-msgstr ""
-
-msgid "ie"
-msgstr ""
-
-msgid "eo"
-msgstr ""
-
-msgid "eu"
 msgstr ""
 
 msgid "Cannot generate random creatures -- missing body "
@@ -63634,9 +63064,6 @@ msgid "cottage plot"
 msgstr ""
 
 msgid "building out of bounds: "
-msgstr ""
-
-msgid "IF"
 msgstr ""
 
 msgid "Temperate Conifer Forest"
