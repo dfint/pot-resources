@@ -446,14 +446,6 @@ msgstr ""
 msgid "I was a [CONTEXT:UNIT_NAME] for [CONTEXT:NUMBER] of the years of my life."
 msgstr ""
 
-#: past_scouting_profession.txt:0
-msgid "At one time, I was a scout."
-msgstr ""
-
-#: past_scouting_profession.txt:1
-msgid "For [CONTEXT:NUMBER] of my years, I was a scout."
-msgstr ""
-
 #: past_snatcher_profession.txt:0
 msgid "Once it was my calling to rescue lost children."
 msgstr ""
@@ -524,14 +516,6 @@ msgstr ""
 
 #: same_site_specific_hf_seeker.txt:0
 msgid "seek out [CONTEXT:HIST_FIG:TRANS_NAME] here in [CONTEXT:SITE:TRANS_NAME]"
-msgstr ""
-
-#: scouting_profession.txt:0
-msgid "It is my duty to scout the area around [CONTEXT:PLACE:TRANS_NAME]."
-msgstr ""
-
-#: scouting_profession_year.txt:0
-msgid "I have been scouting the area around [CONTEXT:PLACE:TRANS_NAME] for [CONTEXT:NUMBER] of my years."
 msgstr ""
 
 #: site_specific_hf_seeker.txt:0
