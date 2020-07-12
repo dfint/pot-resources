@@ -5008,342 +5008,362 @@ msgctxt "BUILDING_WORKSHOP:SCREW_PRESS"
 msgid "[NAME:Screw Press]"
 msgstr ""
 
-#: c_variation_default.txt:347
+#: c_variation_default.txt:189
+msgctxt "CREATURE_VARIATION:ANIMAL_PERSON"
+msgid "[CV_NEW_TAG:CDI:ADV_NAME:Pet animal]"
+msgstr ""
+
+#: c_variation_default.txt:192
+msgctxt "CREATURE_VARIATION:ANIMAL_PERSON"
+msgid "[CV_NEW_TAG:CDI:VERB:pet:pets:pets]"
+msgstr ""
+
+#: c_variation_default.txt:354
+msgctxt "CREATURE_VARIATION:ANIMAL_PERSON_LEGLESS"
+msgid "[CV_NEW_TAG:CDI:ADV_NAME:Pet animal]"
+msgstr ""
+
+#: c_variation_default.txt:357
+msgctxt "CREATURE_VARIATION:ANIMAL_PERSON_LEGLESS"
+msgid "[CV_NEW_TAG:CDI:VERB:pet:pets:pets]"
+msgstr ""
+
+#: c_variation_default.txt:367
 msgctxt "CREATURE_VARIATION:PUNCH_ATTACK"
 msgid "[CV_NEW_TAG:ATTACK_VERB:punch:punches]"
 msgstr ""
 
-#: c_variation_default.txt:356
+#: c_variation_default.txt:376
 msgctxt "CREATURE_VARIATION:KICK_ATTACK"
 msgid "[CV_NEW_TAG:ATTACK_VERB:kick:kicks]"
 msgstr ""
 
-#: c_variation_default.txt:366
+#: c_variation_default.txt:386
 msgctxt "CREATURE_VARIATION:KICK_HIGHVEL_ATTACK"
 msgid "[CV_NEW_TAG:ATTACK_VERB:kick:kicks]"
 msgstr ""
 
-#: c_variation_default.txt:377
+#: c_variation_default.txt:397
 msgctxt "CREATURE_VARIATION:TAIL_ATTACK"
 msgid "[CV_NEW_TAG:ATTACK_VERB:slap:slaps]"
 msgstr ""
 
-#: c_variation_default.txt:386
+#: c_variation_default.txt:406
 msgctxt "CREATURE_VARIATION:HOOF_ATTACK"
 msgid "[CV_NEW_TAG:ATTACK_VERB:kick:kicks]"
 msgstr ""
 
-#: c_variation_default.txt:401
+#: c_variation_default.txt:421
 msgctxt "CREATURE_VARIATION:NAIL_SCRATCH_ATTACK"
 msgid "[CV_NEW_TAG:ATTACK_VERB:scratch:scratches]"
 msgstr ""
 
-#: c_variation_default.txt:411
+#: c_variation_default.txt:431
 msgctxt "CREATURE_VARIATION:CLAW_SCRATCH_ATTACK"
 msgid "[CV_NEW_TAG:ATTACK_VERB:scratch:scratches]"
 msgstr ""
 
-#: c_variation_default.txt:421
+#: c_variation_default.txt:441
 msgctxt "CREATURE_VARIATION:TOOTH_BITE_ATTACK"
 msgid "[CV_NEW_TAG:ATTACK_VERB:bite:bites]"
 msgstr ""
 
-#: c_variation_default.txt:432
+#: c_variation_default.txt:452
 msgctxt "CREATURE_VARIATION:TOOTH_BITE_VENOM_ATTACK"
 msgid "[CV_NEW_TAG:ATTACK_VERB:bite:bites]"
 msgstr ""
 
-#: c_variation_default.txt:444
+#: c_variation_default.txt:464
 msgctxt "CREATURE_VARIATION:TAIL_STING_VENOM_ATTACK"
 msgid "[CV_NEW_TAG:ATTACK_VERB:sting:stings]"
 msgstr ""
 
-#: c_variation_default.txt:455
+#: c_variation_default.txt:475
 msgctxt "CREATURE_VARIATION:MOUTH_BITE_ATTACK"
 msgid "[CV_NEW_TAG:ATTACK_VERB:bite:bites]"
 msgstr ""
 
-#: c_variation_default.txt:464
+#: c_variation_default.txt:484
 msgctxt "CREATURE_VARIATION:MOUTH_SUCK_ATTACK"
 msgid "[CV_NEW_TAG:ATTACK_VERB:bite:bites]"
 msgstr ""
 
-#: c_variation_default.txt:474
+#: c_variation_default.txt:494
 msgctxt "CREATURE_VARIATION:PROBOSCIS_SUCK_ATTACK"
 msgid "[CV_NEW_TAG:ATTACK_VERB:bite:bites]"
 msgstr ""
 
-#: c_variation_default.txt:485
+#: c_variation_default.txt:505
 msgctxt "CREATURE_VARIATION:MOUTH_BITE_EDGE_ATTACK"
 msgid "[CV_NEW_TAG:ATTACK_VERB:bite:bites]"
 msgstr ""
 
-#: c_variation_default.txt:495
+#: c_variation_default.txt:515
 msgctxt "CREATURE_VARIATION:MOUTH_BITE_VENOM_ATTACK"
 msgid "[CV_NEW_TAG:ATTACK_VERB:bite:bites]"
 msgstr ""
 
-#: c_variation_default.txt:506
+#: c_variation_default.txt:526
 msgctxt "CREATURE_VARIATION:BEAK_BITE_ATTACK"
 msgid "[CV_NEW_TAG:ATTACK_VERB:bite:bites]"
 msgstr ""
 
-#: c_variation_default.txt:517
+#: c_variation_default.txt:537
 msgctxt "CREATURE_VARIATION:TALON_SCRATCH_ATTACK"
 msgid "[CV_NEW_TAG:ATTACK_VERB:snatch at:snatches at]"
 msgstr ""
 
-#: c_variation_default.txt:529
+#: c_variation_default.txt:549
 msgctxt "CREATURE_VARIATION:TUSK_STAB_ATTACK"
 msgid "[CV_NEW_TAG:ATTACK_VERB:stab:stabs]"
 msgstr ""
 
-#: c_variation_default.txt:539
+#: c_variation_default.txt:559
 msgctxt "CREATURE_VARIATION:PINCER_ATTACK"
 msgid "[CV_NEW_TAG:ATTACK_VERB:snatch:snatches]"
 msgstr ""
 
-#: c_variation_default.txt:551
+#: c_variation_default.txt:571
 msgctxt "CREATURE_VARIATION:ARM_LOWER_SNATCH_ATTACK"
 msgid "[CV_NEW_TAG:ATTACK_VERB:snatch:snatches]"
 msgstr ""
 
-#: c_variation_default.txt:611
+#: c_variation_default.txt:631
 msgctxt "CREATURE_VARIATION:STANDARD_BIPED_GAITS"
 msgid "[CV_NEW_TAG:GAIT:WALK:Sprint:]"
 msgstr ""
 
-#: c_variation_default.txt:612
+#: c_variation_default.txt:632
 msgctxt "CREATURE_VARIATION:STANDARD_BIPED_GAITS"
 msgid "[CV_NEW_TAG:GAIT:WALK:Run:]"
 msgstr ""
 
-#: c_variation_default.txt:613
+#: c_variation_default.txt:633
 msgctxt "CREATURE_VARIATION:STANDARD_BIPED_GAITS"
 msgid "[CV_NEW_TAG:GAIT:WALK:Jog:]"
 msgstr ""
 
-#: c_variation_default.txt:614
+#: c_variation_default.txt:634
 msgctxt "CREATURE_VARIATION:STANDARD_BIPED_GAITS"
 msgid "[CV_NEW_TAG:GAIT:WALK:Walk:]"
 msgstr ""
 
-#: c_variation_default.txt:615
+#: c_variation_default.txt:635
 msgctxt "CREATURE_VARIATION:STANDARD_BIPED_GAITS"
 msgid "[CV_NEW_TAG:GAIT:WALK:Stroll:]"
 msgstr ""
 
-#: c_variation_default.txt:616
+#: c_variation_default.txt:636
 msgctxt "CREATURE_VARIATION:STANDARD_BIPED_GAITS"
 msgid "[CV_NEW_TAG:GAIT:WALK:Creep:]"
 msgstr ""
 
-#: c_variation_default.txt:619
+#: c_variation_default.txt:639
 msgctxt "CREATURE_VARIATION:STANDARD_QUADRUPED_GAITS"
 msgid "[CV_NEW_TAG:GAIT:WALK:Gallop:]"
 msgstr ""
 
-#: c_variation_default.txt:620
+#: c_variation_default.txt:640
 msgctxt "CREATURE_VARIATION:STANDARD_QUADRUPED_GAITS"
 msgid "[CV_NEW_TAG:GAIT:WALK:Canter:]"
 msgstr ""
 
-#: c_variation_default.txt:621
+#: c_variation_default.txt:641
 msgctxt "CREATURE_VARIATION:STANDARD_QUADRUPED_GAITS"
 msgid "[CV_NEW_TAG:GAIT:WALK:Trot:]"
 msgstr ""
 
-#: c_variation_default.txt:622
+#: c_variation_default.txt:642
 msgctxt "CREATURE_VARIATION:STANDARD_QUADRUPED_GAITS"
 msgid "[CV_NEW_TAG:GAIT:WALK:Walk:]"
 msgstr ""
 
-#: c_variation_default.txt:623
+#: c_variation_default.txt:643
 msgctxt "CREATURE_VARIATION:STANDARD_QUADRUPED_GAITS"
 msgid "[CV_NEW_TAG:GAIT:WALK:Stroll:]"
 msgstr ""
 
-#: c_variation_default.txt:624
+#: c_variation_default.txt:644
 msgctxt "CREATURE_VARIATION:STANDARD_QUADRUPED_GAITS"
 msgid "[CV_NEW_TAG:GAIT:WALK:Creep:]"
 msgstr ""
 
-#: c_variation_default.txt:627
+#: c_variation_default.txt:647
 msgctxt "CREATURE_VARIATION:STANDARD_WALKING_GAITS"
 msgid "[CV_NEW_TAG:GAIT:WALK:Fastest Walk:]"
 msgstr ""
 
-#: c_variation_default.txt:628
+#: c_variation_default.txt:648
 msgctxt "CREATURE_VARIATION:STANDARD_WALKING_GAITS"
 msgid "[CV_NEW_TAG:GAIT:WALK:Faster Walk:]"
 msgstr ""
 
-#: c_variation_default.txt:629
+#: c_variation_default.txt:649
 msgctxt "CREATURE_VARIATION:STANDARD_WALKING_GAITS"
 msgid "[CV_NEW_TAG:GAIT:WALK:Fast Walk:]"
 msgstr ""
 
-#: c_variation_default.txt:630
+#: c_variation_default.txt:650
 msgctxt "CREATURE_VARIATION:STANDARD_WALKING_GAITS"
 msgid "[CV_NEW_TAG:GAIT:WALK:Walk:]"
 msgstr ""
 
-#: c_variation_default.txt:631
+#: c_variation_default.txt:651
 msgctxt "CREATURE_VARIATION:STANDARD_WALKING_GAITS"
 msgid "[CV_NEW_TAG:GAIT:WALK:Slow Walk:]"
 msgstr ""
 
-#: c_variation_default.txt:632
+#: c_variation_default.txt:652
 msgctxt "CREATURE_VARIATION:STANDARD_WALKING_GAITS"
 msgid "[CV_NEW_TAG:GAIT:WALK:Slowest Walk:]"
 msgstr ""
 
-#: c_variation_default.txt:635
+#: c_variation_default.txt:655
 msgctxt "CREATURE_VARIATION:STANDARD_CLIMBING_GAITS"
 msgid "[CV_NEW_TAG:GAIT:CLIMB:Scramble:]"
 msgstr ""
 
-#: c_variation_default.txt:636
+#: c_variation_default.txt:656
 msgctxt "CREATURE_VARIATION:STANDARD_CLIMBING_GAITS"
 msgid "[CV_NEW_TAG:GAIT:CLIMB:Faster Climb:]"
 msgstr ""
 
-#: c_variation_default.txt:637
+#: c_variation_default.txt:657
 msgctxt "CREATURE_VARIATION:STANDARD_CLIMBING_GAITS"
 msgid "[CV_NEW_TAG:GAIT:CLIMB:Fast Climb:]"
 msgstr ""
 
-#: c_variation_default.txt:638
+#: c_variation_default.txt:658
 msgctxt "CREATURE_VARIATION:STANDARD_CLIMBING_GAITS"
 msgid "[CV_NEW_TAG:GAIT:CLIMB:Climb:]"
 msgstr ""
 
-#: c_variation_default.txt:639
+#: c_variation_default.txt:659
 msgctxt "CREATURE_VARIATION:STANDARD_CLIMBING_GAITS"
 msgid "[CV_NEW_TAG:GAIT:CLIMB:Slow Climb:]"
 msgstr ""
 
-#: c_variation_default.txt:640
+#: c_variation_default.txt:660
 msgctxt "CREATURE_VARIATION:STANDARD_CLIMBING_GAITS"
 msgid "[CV_NEW_TAG:GAIT:CLIMB:Creep:]"
 msgstr ""
 
-#: c_variation_default.txt:643
+#: c_variation_default.txt:663
 msgctxt "CREATURE_VARIATION:STANDARD_SWIMMING_GAITS"
 msgid "[CV_NEW_TAG:GAIT:SWIM:Maximum Swim Speed:]"
 msgstr ""
 
-#: c_variation_default.txt:644
+#: c_variation_default.txt:664
 msgctxt "CREATURE_VARIATION:STANDARD_SWIMMING_GAITS"
 msgid "[CV_NEW_TAG:GAIT:SWIM:Faster Swim:]"
 msgstr ""
 
-#: c_variation_default.txt:645
+#: c_variation_default.txt:665
 msgctxt "CREATURE_VARIATION:STANDARD_SWIMMING_GAITS"
 msgid "[CV_NEW_TAG:GAIT:SWIM:Fast Swim:]"
 msgstr ""
 
-#: c_variation_default.txt:646
+#: c_variation_default.txt:666
 msgctxt "CREATURE_VARIATION:STANDARD_SWIMMING_GAITS"
 msgid "[CV_NEW_TAG:GAIT:SWIM:Swim:]"
 msgstr ""
 
-#: c_variation_default.txt:647
+#: c_variation_default.txt:667
 msgctxt "CREATURE_VARIATION:STANDARD_SWIMMING_GAITS"
 msgid "[CV_NEW_TAG:GAIT:SWIM:Slow Swim:]"
 msgstr ""
 
-#: c_variation_default.txt:648
+#: c_variation_default.txt:668
 msgctxt "CREATURE_VARIATION:STANDARD_SWIMMING_GAITS"
 msgid "[CV_NEW_TAG:GAIT:SWIM:Creeping Swim:]"
 msgstr ""
 
-#: c_variation_default.txt:651
+#: c_variation_default.txt:671
 msgctxt "CREATURE_VARIATION:STANDARD_CRAWLING_GAITS"
 msgid "[CV_NEW_TAG:GAIT:CRAWL:Scramble:]"
 msgstr ""
 
-#: c_variation_default.txt:652
+#: c_variation_default.txt:672
 msgctxt "CREATURE_VARIATION:STANDARD_CRAWLING_GAITS"
 msgid "[CV_NEW_TAG:GAIT:CRAWL:Faster Crawl:]"
 msgstr ""
 
-#: c_variation_default.txt:653
+#: c_variation_default.txt:673
 msgctxt "CREATURE_VARIATION:STANDARD_CRAWLING_GAITS"
 msgid "[CV_NEW_TAG:GAIT:CRAWL:Fast Crawl:]"
 msgstr ""
 
-#: c_variation_default.txt:654
+#: c_variation_default.txt:674
 msgctxt "CREATURE_VARIATION:STANDARD_CRAWLING_GAITS"
 msgid "[CV_NEW_TAG:GAIT:CRAWL:Crawl:]"
 msgstr ""
 
-#: c_variation_default.txt:655
+#: c_variation_default.txt:675
 msgctxt "CREATURE_VARIATION:STANDARD_CRAWLING_GAITS"
 msgid "[CV_NEW_TAG:GAIT:CRAWL:Slow Crawl:]"
 msgstr ""
 
-#: c_variation_default.txt:656
+#: c_variation_default.txt:676
 msgctxt "CREATURE_VARIATION:STANDARD_CRAWLING_GAITS"
 msgid "[CV_NEW_TAG:GAIT:CRAWL:Creep:]"
 msgstr ""
 
-#: c_variation_default.txt:659
+#: c_variation_default.txt:679
 msgctxt "CREATURE_VARIATION:STANDARD_FLYING_GAITS"
 msgid "[CV_NEW_TAG:GAIT:FLY:Maximum Flight Speed:]"
 msgstr ""
 
-#: c_variation_default.txt:660
+#: c_variation_default.txt:680
 msgctxt "CREATURE_VARIATION:STANDARD_FLYING_GAITS"
 msgid "[CV_NEW_TAG:GAIT:FLY:Faster Flight:]"
 msgstr ""
 
-#: c_variation_default.txt:661
+#: c_variation_default.txt:681
 msgctxt "CREATURE_VARIATION:STANDARD_FLYING_GAITS"
 msgid "[CV_NEW_TAG:GAIT:FLY:Fast Flight:]"
 msgstr ""
 
-#: c_variation_default.txt:662
+#: c_variation_default.txt:682
 msgctxt "CREATURE_VARIATION:STANDARD_FLYING_GAITS"
 msgid "[CV_NEW_TAG:GAIT:FLY:Fly:]"
 msgstr ""
 
-#: c_variation_default.txt:663
+#: c_variation_default.txt:683
 msgctxt "CREATURE_VARIATION:STANDARD_FLYING_GAITS"
 msgid "[CV_NEW_TAG:GAIT:FLY:Slow Flight:]"
 msgstr ""
 
-#: c_variation_default.txt:664
+#: c_variation_default.txt:684
 msgctxt "CREATURE_VARIATION:STANDARD_FLYING_GAITS"
 msgid "[CV_NEW_TAG:GAIT:FLY:Hover:]"
 msgstr ""
 
-#: c_variation_default.txt:667
+#: c_variation_default.txt:687
 msgctxt "CREATURE_VARIATION:STANDARD_WALK_CRAWL_GAITS"
 msgid "[CV_NEW_TAG:GAIT:WALK:Scramble:]"
 msgstr ""
 
-#: c_variation_default.txt:668
+#: c_variation_default.txt:688
 msgctxt "CREATURE_VARIATION:STANDARD_WALK_CRAWL_GAITS"
 msgid "[CV_NEW_TAG:GAIT:WALK:Faster Crawl:]"
 msgstr ""
 
-#: c_variation_default.txt:669
+#: c_variation_default.txt:689
 msgctxt "CREATURE_VARIATION:STANDARD_WALK_CRAWL_GAITS"
 msgid "[CV_NEW_TAG:GAIT:WALK:Fast Crawl:]"
 msgstr ""
 
-#: c_variation_default.txt:670
+#: c_variation_default.txt:690
 msgctxt "CREATURE_VARIATION:STANDARD_WALK_CRAWL_GAITS"
 msgid "[CV_NEW_TAG:GAIT:WALK:Crawl:]"
 msgstr ""
 
-#: c_variation_default.txt:671
+#: c_variation_default.txt:691
 msgctxt "CREATURE_VARIATION:STANDARD_WALK_CRAWL_GAITS"
 msgid "[CV_NEW_TAG:GAIT:WALK:Slow Crawl:]"
 msgstr ""
 
-#: c_variation_default.txt:672
+#: c_variation_default.txt:692
 msgctxt "CREATURE_VARIATION:STANDARD_WALK_CRAWL_GAITS"
 msgid "[CV_NEW_TAG:GAIT:WALK:Creep:]"
 msgstr ""
@@ -10515,7 +10535,7 @@ msgstr ""
 
 #: creature_desert_new.txt:10
 msgctxt "CREATURE:GECKO_LEOPARD"
-msgid "[DESCRIPTION:A tiny, brightly-colored lizard with feet that can stick to branch and stone.]"
+msgid "[DESCRIPTION:A tiny, brightly-colored lizard.]"
 msgstr ""
 
 #: creature_desert_new.txt:11
@@ -10530,315 +10550,310 @@ msgstr ""
 
 #: creature_desert_new.txt:22
 msgctxt "CREATURE:GECKO_LEOPARD"
-msgid "[PREFSTRING:amazing sticky feet]"
-msgstr ""
-
-#: creature_desert_new.txt:23
-msgctxt "CREATURE:GECKO_LEOPARD"
 msgid "[PREFSTRING:coloration]"
 msgstr ""
 
-#: creature_desert_new.txt:64
+#: creature_desert_new.txt:63
 msgctxt "CREATURE:GECKO_LEOPARD"
 msgid "[ATTACK_VERB:bite:bites]"
 msgstr ""
 
-#: creature_desert_new.txt:79
+#: creature_desert_new.txt:78
 msgctxt "CREATURE:GECKO_LEOPARD"
 msgid "[TLCM_NOUN:scales:PLURAL]"
 msgstr ""
 
-#: creature_desert_new.txt:82
+#: creature_desert_new.txt:81
 msgctxt "CREATURE:GECKO_LEOPARD"
 msgid "[TLCM_NOUN:eyes:PLURAL]"
 msgstr ""
 
-#: creature_desert_new.txt:89
+#: creature_desert_new.txt:88
 msgctxt "CREATURE:LEOPARD_GECKO_MAN"
 msgid "[CASTE_NAME:leopard gecko man:leopard gecko men:leopard gecko man]"
 msgstr ""
 
-#: creature_desert_new.txt:91
+#: creature_desert_new.txt:90
 msgctxt "CREATURE:LEOPARD_GECKO_MAN"
 msgid "[CASTE_NAME:leopard gecko woman:leopard gecko women:leopard gecko woman]"
 msgstr ""
 
-#: creature_desert_new.txt:101
+#: creature_desert_new.txt:100
 msgctxt "CREATURE:LEOPARD_GECKO_MAN"
 msgid "[NAME:leopard gecko man:leopard gecko men:leopard gecko man]"
 msgstr ""
 
-#: creature_desert_new.txt:102
+#: creature_desert_new.txt:101
 msgctxt "CREATURE:LEOPARD_GECKO_MAN"
 msgid "[DESCRIPTION:A person with the head and fingers of a gecko.]"
 msgstr ""
 
-#: creature_desert_new.txt:118
+#: creature_desert_new.txt:117
 msgctxt "CREATURE:GIANT_LEOPARD_GECKO"
 msgid "[NAME:giant leopard gecko:giant leopard geckos:giant leopard gecko]"
 msgstr ""
 
-#: creature_desert_new.txt:119
+#: creature_desert_new.txt:118
 msgctxt "CREATURE:GIANT_LEOPARD_GECKO"
 msgid "[CASTE_NAME:giant leopard gecko:giant leopard geckos:giant leopard gecko]"
 msgstr ""
 
-#: creature_desert_new.txt:120
+#: creature_desert_new.txt:119
 msgctxt "CREATURE:GIANT_LEOPARD_GECKO"
 msgid "[DESCRIPTION:A large monster in the shape of a gecko.]"
 msgstr ""
 
-#: creature_desert_new.txt:129
+#: creature_desert_new.txt:128
 msgctxt "CREATURE:GIANT_LEOPARD_GECKO"
 msgid "[PREFSTRING:amazing sticky feet]"
 msgstr ""
 
-#: creature_desert_new.txt:130
+#: creature_desert_new.txt:129
 msgctxt "CREATURE:GIANT_LEOPARD_GECKO"
 msgid "[PREFSTRING:coloration]"
 msgstr ""
 
-#: creature_desert_new.txt:141
+#: creature_desert_new.txt:140
 msgctxt "CREATURE:DESERT TORTOISE"
 msgid "[DESCRIPTION:A tiny shelled reptile that lives in the desert.]"
 msgstr ""
 
-#: creature_desert_new.txt:142
+#: creature_desert_new.txt:141
 msgctxt "CREATURE:DESERT TORTOISE"
 msgid "[NAME:desert tortoise:desert tortoises:desert tortoise]"
 msgstr ""
 
-#: creature_desert_new.txt:143
+#: creature_desert_new.txt:142
 msgctxt "CREATURE:DESERT TORTOISE"
 msgid "[CASTE_NAME:desert tortoise:desert tortoises:desert tortoise]"
 msgstr ""
 
-#: creature_desert_new.txt:144
+#: creature_desert_new.txt:143
 msgctxt "CREATURE:DESERT TORTOISE"
 msgid "[GENERAL_CHILD_NAME:desert tortoise hatchling:desert tortoise hatchlings]"
 msgstr ""
 
-#: creature_desert_new.txt:152
+#: creature_desert_new.txt:151
 msgctxt "CREATURE:DESERT TORTOISE"
 msgid "[PREFSTRING:shells]"
 msgstr ""
 
-#: creature_desert_new.txt:153
+#: creature_desert_new.txt:152
 msgctxt "CREATURE:DESERT TORTOISE"
 msgid "[PREFSTRING:longevity]"
 msgstr ""
 
-#: creature_desert_new.txt:200
+#: creature_desert_new.txt:199
 msgctxt "CREATURE:DESERT TORTOISE"
 msgid "[ATTACK_VERB:bite:bites]"
 msgstr ""
 
-#: creature_desert_new.txt:222
+#: creature_desert_new.txt:221
 msgctxt "CREATURE:DESERT TORTOISE"
 msgid "[TLCM_NOUN:scales:PLURAL]"
 msgstr ""
 
-#: creature_desert_new.txt:225
+#: creature_desert_new.txt:224
 msgctxt "CREATURE:DESERT TORTOISE"
 msgid "[TLCM_NOUN:eyes:PLURAL]"
 msgstr ""
 
-#: creature_desert_new.txt:232
+#: creature_desert_new.txt:231
 msgctxt "CREATURE:DESERT_TORTOISE_MAN"
 msgid "[CASTE_NAME:desert tortoise man:desert tortoise men:desert tortoise man]"
 msgstr ""
 
-#: creature_desert_new.txt:234
+#: creature_desert_new.txt:233
 msgctxt "CREATURE:DESERT_TORTOISE_MAN"
 msgid "[CASTE_NAME:desert tortoise woman:desert tortoise women:desert tortoise woman]"
 msgstr ""
 
-#: creature_desert_new.txt:244
+#: creature_desert_new.txt:243
 msgctxt "CREATURE:DESERT_TORTOISE_MAN"
 msgid "[NAME:desert tortoise man:desert tortoise men:desert tortoise man]"
 msgstr ""
 
-#: creature_desert_new.txt:245
+#: creature_desert_new.txt:244
 msgctxt "CREATURE:DESERT_TORTOISE_MAN"
 msgid "[DESCRIPTION:A reptile person with the head and tail of a desert tortoise.]"
 msgstr ""
 
-#: creature_desert_new.txt:261
+#: creature_desert_new.txt:260
 msgctxt "CREATURE:GIANT_DESERT_TORTOISE"
 msgid "[NAME:giant desert tortoise:giant desert tortoises:giant desert tortoise]"
 msgstr ""
 
-#: creature_desert_new.txt:262
+#: creature_desert_new.txt:261
 msgctxt "CREATURE:GIANT_DESERT_TORTOISE"
 msgid "[CASTE_NAME:giant desert tortoise:giant desert tortoises:giant desert tortoise]"
 msgstr ""
 
-#: creature_desert_new.txt:263
+#: creature_desert_new.txt:262
 msgctxt "CREATURE:GIANT_DESERT_TORTOISE"
 msgid "[GENERAL_CHILD_NAME:giant desert tortoise hatchling:giant desert tortoise hatchlings]"
 msgstr ""
 
-#: creature_desert_new.txt:264
+#: creature_desert_new.txt:263
 msgctxt "CREATURE:GIANT_DESERT_TORTOISE"
 msgid "[DESCRIPTION:A large monster in the form of a desert tortoise.]"
 msgstr ""
 
-#: creature_desert_new.txt:273
+#: creature_desert_new.txt:272
 msgctxt "CREATURE:GIANT_DESERT_TORTOISE"
 msgid "[PREFSTRING:shells]"
 msgstr ""
 
-#: creature_desert_new.txt:274
+#: creature_desert_new.txt:273
 msgctxt "CREATURE:GIANT_DESERT_TORTOISE"
 msgid "[PREFSTRING:longevity]"
 msgstr ""
 
-#: creature_desert_new.txt:284
+#: creature_desert_new.txt:283
 msgctxt "CREATURE:GILA_MONSTER"
 msgid "[DESCRIPTION:A small venomous lizard.]"
 msgstr ""
 
-#: creature_desert_new.txt:285
+#: creature_desert_new.txt:284
 msgctxt "CREATURE:GILA_MONSTER"
 msgid "[NAME:gila monster:gila monsters:gila monster]"
 msgstr ""
 
-#: creature_desert_new.txt:286
+#: creature_desert_new.txt:285
 msgctxt "CREATURE:GILA_MONSTER"
 msgid "[CASTE_NAME:gila monster:gila monsters:gila monster]"
 msgstr ""
 
-#: creature_desert_new.txt:287
+#: creature_desert_new.txt:286
 msgctxt "CREATURE:GILA_MONSTER"
 msgid "[GENERAL_CHILD_NAME:gila monster hatchling:gila monster hatchlings]"
 msgstr ""
 
-#: creature_desert_new.txt:301
+#: creature_desert_new.txt:300
 msgctxt "CREATURE:GILA_MONSTER"
 msgid "[PREFSTRING:venomous bite]"
 msgstr ""
 
-#: creature_desert_new.txt:302
+#: creature_desert_new.txt:301
 msgctxt "CREATURE:GILA_MONSTER"
 msgid "[PREFSTRING:coloration]"
 msgstr ""
 
-#: creature_desert_new.txt:343
+#: creature_desert_new.txt:342
 msgctxt "CREATURE:GILA_MONSTER"
 msgid "[STATE_NAME:ALL_SOLID:frozen gila monster venom]"
 msgstr ""
 
-#: creature_desert_new.txt:344
+#: creature_desert_new.txt:343
 msgctxt "CREATURE:GILA_MONSTER"
 msgid "[STATE_ADJ:ALL_SOLID:frozen gila monster venom]"
 msgstr ""
 
-#: creature_desert_new.txt:345
+#: creature_desert_new.txt:344
 msgctxt "CREATURE:GILA_MONSTER"
 msgid "[STATE_NAME:LIQUID:gila monster venom]"
 msgstr ""
 
-#: creature_desert_new.txt:346
+#: creature_desert_new.txt:345
 msgctxt "CREATURE:GILA_MONSTER"
 msgid "[STATE_ADJ:LIQUID:gila monster venom]"
 msgstr ""
 
-#: creature_desert_new.txt:347
+#: creature_desert_new.txt:346
 msgctxt "CREATURE:GILA_MONSTER"
 msgid "[STATE_NAME:GAS:boiling gila monster venom]"
 msgstr ""
 
-#: creature_desert_new.txt:348
+#: creature_desert_new.txt:347
 msgctxt "CREATURE:GILA_MONSTER"
 msgid "[STATE_ADJ:GAS:boiling gila monster venom]"
 msgstr ""
 
-#: creature_desert_new.txt:352
+#: creature_desert_new.txt:351
 msgctxt "CREATURE:GILA_MONSTER"
 msgid "[SYN_NAME:gila monster bite]"
 msgstr ""
 
-#: creature_desert_new.txt:360
+#: creature_desert_new.txt:359
 msgctxt "CREATURE:GILA_MONSTER"
 msgid "[ATTACK_VERB:bite:bites]"
 msgstr ""
 
-#: creature_desert_new.txt:387
+#: creature_desert_new.txt:386
 msgctxt "CREATURE:GILA_MONSTER"
 msgid "[TLCM_NOUN:scales:PLURAL]"
 msgstr ""
 
-#: creature_desert_new.txt:390
+#: creature_desert_new.txt:389
 msgctxt "CREATURE:GILA_MONSTER"
 msgid "[TLCM_NOUN:eyes:PLURAL]"
 msgstr ""
 
-#: creature_desert_new.txt:398
+#: creature_desert_new.txt:397
 msgctxt "CREATURE:GILA_MONSTER_MAN"
 msgid "[CVCT_TARGET:gila monster]"
 msgstr ""
 
-#: creature_desert_new.txt:399
+#: creature_desert_new.txt:398
 msgctxt "CREATURE:GILA_MONSTER_MAN"
 msgid "[CVCT_REPLACEMENT:gila monster man]"
 msgstr ""
 
-#: creature_desert_new.txt:416
+#: creature_desert_new.txt:415
 msgctxt "CREATURE:GILA_MONSTER_MAN"
 msgid "[CASTE_NAME:gila monster man:gila monster men:gila monster man]"
 msgstr ""
 
-#: creature_desert_new.txt:418
+#: creature_desert_new.txt:417
 msgctxt "CREATURE:GILA_MONSTER_MAN"
 msgid "[CASTE_NAME:gila monster woman:gila monster women:gila monster woman]"
 msgstr ""
 
-#: creature_desert_new.txt:428
+#: creature_desert_new.txt:427
 msgctxt "CREATURE:GILA_MONSTER_MAN"
 msgid "[NAME:gila monster man:gila monster men:gila monster man]"
 msgstr ""
 
-#: creature_desert_new.txt:429
+#: creature_desert_new.txt:428
 msgctxt "CREATURE:GILA_MONSTER_MAN"
 msgid "[DESCRIPTION:A venomous person with the head and tail of a gila monster.]"
 msgstr ""
 
-#: creature_desert_new.txt:440
+#: creature_desert_new.txt:439
 msgctxt "CREATURE:GIANT_GILA_MONSTER"
 msgid "[CVCT_TARGET:gila monster]"
 msgstr ""
 
-#: creature_desert_new.txt:441
+#: creature_desert_new.txt:440
 msgctxt "CREATURE:GIANT_GILA_MONSTER"
 msgid "[CVCT_REPLACEMENT:giant gila monster]"
 msgstr ""
 
-#: creature_desert_new.txt:462
+#: creature_desert_new.txt:461
 msgctxt "CREATURE:GIANT_GILA_MONSTER"
 msgid "[NAME:giant gila monster:giant gila monsters:giant gila monster]"
 msgstr ""
 
-#: creature_desert_new.txt:463
+#: creature_desert_new.txt:462
 msgctxt "CREATURE:GIANT_GILA_MONSTER"
 msgid "[CASTE_NAME:giant gila monster:giant gila monsters:giant gila monster]"
 msgstr ""
 
-#: creature_desert_new.txt:464
+#: creature_desert_new.txt:463
 msgctxt "CREATURE:GIANT_GILA_MONSTER"
 msgid "[GENERAL_CHILD_NAME:giant gila monster hatchling:giant gila monster hatchlings]"
 msgstr ""
 
-#: creature_desert_new.txt:465
+#: creature_desert_new.txt:464
 msgctxt "CREATURE:GIANT_GILA_MONSTER"
 msgid "[DESCRIPTION:A huge beast in the form of a gila monster.]"
 msgstr ""
 
-#: creature_desert_new.txt:474
+#: creature_desert_new.txt:473
 msgctxt "CREATURE:GIANT_GILA_MONSTER"
 msgid "[PREFSTRING:venomous bite]"
 msgstr ""
 
-#: creature_desert_new.txt:475
+#: creature_desert_new.txt:474
 msgctxt "CREATURE:GIANT_GILA_MONSTER"
 msgid "[PREFSTRING:coloration]"
 msgstr ""
@@ -14130,180 +14145,200 @@ msgstr ""
 
 #: creature_large_mountain.txt:364
 msgctxt "CREATURE:GNOME_MOUNTAIN"
+msgid "[CDI:ADV_NAME:Pet animal]"
+msgstr ""
+
+#: creature_large_mountain.txt:367
+msgctxt "CREATURE:GNOME_MOUNTAIN"
+msgid "[CDI:VERB:pet:pets:pets]"
+msgstr ""
+
+#: creature_large_mountain.txt:374
+msgctxt "CREATURE:GNOME_MOUNTAIN"
 msgid "[CDI:ADV_NAME:Spit]"
 msgstr ""
 
-#: creature_large_mountain.txt:369
+#: creature_large_mountain.txt:379
 msgctxt "CREATURE:GNOME_MOUNTAIN"
 msgid "[CDI:VERB:spit:spits:NA]"
 msgstr ""
 
-#: creature_large_mountain.txt:382
+#: creature_large_mountain.txt:392
 msgctxt "CREATURE:GNOME_MOUNTAIN"
 msgid "[APP_MOD_NOUN:eyes:PLURAL]"
-msgstr ""
-
-#: creature_large_mountain.txt:393
-msgctxt "CREATURE:GNOME_MOUNTAIN"
-msgid "[APP_MOD_NOUN:lips:PLURAL]"
 msgstr ""
 
 #: creature_large_mountain.txt:403
 msgctxt "CREATURE:GNOME_MOUNTAIN"
+msgid "[APP_MOD_NOUN:lips:PLURAL]"
+msgstr ""
+
+#: creature_large_mountain.txt:413
+msgctxt "CREATURE:GNOME_MOUNTAIN"
 msgid "[APP_MOD_NOUN:nose bridge:SINGULAR]"
 msgstr ""
 
-#: creature_large_mountain.txt:407
+#: creature_large_mountain.txt:417
 msgctxt "CREATURE:GNOME_MOUNTAIN"
 msgid "[APP_MOD_NOUN:ears:PLURAL]"
 msgstr ""
 
-#: creature_large_mountain.txt:421
+#: creature_large_mountain.txt:431
 msgctxt "CREATURE:GNOME_MOUNTAIN"
 msgid "[APP_MOD_NOUN:teeth:PLURAL]"
 msgstr ""
 
-#: creature_large_mountain.txt:448
+#: creature_large_mountain.txt:458
 msgctxt "CREATURE:GNOME_MOUNTAIN"
 msgid "[ATTACK_VERB:punch:punches]"
 msgstr ""
 
-#: creature_large_mountain.txt:455
+#: creature_large_mountain.txt:465
 msgctxt "CREATURE:GNOME_MOUNTAIN"
 msgid "[ATTACK_VERB:scratch:scratches]"
 msgstr ""
 
-#: creature_large_mountain.txt:463
+#: creature_large_mountain.txt:473
 msgctxt "CREATURE:GNOME_MOUNTAIN"
 msgid "[ATTACK_VERB:bite:bites]"
 msgstr ""
 
-#: creature_large_mountain.txt:497
+#: creature_large_mountain.txt:507
 msgctxt "CREATURE:GNOME_MOUNTAIN"
 msgid "[TLCM_NOUN:hair:SINGULAR]"
 msgstr ""
 
-#: creature_large_mountain.txt:506
+#: creature_large_mountain.txt:516
 msgctxt "CREATURE:GNOME_MOUNTAIN"
 msgid "[APP_MOD_NOUN:eyebrows:PLURAL]"
 msgstr ""
 
-#: creature_large_mountain.txt:515
+#: creature_large_mountain.txt:525
 msgctxt "CREATURE:GNOME_MOUNTAIN"
 msgid "[APP_MOD_NOUN:eyelashes:PLURAL]"
 msgstr ""
 
-#: creature_large_mountain.txt:523
+#: creature_large_mountain.txt:533
 msgctxt "CREATURE:GNOME_MOUNTAIN"
 msgid "[APP_MOD_NOUN:hair:SINGULAR]"
 msgstr ""
 
-#: creature_large_mountain.txt:539
+#: creature_large_mountain.txt:549
 msgctxt "CREATURE:GNOME_MOUNTAIN"
 msgid "[TLCM_NOUN:skin:SINGULAR]"
 msgstr ""
 
-#: creature_large_mountain.txt:542
+#: creature_large_mountain.txt:552
 msgctxt "CREATURE:GNOME_MOUNTAIN"
 msgid "[TLCM_NOUN:eyes:PLURAL]"
 msgstr ""
 
-#: creature_large_mountain.txt:545
+#: creature_large_mountain.txt:555
 msgctxt "CREATURE:GNOME_DARK"
 msgid "[DESCRIPTION:A tiny, foul-tempered humanoid creature that dwells in the evil mountains.  They are known to enjoy drinking liquor and will take any unguarded supplies of booze.]"
 msgstr ""
 
-#: creature_large_mountain.txt:546
+#: creature_large_mountain.txt:556
 msgctxt "CREATURE:GNOME_DARK"
 msgid "[NAME:dark gnome:dark gnomes:dark gnome]"
 msgstr ""
 
-#: creature_large_mountain.txt:547
+#: creature_large_mountain.txt:557
 msgctxt "CREATURE:GNOME_DARK"
 msgid "[CASTE_NAME:dark gnome:dark gnomes:dark gnome]"
 msgstr ""
 
-#: creature_large_mountain.txt:558
+#: creature_large_mountain.txt:568
 msgctxt "CREATURE:GNOME_DARK"
 msgid "[PREFSTRING:ability to hold liquor]"
 msgstr ""
 
-#: creature_large_mountain.txt:597
+#: creature_large_mountain.txt:607
 msgctxt "CREATURE:GNOME_DARK"
-msgid "[CDI:ADV_NAME:Spit]"
+msgid "[CDI:ADV_NAME:Pet animal]"
 msgstr ""
 
-#: creature_large_mountain.txt:602
+#: creature_large_mountain.txt:610
 msgctxt "CREATURE:GNOME_DARK"
-msgid "[CDI:VERB:spit:spits:NA]"
+msgid "[CDI:VERB:pet:pets:pets]"
 msgstr ""
 
 #: creature_large_mountain.txt:617
 msgctxt "CREATURE:GNOME_DARK"
+msgid "[CDI:ADV_NAME:Spit]"
+msgstr ""
+
+#: creature_large_mountain.txt:622
+msgctxt "CREATURE:GNOME_DARK"
+msgid "[CDI:VERB:spit:spits:NA]"
+msgstr ""
+
+#: creature_large_mountain.txt:637
+msgctxt "CREATURE:GNOME_DARK"
 msgid "[APP_MOD_NOUN:eyes:PLURAL]"
 msgstr ""
 
-#: creature_large_mountain.txt:628
+#: creature_large_mountain.txt:648
 msgctxt "CREATURE:GNOME_DARK"
 msgid "[APP_MOD_NOUN:lips:PLURAL]"
 msgstr ""
 
-#: creature_large_mountain.txt:638
+#: creature_large_mountain.txt:658
 msgctxt "CREATURE:GNOME_DARK"
 msgid "[APP_MOD_NOUN:nose bridge:SINGULAR]"
 msgstr ""
 
-#: creature_large_mountain.txt:642
+#: creature_large_mountain.txt:662
 msgctxt "CREATURE:GNOME_DARK"
 msgid "[APP_MOD_NOUN:ears:PLURAL]"
 msgstr ""
 
-#: creature_large_mountain.txt:656
+#: creature_large_mountain.txt:676
 msgctxt "CREATURE:GNOME_DARK"
 msgid "[APP_MOD_NOUN:teeth:PLURAL]"
 msgstr ""
 
-#: creature_large_mountain.txt:683
+#: creature_large_mountain.txt:703
 msgctxt "CREATURE:GNOME_DARK"
 msgid "[ATTACK_VERB:punch:punches]"
 msgstr ""
 
-#: creature_large_mountain.txt:690
+#: creature_large_mountain.txt:710
 msgctxt "CREATURE:GNOME_DARK"
 msgid "[ATTACK_VERB:scratch:scratches]"
 msgstr ""
 
-#: creature_large_mountain.txt:698
+#: creature_large_mountain.txt:718
 msgctxt "CREATURE:GNOME_DARK"
 msgid "[ATTACK_VERB:bite:bites]"
 msgstr ""
 
-#: creature_large_mountain.txt:732
+#: creature_large_mountain.txt:752
 msgctxt "CREATURE:GNOME_DARK"
 msgid "[TLCM_NOUN:hair:SINGULAR]"
 msgstr ""
 
-#: creature_large_mountain.txt:741
+#: creature_large_mountain.txt:761
 msgctxt "CREATURE:GNOME_DARK"
 msgid "[APP_MOD_NOUN:eyebrows:PLURAL]"
 msgstr ""
 
-#: creature_large_mountain.txt:750
+#: creature_large_mountain.txt:770
 msgctxt "CREATURE:GNOME_DARK"
 msgid "[APP_MOD_NOUN:eyelashes:PLURAL]"
 msgstr ""
 
-#: creature_large_mountain.txt:758
+#: creature_large_mountain.txt:778
 msgctxt "CREATURE:GNOME_DARK"
 msgid "[APP_MOD_NOUN:hair:SINGULAR]"
 msgstr ""
 
-#: creature_large_mountain.txt:774
+#: creature_large_mountain.txt:794
 msgctxt "CREATURE:GNOME_DARK"
 msgid "[TLCM_NOUN:skin:SINGULAR]"
 msgstr ""
 
-#: creature_large_mountain.txt:777
+#: creature_large_mountain.txt:797
 msgctxt "CREATURE:GNOME_DARK"
 msgid "[TLCM_NOUN:eyes:PLURAL]"
 msgstr ""
@@ -22575,290 +22610,300 @@ msgstr ""
 
 #: creature_next_underground.txt:2240
 msgctxt "CREATURE:GORLAK"
+msgid "[CDI:ADV_NAME:Pet animal]"
+msgstr ""
+
+#: creature_next_underground.txt:2243
+msgctxt "CREATURE:GORLAK"
+msgid "[CDI:VERB:pet:pets:pets]"
+msgstr ""
+
+#: creature_next_underground.txt:2250
+msgctxt "CREATURE:GORLAK"
 msgid "[CDI:ADV_NAME:Spit]"
 msgstr ""
 
-#: creature_next_underground.txt:2245
+#: creature_next_underground.txt:2255
 msgctxt "CREATURE:GORLAK"
 msgid "[CDI:VERB:spit:spits:NA]"
 msgstr ""
 
-#: creature_next_underground.txt:2258
+#: creature_next_underground.txt:2268
 msgctxt "CREATURE:GORLAK"
 msgid "[ATTACK_VERB:bite:bites]"
 msgstr ""
 
-#: creature_next_underground.txt:2267
+#: creature_next_underground.txt:2277
 msgctxt "CREATURE:GORLAK"
 msgid "[ATTACK_VERB:punch:punches]"
 msgstr ""
 
-#: creature_next_underground.txt:2274
+#: creature_next_underground.txt:2284
 msgctxt "CREATURE:GORLAK"
 msgid "[ATTACK_VERB:scratch:scratches]"
 msgstr ""
 
-#: creature_next_underground.txt:2302
+#: creature_next_underground.txt:2312
 msgctxt "CREATURE:GORLAK"
 msgid "[TLCM_NOUN:skin:SINGULAR]"
 msgstr ""
 
-#: creature_next_underground.txt:2305
+#: creature_next_underground.txt:2315
 msgctxt "CREATURE:GORLAK"
 msgid "[TLCM_NOUN:eyes:PLURAL]"
 msgstr ""
 
-#: creature_next_underground.txt:2309
+#: creature_next_underground.txt:2319
 msgctxt "CREATURE:CAVE_FLOATER"
 msgid "[DESCRIPTION:A floating pod with eye-stalks.  It can spray poison and it gives off poison gas when punctured.]"
 msgstr ""
 
-#: creature_next_underground.txt:2310
+#: creature_next_underground.txt:2320
 msgctxt "CREATURE:CAVE_FLOATER"
 msgid "[NAME:cave floater:cave floaters:cave floater]"
 msgstr ""
 
-#: creature_next_underground.txt:2311
+#: creature_next_underground.txt:2321
 msgctxt "CREATURE:CAVE_FLOATER"
 msgid "[CASTE_NAME:cave floater:cave floaters:cave floater]"
 msgstr ""
 
-#: creature_next_underground.txt:2325
+#: creature_next_underground.txt:2335
 msgctxt "CREATURE:CAVE_FLOATER"
 msgid "[PREFSTRING:graceful drifting]"
 msgstr ""
 
-#: creature_next_underground.txt:2328
+#: creature_next_underground.txt:2338
 msgctxt "CREATURE:CAVE_FLOATER"
 msgid "[STATE_NAME:ALL_SOLID:frozen cave floater juice]"
 msgstr ""
 
-#: creature_next_underground.txt:2329
+#: creature_next_underground.txt:2339
 msgctxt "CREATURE:CAVE_FLOATER"
 msgid "[STATE_ADJ:ALL_SOLID:frozen cave floater juice]"
 msgstr ""
 
-#: creature_next_underground.txt:2330
+#: creature_next_underground.txt:2340
 msgctxt "CREATURE:CAVE_FLOATER"
 msgid "[STATE_NAME:LIQUID:cave floater juice]"
 msgstr ""
 
-#: creature_next_underground.txt:2331
+#: creature_next_underground.txt:2341
 msgctxt "CREATURE:CAVE_FLOATER"
 msgid "[STATE_ADJ:LIQUID:cave floater juice]"
 msgstr ""
 
-#: creature_next_underground.txt:2332
+#: creature_next_underground.txt:2342
 msgctxt "CREATURE:CAVE_FLOATER"
 msgid "[STATE_NAME:GAS:cave floater gas]"
 msgstr ""
 
-#: creature_next_underground.txt:2333
+#: creature_next_underground.txt:2343
 msgctxt "CREATURE:CAVE_FLOATER"
 msgid "[STATE_ADJ:GAS:cave floater gas]"
 msgstr ""
 
-#: creature_next_underground.txt:2338
+#: creature_next_underground.txt:2348
 msgctxt "CREATURE:CAVE_FLOATER"
 msgid "[SYN_NAME:cave floater sickness]"
 msgstr ""
 
-#: creature_next_underground.txt:2350
+#: creature_next_underground.txt:2360
 msgctxt "CREATURE:CAVE_FLOATER"
 msgid "[TISSUE_NAME:interior gas:NP]"
 msgstr ""
 
-#: creature_next_underground.txt:2362
+#: creature_next_underground.txt:2372
 msgctxt "CREATURE:CAVE_FLOATER"
 msgid "[TISSUE_NAME:pod:NP]"
 msgstr ""
 
-#: creature_next_underground.txt:2371
+#: creature_next_underground.txt:2381
 msgctxt "CREATURE:CAVE_FLOATER"
 msgid "[CDI:ADV_NAME:Spray juice]"
 msgstr ""
 
-#: creature_next_underground.txt:2375
+#: creature_next_underground.txt:2385
 msgctxt "CREATURE:CAVE_FLOATER"
 msgid "[CDI:VERB:spray a stream of steaming juice:sprays a stream of steaming juice:NA]"
 msgstr ""
 
-#: creature_next_underground.txt:2393
+#: creature_next_underground.txt:2403
 msgctxt "CREATURE:CAVE_FLOATER"
 msgid "[TLCM_NOUN:exterior:SINGULAR]"
 msgstr ""
 
-#: creature_next_underground.txt:2397
+#: creature_next_underground.txt:2407
 msgctxt "CREATURE:PLUMP_HELMET_MAN"
 msgid "[DESCRIPTION:A small humanoid resembling a walking mushroom with arms and legs.  It lives far underground near water and soil.]"
 msgstr ""
 
-#: creature_next_underground.txt:2398
+#: creature_next_underground.txt:2408
 msgctxt "CREATURE:PLUMP_HELMET_MAN"
 msgid "[NAME:plump helmet man:plump helmet men:plump helmet man]"
 msgstr ""
 
-#: creature_next_underground.txt:2399
+#: creature_next_underground.txt:2409
 msgctxt "CREATURE:PLUMP_HELMET_MAN"
 msgid "[CASTE_NAME:plump helmet man:plump helmet men:plump helmet man]"
 msgstr ""
 
-#: creature_next_underground.txt:2412
+#: creature_next_underground.txt:2422
 msgctxt "CREATURE:PLUMP_HELMET_MAN"
 msgid "[PREFSTRING:similarity with food]"
 msgstr ""
 
-#: creature_next_underground.txt:2420
+#: creature_next_underground.txt:2430
 msgctxt "CREATURE:PLUMP_HELMET_MAN"
 msgid "[STATE_NAME:ALL_SOLID:plump helmet man tissue]"
 msgstr ""
 
-#: creature_next_underground.txt:2421
+#: creature_next_underground.txt:2431
 msgctxt "CREATURE:PLUMP_HELMET_MAN"
 msgid "[STATE_ADJ:ALL_SOLID:plump helmet man tissue]"
 msgstr ""
 
-#: creature_next_underground.txt:2422
+#: creature_next_underground.txt:2432
 msgctxt "CREATURE:PLUMP_HELMET_MAN"
 msgid "[STATE_NAME:LIQUID:melted plump helmet man tissue]"
 msgstr ""
 
-#: creature_next_underground.txt:2423
+#: creature_next_underground.txt:2433
 msgctxt "CREATURE:PLUMP_HELMET_MAN"
 msgid "[STATE_ADJ:LIQUID:melted plump helmet man tissue]"
 msgstr ""
 
-#: creature_next_underground.txt:2424
+#: creature_next_underground.txt:2434
 msgctxt "CREATURE:PLUMP_HELMET_MAN"
 msgid "[STATE_NAME:GAS:boiling plump helmet man tissue]"
 msgstr ""
 
-#: creature_next_underground.txt:2425
+#: creature_next_underground.txt:2435
 msgctxt "CREATURE:PLUMP_HELMET_MAN"
 msgid "[STATE_ADJ:GAS:boiling plump helmet man tissue]"
 msgstr ""
 
-#: creature_next_underground.txt:2431
+#: creature_next_underground.txt:2441
 msgctxt "CREATURE:PLUMP_HELMET_MAN"
 msgid "[TISSUE_NAME:plump helmet man tissue:NP]"
 msgstr ""
 
-#: creature_next_underground.txt:2451
+#: creature_next_underground.txt:2461
 msgctxt "CREATURE:PLUMP_HELMET_MAN"
 msgid "[ATTACK_VERB:punch:punches]"
 msgstr ""
 
-#: creature_next_underground.txt:2458
+#: creature_next_underground.txt:2468
 msgctxt "CREATURE:PLUMP_HELMET_MAN"
 msgid "[ATTACK_VERB:kick:kicks]"
 msgstr ""
 
-#: creature_next_underground.txt:2482
+#: creature_next_underground.txt:2492
 msgctxt "CREATURE:PLUMP_HELMET_MAN"
 msgid "[TLCM_NOUN:exterior:SINGULAR]"
 msgstr ""
 
-#: creature_next_underground.txt:2486
+#: creature_next_underground.txt:2496
 msgctxt "CREATURE:CAVE_BLOB"
 msgid "[DESCRIPTION:A strange shapeless life form with an orange leathery skin containing a liquid interior.  It can secrete its internal fluid.]"
 msgstr ""
 
-#: creature_next_underground.txt:2487
+#: creature_next_underground.txt:2497
 msgctxt "CREATURE:CAVE_BLOB"
 msgid "[NAME:cave blob:cave blobs:cave blob]"
 msgstr ""
 
-#: creature_next_underground.txt:2488
+#: creature_next_underground.txt:2498
 msgctxt "CREATURE:CAVE_BLOB"
 msgid "[CASTE_NAME:cave blob:cave blobs:cave blob]"
 msgstr ""
 
-#: creature_next_underground.txt:2503
+#: creature_next_underground.txt:2513
 msgctxt "CREATURE:CAVE_BLOB"
 msgid "[PREFSTRING:bright orange color]"
 msgstr ""
 
-#: creature_next_underground.txt:2509
+#: creature_next_underground.txt:2519
 msgctxt "CREATURE:CAVE_BLOB"
 msgid "[STATE_NAME:ALL_SOLID:frozen cave blob fluid]"
 msgstr ""
 
-#: creature_next_underground.txt:2510
+#: creature_next_underground.txt:2520
 msgctxt "CREATURE:CAVE_BLOB"
 msgid "[STATE_NAME_ADJ:ALL_SOLID:frozen cave blob fluid]"
 msgstr ""
 
-#: creature_next_underground.txt:2511
+#: creature_next_underground.txt:2521
 msgctxt "CREATURE:CAVE_BLOB"
 msgid "[STATE_NAME:LIQUID:cave blob fluid]"
 msgstr ""
 
-#: creature_next_underground.txt:2512
+#: creature_next_underground.txt:2522
 msgctxt "CREATURE:CAVE_BLOB"
 msgid "[STATE_NAME_ADJ:LIQUID:cave blob fluid]"
 msgstr ""
 
-#: creature_next_underground.txt:2513
+#: creature_next_underground.txt:2523
 msgctxt "CREATURE:CAVE_BLOB"
 msgid "[STATE_NAME:GAS:boiling cave blob fluid]"
 msgstr ""
 
-#: creature_next_underground.txt:2514
+#: creature_next_underground.txt:2524
 msgctxt "CREATURE:CAVE_BLOB"
 msgid "[STATE_NAME_ADJ:GAS:boiling cave blob fluid]"
 msgstr ""
 
-#: creature_next_underground.txt:2518
+#: creature_next_underground.txt:2528
 msgctxt "CREATURE:CAVE_BLOB"
 msgid "[SYN_NAME:blob blisters]"
 msgstr ""
 
-#: creature_next_underground.txt:2525
+#: creature_next_underground.txt:2535
 msgctxt "CREATURE:CAVE_BLOB"
 msgid "[TISSUE_NAME:skin:NP]"
 msgstr ""
 
-#: creature_next_underground.txt:2533
+#: creature_next_underground.txt:2543
 msgctxt "CREATURE:CAVE_BLOB"
 msgid "[TISSUE_NAME:fluid:NP]"
 msgstr ""
 
-#: creature_next_underground.txt:2556
+#: creature_next_underground.txt:2566
 msgctxt "CREATURE:CAVE_BLOB"
 msgid "[TLCM_NOUN:skin:SINGULAR]"
 msgstr ""
 
-#: creature_next_underground.txt:2560
+#: creature_next_underground.txt:2570
 msgctxt "CREATURE:ELEMENTMAN_AMETHYST"
 msgid "[DESCRIPTION:A strange crystalline creature the shape of a man.  It is found deep underground.]"
 msgstr ""
 
-#: creature_next_underground.txt:2561
+#: creature_next_underground.txt:2571
 msgctxt "CREATURE:ELEMENTMAN_AMETHYST"
 msgid "[NAME:amethyst man:amethyst men:amethyst man]"
 msgstr ""
 
-#: creature_next_underground.txt:2562
+#: creature_next_underground.txt:2572
 msgctxt "CREATURE:ELEMENTMAN_AMETHYST"
 msgid "[CASTE_NAME:amethyst man:amethyst men:amethyst man]"
 msgstr ""
 
-#: creature_next_underground.txt:2583
+#: creature_next_underground.txt:2593
 msgctxt "CREATURE:ELEMENTMAN_AMETHYST"
 msgid "[PREFSTRING:rockiness]"
 msgstr ""
 
-#: creature_next_underground.txt:2590
+#: creature_next_underground.txt:2600
 msgctxt "CREATURE:ELEMENTMAN_AMETHYST"
 msgid "[TISSUE_NAME:amethyst:NP]"
 msgstr ""
 
-#: creature_next_underground.txt:2604
+#: creature_next_underground.txt:2614
 msgctxt "CREATURE:ELEMENTMAN_AMETHYST"
 msgid "[ATTACK_VERB:punch:punches]"
 msgstr ""
 
-#: creature_next_underground.txt:2611
+#: creature_next_underground.txt:2621
 msgctxt "CREATURE:ELEMENTMAN_AMETHYST"
 msgid "[ATTACK_VERB:kick:kicks]"
 msgstr ""
@@ -27240,3140 +27285,3270 @@ msgstr ""
 
 #: creature_standard.txt:95
 msgctxt "CREATURE:DWARF"
+msgid "[CDI:ADV_NAME:Pet animal]"
+msgstr ""
+
+#: creature_standard.txt:98
+msgctxt "CREATURE:DWARF"
+msgid "[CDI:VERB:pet:pets:pets]"
+msgstr ""
+
+#: creature_standard.txt:106
+msgctxt "CREATURE:DWARF"
 msgid "[CDI:ADV_NAME:Spit]"
 msgstr ""
 
-#: creature_standard.txt:100
+#: creature_standard.txt:111
 msgctxt "CREATURE:DWARF"
 msgid "[CDI:VERB:spit:spits:NA]"
-msgstr ""
-
-#: creature_standard.txt:135
-msgctxt "CREATURE:DWARF"
-msgid "[APP_MOD_NOUN:eyes:PLURAL]"
 msgstr ""
 
 #: creature_standard.txt:146
 msgctxt "CREATURE:DWARF"
+msgid "[APP_MOD_NOUN:eyes:PLURAL]"
+msgstr ""
+
+#: creature_standard.txt:157
+msgctxt "CREATURE:DWARF"
 msgid "[APP_MOD_NOUN:lips:PLURAL]"
 msgstr ""
 
-#: creature_standard.txt:156
+#: creature_standard.txt:167
 msgctxt "CREATURE:DWARF"
 msgid "[APP_MOD_NOUN:nose bridge:SINGULAR]"
 msgstr ""
 
-#: creature_standard.txt:160
+#: creature_standard.txt:171
 msgctxt "CREATURE:DWARF"
 msgid "[APP_MOD_NOUN:ears:PLURAL]"
 msgstr ""
 
-#: creature_standard.txt:174
+#: creature_standard.txt:185
 msgctxt "CREATURE:DWARF"
 msgid "[APP_MOD_NOUN:teeth:PLURAL]"
-msgstr ""
-
-#: creature_standard.txt:206
-msgctxt "CREATURE:DWARF"
-msgid "[ATTACK_VERB:punch:punches]"
 msgstr ""
 
 #: creature_standard.txt:217
 msgctxt "CREATURE:DWARF"
-msgid "[ATTACK_VERB:kick:kicks]"
+msgid "[ATTACK_VERB:punch:punches]"
 msgstr ""
 
 #: creature_standard.txt:228
 msgctxt "CREATURE:DWARF"
-msgid "[ATTACK_VERB:scratch:scratches]"
+msgid "[ATTACK_VERB:kick:kicks]"
 msgstr ""
 
 #: creature_standard.txt:239
 msgctxt "CREATURE:DWARF"
-msgid "[ATTACK_VERB:bite:bites]"
+msgid "[ATTACK_VERB:scratch:scratches]"
 msgstr ""
 
 #: creature_standard.txt:250
 msgctxt "CREATURE:DWARF"
+msgid "[ATTACK_VERB:bite:bites]"
+msgstr ""
+
+#: creature_standard.txt:261
+msgctxt "CREATURE:DWARF"
 msgid "[GENERAL_BABY_NAME:dwarven baby:dwarven babies]"
 msgstr ""
 
-#: creature_standard.txt:251
+#: creature_standard.txt:262
 msgctxt "CREATURE:DWARF"
 msgid "[BABYNAME:dwarven baby:dwarven babies]"
 msgstr ""
 
-#: creature_standard.txt:253
+#: creature_standard.txt:264
 msgctxt "CREATURE:DWARF"
 msgid "[GENERAL_CHILD_NAME:dwarven child:dwarven children]"
 msgstr ""
 
-#: creature_standard.txt:254
+#: creature_standard.txt:265
 msgctxt "CREATURE:DWARF"
 msgid "[CHILDNAME:dwarven child:dwarven children]"
 msgstr ""
 
-#: creature_standard.txt:263
+#: creature_standard.txt:274
 msgctxt "CREATURE:DWARF"
 msgid "[PROFESSION_NAME:CRAFTSMAN:craftsdwarf:craftsdwarves]"
 msgstr ""
 
-#: creature_standard.txt:264
+#: creature_standard.txt:275
 msgctxt "CREATURE:DWARF"
 msgid "[PROFESSION_NAME:FISHERMAN:fisherdwarf:fisherdwarves]"
 msgstr ""
 
-#: creature_standard.txt:265
+#: creature_standard.txt:276
 msgctxt "CREATURE:DWARF"
 msgid "[PROFESSION_NAME:HAMMERMAN:hammerdwarf:hammerdwarves]"
 msgstr ""
 
-#: creature_standard.txt:266
+#: creature_standard.txt:277
 msgctxt "CREATURE:DWARF"
 msgid "[PROFESSION_NAME:SPEARMAN:speardwarf:speardwarves]"
 msgstr ""
 
-#: creature_standard.txt:267
+#: creature_standard.txt:278
 msgctxt "CREATURE:DWARF"
 msgid "[PROFESSION_NAME:CROSSBOWMAN:marksdwarf:marksdwarves]"
 msgstr ""
 
-#: creature_standard.txt:268
+#: creature_standard.txt:279
 msgctxt "CREATURE:DWARF"
 msgid "[PROFESSION_NAME:AXEMAN:axedwarf:axedwarves]"
 msgstr ""
 
-#: creature_standard.txt:269
+#: creature_standard.txt:280
 msgctxt "CREATURE:DWARF"
 msgid "[PROFESSION_NAME:SWORDSMAN:swordsdwarf:swordsdwarves]"
 msgstr ""
 
-#: creature_standard.txt:270
+#: creature_standard.txt:281
 msgctxt "CREATURE:DWARF"
 msgid "[PROFESSION_NAME:MACEMAN:macedwarf:macedwarves]"
 msgstr ""
 
-#: creature_standard.txt:271
+#: creature_standard.txt:282
 msgctxt "CREATURE:DWARF"
 msgid "[PROFESSION_NAME:PIKEMAN:pikedwarf:pikedwarves]"
 msgstr ""
 
-#: creature_standard.txt:272
+#: creature_standard.txt:283
 msgctxt "CREATURE:DWARF"
 msgid "[PROFESSION_NAME:BOWMAN:bowdwarf:bowdwarves]"
 msgstr ""
 
-#: creature_standard.txt:273
+#: creature_standard.txt:284
 msgctxt "CREATURE:DWARF"
 msgid "[PROFESSION_NAME:MASTER_CROSSBOWMAN:Elite Marksdwarf:Elite Marksdwarves]"
 msgstr ""
 
-#: creature_standard.txt:274
+#: creature_standard.txt:285
 msgctxt "CREATURE:DWARF"
 msgid "[PROFESSION_NAME:MASTER_BOWMAN:Elite Bowdwarf:Elite Bowdwarves]"
 msgstr ""
 
-#: creature_standard.txt:275
+#: creature_standard.txt:286
 msgctxt "CREATURE:DWARF"
 msgid "[SPEECH:dwarf.txt]"
 msgstr ""
 
-#: creature_standard.txt:289
-msgctxt "CREATURE:DWARF"
-msgid "[MANNERISM_FINGERS:finger:fingers]"
-msgstr ""
-
-#: creature_standard.txt:290
-msgctxt "CREATURE:DWARF"
-msgid "[MANNERISM_NOSE:nose]"
-msgstr ""
-
-#: creature_standard.txt:291
-msgctxt "CREATURE:DWARF"
-msgid "[MANNERISM_EAR:ear]"
-msgstr ""
-
-#: creature_standard.txt:292
-msgctxt "CREATURE:DWARF"
-msgid "[MANNERISM_HEAD:head]"
-msgstr ""
-
-#: creature_standard.txt:293
-msgctxt "CREATURE:DWARF"
-msgid "[MANNERISM_EYES:eyes]"
-msgstr ""
-
-#: creature_standard.txt:294
-msgctxt "CREATURE:DWARF"
-msgid "[MANNERISM_MOUTH:mouth]"
-msgstr ""
-
-#: creature_standard.txt:295
-msgctxt "CREATURE:DWARF"
-msgid "[MANNERISM_HAIR:hair]"
-msgstr ""
-
-#: creature_standard.txt:296
-msgctxt "CREATURE:DWARF"
-msgid "[MANNERISM_KNUCKLES:knuckles]"
-msgstr ""
-
-#: creature_standard.txt:297
-msgctxt "CREATURE:DWARF"
-msgid "[MANNERISM_LIPS:lips]"
-msgstr ""
-
-#: creature_standard.txt:298
-msgctxt "CREATURE:DWARF"
-msgid "[MANNERISM_CHEEK:cheek]"
-msgstr ""
-
-#: creature_standard.txt:299
-msgctxt "CREATURE:DWARF"
-msgid "[MANNERISM_NAILS:nails]"
-msgstr ""
-
 #: creature_standard.txt:300
 msgctxt "CREATURE:DWARF"
-msgid "[MANNERISM_FEET:feet]"
+msgid "[MANNERISM_FINGERS:finger:fingers]"
 msgstr ""
 
 #: creature_standard.txt:301
 msgctxt "CREATURE:DWARF"
-msgid "[MANNERISM_ARMS:arms]"
+msgid "[MANNERISM_NOSE:nose]"
 msgstr ""
 
 #: creature_standard.txt:302
 msgctxt "CREATURE:DWARF"
-msgid "[MANNERISM_HANDS:hands]"
+msgid "[MANNERISM_EAR:ear]"
 msgstr ""
 
 #: creature_standard.txt:303
 msgctxt "CREATURE:DWARF"
-msgid "[MANNERISM_TONGUE:tongue]"
+msgid "[MANNERISM_HEAD:head]"
 msgstr ""
 
 #: creature_standard.txt:304
 msgctxt "CREATURE:DWARF"
+msgid "[MANNERISM_EYES:eyes]"
+msgstr ""
+
+#: creature_standard.txt:305
+msgctxt "CREATURE:DWARF"
+msgid "[MANNERISM_MOUTH:mouth]"
+msgstr ""
+
+#: creature_standard.txt:306
+msgctxt "CREATURE:DWARF"
+msgid "[MANNERISM_HAIR:hair]"
+msgstr ""
+
+#: creature_standard.txt:307
+msgctxt "CREATURE:DWARF"
+msgid "[MANNERISM_KNUCKLES:knuckles]"
+msgstr ""
+
+#: creature_standard.txt:308
+msgctxt "CREATURE:DWARF"
+msgid "[MANNERISM_LIPS:lips]"
+msgstr ""
+
+#: creature_standard.txt:309
+msgctxt "CREATURE:DWARF"
+msgid "[MANNERISM_CHEEK:cheek]"
+msgstr ""
+
+#: creature_standard.txt:310
+msgctxt "CREATURE:DWARF"
+msgid "[MANNERISM_NAILS:nails]"
+msgstr ""
+
+#: creature_standard.txt:311
+msgctxt "CREATURE:DWARF"
+msgid "[MANNERISM_FEET:feet]"
+msgstr ""
+
+#: creature_standard.txt:312
+msgctxt "CREATURE:DWARF"
+msgid "[MANNERISM_ARMS:arms]"
+msgstr ""
+
+#: creature_standard.txt:313
+msgctxt "CREATURE:DWARF"
+msgid "[MANNERISM_HANDS:hands]"
+msgstr ""
+
+#: creature_standard.txt:314
+msgctxt "CREATURE:DWARF"
+msgid "[MANNERISM_TONGUE:tongue]"
+msgstr ""
+
+#: creature_standard.txt:315
+msgctxt "CREATURE:DWARF"
 msgid "[MANNERISM_LEG:leg]"
 msgstr ""
 
-#: creature_standard.txt:345
+#: creature_standard.txt:356
 msgctxt "CREATURE:DWARF"
 msgid "[TLCM_NOUN:hair:SINGULAR]"
 msgstr ""
 
-#: creature_standard.txt:360
+#: creature_standard.txt:371
 msgctxt "CREATURE:DWARF"
 msgid "[APP_MOD_NOUN:eyebrows:PLURAL]"
-msgstr ""
-
-#: creature_standard.txt:370
-msgctxt "CREATURE:DWARF"
-msgid "[APP_MOD_NOUN:eyelashes:PLURAL]"
 msgstr ""
 
 #: creature_standard.txt:381
 msgctxt "CREATURE:DWARF"
+msgid "[APP_MOD_NOUN:eyelashes:PLURAL]"
+msgstr ""
+
+#: creature_standard.txt:392
+msgctxt "CREATURE:DWARF"
 msgid "[APP_MOD_NOUN:hair:SINGULAR]"
 msgstr ""
 
-#: creature_standard.txt:398
+#: creature_standard.txt:409
 msgctxt "CREATURE:DWARF"
 msgid "[TSU_NOUN:hair:SINGULAR]"
 msgstr ""
 
-#: creature_standard.txt:403
+#: creature_standard.txt:414
 msgctxt "CREATURE:DWARF"
 msgid "[TSU_NOUN:beard:SINGULAR]"
 msgstr ""
 
-#: creature_standard.txt:407
+#: creature_standard.txt:418
 msgctxt "CREATURE:DWARF"
 msgid "[TSU_NOUN:moustache:SINGULAR]"
 msgstr ""
 
-#: creature_standard.txt:411
+#: creature_standard.txt:422
 msgctxt "CREATURE:DWARF"
 msgid "[TSU_NOUN:sideburns:PLURAL]"
-msgstr ""
-
-#: creature_standard.txt:426
-msgctxt "CREATURE:DWARF"
-msgid "[TLCM_NOUN:skin:SINGULAR]"
-msgstr ""
-
-#: creature_standard.txt:430
-msgctxt "CREATURE:DWARF"
-msgid "[APP_MOD_NOUN:skin:SINGULAR]"
 msgstr ""
 
 #: creature_standard.txt:437
 msgctxt "CREATURE:DWARF"
+msgid "[TLCM_NOUN:skin:SINGULAR]"
+msgstr ""
+
+#: creature_standard.txt:441
+msgctxt "CREATURE:DWARF"
+msgid "[APP_MOD_NOUN:skin:SINGULAR]"
+msgstr ""
+
+#: creature_standard.txt:448
+msgctxt "CREATURE:DWARF"
 msgid "[TLCM_NOUN:eyes:PLURAL]"
 msgstr ""
 
-#: creature_standard.txt:440
+#: creature_standard.txt:451
 msgctxt "CREATURE:HUMAN"
 msgid "[DESCRIPTION:A medium-sized creature prone to great ambition.]"
 msgstr ""
 
-#: creature_standard.txt:441
+#: creature_standard.txt:452
 msgctxt "CREATURE:HUMAN"
 msgid "[NAME:human:humans:human]"
 msgstr ""
 
-#: creature_standard.txt:442
+#: creature_standard.txt:453
 msgctxt "CREATURE:HUMAN"
 msgid "[CASTE_NAME:human:humans:human]"
 msgstr ""
 
-#: creature_standard.txt:450
+#: creature_standard.txt:461
 msgctxt "CREATURE:HUMAN"
 msgid "[PREFSTRING:stature]"
 msgstr ""
 
-#: creature_standard.txt:489
+#: creature_standard.txt:500
+msgctxt "CREATURE:HUMAN"
+msgid "[CDI:ADV_NAME:Pet animal]"
+msgstr ""
+
+#: creature_standard.txt:503
+msgctxt "CREATURE:HUMAN"
+msgid "[CDI:VERB:pet:pets:pets]"
+msgstr ""
+
+#: creature_standard.txt:510
 msgctxt "CREATURE:HUMAN"
 msgid "[CDI:ADV_NAME:Spit]"
 msgstr ""
 
-#: creature_standard.txt:494
+#: creature_standard.txt:515
 msgctxt "CREATURE:HUMAN"
 msgid "[CDI:VERB:spit:spits:NA]"
 msgstr ""
 
-#: creature_standard.txt:508
+#: creature_standard.txt:529
 msgctxt "CREATURE:HUMAN"
 msgid "[APP_MOD_NOUN:eyes:PLURAL]"
 msgstr ""
 
-#: creature_standard.txt:518
+#: creature_standard.txt:539
 msgctxt "CREATURE:HUMAN"
 msgid "[APP_MOD_NOUN:lips:PLURAL]"
 msgstr ""
 
-#: creature_standard.txt:527
+#: creature_standard.txt:548
 msgctxt "CREATURE:HUMAN"
 msgid "[APP_MOD_NOUN:nose bridge:SINGULAR]"
 msgstr ""
 
-#: creature_standard.txt:530
+#: creature_standard.txt:551
 msgctxt "CREATURE:HUMAN"
 msgid "[APP_MOD_NOUN:ears:PLURAL]"
 msgstr ""
 
-#: creature_standard.txt:543
+#: creature_standard.txt:564
 msgctxt "CREATURE:HUMAN"
 msgid "[APP_MOD_NOUN:teeth:PLURAL]"
 msgstr ""
 
-#: creature_standard.txt:566
+#: creature_standard.txt:587
 msgctxt "CREATURE:HUMAN"
 msgid "[ATTACK_VERB:punch:punches]"
 msgstr ""
 
-#: creature_standard.txt:573
+#: creature_standard.txt:594
 msgctxt "CREATURE:HUMAN"
 msgid "[ATTACK_VERB:kick:kicks]"
 msgstr ""
 
-#: creature_standard.txt:581
+#: creature_standard.txt:602
 msgctxt "CREATURE:HUMAN"
 msgid "[ATTACK_VERB:scratch:scratches]"
-msgstr ""
-
-#: creature_standard.txt:589
-msgctxt "CREATURE:HUMAN"
-msgid "[ATTACK_VERB:bite:bites]"
-msgstr ""
-
-#: creature_standard.txt:607
-msgctxt "CREATURE:HUMAN"
-msgid "[MANNERISM_FINGERS:finger:fingers]"
-msgstr ""
-
-#: creature_standard.txt:608
-msgctxt "CREATURE:HUMAN"
-msgid "[MANNERISM_NOSE:nose]"
-msgstr ""
-
-#: creature_standard.txt:609
-msgctxt "CREATURE:HUMAN"
-msgid "[MANNERISM_EAR:ear]"
 msgstr ""
 
 #: creature_standard.txt:610
 msgctxt "CREATURE:HUMAN"
+msgid "[ATTACK_VERB:bite:bites]"
+msgstr ""
+
+#: creature_standard.txt:628
+msgctxt "CREATURE:HUMAN"
+msgid "[MANNERISM_FINGERS:finger:fingers]"
+msgstr ""
+
+#: creature_standard.txt:629
+msgctxt "CREATURE:HUMAN"
+msgid "[MANNERISM_NOSE:nose]"
+msgstr ""
+
+#: creature_standard.txt:630
+msgctxt "CREATURE:HUMAN"
+msgid "[MANNERISM_EAR:ear]"
+msgstr ""
+
+#: creature_standard.txt:631
+msgctxt "CREATURE:HUMAN"
 msgid "[MANNERISM_HEAD:head]"
 msgstr ""
 
-#: creature_standard.txt:611
+#: creature_standard.txt:632
 msgctxt "CREATURE:HUMAN"
 msgid "[MANNERISM_EYES:eyes]"
 msgstr ""
 
-#: creature_standard.txt:612
+#: creature_standard.txt:633
 msgctxt "CREATURE:HUMAN"
 msgid "[MANNERISM_MOUTH:mouth]"
 msgstr ""
 
-#: creature_standard.txt:613
+#: creature_standard.txt:634
 msgctxt "CREATURE:HUMAN"
 msgid "[MANNERISM_HAIR:hair]"
 msgstr ""
 
-#: creature_standard.txt:614
+#: creature_standard.txt:635
 msgctxt "CREATURE:HUMAN"
 msgid "[MANNERISM_KNUCKLES:knuckles]"
 msgstr ""
 
-#: creature_standard.txt:615
+#: creature_standard.txt:636
 msgctxt "CREATURE:HUMAN"
 msgid "[MANNERISM_LIPS:lips]"
 msgstr ""
 
-#: creature_standard.txt:616
+#: creature_standard.txt:637
 msgctxt "CREATURE:HUMAN"
 msgid "[MANNERISM_CHEEK:cheek]"
 msgstr ""
 
-#: creature_standard.txt:617
+#: creature_standard.txt:638
 msgctxt "CREATURE:HUMAN"
 msgid "[MANNERISM_NAILS:nails]"
 msgstr ""
 
-#: creature_standard.txt:618
+#: creature_standard.txt:639
 msgctxt "CREATURE:HUMAN"
 msgid "[MANNERISM_FEET:feet]"
 msgstr ""
 
-#: creature_standard.txt:619
+#: creature_standard.txt:640
 msgctxt "CREATURE:HUMAN"
 msgid "[MANNERISM_ARMS:arms]"
 msgstr ""
 
-#: creature_standard.txt:620
+#: creature_standard.txt:641
 msgctxt "CREATURE:HUMAN"
 msgid "[MANNERISM_HANDS:hands]"
 msgstr ""
 
-#: creature_standard.txt:621
+#: creature_standard.txt:642
 msgctxt "CREATURE:HUMAN"
 msgid "[MANNERISM_TONGUE:tongue]"
 msgstr ""
 
-#: creature_standard.txt:622
+#: creature_standard.txt:643
 msgctxt "CREATURE:HUMAN"
 msgid "[MANNERISM_LEG:leg]"
 msgstr ""
 
-#: creature_standard.txt:649
+#: creature_standard.txt:670
 msgctxt "CREATURE:HUMAN"
 msgid "[TLCM_NOUN:hair:SINGULAR]"
 msgstr ""
 
-#: creature_standard.txt:658
+#: creature_standard.txt:679
 msgctxt "CREATURE:HUMAN"
 msgid "[APP_MOD_NOUN:eyebrows:PLURAL]"
 msgstr ""
 
-#: creature_standard.txt:667
+#: creature_standard.txt:688
 msgctxt "CREATURE:HUMAN"
 msgid "[APP_MOD_NOUN:eyelashes:PLURAL]"
 msgstr ""
 
-#: creature_standard.txt:675
+#: creature_standard.txt:696
 msgctxt "CREATURE:HUMAN"
 msgid "[APP_MOD_NOUN:hair:SINGULAR]"
 msgstr ""
 
-#: creature_standard.txt:687
+#: creature_standard.txt:708
 msgctxt "CREATURE:HUMAN"
 msgid "[TSU_NOUN:hair:SINGULAR]"
 msgstr ""
 
-#: creature_standard.txt:691
+#: creature_standard.txt:712
 msgctxt "CREATURE:HUMAN"
 msgid "[TSU_NOUN:beard:SINGULAR]"
 msgstr ""
 
-#: creature_standard.txt:694
+#: creature_standard.txt:715
 msgctxt "CREATURE:HUMAN"
 msgid "[TSU_NOUN:moustache:SINGULAR]"
 msgstr ""
 
-#: creature_standard.txt:697
+#: creature_standard.txt:718
 msgctxt "CREATURE:HUMAN"
 msgid "[TSU_NOUN:sideburns:PLURAL]"
 msgstr ""
 
-#: creature_standard.txt:700
+#: creature_standard.txt:721
 msgctxt "CREATURE:HUMAN"
 msgid "[TLCM_NOUN:skin:SINGULAR]"
 msgstr ""
 
-#: creature_standard.txt:703
+#: creature_standard.txt:724
 msgctxt "CREATURE:HUMAN"
 msgid "[APP_MOD_NOUN:skin:SINGULAR]"
 msgstr ""
 
-#: creature_standard.txt:707
+#: creature_standard.txt:728
 msgctxt "CREATURE:HUMAN"
 msgid "[TLCM_NOUN:eyes:PLURAL]"
 msgstr ""
 
-#: creature_standard.txt:710
+#: creature_standard.txt:731
 msgctxt "CREATURE:ELF"
 msgid "[DESCRIPTION:A medium-sized creature dedicated to the ruthless protection of nature.]"
 msgstr ""
 
-#: creature_standard.txt:711
+#: creature_standard.txt:732
 msgctxt "CREATURE:ELF"
 msgid "[NAME:elf:elves:elven]"
 msgstr ""
 
-#: creature_standard.txt:712
+#: creature_standard.txt:733
 msgctxt "CREATURE:ELF"
 msgid "[CASTE_NAME:elf:elves:elven]"
 msgstr ""
 
-#: creature_standard.txt:719
+#: creature_standard.txt:740
 msgctxt "CREATURE:ELF"
 msgid "[PREFSTRING:grace]"
 msgstr ""
 
-#: creature_standard.txt:720
+#: creature_standard.txt:741
 msgctxt "CREATURE:ELF"
 msgid "[SPEECH:elf.txt]"
 msgstr ""
 
-#: creature_standard.txt:767
+#: creature_standard.txt:788
 msgctxt "CREATURE:ELF"
-msgid "[CDI:ADV_NAME:Spit]"
+msgid "[CDI:ADV_NAME:Pet animal]"
 msgstr ""
 
-#: creature_standard.txt:772
+#: creature_standard.txt:791
 msgctxt "CREATURE:ELF"
-msgid "[CDI:VERB:spit:spits:NA]"
+msgid "[CDI:VERB:pet:pets:pets]"
 msgstr ""
 
 #: creature_standard.txt:798
 msgctxt "CREATURE:ELF"
+msgid "[CDI:ADV_NAME:Spit]"
+msgstr ""
+
+#: creature_standard.txt:803
+msgctxt "CREATURE:ELF"
+msgid "[CDI:VERB:spit:spits:NA]"
+msgstr ""
+
+#: creature_standard.txt:829
+msgctxt "CREATURE:ELF"
 msgid "[APP_MOD_NOUN:eyes:PLURAL]"
 msgstr ""
 
-#: creature_standard.txt:808
+#: creature_standard.txt:839
 msgctxt "CREATURE:ELF"
 msgid "[APP_MOD_NOUN:lips:PLURAL]"
 msgstr ""
 
-#: creature_standard.txt:817
+#: creature_standard.txt:848
 msgctxt "CREATURE:ELF"
 msgid "[APP_MOD_NOUN:nose bridge:SINGULAR]"
 msgstr ""
 
-#: creature_standard.txt:820
+#: creature_standard.txt:851
 msgctxt "CREATURE:ELF"
 msgid "[APP_MOD_NOUN:ears:PLURAL]"
 msgstr ""
 
-#: creature_standard.txt:833
+#: creature_standard.txt:864
 msgctxt "CREATURE:ELF"
 msgid "[APP_MOD_NOUN:teeth:PLURAL]"
 msgstr ""
 
-#: creature_standard.txt:855
+#: creature_standard.txt:886
 msgctxt "CREATURE:ELF"
 msgid "[ATTACK_VERB:punch:punches]"
 msgstr ""
 
-#: creature_standard.txt:862
+#: creature_standard.txt:893
 msgctxt "CREATURE:ELF"
 msgid "[ATTACK_VERB:kick:kicks]"
-msgstr ""
-
-#: creature_standard.txt:870
-msgctxt "CREATURE:ELF"
-msgid "[ATTACK_VERB:scratch:scratches]"
-msgstr ""
-
-#: creature_standard.txt:878
-msgctxt "CREATURE:ELF"
-msgid "[ATTACK_VERB:bite:bites]"
-msgstr ""
-
-#: creature_standard.txt:898
-msgctxt "CREATURE:ELF"
-msgid "[MANNERISM_FINGERS:finger:fingers]"
-msgstr ""
-
-#: creature_standard.txt:899
-msgctxt "CREATURE:ELF"
-msgid "[MANNERISM_NOSE:nose]"
-msgstr ""
-
-#: creature_standard.txt:900
-msgctxt "CREATURE:ELF"
-msgid "[MANNERISM_EAR:ear]"
 msgstr ""
 
 #: creature_standard.txt:901
 msgctxt "CREATURE:ELF"
-msgid "[MANNERISM_HEAD:head]"
-msgstr ""
-
-#: creature_standard.txt:902
-msgctxt "CREATURE:ELF"
-msgid "[MANNERISM_EYES:eyes]"
-msgstr ""
-
-#: creature_standard.txt:903
-msgctxt "CREATURE:ELF"
-msgid "[MANNERISM_MOUTH:mouth]"
-msgstr ""
-
-#: creature_standard.txt:904
-msgctxt "CREATURE:ELF"
-msgid "[MANNERISM_HAIR:hair]"
-msgstr ""
-
-#: creature_standard.txt:905
-msgctxt "CREATURE:ELF"
-msgid "[MANNERISM_KNUCKLES:knuckles]"
-msgstr ""
-
-#: creature_standard.txt:906
-msgctxt "CREATURE:ELF"
-msgid "[MANNERISM_LIPS:lips]"
-msgstr ""
-
-#: creature_standard.txt:907
-msgctxt "CREATURE:ELF"
-msgid "[MANNERISM_CHEEK:cheek]"
-msgstr ""
-
-#: creature_standard.txt:908
-msgctxt "CREATURE:ELF"
-msgid "[MANNERISM_NAILS:nails]"
+msgid "[ATTACK_VERB:scratch:scratches]"
 msgstr ""
 
 #: creature_standard.txt:909
 msgctxt "CREATURE:ELF"
-msgid "[MANNERISM_FEET:feet]"
+msgid "[ATTACK_VERB:bite:bites]"
 msgstr ""
 
-#: creature_standard.txt:910
+#: creature_standard.txt:929
 msgctxt "CREATURE:ELF"
-msgid "[MANNERISM_ARMS:arms]"
+msgid "[MANNERISM_FINGERS:finger:fingers]"
 msgstr ""
 
-#: creature_standard.txt:911
+#: creature_standard.txt:930
 msgctxt "CREATURE:ELF"
-msgid "[MANNERISM_HANDS:hands]"
+msgid "[MANNERISM_NOSE:nose]"
 msgstr ""
 
-#: creature_standard.txt:912
+#: creature_standard.txt:931
 msgctxt "CREATURE:ELF"
-msgid "[MANNERISM_TONGUE:tongue]"
+msgid "[MANNERISM_EAR:ear]"
 msgstr ""
 
-#: creature_standard.txt:913
+#: creature_standard.txt:932
 msgctxt "CREATURE:ELF"
-msgid "[MANNERISM_LEG:leg]"
+msgid "[MANNERISM_HEAD:head]"
+msgstr ""
+
+#: creature_standard.txt:933
+msgctxt "CREATURE:ELF"
+msgid "[MANNERISM_EYES:eyes]"
+msgstr ""
+
+#: creature_standard.txt:934
+msgctxt "CREATURE:ELF"
+msgid "[MANNERISM_MOUTH:mouth]"
+msgstr ""
+
+#: creature_standard.txt:935
+msgctxt "CREATURE:ELF"
+msgid "[MANNERISM_HAIR:hair]"
+msgstr ""
+
+#: creature_standard.txt:936
+msgctxt "CREATURE:ELF"
+msgid "[MANNERISM_KNUCKLES:knuckles]"
+msgstr ""
+
+#: creature_standard.txt:937
+msgctxt "CREATURE:ELF"
+msgid "[MANNERISM_LIPS:lips]"
+msgstr ""
+
+#: creature_standard.txt:938
+msgctxt "CREATURE:ELF"
+msgid "[MANNERISM_CHEEK:cheek]"
 msgstr ""
 
 #: creature_standard.txt:939
 msgctxt "CREATURE:ELF"
-msgid "[TLCM_NOUN:hair:SINGULAR]"
+msgid "[MANNERISM_NAILS:nails]"
+msgstr ""
+
+#: creature_standard.txt:940
+msgctxt "CREATURE:ELF"
+msgid "[MANNERISM_FEET:feet]"
+msgstr ""
+
+#: creature_standard.txt:941
+msgctxt "CREATURE:ELF"
+msgid "[MANNERISM_ARMS:arms]"
 msgstr ""
 
 #: creature_standard.txt:942
 msgctxt "CREATURE:ELF"
+msgid "[MANNERISM_HANDS:hands]"
+msgstr ""
+
+#: creature_standard.txt:943
+msgctxt "CREATURE:ELF"
+msgid "[MANNERISM_TONGUE:tongue]"
+msgstr ""
+
+#: creature_standard.txt:944
+msgctxt "CREATURE:ELF"
+msgid "[MANNERISM_LEG:leg]"
+msgstr ""
+
+#: creature_standard.txt:970
+msgctxt "CREATURE:ELF"
+msgid "[TLCM_NOUN:hair:SINGULAR]"
+msgstr ""
+
+#: creature_standard.txt:973
+msgctxt "CREATURE:ELF"
 msgid "[APP_MOD_NOUN:eyebrows:PLURAL]"
 msgstr ""
 
-#: creature_standard.txt:946
+#: creature_standard.txt:977
 msgctxt "CREATURE:ELF"
 msgid "[APP_MOD_NOUN:eyelashes:PLURAL]"
 msgstr ""
 
-#: creature_standard.txt:955
+#: creature_standard.txt:986
 msgctxt "CREATURE:ELF"
 msgid "[APP_MOD_NOUN:hair:SINGULAR]"
 msgstr ""
 
-#: creature_standard.txt:959
+#: creature_standard.txt:990
 msgctxt "CREATURE:ELF"
 msgid "[TLCM_NOUN:skin:SINGULAR]"
 msgstr ""
 
-#: creature_standard.txt:962
+#: creature_standard.txt:993
 msgctxt "CREATURE:ELF"
 msgid "[TLCM_NOUN:eyes:PLURAL]"
 msgstr ""
 
-#: creature_standard.txt:965
+#: creature_standard.txt:996
 msgctxt "CREATURE:GOBLIN"
 msgid "[DESCRIPTION:A medium-sized humanoid driven to cruelty by its evil nature.]"
 msgstr ""
 
-#: creature_standard.txt:966
+#: creature_standard.txt:997
 msgctxt "CREATURE:GOBLIN"
 msgid "[NAME:goblin:goblins:goblin]"
 msgstr ""
 
-#: creature_standard.txt:967
+#: creature_standard.txt:998
 msgctxt "CREATURE:GOBLIN"
 msgid "[CASTE_NAME:goblin:goblins:goblin]"
 msgstr ""
 
-#: creature_standard.txt:975
+#: creature_standard.txt:1006
 msgctxt "CREATURE:GOBLIN"
 msgid "[PREFSTRING:terrifying features]"
 msgstr ""
 
-#: creature_standard.txt:1026
+#: creature_standard.txt:1057
+msgctxt "CREATURE:GOBLIN"
+msgid "[CDI:ADV_NAME:Pet animal]"
+msgstr ""
+
+#: creature_standard.txt:1060
+msgctxt "CREATURE:GOBLIN"
+msgid "[CDI:VERB:pet:pets:pets]"
+msgstr ""
+
+#: creature_standard.txt:1067
 msgctxt "CREATURE:GOBLIN"
 msgid "[CDI:ADV_NAME:Spit]"
 msgstr ""
 
-#: creature_standard.txt:1031
+#: creature_standard.txt:1072
 msgctxt "CREATURE:GOBLIN"
 msgid "[CDI:VERB:spit:spits:NA]"
 msgstr ""
 
-#: creature_standard.txt:1055
+#: creature_standard.txt:1096
 msgctxt "CREATURE:GOBLIN"
 msgid "[APP_MOD_NOUN:eyes:PLURAL]"
 msgstr ""
 
-#: creature_standard.txt:1062
+#: creature_standard.txt:1103
 msgctxt "CREATURE:GOBLIN"
 msgid "[APP_MOD_NOUN:lips:PLURAL]"
 msgstr ""
 
-#: creature_standard.txt:1071
+#: creature_standard.txt:1112
 msgctxt "CREATURE:GOBLIN"
 msgid "[APP_MOD_NOUN:nose bridge:SINGULAR]"
 msgstr ""
 
-#: creature_standard.txt:1074
+#: creature_standard.txt:1115
 msgctxt "CREATURE:GOBLIN"
 msgid "[APP_MOD_NOUN:ears:PLURAL]"
 msgstr ""
 
-#: creature_standard.txt:1087
+#: creature_standard.txt:1128
 msgctxt "CREATURE:GOBLIN"
 msgid "[APP_MOD_NOUN:teeth:PLURAL]"
-msgstr ""
-
-#: creature_standard.txt:1109
-msgctxt "CREATURE:GOBLIN"
-msgid "[ATTACK_VERB:punch:punches]"
-msgstr ""
-
-#: creature_standard.txt:1116
-msgctxt "CREATURE:GOBLIN"
-msgid "[ATTACK_VERB:kick:kicks]"
-msgstr ""
-
-#: creature_standard.txt:1124
-msgctxt "CREATURE:GOBLIN"
-msgid "[ATTACK_VERB:scratch:scratches]"
-msgstr ""
-
-#: creature_standard.txt:1132
-msgctxt "CREATURE:GOBLIN"
-msgid "[ATTACK_VERB:bite:bites]"
 msgstr ""
 
 #: creature_standard.txt:1150
 msgctxt "CREATURE:GOBLIN"
-msgid "[MANNERISM_FINGERS:finger:fingers]"
-msgstr ""
-
-#: creature_standard.txt:1151
-msgctxt "CREATURE:GOBLIN"
-msgid "[MANNERISM_NOSE:nose]"
-msgstr ""
-
-#: creature_standard.txt:1152
-msgctxt "CREATURE:GOBLIN"
-msgid "[MANNERISM_EAR:ear]"
-msgstr ""
-
-#: creature_standard.txt:1153
-msgctxt "CREATURE:GOBLIN"
-msgid "[MANNERISM_HEAD:head]"
-msgstr ""
-
-#: creature_standard.txt:1154
-msgctxt "CREATURE:GOBLIN"
-msgid "[MANNERISM_EYES:eyes]"
-msgstr ""
-
-#: creature_standard.txt:1155
-msgctxt "CREATURE:GOBLIN"
-msgid "[MANNERISM_MOUTH:mouth]"
-msgstr ""
-
-#: creature_standard.txt:1156
-msgctxt "CREATURE:GOBLIN"
-msgid "[MANNERISM_HAIR:hair]"
+msgid "[ATTACK_VERB:punch:punches]"
 msgstr ""
 
 #: creature_standard.txt:1157
 msgctxt "CREATURE:GOBLIN"
-msgid "[MANNERISM_KNUCKLES:knuckles]"
-msgstr ""
-
-#: creature_standard.txt:1158
-msgctxt "CREATURE:GOBLIN"
-msgid "[MANNERISM_LIPS:lips]"
-msgstr ""
-
-#: creature_standard.txt:1159
-msgctxt "CREATURE:GOBLIN"
-msgid "[MANNERISM_CHEEK:cheek]"
-msgstr ""
-
-#: creature_standard.txt:1160
-msgctxt "CREATURE:GOBLIN"
-msgid "[MANNERISM_NAILS:nails]"
-msgstr ""
-
-#: creature_standard.txt:1161
-msgctxt "CREATURE:GOBLIN"
-msgid "[MANNERISM_FEET:feet]"
-msgstr ""
-
-#: creature_standard.txt:1162
-msgctxt "CREATURE:GOBLIN"
-msgid "[MANNERISM_ARMS:arms]"
-msgstr ""
-
-#: creature_standard.txt:1163
-msgctxt "CREATURE:GOBLIN"
-msgid "[MANNERISM_HANDS:hands]"
-msgstr ""
-
-#: creature_standard.txt:1164
-msgctxt "CREATURE:GOBLIN"
-msgid "[MANNERISM_TONGUE:tongue]"
+msgid "[ATTACK_VERB:kick:kicks]"
 msgstr ""
 
 #: creature_standard.txt:1165
 msgctxt "CREATURE:GOBLIN"
-msgid "[MANNERISM_LEG:leg]"
+msgid "[ATTACK_VERB:scratch:scratches]"
 msgstr ""
 
-#: creature_standard.txt:1190
+#: creature_standard.txt:1173
 msgctxt "CREATURE:GOBLIN"
-msgid "[TLCM_NOUN:hair:SINGULAR]"
+msgid "[ATTACK_VERB:bite:bites]"
+msgstr ""
+
+#: creature_standard.txt:1191
+msgctxt "CREATURE:GOBLIN"
+msgid "[MANNERISM_FINGERS:finger:fingers]"
+msgstr ""
+
+#: creature_standard.txt:1192
+msgctxt "CREATURE:GOBLIN"
+msgid "[MANNERISM_NOSE:nose]"
 msgstr ""
 
 #: creature_standard.txt:1193
 msgctxt "CREATURE:GOBLIN"
-msgid "[APP_MOD_NOUN:eyebrows:PLURAL]"
+msgid "[MANNERISM_EAR:ear]"
+msgstr ""
+
+#: creature_standard.txt:1194
+msgctxt "CREATURE:GOBLIN"
+msgid "[MANNERISM_HEAD:head]"
+msgstr ""
+
+#: creature_standard.txt:1195
+msgctxt "CREATURE:GOBLIN"
+msgid "[MANNERISM_EYES:eyes]"
+msgstr ""
+
+#: creature_standard.txt:1196
+msgctxt "CREATURE:GOBLIN"
+msgid "[MANNERISM_MOUTH:mouth]"
 msgstr ""
 
 #: creature_standard.txt:1197
 msgctxt "CREATURE:GOBLIN"
-msgid "[APP_MOD_NOUN:eyelashes:PLURAL]"
+msgid "[MANNERISM_HAIR:hair]"
+msgstr ""
+
+#: creature_standard.txt:1198
+msgctxt "CREATURE:GOBLIN"
+msgid "[MANNERISM_KNUCKLES:knuckles]"
+msgstr ""
+
+#: creature_standard.txt:1199
+msgctxt "CREATURE:GOBLIN"
+msgid "[MANNERISM_LIPS:lips]"
+msgstr ""
+
+#: creature_standard.txt:1200
+msgctxt "CREATURE:GOBLIN"
+msgid "[MANNERISM_CHEEK:cheek]"
+msgstr ""
+
+#: creature_standard.txt:1201
+msgctxt "CREATURE:GOBLIN"
+msgid "[MANNERISM_NAILS:nails]"
+msgstr ""
+
+#: creature_standard.txt:1202
+msgctxt "CREATURE:GOBLIN"
+msgid "[MANNERISM_FEET:feet]"
+msgstr ""
+
+#: creature_standard.txt:1203
+msgctxt "CREATURE:GOBLIN"
+msgid "[MANNERISM_ARMS:arms]"
+msgstr ""
+
+#: creature_standard.txt:1204
+msgctxt "CREATURE:GOBLIN"
+msgid "[MANNERISM_HANDS:hands]"
+msgstr ""
+
+#: creature_standard.txt:1205
+msgctxt "CREATURE:GOBLIN"
+msgid "[MANNERISM_TONGUE:tongue]"
 msgstr ""
 
 #: creature_standard.txt:1206
 msgctxt "CREATURE:GOBLIN"
+msgid "[MANNERISM_LEG:leg]"
+msgstr ""
+
+#: creature_standard.txt:1231
+msgctxt "CREATURE:GOBLIN"
+msgid "[TLCM_NOUN:hair:SINGULAR]"
+msgstr ""
+
+#: creature_standard.txt:1234
+msgctxt "CREATURE:GOBLIN"
+msgid "[APP_MOD_NOUN:eyebrows:PLURAL]"
+msgstr ""
+
+#: creature_standard.txt:1238
+msgctxt "CREATURE:GOBLIN"
+msgid "[APP_MOD_NOUN:eyelashes:PLURAL]"
+msgstr ""
+
+#: creature_standard.txt:1247
+msgctxt "CREATURE:GOBLIN"
 msgid "[APP_MOD_NOUN:hair:SINGULAR]"
 msgstr ""
 
-#: creature_standard.txt:1210
+#: creature_standard.txt:1251
 msgctxt "CREATURE:GOBLIN"
 msgid "[TLCM_NOUN:skin:SINGULAR]"
 msgstr ""
 
-#: creature_standard.txt:1213
+#: creature_standard.txt:1254
 msgctxt "CREATURE:GOBLIN"
 msgid "[TLCM_NOUN:eyes:PLURAL]"
 msgstr ""
 
-#: creature_standard.txt:1216
+#: creature_standard.txt:1257
 msgctxt "CREATURE:KOBOLD"
 msgid "[DESCRIPTION:A small, squat humanoid with large pointy ears and yellow glowing eyes.]"
 msgstr ""
 
-#: creature_standard.txt:1217
+#: creature_standard.txt:1258
 msgctxt "CREATURE:KOBOLD"
 msgid "[NAME:kobold:kobolds:kobold]"
 msgstr ""
 
-#: creature_standard.txt:1218
+#: creature_standard.txt:1259
 msgctxt "CREATURE:KOBOLD"
 msgid "[CASTE_NAME:kobold:kobolds:kobold]"
 msgstr ""
 
-#: creature_standard.txt:1226
+#: creature_standard.txt:1267
 msgctxt "CREATURE:KOBOLD"
 msgid "[PREFSTRING:mischief]"
 msgstr ""
 
-#: creature_standard.txt:1264
+#: creature_standard.txt:1305
 msgctxt "CREATURE:KOBOLD"
-msgid "[CDI:ADV_NAME:Spit]"
+msgid "[CDI:ADV_NAME:Pet animal]"
 msgstr ""
 
-#: creature_standard.txt:1269
+#: creature_standard.txt:1308
 msgctxt "CREATURE:KOBOLD"
-msgid "[CDI:VERB:spit:spits:NA]"
-msgstr ""
-
-#: creature_standard.txt:1299
-msgctxt "CREATURE:KOBOLD"
-msgid "[APP_MOD_NOUN:eyes:PLURAL]"
-msgstr ""
-
-#: creature_standard.txt:1306
-msgctxt "CREATURE:KOBOLD"
-msgid "[APP_MOD_NOUN:lips:PLURAL]"
+msgid "[CDI:VERB:pet:pets:pets]"
 msgstr ""
 
 #: creature_standard.txt:1315
 msgctxt "CREATURE:KOBOLD"
+msgid "[CDI:ADV_NAME:Spit]"
+msgstr ""
+
+#: creature_standard.txt:1320
+msgctxt "CREATURE:KOBOLD"
+msgid "[CDI:VERB:spit:spits:NA]"
+msgstr ""
+
+#: creature_standard.txt:1350
+msgctxt "CREATURE:KOBOLD"
+msgid "[APP_MOD_NOUN:eyes:PLURAL]"
+msgstr ""
+
+#: creature_standard.txt:1357
+msgctxt "CREATURE:KOBOLD"
+msgid "[APP_MOD_NOUN:lips:PLURAL]"
+msgstr ""
+
+#: creature_standard.txt:1366
+msgctxt "CREATURE:KOBOLD"
 msgid "[APP_MOD_NOUN:nose bridge:SINGULAR]"
-msgstr ""
-
-#: creature_standard.txt:1318
-msgctxt "CREATURE:KOBOLD"
-msgid "[APP_MOD_NOUN:ears:PLURAL]"
-msgstr ""
-
-#: creature_standard.txt:1331
-msgctxt "CREATURE:KOBOLD"
-msgid "[APP_MOD_NOUN:teeth:PLURAL]"
-msgstr ""
-
-#: creature_standard.txt:1354
-msgctxt "CREATURE:KOBOLD"
-msgid "[ATTACK_VERB:punch:punches]"
-msgstr ""
-
-#: creature_standard.txt:1361
-msgctxt "CREATURE:KOBOLD"
-msgid "[ATTACK_VERB:kick:kicks]"
 msgstr ""
 
 #: creature_standard.txt:1369
 msgctxt "CREATURE:KOBOLD"
-msgid "[ATTACK_VERB:scratch:scratches]"
+msgid "[APP_MOD_NOUN:ears:PLURAL]"
 msgstr ""
 
-#: creature_standard.txt:1377
+#: creature_standard.txt:1382
 msgctxt "CREATURE:KOBOLD"
-msgid "[ATTACK_VERB:bite:bites]"
-msgstr ""
-
-#: creature_standard.txt:1396
-msgctxt "CREATURE:KOBOLD"
-msgid "[MANNERISM_FINGERS:finger:fingers]"
-msgstr ""
-
-#: creature_standard.txt:1397
-msgctxt "CREATURE:KOBOLD"
-msgid "[MANNERISM_NOSE:nose]"
-msgstr ""
-
-#: creature_standard.txt:1398
-msgctxt "CREATURE:KOBOLD"
-msgid "[MANNERISM_EAR:ear]"
-msgstr ""
-
-#: creature_standard.txt:1399
-msgctxt "CREATURE:KOBOLD"
-msgid "[MANNERISM_HEAD:head]"
-msgstr ""
-
-#: creature_standard.txt:1400
-msgctxt "CREATURE:KOBOLD"
-msgid "[MANNERISM_EYES:eyes]"
-msgstr ""
-
-#: creature_standard.txt:1401
-msgctxt "CREATURE:KOBOLD"
-msgid "[MANNERISM_MOUTH:mouth]"
-msgstr ""
-
-#: creature_standard.txt:1402
-msgctxt "CREATURE:KOBOLD"
-msgid "[MANNERISM_HAIR:hair]"
-msgstr ""
-
-#: creature_standard.txt:1403
-msgctxt "CREATURE:KOBOLD"
-msgid "[MANNERISM_KNUCKLES:knuckles]"
-msgstr ""
-
-#: creature_standard.txt:1404
-msgctxt "CREATURE:KOBOLD"
-msgid "[MANNERISM_LIPS:lips]"
+msgid "[APP_MOD_NOUN:teeth:PLURAL]"
 msgstr ""
 
 #: creature_standard.txt:1405
 msgctxt "CREATURE:KOBOLD"
+msgid "[ATTACK_VERB:punch:punches]"
+msgstr ""
+
+#: creature_standard.txt:1412
+msgctxt "CREATURE:KOBOLD"
+msgid "[ATTACK_VERB:kick:kicks]"
+msgstr ""
+
+#: creature_standard.txt:1420
+msgctxt "CREATURE:KOBOLD"
+msgid "[ATTACK_VERB:scratch:scratches]"
+msgstr ""
+
+#: creature_standard.txt:1428
+msgctxt "CREATURE:KOBOLD"
+msgid "[ATTACK_VERB:bite:bites]"
+msgstr ""
+
+#: creature_standard.txt:1447
+msgctxt "CREATURE:KOBOLD"
+msgid "[MANNERISM_FINGERS:finger:fingers]"
+msgstr ""
+
+#: creature_standard.txt:1448
+msgctxt "CREATURE:KOBOLD"
+msgid "[MANNERISM_NOSE:nose]"
+msgstr ""
+
+#: creature_standard.txt:1449
+msgctxt "CREATURE:KOBOLD"
+msgid "[MANNERISM_EAR:ear]"
+msgstr ""
+
+#: creature_standard.txt:1450
+msgctxt "CREATURE:KOBOLD"
+msgid "[MANNERISM_HEAD:head]"
+msgstr ""
+
+#: creature_standard.txt:1451
+msgctxt "CREATURE:KOBOLD"
+msgid "[MANNERISM_EYES:eyes]"
+msgstr ""
+
+#: creature_standard.txt:1452
+msgctxt "CREATURE:KOBOLD"
+msgid "[MANNERISM_MOUTH:mouth]"
+msgstr ""
+
+#: creature_standard.txt:1453
+msgctxt "CREATURE:KOBOLD"
+msgid "[MANNERISM_HAIR:hair]"
+msgstr ""
+
+#: creature_standard.txt:1454
+msgctxt "CREATURE:KOBOLD"
+msgid "[MANNERISM_KNUCKLES:knuckles]"
+msgstr ""
+
+#: creature_standard.txt:1455
+msgctxt "CREATURE:KOBOLD"
+msgid "[MANNERISM_LIPS:lips]"
+msgstr ""
+
+#: creature_standard.txt:1456
+msgctxt "CREATURE:KOBOLD"
 msgid "[MANNERISM_CHEEK:cheek]"
 msgstr ""
 
-#: creature_standard.txt:1406
+#: creature_standard.txt:1457
 msgctxt "CREATURE:KOBOLD"
 msgid "[MANNERISM_NAILS:nails]"
 msgstr ""
 
-#: creature_standard.txt:1407
+#: creature_standard.txt:1458
 msgctxt "CREATURE:KOBOLD"
 msgid "[MANNERISM_FEET:feet]"
 msgstr ""
 
-#: creature_standard.txt:1408
+#: creature_standard.txt:1459
 msgctxt "CREATURE:KOBOLD"
 msgid "[MANNERISM_ARMS:arms]"
 msgstr ""
 
-#: creature_standard.txt:1409
+#: creature_standard.txt:1460
 msgctxt "CREATURE:KOBOLD"
 msgid "[MANNERISM_HANDS:hands]"
 msgstr ""
 
-#: creature_standard.txt:1410
+#: creature_standard.txt:1461
 msgctxt "CREATURE:KOBOLD"
 msgid "[MANNERISM_TONGUE:tongue]"
 msgstr ""
 
-#: creature_standard.txt:1411
+#: creature_standard.txt:1462
 msgctxt "CREATURE:KOBOLD"
 msgid "[MANNERISM_LEG:leg]"
 msgstr ""
 
-#: creature_standard.txt:1432
+#: creature_standard.txt:1483
 msgctxt "CREATURE:KOBOLD"
 msgid "[TLCM_NOUN:skin:SINGULAR]"
 msgstr ""
 
-#: creature_standard.txt:1435
+#: creature_standard.txt:1486
 msgctxt "CREATURE:KOBOLD"
 msgid "[APP_MOD_NOUN:skin:SINGULAR]"
 msgstr ""
 
-#: creature_standard.txt:1439
+#: creature_standard.txt:1490
 msgctxt "CREATURE:KOBOLD"
 msgid "[TLCM_NOUN:eyes:PLURAL]"
 msgstr ""
 
-#: creature_standard.txt:1442
+#: creature_standard.txt:1493
 msgctxt "CREATURE:GREMLIN"
 msgid "[DESCRIPTION:A small humanoid creature with a mischievous, toothy grin.]"
 msgstr ""
 
-#: creature_standard.txt:1443
+#: creature_standard.txt:1494
 msgctxt "CREATURE:GREMLIN"
 msgid "[NAME:gremlin:gremlins:gremlin]"
 msgstr ""
 
-#: creature_standard.txt:1444
+#: creature_standard.txt:1495
 msgctxt "CREATURE:GREMLIN"
 msgid "[CASTE_NAME:gremlin:gremlins:gremlin]"
 msgstr ""
 
-#: creature_standard.txt:1455
+#: creature_standard.txt:1506
 msgctxt "CREATURE:GREMLIN"
 msgid "[PREFSTRING:mischief]"
 msgstr ""
 
-#: creature_standard.txt:1495
+#: creature_standard.txt:1546
+msgctxt "CREATURE:GREMLIN"
+msgid "[CDI:ADV_NAME:Pet animal]"
+msgstr ""
+
+#: creature_standard.txt:1549
+msgctxt "CREATURE:GREMLIN"
+msgid "[CDI:VERB:pet:pets:pets]"
+msgstr ""
+
+#: creature_standard.txt:1556
 msgctxt "CREATURE:GREMLIN"
 msgid "[CDI:ADV_NAME:Spit]"
 msgstr ""
 
-#: creature_standard.txt:1500
+#: creature_standard.txt:1561
 msgctxt "CREATURE:GREMLIN"
 msgid "[CDI:VERB:spit:spits:NA]"
 msgstr ""
 
-#: creature_standard.txt:1514
+#: creature_standard.txt:1575
 msgctxt "CREATURE:GREMLIN"
 msgid "[APP_MOD_NOUN:eyes:PLURAL]"
 msgstr ""
 
-#: creature_standard.txt:1521
+#: creature_standard.txt:1582
 msgctxt "CREATURE:GREMLIN"
 msgid "[APP_MOD_NOUN:lips:PLURAL]"
 msgstr ""
 
-#: creature_standard.txt:1530
+#: creature_standard.txt:1591
 msgctxt "CREATURE:GREMLIN"
 msgid "[APP_MOD_NOUN:nose bridge:SINGULAR]"
 msgstr ""
 
-#: creature_standard.txt:1533
+#: creature_standard.txt:1594
 msgctxt "CREATURE:GREMLIN"
 msgid "[APP_MOD_NOUN:ears:PLURAL]"
 msgstr ""
 
-#: creature_standard.txt:1546
+#: creature_standard.txt:1607
 msgctxt "CREATURE:GREMLIN"
 msgid "[APP_MOD_NOUN:teeth:PLURAL]"
 msgstr ""
 
-#: creature_standard.txt:1569
+#: creature_standard.txt:1630
 msgctxt "CREATURE:GREMLIN"
 msgid "[ATTACK_VERB:punch:punches]"
 msgstr ""
 
-#: creature_standard.txt:1576
+#: creature_standard.txt:1637
 msgctxt "CREATURE:GREMLIN"
 msgid "[ATTACK_VERB:kick:kicks]"
 msgstr ""
 
-#: creature_standard.txt:1584
+#: creature_standard.txt:1645
 msgctxt "CREATURE:GREMLIN"
 msgid "[ATTACK_VERB:scratch:scratches]"
 msgstr ""
 
-#: creature_standard.txt:1592
+#: creature_standard.txt:1653
 msgctxt "CREATURE:GREMLIN"
 msgid "[ATTACK_VERB:bite:bites]"
 msgstr ""
 
-#: creature_standard.txt:1620
+#: creature_standard.txt:1681
 msgctxt "CREATURE:GREMLIN"
 msgid "[TLCM_NOUN:skin:SINGULAR]"
 msgstr ""
 
-#: creature_standard.txt:1623
+#: creature_standard.txt:1684
 msgctxt "CREATURE:GREMLIN"
 msgid "[TLCM_NOUN:eyes:PLURAL]"
 msgstr ""
 
-#: creature_standard.txt:1626
+#: creature_standard.txt:1687
 msgctxt "CREATURE:TROLL"
 msgid "[DESCRIPTION:A huge humanoid monster with coarse fur, large tusks and horns.]"
 msgstr ""
 
-#: creature_standard.txt:1627
+#: creature_standard.txt:1688
 msgctxt "CREATURE:TROLL"
 msgid "[NAME:troll:trolls:troll]"
 msgstr ""
 
-#: creature_standard.txt:1628
+#: creature_standard.txt:1689
 msgctxt "CREATURE:TROLL"
 msgid "[CASTE_NAME:troll:trolls:troll]"
 msgstr ""
 
-#: creature_standard.txt:1642
+#: creature_standard.txt:1703
 msgctxt "CREATURE:TROLL"
 msgid "[PREFSTRING:terrifying features]"
 msgstr ""
 
-#: creature_standard.txt:1647
+#: creature_standard.txt:1708
 msgctxt "CREATURE:TROLL"
 msgid "[STATE_NAME:ALL_SOLID:ivory]"
 msgstr ""
 
-#: creature_standard.txt:1648
+#: creature_standard.txt:1709
 msgctxt "CREATURE:TROLL"
 msgid "[STATE_ADJ:ALL_SOLID:ivory]"
 msgstr ""
 
-#: creature_standard.txt:1650
+#: creature_standard.txt:1711
 msgctxt "CREATURE:TROLL"
 msgid "[STATE_NAME:ALL_SOLID:fur]"
 msgstr ""
 
-#: creature_standard.txt:1651
+#: creature_standard.txt:1712
 msgctxt "CREATURE:TROLL"
 msgid "[STATE_ADJ:ALL_SOLID:fur]"
 msgstr ""
 
-#: creature_standard.txt:1690
+#: creature_standard.txt:1751
 msgctxt "CREATURE:TROLL"
 msgid "[APP_MOD_NOUN:eyes:PLURAL]"
 msgstr ""
 
-#: creature_standard.txt:1700
+#: creature_standard.txt:1761
 msgctxt "CREATURE:TROLL"
 msgid "[APP_MOD_NOUN:lips:PLURAL]"
 msgstr ""
 
-#: creature_standard.txt:1709
+#: creature_standard.txt:1770
 msgctxt "CREATURE:TROLL"
 msgid "[APP_MOD_NOUN:nose bridge:SINGULAR]"
 msgstr ""
 
-#: creature_standard.txt:1712
+#: creature_standard.txt:1773
 msgctxt "CREATURE:TROLL"
 msgid "[APP_MOD_NOUN:ears:PLURAL]"
 msgstr ""
 
-#: creature_standard.txt:1725
+#: creature_standard.txt:1786
 msgctxt "CREATURE:TROLL"
 msgid "[APP_MOD_NOUN:teeth:PLURAL]"
 msgstr ""
 
-#: creature_standard.txt:1748
+#: creature_standard.txt:1809
 msgctxt "CREATURE:TROLL"
 msgid "[ATTACK_VERB:punch:punches]"
-msgstr ""
-
-#: creature_standard.txt:1755
-msgctxt "CREATURE:TROLL"
-msgid "[ATTACK_VERB:kick:kicks]"
-msgstr ""
-
-#: creature_standard.txt:1763
-msgctxt "CREATURE:TROLL"
-msgid "[ATTACK_VERB:scratch:scratches]"
-msgstr ""
-
-#: creature_standard.txt:1771
-msgctxt "CREATURE:TROLL"
-msgid "[ATTACK_VERB:bite:bites]"
-msgstr ""
-
-#: creature_standard.txt:1780
-msgctxt "CREATURE:TROLL"
-msgid "[ATTACK_VERB:gore:gores]"
-msgstr ""
-
-#: creature_standard.txt:1811
-msgctxt "CREATURE:TROLL"
-msgid "[TLCM_NOUN:fur:SINGULAR]"
 msgstr ""
 
 #: creature_standard.txt:1816
 msgctxt "CREATURE:TROLL"
+msgid "[ATTACK_VERB:kick:kicks]"
+msgstr ""
+
+#: creature_standard.txt:1824
+msgctxt "CREATURE:TROLL"
+msgid "[ATTACK_VERB:scratch:scratches]"
+msgstr ""
+
+#: creature_standard.txt:1832
+msgctxt "CREATURE:TROLL"
+msgid "[ATTACK_VERB:bite:bites]"
+msgstr ""
+
+#: creature_standard.txt:1841
+msgctxt "CREATURE:TROLL"
+msgid "[ATTACK_VERB:gore:gores]"
+msgstr ""
+
+#: creature_standard.txt:1872
+msgctxt "CREATURE:TROLL"
+msgid "[TLCM_NOUN:fur:SINGULAR]"
+msgstr ""
+
+#: creature_standard.txt:1877
+msgctxt "CREATURE:TROLL"
 msgid "[APP_MOD_NOUN:fur:SINGULAR]"
 msgstr ""
 
-#: creature_standard.txt:1822
+#: creature_standard.txt:1883
 msgctxt "CREATURE:TROLL"
 msgid "[TLCM_NOUN:skin:SINGULAR]"
 msgstr ""
 
-#: creature_standard.txt:1825
+#: creature_standard.txt:1886
 msgctxt "CREATURE:TROLL"
 msgid "[TLCM_NOUN:eyes:PLURAL]"
 msgstr ""
 
-#: creature_standard.txt:1828
+#: creature_standard.txt:1889
 msgctxt "CREATURE:OGRE"
 msgid "[DESCRIPTION:A giant humanoid monster found stomping about in the evil plains.  Their low howls can be heard long before they are seen.]"
 msgstr ""
 
-#: creature_standard.txt:1829
+#: creature_standard.txt:1890
 msgctxt "CREATURE:OGRE"
 msgid "[NAME:ogre:ogres:ogre]"
 msgstr ""
 
-#: creature_standard.txt:1830
+#: creature_standard.txt:1891
 msgctxt "CREATURE:OGRE"
 msgid "[CASTE_NAME:ogre:ogres:ogre]"
 msgstr ""
 
-#: creature_standard.txt:1847
+#: creature_standard.txt:1908
 msgctxt "CREATURE:OGRE"
 msgid "[PREFSTRING:low howls]"
 msgstr ""
 
-#: creature_standard.txt:1887
+#: creature_standard.txt:1948
 msgctxt "CREATURE:OGRE"
 msgid "[APP_MOD_NOUN:eyes:PLURAL]"
 msgstr ""
 
-#: creature_standard.txt:1897
+#: creature_standard.txt:1958
 msgctxt "CREATURE:OGRE"
 msgid "[APP_MOD_NOUN:lips:PLURAL]"
 msgstr ""
 
-#: creature_standard.txt:1906
+#: creature_standard.txt:1967
 msgctxt "CREATURE:OGRE"
 msgid "[APP_MOD_NOUN:nose bridge:SINGULAR]"
 msgstr ""
 
-#: creature_standard.txt:1909
+#: creature_standard.txt:1970
 msgctxt "CREATURE:OGRE"
 msgid "[APP_MOD_NOUN:ears:PLURAL]"
 msgstr ""
 
-#: creature_standard.txt:1922
+#: creature_standard.txt:1983
 msgctxt "CREATURE:OGRE"
 msgid "[APP_MOD_NOUN:teeth:PLURAL]"
 msgstr ""
 
-#: creature_standard.txt:1946
+#: creature_standard.txt:2007
 msgctxt "CREATURE:OGRE"
 msgid "[ATTACK_VERB:punch:punches]"
 msgstr ""
 
-#: creature_standard.txt:1953
+#: creature_standard.txt:2014
 msgctxt "CREATURE:OGRE"
 msgid "[ATTACK_VERB:kick:kicks]"
 msgstr ""
 
-#: creature_standard.txt:1961
+#: creature_standard.txt:2022
 msgctxt "CREATURE:OGRE"
 msgid "[ATTACK_VERB:scratch:scratches]"
 msgstr ""
 
-#: creature_standard.txt:1969
+#: creature_standard.txt:2030
 msgctxt "CREATURE:OGRE"
 msgid "[ATTACK_VERB:bite:bites]"
 msgstr ""
 
-#: creature_standard.txt:1988
+#: creature_standard.txt:2049
 msgctxt "CREATURE:OGRE"
 msgid "[CASTE_NAME:ogress:ogresses:ogress]"
 msgstr ""
 
-#: creature_standard.txt:1996
+#: creature_standard.txt:2057
 msgctxt "CREATURE:OGRE"
 msgid "[TLCM_NOUN:skin:SINGULAR]"
 msgstr ""
 
-#: creature_standard.txt:1999
+#: creature_standard.txt:2060
 msgctxt "CREATURE:OGRE"
 msgid "[TLCM_NOUN:eyes:PLURAL]"
 msgstr ""
 
-#: creature_standard.txt:2002
+#: creature_standard.txt:2063
 msgctxt "CREATURE:UNICORN"
 msgid "[DESCRIPTION:A horse-like creature with a spiral horn growing from its forehead.]"
 msgstr ""
 
-#: creature_standard.txt:2003
+#: creature_standard.txt:2064
 msgctxt "CREATURE:UNICORN"
 msgid "[NAME:unicorn:unicorns:unicorn]"
 msgstr ""
 
-#: creature_standard.txt:2004
+#: creature_standard.txt:2065
 msgctxt "CREATURE:UNICORN"
 msgid "[CASTE_NAME:unicorn:unicorns:unicorn]"
 msgstr ""
 
-#: creature_standard.txt:2008
+#: creature_standard.txt:2069
 msgctxt "CREATURE:UNICORN"
 msgid "[PREFSTRING:horns]"
 msgstr ""
 
-#: creature_standard.txt:2059
+#: creature_standard.txt:2120
 msgctxt "CREATURE:UNICORN"
 msgid "[ATTACK_VERB:stab:stabs]"
 msgstr ""
 
-#: creature_standard.txt:2067
+#: creature_standard.txt:2128
 msgctxt "CREATURE:UNICORN"
 msgid "[ATTACK_VERB:kick:kicks]"
 msgstr ""
 
-#: creature_standard.txt:2083
+#: creature_standard.txt:2144
 msgctxt "CREATURE:UNICORN"
 msgid "[ATTACK_VERB:bite:bites]"
 msgstr ""
 
-#: creature_standard.txt:2090
+#: creature_standard.txt:2151
 msgctxt "CREATURE:UNICORN"
 msgid "[GENERAL_CHILD_NAME:unicorn foal:unicorn foals]"
 msgstr ""
 
-#: creature_standard.txt:2099
+#: creature_standard.txt:2160
 msgctxt "CREATURE:UNICORN"
 msgid "[TLCM_NOUN:hair:SINGULAR]"
 msgstr ""
 
-#: creature_standard.txt:2102
+#: creature_standard.txt:2163
 msgctxt "CREATURE:UNICORN"
 msgid "[TLCM_NOUN:skin:SINGULAR]"
 msgstr ""
 
-#: creature_standard.txt:2105
+#: creature_standard.txt:2166
 msgctxt "CREATURE:UNICORN"
 msgid "[TLCM_NOUN:eyes:PLURAL]"
 msgstr ""
 
-#: creature_standard.txt:2117
+#: creature_standard.txt:2178
 msgctxt "CREATURE:DRAGON"
 msgid "[DESCRIPTION:A gigantic reptilian creature.  It is magical and can breathe fire.  These monsters can live for thousands of years.]"
 msgstr ""
 
-#: creature_standard.txt:2118
+#: creature_standard.txt:2179
 msgctxt "CREATURE:DRAGON"
 msgid "[NAME:dragon:dragons:draconic]"
 msgstr ""
 
-#: creature_standard.txt:2119
+#: creature_standard.txt:2180
 msgctxt "CREATURE:DRAGON"
 msgid "[CASTE_NAME:dragon:dragons:draconic]"
 msgstr ""
 
-#: creature_standard.txt:2128
+#: creature_standard.txt:2189
 msgctxt "CREATURE:DRAGON"
 msgid "[CDI:ADV_NAME:Breathe fire]"
 msgstr ""
 
-#: creature_standard.txt:2148
+#: creature_standard.txt:2209
 msgctxt "CREATURE:DRAGON"
 msgid "[PREFSTRING:terrible majesty]"
 msgstr ""
 
-#: creature_standard.txt:2188
+#: creature_standard.txt:2249
 msgctxt "CREATURE:DRAGON"
 msgid "[ATTACK_VERB:bite:bites]"
 msgstr ""
 
-#: creature_standard.txt:2197
+#: creature_standard.txt:2258
 msgctxt "CREATURE:DRAGON"
 msgid "[ATTACK_VERB:claw:claws]"
 msgstr ""
 
-#: creature_standard.txt:2232
+#: creature_standard.txt:2293
 msgctxt "CREATURE:DRAGON"
 msgid "[TLCM_NOUN:scales:PLURAL]"
 msgstr ""
 
-#: creature_standard.txt:2235
+#: creature_standard.txt:2296
 msgctxt "CREATURE:DRAGON"
 msgid "[TLCM_NOUN:eyes:PLURAL]"
-msgstr ""
-
-#: creature_standard.txt:2250
-msgctxt "CREATURE:SATYR"
-msgid "[DESCRIPTION:A medium-sized humanoid with the horns and legs of a goat.]"
-msgstr ""
-
-#: creature_standard.txt:2251
-msgctxt "CREATURE:SATYR"
-msgid "[NAME:satyr:satyrs:satyr]"
-msgstr ""
-
-#: creature_standard.txt:2252
-msgctxt "CREATURE:SATYR"
-msgid "[CASTE_NAME:satyr:satyrs:satyr]"
-msgstr ""
-
-#: creature_standard.txt:2266
-msgctxt "CREATURE:SATYR"
-msgid "[PREFSTRING:woolly legs]"
 msgstr ""
 
 #: creature_standard.txt:2311
 msgctxt "CREATURE:SATYR"
+msgid "[DESCRIPTION:A medium-sized humanoid with the horns and legs of a goat.]"
+msgstr ""
+
+#: creature_standard.txt:2312
+msgctxt "CREATURE:SATYR"
+msgid "[NAME:satyr:satyrs:satyr]"
+msgstr ""
+
+#: creature_standard.txt:2313
+msgctxt "CREATURE:SATYR"
+msgid "[CASTE_NAME:satyr:satyrs:satyr]"
+msgstr ""
+
+#: creature_standard.txt:2327
+msgctxt "CREATURE:SATYR"
+msgid "[PREFSTRING:woolly legs]"
+msgstr ""
+
+#: creature_standard.txt:2372
+msgctxt "CREATURE:SATYR"
+msgid "[CDI:ADV_NAME:Pet animal]"
+msgstr ""
+
+#: creature_standard.txt:2375
+msgctxt "CREATURE:SATYR"
+msgid "[CDI:VERB:pet:pets:pets]"
+msgstr ""
+
+#: creature_standard.txt:2382
+msgctxt "CREATURE:SATYR"
 msgid "[CDI:ADV_NAME:Spit]"
-msgstr ""
-
-#: creature_standard.txt:2316
-msgctxt "CREATURE:SATYR"
-msgid "[CDI:VERB:spit:spits:NA]"
-msgstr ""
-
-#: creature_standard.txt:2330
-msgctxt "CREATURE:SATYR"
-msgid "[APP_MOD_NOUN:eyes:PLURAL]"
-msgstr ""
-
-#: creature_standard.txt:2340
-msgctxt "CREATURE:SATYR"
-msgid "[APP_MOD_NOUN:lips:PLURAL]"
-msgstr ""
-
-#: creature_standard.txt:2349
-msgctxt "CREATURE:SATYR"
-msgid "[APP_MOD_NOUN:nose bridge:SINGULAR]"
-msgstr ""
-
-#: creature_standard.txt:2352
-msgctxt "CREATURE:SATYR"
-msgid "[APP_MOD_NOUN:ears:PLURAL]"
-msgstr ""
-
-#: creature_standard.txt:2365
-msgctxt "CREATURE:SATYR"
-msgid "[APP_MOD_NOUN:teeth:PLURAL]"
 msgstr ""
 
 #: creature_standard.txt:2387
 msgctxt "CREATURE:SATYR"
+msgid "[CDI:VERB:spit:spits:NA]"
+msgstr ""
+
+#: creature_standard.txt:2401
+msgctxt "CREATURE:SATYR"
+msgid "[APP_MOD_NOUN:eyes:PLURAL]"
+msgstr ""
+
+#: creature_standard.txt:2411
+msgctxt "CREATURE:SATYR"
+msgid "[APP_MOD_NOUN:lips:PLURAL]"
+msgstr ""
+
+#: creature_standard.txt:2420
+msgctxt "CREATURE:SATYR"
+msgid "[APP_MOD_NOUN:nose bridge:SINGULAR]"
+msgstr ""
+
+#: creature_standard.txt:2423
+msgctxt "CREATURE:SATYR"
+msgid "[APP_MOD_NOUN:ears:PLURAL]"
+msgstr ""
+
+#: creature_standard.txt:2436
+msgctxt "CREATURE:SATYR"
+msgid "[APP_MOD_NOUN:teeth:PLURAL]"
+msgstr ""
+
+#: creature_standard.txt:2458
+msgctxt "CREATURE:SATYR"
 msgid "[ATTACK_VERB:punch:punches]"
 msgstr ""
 
-#: creature_standard.txt:2394
+#: creature_standard.txt:2465
 msgctxt "CREATURE:SATYR"
 msgid "[ATTACK_VERB:kick:kicks]"
 msgstr ""
 
-#: creature_standard.txt:2402
+#: creature_standard.txt:2473
 msgctxt "CREATURE:SATYR"
 msgid "[ATTACK_VERB:gore:gores]"
-msgstr ""
-
-#: creature_standard.txt:2409
-msgctxt "CREATURE:SATYR"
-msgid "[ATTACK_VERB:scratch:scratches]"
-msgstr ""
-
-#: creature_standard.txt:2417
-msgctxt "CREATURE:SATYR"
-msgid "[ATTACK_VERB:bite:bites]"
-msgstr ""
-
-#: creature_standard.txt:2448
-msgctxt "CREATURE:SATYR"
-msgid "[TLCM_NOUN:hair:SINGULAR]"
-msgstr ""
-
-#: creature_standard.txt:2451
-msgctxt "CREATURE:SATYR"
-msgid "[APP_MOD_NOUN:eyebrows:PLURAL]"
-msgstr ""
-
-#: creature_standard.txt:2460
-msgctxt "CREATURE:SATYR"
-msgid "[APP_MOD_NOUN:eyelashes:PLURAL]"
-msgstr ""
-
-#: creature_standard.txt:2468
-msgctxt "CREATURE:SATYR"
-msgid "[APP_MOD_NOUN:hair:SINGULAR]"
 msgstr ""
 
 #: creature_standard.txt:2480
 msgctxt "CREATURE:SATYR"
+msgid "[ATTACK_VERB:scratch:scratches]"
+msgstr ""
+
+#: creature_standard.txt:2488
+msgctxt "CREATURE:SATYR"
+msgid "[ATTACK_VERB:bite:bites]"
+msgstr ""
+
+#: creature_standard.txt:2519
+msgctxt "CREATURE:SATYR"
+msgid "[TLCM_NOUN:hair:SINGULAR]"
+msgstr ""
+
+#: creature_standard.txt:2522
+msgctxt "CREATURE:SATYR"
+msgid "[APP_MOD_NOUN:eyebrows:PLURAL]"
+msgstr ""
+
+#: creature_standard.txt:2531
+msgctxt "CREATURE:SATYR"
+msgid "[APP_MOD_NOUN:eyelashes:PLURAL]"
+msgstr ""
+
+#: creature_standard.txt:2539
+msgctxt "CREATURE:SATYR"
+msgid "[APP_MOD_NOUN:hair:SINGULAR]"
+msgstr ""
+
+#: creature_standard.txt:2551
+msgctxt "CREATURE:SATYR"
 msgid "[TSU_NOUN:hair:SINGULAR]"
 msgstr ""
 
-#: creature_standard.txt:2484
+#: creature_standard.txt:2555
 msgctxt "CREATURE:SATYR"
 msgid "[TSU_NOUN:beard:SINGULAR]"
 msgstr ""
 
-#: creature_standard.txt:2487
+#: creature_standard.txt:2558
 msgctxt "CREATURE:SATYR"
 msgid "[TSU_NOUN:moustache:SINGULAR]"
 msgstr ""
 
-#: creature_standard.txt:2490
+#: creature_standard.txt:2561
 msgctxt "CREATURE:SATYR"
 msgid "[TSU_NOUN:sideburns:PLURAL]"
 msgstr ""
 
-#: creature_standard.txt:2493
+#: creature_standard.txt:2564
 msgctxt "CREATURE:SATYR"
 msgid "[TLCM_NOUN:skin:SINGULAR]"
 msgstr ""
 
-#: creature_standard.txt:2496
+#: creature_standard.txt:2567
 msgctxt "CREATURE:SATYR"
 msgid "[TLCM_NOUN:eyes:PLURAL]"
 msgstr ""
 
-#: creature_standard.txt:2499
+#: creature_standard.txt:2570
 msgctxt "CREATURE:COLOSSUS_BRONZE"
 msgid "[DESCRIPTION:A gigantic magic statue made of bronze and bent on mayhem.]"
 msgstr ""
 
-#: creature_standard.txt:2500
+#: creature_standard.txt:2571
 msgctxt "CREATURE:COLOSSUS_BRONZE"
 msgid "[NAME:bronze colossus:bronze colossuses:bronze colossus]"
 msgstr ""
 
-#: creature_standard.txt:2501
+#: creature_standard.txt:2572
 msgctxt "CREATURE:COLOSSUS_BRONZE"
 msgid "[CASTE_NAME:bronze colossus:bronze colossuses:bronze colossus]"
 msgstr ""
 
-#: creature_standard.txt:2522
+#: creature_standard.txt:2593
 msgctxt "CREATURE:COLOSSUS_BRONZE"
 msgid "[PREFSTRING:height]"
 msgstr ""
 
-#: creature_standard.txt:2529
+#: creature_standard.txt:2600
 msgctxt "CREATURE:COLOSSUS_BRONZE"
 msgid "[TISSUE_NAME:bronze:bronze]"
 msgstr ""
 
-#: creature_standard.txt:2543
+#: creature_standard.txt:2614
 msgctxt "CREATURE:COLOSSUS_BRONZE"
 msgid "[ATTACK_VERB:punch:punches]"
 msgstr ""
 
-#: creature_standard.txt:2550
+#: creature_standard.txt:2621
 msgctxt "CREATURE:COLOSSUS_BRONZE"
 msgid "[ATTACK_VERB:kick:kicks]"
 msgstr ""
 
-#: creature_standard.txt:2567
+#: creature_standard.txt:2638
 msgctxt "CREATURE:GIANT"
 msgid "[DESCRIPTION:A gigantic creature resembling a human, almost unparalleled in size.]"
 msgstr ""
 
-#: creature_standard.txt:2568
+#: creature_standard.txt:2639
 msgctxt "CREATURE:GIANT"
 msgid "[NAME:giant:giants:giant]"
 msgstr ""
 
-#: creature_standard.txt:2578
+#: creature_standard.txt:2649
 msgctxt "CREATURE:GIANT"
 msgid "[PREFSTRING:height]"
 msgstr ""
 
-#: creature_standard.txt:2623
+#: creature_standard.txt:2694
+msgctxt "CREATURE:GIANT"
+msgid "[CDI:ADV_NAME:Pet animal]"
+msgstr ""
+
+#: creature_standard.txt:2697
+msgctxt "CREATURE:GIANT"
+msgid "[CDI:VERB:pet:pets:pets]"
+msgstr ""
+
+#: creature_standard.txt:2704
 msgctxt "CREATURE:GIANT"
 msgid "[CDI:ADV_NAME:Spit]"
 msgstr ""
 
-#: creature_standard.txt:2628
+#: creature_standard.txt:2709
 msgctxt "CREATURE:GIANT"
 msgid "[CDI:VERB:spit:spits:NA]"
 msgstr ""
 
-#: creature_standard.txt:2642
+#: creature_standard.txt:2723
 msgctxt "CREATURE:GIANT"
 msgid "[APP_MOD_NOUN:eyes:PLURAL]"
 msgstr ""
 
-#: creature_standard.txt:2652
+#: creature_standard.txt:2733
 msgctxt "CREATURE:GIANT"
 msgid "[APP_MOD_NOUN:lips:PLURAL]"
 msgstr ""
 
-#: creature_standard.txt:2661
+#: creature_standard.txt:2742
 msgctxt "CREATURE:GIANT"
 msgid "[APP_MOD_NOUN:nose bridge:SINGULAR]"
 msgstr ""
 
-#: creature_standard.txt:2664
+#: creature_standard.txt:2745
 msgctxt "CREATURE:GIANT"
 msgid "[APP_MOD_NOUN:ears:PLURAL]"
-msgstr ""
-
-#: creature_standard.txt:2677
-msgctxt "CREATURE:GIANT"
-msgid "[APP_MOD_NOUN:teeth:PLURAL]"
-msgstr ""
-
-#: creature_standard.txt:2699
-msgctxt "CREATURE:GIANT"
-msgid "[ATTACK_VERB:punch:punches]"
-msgstr ""
-
-#: creature_standard.txt:2706
-msgctxt "CREATURE:GIANT"
-msgid "[ATTACK_VERB:kick:kicks]"
-msgstr ""
-
-#: creature_standard.txt:2714
-msgctxt "CREATURE:GIANT"
-msgid "[ATTACK_VERB:scratch:scratches]"
-msgstr ""
-
-#: creature_standard.txt:2722
-msgctxt "CREATURE:GIANT"
-msgid "[ATTACK_VERB:bite:bites]"
-msgstr ""
-
-#: creature_standard.txt:2743
-msgctxt "CREATURE:GIANT"
-msgid "[CASTE_NAME:giantess:giantesses:giantess]"
-msgstr ""
-
-#: creature_standard.txt:2748
-msgctxt "CREATURE:GIANT"
-msgid "[CASTE_NAME:giant:giants:giant]"
 msgstr ""
 
 #: creature_standard.txt:2758
 msgctxt "CREATURE:GIANT"
-msgid "[TLCM_NOUN:hair:SINGULAR]"
+msgid "[APP_MOD_NOUN:teeth:PLURAL]"
 msgstr ""
 
-#: creature_standard.txt:2761
+#: creature_standard.txt:2780
 msgctxt "CREATURE:GIANT"
-msgid "[APP_MOD_NOUN:eyebrows:PLURAL]"
+msgid "[ATTACK_VERB:punch:punches]"
 msgstr ""
 
-#: creature_standard.txt:2770
+#: creature_standard.txt:2787
 msgctxt "CREATURE:GIANT"
-msgid "[APP_MOD_NOUN:eyelashes:PLURAL]"
+msgid "[ATTACK_VERB:kick:kicks]"
 msgstr ""
 
-#: creature_standard.txt:2778
+#: creature_standard.txt:2795
 msgctxt "CREATURE:GIANT"
-msgid "[APP_MOD_NOUN:hair:SINGULAR]"
-msgstr ""
-
-#: creature_standard.txt:2790
-msgctxt "CREATURE:GIANT"
-msgid "[TSU_NOUN:hair:SINGULAR]"
-msgstr ""
-
-#: creature_standard.txt:2794
-msgctxt "CREATURE:GIANT"
-msgid "[TSU_NOUN:beard:SINGULAR]"
-msgstr ""
-
-#: creature_standard.txt:2797
-msgctxt "CREATURE:GIANT"
-msgid "[TSU_NOUN:moustache:SINGULAR]"
-msgstr ""
-
-#: creature_standard.txt:2800
-msgctxt "CREATURE:GIANT"
-msgid "[TSU_NOUN:sideburns:PLURAL]"
+msgid "[ATTACK_VERB:scratch:scratches]"
 msgstr ""
 
 #: creature_standard.txt:2803
 msgctxt "CREATURE:GIANT"
+msgid "[ATTACK_VERB:bite:bites]"
+msgstr ""
+
+#: creature_standard.txt:2824
+msgctxt "CREATURE:GIANT"
+msgid "[CASTE_NAME:giantess:giantesses:giantess]"
+msgstr ""
+
+#: creature_standard.txt:2829
+msgctxt "CREATURE:GIANT"
+msgid "[CASTE_NAME:giant:giants:giant]"
+msgstr ""
+
+#: creature_standard.txt:2839
+msgctxt "CREATURE:GIANT"
+msgid "[TLCM_NOUN:hair:SINGULAR]"
+msgstr ""
+
+#: creature_standard.txt:2842
+msgctxt "CREATURE:GIANT"
+msgid "[APP_MOD_NOUN:eyebrows:PLURAL]"
+msgstr ""
+
+#: creature_standard.txt:2851
+msgctxt "CREATURE:GIANT"
+msgid "[APP_MOD_NOUN:eyelashes:PLURAL]"
+msgstr ""
+
+#: creature_standard.txt:2859
+msgctxt "CREATURE:GIANT"
+msgid "[APP_MOD_NOUN:hair:SINGULAR]"
+msgstr ""
+
+#: creature_standard.txt:2871
+msgctxt "CREATURE:GIANT"
+msgid "[TSU_NOUN:hair:SINGULAR]"
+msgstr ""
+
+#: creature_standard.txt:2875
+msgctxt "CREATURE:GIANT"
+msgid "[TSU_NOUN:beard:SINGULAR]"
+msgstr ""
+
+#: creature_standard.txt:2878
+msgctxt "CREATURE:GIANT"
+msgid "[TSU_NOUN:moustache:SINGULAR]"
+msgstr ""
+
+#: creature_standard.txt:2881
+msgctxt "CREATURE:GIANT"
+msgid "[TSU_NOUN:sideburns:PLURAL]"
+msgstr ""
+
+#: creature_standard.txt:2884
+msgctxt "CREATURE:GIANT"
 msgid "[TLCM_NOUN:skin:SINGULAR]"
 msgstr ""
 
-#: creature_standard.txt:2806
+#: creature_standard.txt:2887
 msgctxt "CREATURE:GIANT"
 msgid "[TLCM_NOUN:eyes:PLURAL]"
 msgstr ""
 
-#: creature_standard.txt:2809
+#: creature_standard.txt:2890
 msgctxt "CREATURE:CYCLOPS"
 msgid "[DESCRIPTION:A giant humanoid monster with a single eye set in its forehead.]"
 msgstr ""
 
-#: creature_standard.txt:2810
+#: creature_standard.txt:2891
 msgctxt "CREATURE:CYCLOPS"
 msgid "[NAME:cyclops:cyclopes:cyclops]"
 msgstr ""
 
-#: creature_standard.txt:2811
+#: creature_standard.txt:2892
 msgctxt "CREATURE:CYCLOPS"
 msgid "[CASTE_NAME:cyclops:cyclopes:cyclops]"
 msgstr ""
 
-#: creature_standard.txt:2821
+#: creature_standard.txt:2902
 msgctxt "CREATURE:CYCLOPS"
 msgid "[PREFSTRING:single eye]"
 msgstr ""
 
-#: creature_standard.txt:2867
+#: creature_standard.txt:2948
+msgctxt "CREATURE:CYCLOPS"
+msgid "[CDI:ADV_NAME:Pet animal]"
+msgstr ""
+
+#: creature_standard.txt:2951
+msgctxt "CREATURE:CYCLOPS"
+msgid "[CDI:VERB:pet:pets:pets]"
+msgstr ""
+
+#: creature_standard.txt:2958
 msgctxt "CREATURE:CYCLOPS"
 msgid "[CDI:ADV_NAME:Spit]"
 msgstr ""
 
-#: creature_standard.txt:2872
+#: creature_standard.txt:2963
 msgctxt "CREATURE:CYCLOPS"
 msgid "[CDI:VERB:spit:spits:NA]"
 msgstr ""
 
-#: creature_standard.txt:2886
+#: creature_standard.txt:2977
 msgctxt "CREATURE:CYCLOPS"
 msgid "[APP_MOD_NOUN:eye:SINGULAR]"
 msgstr ""
 
-#: creature_standard.txt:2891
+#: creature_standard.txt:2982
 msgctxt "CREATURE:CYCLOPS"
 msgid "[APP_MOD_NOUN:lips:PLURAL]"
 msgstr ""
 
-#: creature_standard.txt:2900
+#: creature_standard.txt:2991
 msgctxt "CREATURE:CYCLOPS"
 msgid "[APP_MOD_NOUN:nose bridge:SINGULAR]"
 msgstr ""
 
-#: creature_standard.txt:2903
+#: creature_standard.txt:2994
 msgctxt "CREATURE:CYCLOPS"
 msgid "[APP_MOD_NOUN:ears:PLURAL]"
-msgstr ""
-
-#: creature_standard.txt:2916
-msgctxt "CREATURE:CYCLOPS"
-msgid "[APP_MOD_NOUN:teeth:PLURAL]"
-msgstr ""
-
-#: creature_standard.txt:2938
-msgctxt "CREATURE:CYCLOPS"
-msgid "[ATTACK_VERB:punch:punches]"
-msgstr ""
-
-#: creature_standard.txt:2945
-msgctxt "CREATURE:CYCLOPS"
-msgid "[ATTACK_VERB:kick:kicks]"
-msgstr ""
-
-#: creature_standard.txt:2953
-msgctxt "CREATURE:CYCLOPS"
-msgid "[ATTACK_VERB:scratch:scratches]"
-msgstr ""
-
-#: creature_standard.txt:2961
-msgctxt "CREATURE:CYCLOPS"
-msgid "[ATTACK_VERB:bite:bites]"
-msgstr ""
-
-#: creature_standard.txt:2995
-msgctxt "CREATURE:CYCLOPS"
-msgid "[TLCM_NOUN:hair:SINGULAR]"
-msgstr ""
-
-#: creature_standard.txt:2998
-msgctxt "CREATURE:CYCLOPS"
-msgid "[APP_MOD_NOUN:eyebrow:SINGULAR]"
 msgstr ""
 
 #: creature_standard.txt:3007
 msgctxt "CREATURE:CYCLOPS"
+msgid "[APP_MOD_NOUN:teeth:PLURAL]"
+msgstr ""
+
+#: creature_standard.txt:3029
+msgctxt "CREATURE:CYCLOPS"
+msgid "[ATTACK_VERB:punch:punches]"
+msgstr ""
+
+#: creature_standard.txt:3036
+msgctxt "CREATURE:CYCLOPS"
+msgid "[ATTACK_VERB:kick:kicks]"
+msgstr ""
+
+#: creature_standard.txt:3044
+msgctxt "CREATURE:CYCLOPS"
+msgid "[ATTACK_VERB:scratch:scratches]"
+msgstr ""
+
+#: creature_standard.txt:3052
+msgctxt "CREATURE:CYCLOPS"
+msgid "[ATTACK_VERB:bite:bites]"
+msgstr ""
+
+#: creature_standard.txt:3086
+msgctxt "CREATURE:CYCLOPS"
+msgid "[TLCM_NOUN:hair:SINGULAR]"
+msgstr ""
+
+#: creature_standard.txt:3089
+msgctxt "CREATURE:CYCLOPS"
+msgid "[APP_MOD_NOUN:eyebrow:SINGULAR]"
+msgstr ""
+
+#: creature_standard.txt:3098
+msgctxt "CREATURE:CYCLOPS"
 msgid "[APP_MOD_NOUN:eyelashes:PLURAL]"
 msgstr ""
 
-#: creature_standard.txt:3015
+#: creature_standard.txt:3106
 msgctxt "CREATURE:CYCLOPS"
 msgid "[APP_MOD_NOUN:hair:SINGULAR]"
 msgstr ""
 
-#: creature_standard.txt:3027
+#: creature_standard.txt:3118
 msgctxt "CREATURE:CYCLOPS"
 msgid "[TSU_NOUN:hair:SINGULAR]"
 msgstr ""
 
-#: creature_standard.txt:3031
+#: creature_standard.txt:3122
 msgctxt "CREATURE:CYCLOPS"
 msgid "[TSU_NOUN:beard:SINGULAR]"
 msgstr ""
 
-#: creature_standard.txt:3034
+#: creature_standard.txt:3125
 msgctxt "CREATURE:CYCLOPS"
 msgid "[TSU_NOUN:moustache:SINGULAR]"
 msgstr ""
 
-#: creature_standard.txt:3037
+#: creature_standard.txt:3128
 msgctxt "CREATURE:CYCLOPS"
 msgid "[TSU_NOUN:sideburns:PLURAL]"
 msgstr ""
 
-#: creature_standard.txt:3040
+#: creature_standard.txt:3131
 msgctxt "CREATURE:CYCLOPS"
 msgid "[TLCM_NOUN:skin:SINGULAR]"
 msgstr ""
 
-#: creature_standard.txt:3043
+#: creature_standard.txt:3134
 msgctxt "CREATURE:CYCLOPS"
 msgid "[TLCM_NOUN:eye:SINGULAR]"
 msgstr ""
 
-#: creature_standard.txt:3046
+#: creature_standard.txt:3137
 msgctxt "CREATURE:ETTIN"
 msgid "[DESCRIPTION:A giant humanoid monster with two heads.]"
 msgstr ""
 
-#: creature_standard.txt:3047
+#: creature_standard.txt:3138
 msgctxt "CREATURE:ETTIN"
 msgid "[NAME:ettin:ettins:ettin]"
 msgstr ""
 
-#: creature_standard.txt:3048
+#: creature_standard.txt:3139
 msgctxt "CREATURE:ETTIN"
 msgid "[CASTE_NAME:ettin:ettins:ettin]"
 msgstr ""
 
-#: creature_standard.txt:3058
+#: creature_standard.txt:3149
 msgctxt "CREATURE:ETTIN"
 msgid "[PREFSTRING:arguing heads]"
 msgstr ""
 
-#: creature_standard.txt:3103
+#: creature_standard.txt:3194
+msgctxt "CREATURE:ETTIN"
+msgid "[CDI:ADV_NAME:Pet animal]"
+msgstr ""
+
+#: creature_standard.txt:3197
+msgctxt "CREATURE:ETTIN"
+msgid "[CDI:VERB:pet:pets:pets]"
+msgstr ""
+
+#: creature_standard.txt:3204
 msgctxt "CREATURE:ETTIN"
 msgid "[CDI:ADV_NAME:Spit]"
 msgstr ""
 
-#: creature_standard.txt:3108
+#: creature_standard.txt:3209
 msgctxt "CREATURE:ETTIN"
 msgid "[CDI:VERB:spit:spits:NA]"
 msgstr ""
 
-#: creature_standard.txt:3123
+#: creature_standard.txt:3224
 msgctxt "CREATURE:ETTIN"
 msgid "[APP_MOD_NOUN:eyes:PLURAL]"
 msgstr ""
 
-#: creature_standard.txt:3133
+#: creature_standard.txt:3234
 msgctxt "CREATURE:ETTIN"
 msgid "[APP_MOD_NOUN:lips:PLURAL]"
 msgstr ""
 
-#: creature_standard.txt:3142
+#: creature_standard.txt:3243
 msgctxt "CREATURE:ETTIN"
 msgid "[APP_MOD_NOUN:nose bridge:SINGULAR]"
 msgstr ""
 
-#: creature_standard.txt:3145
+#: creature_standard.txt:3246
 msgctxt "CREATURE:ETTIN"
 msgid "[APP_MOD_NOUN:ears:PLURAL]"
 msgstr ""
 
-#: creature_standard.txt:3158
+#: creature_standard.txt:3259
 msgctxt "CREATURE:ETTIN"
 msgid "[APP_MOD_NOUN:teeth:PLURAL]"
 msgstr ""
 
-#: creature_standard.txt:3180
+#: creature_standard.txt:3281
 msgctxt "CREATURE:ETTIN"
 msgid "[ATTACK_VERB:punch:punches]"
 msgstr ""
 
-#: creature_standard.txt:3187
+#: creature_standard.txt:3288
 msgctxt "CREATURE:ETTIN"
 msgid "[ATTACK_VERB:kick:kicks]"
 msgstr ""
 
-#: creature_standard.txt:3195
+#: creature_standard.txt:3296
 msgctxt "CREATURE:ETTIN"
 msgid "[ATTACK_VERB:scratch:scratches]"
 msgstr ""
 
-#: creature_standard.txt:3203
+#: creature_standard.txt:3304
 msgctxt "CREATURE:ETTIN"
 msgid "[ATTACK_VERB:bite:bites]"
 msgstr ""
 
-#: creature_standard.txt:3238
+#: creature_standard.txt:3339
 msgctxt "CREATURE:ETTIN"
 msgid "[TLCM_NOUN:hair:SINGULAR]"
 msgstr ""
 
-#: creature_standard.txt:3241
+#: creature_standard.txt:3342
 msgctxt "CREATURE:ETTIN"
 msgid "[APP_MOD_NOUN:eyebrows:PLURAL]"
 msgstr ""
 
-#: creature_standard.txt:3250
+#: creature_standard.txt:3351
 msgctxt "CREATURE:ETTIN"
 msgid "[APP_MOD_NOUN:eyelashes:PLURAL]"
 msgstr ""
 
-#: creature_standard.txt:3258
+#: creature_standard.txt:3359
 msgctxt "CREATURE:ETTIN"
 msgid "[APP_MOD_NOUN:hair:SINGULAR]"
 msgstr ""
 
-#: creature_standard.txt:3270
+#: creature_standard.txt:3371
 msgctxt "CREATURE:ETTIN"
 msgid "[TSU_NOUN:hair:SINGULAR]"
 msgstr ""
 
-#: creature_standard.txt:3274
+#: creature_standard.txt:3375
 msgctxt "CREATURE:ETTIN"
 msgid "[TSU_NOUN:beard:SINGULAR]"
 msgstr ""
 
-#: creature_standard.txt:3277
+#: creature_standard.txt:3378
 msgctxt "CREATURE:ETTIN"
 msgid "[TSU_NOUN:moustache:SINGULAR]"
 msgstr ""
 
-#: creature_standard.txt:3280
+#: creature_standard.txt:3381
 msgctxt "CREATURE:ETTIN"
 msgid "[TSU_NOUN:sideburns:PLURAL]"
 msgstr ""
 
-#: creature_standard.txt:3283
+#: creature_standard.txt:3384
 msgctxt "CREATURE:ETTIN"
 msgid "[TLCM_NOUN:skin:SINGULAR]"
 msgstr ""
 
-#: creature_standard.txt:3286
+#: creature_standard.txt:3387
 msgctxt "CREATURE:ETTIN"
 msgid "[TLCM_NOUN:eyes:PLURAL]"
 msgstr ""
 
-#: creature_standard.txt:3289
+#: creature_standard.txt:3390
 msgctxt "CREATURE:MINOTAUR"
 msgid "[DESCRIPTION:A giant humanoid monster with the head of a bull.]"
 msgstr ""
 
-#: creature_standard.txt:3290
+#: creature_standard.txt:3391
 msgctxt "CREATURE:MINOTAUR"
 msgid "[NAME:minotaur:minotaurs:minotaur]"
 msgstr ""
 
-#: creature_standard.txt:3291
+#: creature_standard.txt:3392
 msgctxt "CREATURE:MINOTAUR"
 msgid "[CASTE_NAME:minotaur:minotaurs:minotaur]"
 msgstr ""
 
-#: creature_standard.txt:3301
+#: creature_standard.txt:3402
 msgctxt "CREATURE:MINOTAUR"
 msgid "[PREFSTRING:horns]"
 msgstr ""
 
-#: creature_standard.txt:3348
+#: creature_standard.txt:3449
+msgctxt "CREATURE:MINOTAUR"
+msgid "[CDI:ADV_NAME:Pet animal]"
+msgstr ""
+
+#: creature_standard.txt:3452
+msgctxt "CREATURE:MINOTAUR"
+msgid "[CDI:VERB:pet:pets:pets]"
+msgstr ""
+
+#: creature_standard.txt:3459
 msgctxt "CREATURE:MINOTAUR"
 msgid "[CDI:ADV_NAME:Spit]"
 msgstr ""
 
-#: creature_standard.txt:3353
+#: creature_standard.txt:3464
 msgctxt "CREATURE:MINOTAUR"
 msgid "[CDI:VERB:spit:spits:NA]"
 msgstr ""
 
-#: creature_standard.txt:3365
+#: creature_standard.txt:3476
 msgctxt "CREATURE:MINOTAUR"
 msgid "[ATTACK_VERB:punch:punches]"
 msgstr ""
 
-#: creature_standard.txt:3372
+#: creature_standard.txt:3483
 msgctxt "CREATURE:MINOTAUR"
 msgid "[ATTACK_VERB:gore:gores]"
 msgstr ""
 
-#: creature_standard.txt:3379
+#: creature_standard.txt:3490
 msgctxt "CREATURE:MINOTAUR"
 msgid "[ATTACK_VERB:kick:kicks]"
 msgstr ""
 
-#: creature_standard.txt:3387
+#: creature_standard.txt:3498
 msgctxt "CREATURE:MINOTAUR"
 msgid "[ATTACK_VERB:scratch:scratches]"
 msgstr ""
 
-#: creature_standard.txt:3395
+#: creature_standard.txt:3506
 msgctxt "CREATURE:MINOTAUR"
 msgid "[ATTACK_VERB:bite:bites]"
 msgstr ""
 
-#: creature_standard.txt:3433
+#: creature_standard.txt:3544
 msgctxt "CREATURE:MINOTAUR"
 msgid "[LAIR_HUNTER_SPEECH:lair_hunter_minotaur.txt]"
 msgstr ""
 
-#: creature_standard.txt:3455
+#: creature_standard.txt:3566
 msgctxt "CREATURE:MINOTAUR"
 msgid "[TLCM_NOUN:hair:SINGULAR]"
 msgstr ""
 
-#: creature_standard.txt:3458
+#: creature_standard.txt:3569
 msgctxt "CREATURE:MINOTAUR"
 msgid "[TLCM_NOUN:skin:SINGULAR]"
 msgstr ""
 
-#: creature_standard.txt:3461
+#: creature_standard.txt:3572
 msgctxt "CREATURE:MINOTAUR"
 msgid "[TLCM_NOUN:eyes:PLURAL]"
 msgstr ""
 
-#: creature_standard.txt:3464
+#: creature_standard.txt:3575
 msgctxt "CREATURE:YETI"
 msgid "[DESCRIPTION:A large ape-like creature with white fur, found in the snowy wilds.]"
 msgstr ""
 
-#: creature_standard.txt:3465
+#: creature_standard.txt:3576
 msgctxt "CREATURE:YETI"
 msgid "[NAME:yeti:yetis:yeti]"
 msgstr ""
 
-#: creature_standard.txt:3466
+#: creature_standard.txt:3577
 msgctxt "CREATURE:YETI"
 msgid "[CASTE_NAME:yeti:yetis:yeti]"
 msgstr ""
 
-#: creature_standard.txt:3481
+#: creature_standard.txt:3592
 msgctxt "CREATURE:YETI"
 msgid "[PREFSTRING:white fur]"
 msgstr ""
 
-#: creature_standard.txt:3519
+#: creature_standard.txt:3630
 msgctxt "CREATURE:YETI"
 msgid "[ATTACK_VERB:punch:punches]"
 msgstr ""
 
-#: creature_standard.txt:3526
+#: creature_standard.txt:3637
 msgctxt "CREATURE:YETI"
 msgid "[ATTACK_VERB:kick:kicks]"
 msgstr ""
 
-#: creature_standard.txt:3534
+#: creature_standard.txt:3645
 msgctxt "CREATURE:YETI"
 msgid "[ATTACK_VERB:scratch:scratches]"
 msgstr ""
 
-#: creature_standard.txt:3542
+#: creature_standard.txt:3653
 msgctxt "CREATURE:YETI"
 msgid "[ATTACK_VERB:bite:bites]"
 msgstr ""
 
-#: creature_standard.txt:3567
+#: creature_standard.txt:3678
 msgctxt "CREATURE:YETI"
 msgid "[TLCM_NOUN:hair:SINGULAR]"
 msgstr ""
 
-#: creature_standard.txt:3570
+#: creature_standard.txt:3681
 msgctxt "CREATURE:YETI"
 msgid "[TLCM_NOUN:skin:SINGULAR]"
 msgstr ""
 
-#: creature_standard.txt:3573
+#: creature_standard.txt:3684
 msgctxt "CREATURE:YETI"
 msgid "[TLCM_NOUN:eyes:PLURAL]"
 msgstr ""
 
-#: creature_standard.txt:3578
+#: creature_standard.txt:3689
 msgctxt "CREATURE:SASQUATCH"
 msgid "[DESCRIPTION:A large and mysterious ape-like creature found in temperate forests.]"
 msgstr ""
 
-#: creature_standard.txt:3579
+#: creature_standard.txt:3690
 msgctxt "CREATURE:SASQUATCH"
 msgid "[NAME:sasquatch:sasquatches:sasquatch]"
 msgstr ""
 
-#: creature_standard.txt:3580
+#: creature_standard.txt:3691
 msgctxt "CREATURE:SASQUATCH"
 msgid "[CASTE_NAME:sasquatch:sasquatches:sasquatch]"
 msgstr ""
 
-#: creature_standard.txt:3594
+#: creature_standard.txt:3705
 msgctxt "CREATURE:SASQUATCH"
 msgid "[PREFSTRING:reclusive nature]"
 msgstr ""
 
-#: creature_standard.txt:3632
+#: creature_standard.txt:3743
 msgctxt "CREATURE:SASQUATCH"
 msgid "[ATTACK_VERB:punch:punches]"
 msgstr ""
 
-#: creature_standard.txt:3639
+#: creature_standard.txt:3750
 msgctxt "CREATURE:SASQUATCH"
 msgid "[ATTACK_VERB:kick:kicks]"
 msgstr ""
 
-#: creature_standard.txt:3647
+#: creature_standard.txt:3758
 msgctxt "CREATURE:SASQUATCH"
 msgid "[ATTACK_VERB:scratch:scratches]"
 msgstr ""
 
-#: creature_standard.txt:3655
+#: creature_standard.txt:3766
 msgctxt "CREATURE:SASQUATCH"
 msgid "[ATTACK_VERB:bite:bites]"
 msgstr ""
 
-#: creature_standard.txt:3680
+#: creature_standard.txt:3791
 msgctxt "CREATURE:SASQUATCH"
 msgid "[TLCM_NOUN:hair:SINGULAR]"
 msgstr ""
 
-#: creature_standard.txt:3683
+#: creature_standard.txt:3794
 msgctxt "CREATURE:SASQUATCH"
 msgid "[TLCM_NOUN:skin:SINGULAR]"
 msgstr ""
 
-#: creature_standard.txt:3686
+#: creature_standard.txt:3797
 msgctxt "CREATURE:SASQUATCH"
 msgid "[TLCM_NOUN:eyes:PLURAL]"
 msgstr ""
 
-#: creature_standard.txt:3691
+#: creature_standard.txt:3802
 msgctxt "CREATURE:BLIZZARD_MAN"
 msgid "[DESCRIPTION:A large humanoid monster from the wild tundra.  It has translucent skin, icicles for teeth, red glowing eyes and pointed ears.]"
 msgstr ""
 
-#: creature_standard.txt:3692
+#: creature_standard.txt:3803
 msgctxt "CREATURE:BLIZZARD_MAN"
 msgid "[NAME:blizzard man:blizzard men:blizzard man]"
 msgstr ""
 
-#: creature_standard.txt:3693
+#: creature_standard.txt:3804
 msgctxt "CREATURE:BLIZZARD_MAN"
 msgid "[CASTE_NAME:blizzard man:blizzard men:blizzard man]"
 msgstr ""
 
-#: creature_standard.txt:3705
+#: creature_standard.txt:3816
 msgctxt "CREATURE:BLIZZARD_MAN"
 msgid "[PREFSTRING:translucent skin]"
 msgstr ""
 
-#: creature_standard.txt:3706
+#: creature_standard.txt:3817
 msgctxt "CREATURE:BLIZZARD_MAN"
 msgid "[PREFSTRING:icicle teeth]"
 msgstr ""
 
-#: creature_standard.txt:3707
+#: creature_standard.txt:3818
 msgctxt "CREATURE:BLIZZARD_MAN"
 msgid "[PREFSTRING:glowing red eyes]"
 msgstr ""
 
-#: creature_standard.txt:3708
+#: creature_standard.txt:3819
 msgctxt "CREATURE:BLIZZARD_MAN"
 msgid "[PREFSTRING:pointy ears]"
 msgstr ""
 
-#: creature_standard.txt:3728
+#: creature_standard.txt:3839
 msgctxt "CREATURE:BLIZZARD_MAN"
 msgid "[ATTACK_VERB:punch:punches]"
 msgstr ""
 
-#: creature_standard.txt:3735
+#: creature_standard.txt:3846
 msgctxt "CREATURE:BLIZZARD_MAN"
 msgid "[ATTACK_VERB:kick:kicks]"
 msgstr ""
 
-#: creature_standard.txt:3743
+#: creature_standard.txt:3854
 msgctxt "CREATURE:BLIZZARD_MAN"
 msgid "[ATTACK_VERB:scratch:scratches]"
 msgstr ""
 
-#: creature_standard.txt:3751
+#: creature_standard.txt:3862
 msgctxt "CREATURE:BLIZZARD_MAN"
 msgid "[ATTACK_VERB:bite:bites]"
 msgstr ""
 
-#: creature_standard.txt:3771
+#: creature_standard.txt:3882
 msgctxt "CREATURE:BLIZZARD_MAN"
 msgid "[TLCM_NOUN:eyes:PLURAL]"
 msgstr ""
 
-#: creature_standard.txt:3774
+#: creature_standard.txt:3885
 msgctxt "CREATURE:WOLF_ICE"
 msgid "[DESCRIPTION:A fierce creature from the evil snowy wilds.  It has white fur and a piercing howl.]"
 msgstr ""
 
-#: creature_standard.txt:3775
+#: creature_standard.txt:3886
 msgctxt "CREATURE:WOLF_ICE"
 msgid "[NAME:ice wolf:ice wolves:ice wolf]"
 msgstr ""
 
-#: creature_standard.txt:3776
+#: creature_standard.txt:3887
 msgctxt "CREATURE:WOLF_ICE"
 msgid "[CASTE_NAME:ice wolf:ice wolves:ice wolf]"
 msgstr ""
 
-#: creature_standard.txt:3777
+#: creature_standard.txt:3888
 msgctxt "CREATURE:WOLF_ICE"
 msgid "[GENERAL_CHILD_NAME:ice wolf pup:ice wolf pups]"
 msgstr ""
 
-#: creature_standard.txt:3789
+#: creature_standard.txt:3900
 msgctxt "CREATURE:WOLF_ICE"
 msgid "[PREFSTRING:piercing howls]"
 msgstr ""
 
-#: creature_standard.txt:3826
+#: creature_standard.txt:3937
 msgctxt "CREATURE:WOLF_ICE"
 msgid "[ATTACK_VERB:bite:bites]"
 msgstr ""
 
-#: creature_standard.txt:3835
+#: creature_standard.txt:3946
 msgctxt "CREATURE:WOLF_ICE"
 msgid "[ATTACK_VERB:scratch:scratches]"
 msgstr ""
 
-#: creature_standard.txt:3855
+#: creature_standard.txt:3966
 msgctxt "CREATURE:WOLF_ICE"
 msgid "[TLCM_NOUN:hair:SINGULAR]"
 msgstr ""
 
-#: creature_standard.txt:3858
+#: creature_standard.txt:3969
 msgctxt "CREATURE:WOLF_ICE"
 msgid "[TLCM_NOUN:skin:SINGULAR]"
 msgstr ""
 
-#: creature_standard.txt:3861
+#: creature_standard.txt:3972
 msgctxt "CREATURE:WOLF_ICE"
 msgid "[TLCM_NOUN:eyes:PLURAL]"
 msgstr ""
 
-#: creature_standard.txt:3866
+#: creature_standard.txt:3977
 msgctxt "CREATURE:FAIRY"
 msgid "[DESCRIPTION:A tiny, giggling humanoid with lacy wings.]"
 msgstr ""
 
-#: creature_standard.txt:3867
+#: creature_standard.txt:3978
 msgctxt "CREATURE:FAIRY"
 msgid "[NAME:fairy:fairies:fairy]"
 msgstr ""
 
-#: creature_standard.txt:3868
+#: creature_standard.txt:3979
 msgctxt "CREATURE:FAIRY"
 msgid "[CASTE_NAME:fairy:fairies:fairy]"
 msgstr ""
 
-#: creature_standard.txt:3881
+#: creature_standard.txt:3992
 msgctxt "CREATURE:FAIRY"
 msgid "[PREFSTRING:babylike giggles]"
 msgstr ""
 
-#: creature_standard.txt:3882
+#: creature_standard.txt:3993
 msgctxt "CREATURE:FAIRY"
 msgid "[PREFSTRING:lacy wings]"
 msgstr ""
 
-#: creature_standard.txt:3925
+#: creature_standard.txt:4036
 msgctxt "CREATURE:FAIRY"
 msgid "[APP_MOD_NOUN:eyes:PLURAL]"
 msgstr ""
 
-#: creature_standard.txt:3935
+#: creature_standard.txt:4046
 msgctxt "CREATURE:FAIRY"
 msgid "[APP_MOD_NOUN:lips:PLURAL]"
 msgstr ""
 
-#: creature_standard.txt:3944
+#: creature_standard.txt:4055
 msgctxt "CREATURE:FAIRY"
 msgid "[APP_MOD_NOUN:nose bridge:SINGULAR]"
 msgstr ""
 
-#: creature_standard.txt:3947
+#: creature_standard.txt:4058
 msgctxt "CREATURE:FAIRY"
 msgid "[APP_MOD_NOUN:ears:PLURAL]"
 msgstr ""
 
-#: creature_standard.txt:3960
+#: creature_standard.txt:4071
 msgctxt "CREATURE:FAIRY"
 msgid "[APP_MOD_NOUN:teeth:PLURAL]"
 msgstr ""
 
-#: creature_standard.txt:3982
+#: creature_standard.txt:4093
 msgctxt "CREATURE:FAIRY"
 msgid "[ATTACK_VERB:punch:punches]"
 msgstr ""
 
-#: creature_standard.txt:3989
+#: creature_standard.txt:4100
 msgctxt "CREATURE:FAIRY"
 msgid "[ATTACK_VERB:kick:kicks]"
 msgstr ""
 
-#: creature_standard.txt:3997
+#: creature_standard.txt:4108
 msgctxt "CREATURE:FAIRY"
 msgid "[ATTACK_VERB:scratch:scratches]"
 msgstr ""
 
-#: creature_standard.txt:4005
+#: creature_standard.txt:4116
 msgctxt "CREATURE:FAIRY"
 msgid "[ATTACK_VERB:bite:bites]"
 msgstr ""
 
-#: creature_standard.txt:4040
+#: creature_standard.txt:4151
 msgctxt "CREATURE:FAIRY"
 msgid "[TLCM_NOUN:hair:SINGULAR]"
 msgstr ""
 
-#: creature_standard.txt:4043
+#: creature_standard.txt:4154
 msgctxt "CREATURE:FAIRY"
 msgid "[APP_MOD_NOUN:eyebrows:PLURAL]"
 msgstr ""
 
-#: creature_standard.txt:4047
+#: creature_standard.txt:4158
 msgctxt "CREATURE:FAIRY"
 msgid "[APP_MOD_NOUN:eyelashes:PLURAL]"
 msgstr ""
 
-#: creature_standard.txt:4056
+#: creature_standard.txt:4167
 msgctxt "CREATURE:FAIRY"
 msgid "[APP_MOD_NOUN:hair:SINGULAR]"
 msgstr ""
 
-#: creature_standard.txt:4060
+#: creature_standard.txt:4171
 msgctxt "CREATURE:FAIRY"
 msgid "[TLCM_NOUN:skin:SINGULAR]"
 msgstr ""
 
-#: creature_standard.txt:4063
+#: creature_standard.txt:4174
 msgctxt "CREATURE:FAIRY"
 msgid "[TLCM_NOUN:eyes:PLURAL]"
 msgstr ""
 
-#: creature_standard.txt:4066
+#: creature_standard.txt:4177
 msgctxt "CREATURE:PIXIE"
 msgid "[DESCRIPTION:A tiny winged humanoid with shifting colors which performs intricate aerial dances in large groups.]"
 msgstr ""
 
-#: creature_standard.txt:4067
+#: creature_standard.txt:4178
 msgctxt "CREATURE:PIXIE"
 msgid "[NAME:pixie:pixies:pixie]"
 msgstr ""
 
-#: creature_standard.txt:4068
+#: creature_standard.txt:4179
 msgctxt "CREATURE:PIXIE"
 msgid "[CASTE_NAME:pixie:pixies:pixie]"
 msgstr ""
 
-#: creature_standard.txt:4082
+#: creature_standard.txt:4193
 msgctxt "CREATURE:PIXIE"
 msgid "[PREFSTRING:shifting colors]"
 msgstr ""
 
-#: creature_standard.txt:4083
+#: creature_standard.txt:4194
 msgctxt "CREATURE:PIXIE"
 msgid "[PREFSTRING:intricate aerial dances]"
 msgstr ""
 
-#: creature_standard.txt:4124
+#: creature_standard.txt:4235
 msgctxt "CREATURE:PIXIE"
 msgid "[APP_MOD_NOUN:eyes:PLURAL]"
 msgstr ""
 
-#: creature_standard.txt:4134
+#: creature_standard.txt:4245
 msgctxt "CREATURE:PIXIE"
 msgid "[APP_MOD_NOUN:lips:PLURAL]"
 msgstr ""
 
-#: creature_standard.txt:4143
+#: creature_standard.txt:4254
 msgctxt "CREATURE:PIXIE"
 msgid "[APP_MOD_NOUN:nose bridge:SINGULAR]"
 msgstr ""
 
-#: creature_standard.txt:4146
+#: creature_standard.txt:4257
 msgctxt "CREATURE:PIXIE"
 msgid "[APP_MOD_NOUN:ears:PLURAL]"
 msgstr ""
 
-#: creature_standard.txt:4159
+#: creature_standard.txt:4270
 msgctxt "CREATURE:PIXIE"
 msgid "[APP_MOD_NOUN:teeth:PLURAL]"
 msgstr ""
 
-#: creature_standard.txt:4181
+#: creature_standard.txt:4292
 msgctxt "CREATURE:PIXIE"
 msgid "[ATTACK_VERB:punch:punches]"
 msgstr ""
 
-#: creature_standard.txt:4188
+#: creature_standard.txt:4299
 msgctxt "CREATURE:PIXIE"
 msgid "[ATTACK_VERB:kick:kicks]"
 msgstr ""
 
-#: creature_standard.txt:4196
+#: creature_standard.txt:4307
 msgctxt "CREATURE:PIXIE"
 msgid "[ATTACK_VERB:scratch:scratches]"
 msgstr ""
 
-#: creature_standard.txt:4204
+#: creature_standard.txt:4315
 msgctxt "CREATURE:PIXIE"
 msgid "[ATTACK_VERB:bite:bites]"
 msgstr ""
 
-#: creature_standard.txt:4239
+#: creature_standard.txt:4350
 msgctxt "CREATURE:PIXIE"
 msgid "[TLCM_NOUN:hair:SINGULAR]"
 msgstr ""
 
-#: creature_standard.txt:4242
+#: creature_standard.txt:4353
 msgctxt "CREATURE:PIXIE"
 msgid "[APP_MOD_NOUN:eyebrows:PLURAL]"
 msgstr ""
 
-#: creature_standard.txt:4246
+#: creature_standard.txt:4357
 msgctxt "CREATURE:PIXIE"
 msgid "[APP_MOD_NOUN:eyelashes:PLURAL]"
 msgstr ""
 
-#: creature_standard.txt:4255
+#: creature_standard.txt:4366
 msgctxt "CREATURE:PIXIE"
 msgid "[APP_MOD_NOUN:hair:SINGULAR]"
 msgstr ""
 
-#: creature_standard.txt:4259
+#: creature_standard.txt:4370
 msgctxt "CREATURE:PIXIE"
 msgid "[TLCM_NOUN:skin:SINGULAR]"
 msgstr ""
 
-#: creature_standard.txt:4262
+#: creature_standard.txt:4373
 msgctxt "CREATURE:PIXIE"
 msgid "[TLCM_NOUN:eyes:PLURAL]"
 msgstr ""
 
-#: creature_standard.txt:4265
+#: creature_standard.txt:4376
 msgctxt "CREATURE:BEAK_DOG"
 msgid "[DESCRIPTION:A creature from the evil swamp.  It resembles a squat, wingless bird with powerful beak and legs.  Its blotchy skin is brightly colored.]"
 msgstr ""
 
-#: creature_standard.txt:4266
+#: creature_standard.txt:4377
 msgctxt "CREATURE:BEAK_DOG"
 msgid "[NAME:beak dog:beak dogs:beak dog]"
 msgstr ""
 
-#: creature_standard.txt:4267
+#: creature_standard.txt:4378
 msgctxt "CREATURE:BEAK_DOG"
 msgid "[CASTE_NAME:beak dog:beak dogs:beak dog]"
 msgstr ""
 
-#: creature_standard.txt:4268
+#: creature_standard.txt:4379
 msgctxt "CREATURE:BEAK_DOG"
 msgid "[GENERAL_CHILD_NAME:beak dog pup:beak dog pups]"
 msgstr ""
 
-#: creature_standard.txt:4284
+#: creature_standard.txt:4395
 msgctxt "CREATURE:BEAK_DOG"
 msgid "[PREFSTRING:chatters and clicks]"
 msgstr ""
 
-#: creature_standard.txt:4285
+#: creature_standard.txt:4396
 msgctxt "CREATURE:BEAK_DOG"
 msgid "[PREFSTRING:hunched backs]"
 msgstr ""
 
-#: creature_standard.txt:4286
+#: creature_standard.txt:4397
 msgctxt "CREATURE:BEAK_DOG"
 msgid "[PREFSTRING:large beaks]"
 msgstr ""
 
-#: creature_standard.txt:4326
+#: creature_standard.txt:4437
 msgctxt "CREATURE:BEAK_DOG"
 msgid "[ATTACK_VERB:bite:bites]"
 msgstr ""
 
-#: creature_standard.txt:4335
+#: creature_standard.txt:4446
 msgctxt "CREATURE:BEAK_DOG"
 msgid "[ATTACK_VERB:scratch:scratches]"
 msgstr ""
 
-#: creature_standard.txt:4360
+#: creature_standard.txt:4471
 msgctxt "CREATURE:BEAK_DOG"
 msgid "[TLCM_NOUN:skin:SINGULAR]"
 msgstr ""
 
-#: creature_standard.txt:4363
+#: creature_standard.txt:4474
 msgctxt "CREATURE:BEAK_DOG"
 msgid "[TLCM_NOUN:eyes:PLURAL]"
 msgstr ""
 
-#: creature_standard.txt:4368
+#: creature_standard.txt:4479
 msgctxt "CREATURE:GRIMELING"
 msgid "[DESCRIPTION:An evil monster from the swamp.  It resembles a knot of waterlogged weeds but will strike the unaware victim.]"
 msgstr ""
 
-#: creature_standard.txt:4369
+#: creature_standard.txt:4480
 msgctxt "CREATURE:GRIMELING"
 msgid "[NAME:grimeling:grimelings:grimeling]"
 msgstr ""
 
-#: creature_standard.txt:4370
+#: creature_standard.txt:4481
 msgctxt "CREATURE:GRIMELING"
 msgid "[CASTE_NAME:grimeling:grimelings:grimeling]"
 msgstr ""
 
-#: creature_standard.txt:4388
+#: creature_standard.txt:4499
 msgctxt "CREATURE:GRIMELING"
 msgid "[PREFSTRING:slithering nature]"
 msgstr ""
 
-#: creature_standard.txt:4389
+#: creature_standard.txt:4500
 msgctxt "CREATURE:GRIMELING"
 msgid "[PREFSTRING:weedy bodies]"
 msgstr ""
 
-#: creature_standard.txt:4410
+#: creature_standard.txt:4521
 msgctxt "CREATURE:GRIMELING"
 msgid "[ATTACK_VERB:punch:punches]"
 msgstr ""
 
-#: creature_standard.txt:4417
+#: creature_standard.txt:4528
 msgctxt "CREATURE:GRIMELING"
 msgid "[ATTACK_VERB:kick:kicks]"
 msgstr ""
 
-#: creature_standard.txt:4435
+#: creature_standard.txt:4546
 msgctxt "CREATURE:BLENDEC_FOUL"
 msgid "[DESCRIPTION:A man-shaped creature with the legs of a goat and the empty-eyed skull of a goat.]"
 msgstr ""
 
-#: creature_standard.txt:4436
+#: creature_standard.txt:4547
 msgctxt "CREATURE:BLENDEC_FOUL"
 msgid "[NAME:foul blendec:foul blendecs:foul blendec]"
 msgstr ""
 
-#: creature_standard.txt:4437
+#: creature_standard.txt:4548
 msgctxt "CREATURE:BLENDEC_FOUL"
 msgid "[CASTE_NAME:foul blendec:foul blendecs:foul blendec]"
 msgstr ""
 
-#: creature_standard.txt:4451
+#: creature_standard.txt:4562
 msgctxt "CREATURE:BLENDEC_FOUL"
 msgid "[PREFSTRING:goat heads]"
 msgstr ""
 
-#: creature_standard.txt:4452
+#: creature_standard.txt:4563
 msgctxt "CREATURE:BLENDEC_FOUL"
 msgid "[PREFSTRING:goat legs]"
 msgstr ""
 
-#: creature_standard.txt:4453
+#: creature_standard.txt:4564
 msgctxt "CREATURE:BLENDEC_FOUL"
 msgid "[PREFSTRING:rotten eye sockets]"
 msgstr ""
 
-#: creature_standard.txt:4494
+#: creature_standard.txt:4605
 msgctxt "CREATURE:BLENDEC_FOUL"
 msgid "[ATTACK_VERB:punch:punches]"
 msgstr ""
 
-#: creature_standard.txt:4501
+#: creature_standard.txt:4612
 msgctxt "CREATURE:BLENDEC_FOUL"
 msgid "[ATTACK_VERB:kick:kicks]"
 msgstr ""
 
-#: creature_standard.txt:4509
+#: creature_standard.txt:4620
 msgctxt "CREATURE:BLENDEC_FOUL"
 msgid "[ATTACK_VERB:gore:gores]"
 msgstr ""
 
-#: creature_standard.txt:4516
+#: creature_standard.txt:4627
 msgctxt "CREATURE:BLENDEC_FOUL"
 msgid "[ATTACK_VERB:scratch:scratches]"
 msgstr ""
 
-#: creature_standard.txt:4524
+#: creature_standard.txt:4635
 msgctxt "CREATURE:BLENDEC_FOUL"
 msgid "[ATTACK_VERB:bite:bites]"
 msgstr ""
 
-#: creature_standard.txt:4547
+#: creature_standard.txt:4658
 msgctxt "CREATURE:BLENDEC_FOUL"
 msgid "[TLCM_NOUN:hair:SINGULAR]"
 msgstr ""
 
-#: creature_standard.txt:4550
+#: creature_standard.txt:4661
 msgctxt "CREATURE:BLENDEC_FOUL"
 msgid "[TLCM_NOUN:skin:SINGULAR]"
 msgstr ""
 
-#: creature_standard.txt:4553
+#: creature_standard.txt:4664
 msgctxt "CREATURE:STRANGLER"
 msgid "[DESCRIPTION:A large, four-armed ape creature with three eyes and razor-sharp teeth.]"
 msgstr ""
 
-#: creature_standard.txt:4554
+#: creature_standard.txt:4665
 msgctxt "CREATURE:STRANGLER"
 msgid "[NAME:strangler:stranglers:strangler]"
 msgstr ""
 
-#: creature_standard.txt:4555
+#: creature_standard.txt:4666
 msgctxt "CREATURE:STRANGLER"
 msgid "[CASTE_NAME:strangler:stranglers:strangler]"
 msgstr ""
 
-#: creature_standard.txt:4566
+#: creature_standard.txt:4677
 msgctxt "CREATURE:STRANGLER"
 msgid "[PREFSTRING:resounding hoots]"
 msgstr ""
 
-#: creature_standard.txt:4567
+#: creature_standard.txt:4678
 msgctxt "CREATURE:STRANGLER"
 msgid "[PREFSTRING:graceful leaps]"
 msgstr ""
 
-#: creature_standard.txt:4568
+#: creature_standard.txt:4679
 msgctxt "CREATURE:STRANGLER"
 msgid "[PREFSTRING:three eyes]"
 msgstr ""
 
-#: creature_standard.txt:4569
+#: creature_standard.txt:4680
 msgctxt "CREATURE:STRANGLER"
 msgid "[PREFSTRING:toothy maw]"
 msgstr ""
 
-#: creature_standard.txt:4602
+#: creature_standard.txt:4713
 msgctxt "CREATURE:STRANGLER"
 msgid "[ATTACK_VERB:bite:bites]"
 msgstr ""
 
-#: creature_standard.txt:4611
+#: creature_standard.txt:4722
 msgctxt "CREATURE:STRANGLER"
 msgid "[ATTACK_VERB:scratch:scratches]"
 msgstr ""
 
-#: creature_standard.txt:4634
+#: creature_standard.txt:4745
 msgctxt "CREATURE:STRANGLER"
 msgid "[TLCM_NOUN:hair:SINGULAR]"
 msgstr ""
 
-#: creature_standard.txt:4637
+#: creature_standard.txt:4748
 msgctxt "CREATURE:STRANGLER"
 msgid "[TLCM_NOUN:skin:SINGULAR]"
 msgstr ""
 
-#: creature_standard.txt:4640
+#: creature_standard.txt:4751
 msgctxt "CREATURE:STRANGLER"
 msgid "[TLCM_NOUN:eyes:PLURAL]"
 msgstr ""
 
-#: creature_standard.txt:4645
+#: creature_standard.txt:4756
 msgctxt "CREATURE:NIGHTWING"
 msgid "[DESCRIPTION:A flying monster with stretched skin over its emaciated body.  It has the head of a jackal with needle-like horns protruding through its mane.]"
 msgstr ""
 
-#: creature_standard.txt:4646
+#: creature_standard.txt:4757
 msgctxt "CREATURE:NIGHTWING"
 msgid "[NAME:nightwing:nightwings:nightwing]"
 msgstr ""
 
-#: creature_standard.txt:4647
+#: creature_standard.txt:4758
 msgctxt "CREATURE:NIGHTWING"
 msgid "[CASTE_NAME:nightwing:nightwings:nightwing]"
 msgstr ""
 
-#: creature_standard.txt:4659
+#: creature_standard.txt:4770
 msgctxt "CREATURE:NIGHTWING"
 msgid "[PREFSTRING:jackal heads]"
 msgstr ""
 
-#: creature_standard.txt:4660
+#: creature_standard.txt:4771
 msgctxt "CREATURE:NIGHTWING"
 msgid "[PREFSTRING:bat wings]"
 msgstr ""
 
-#: creature_standard.txt:4661
+#: creature_standard.txt:4772
 msgctxt "CREATURE:NIGHTWING"
 msgid "[PREFSTRING:long tails]"
 msgstr ""
 
-#: creature_standard.txt:4662
+#: creature_standard.txt:4773
 msgctxt "CREATURE:NIGHTWING"
 msgid "[PREFSTRING:manes]"
 msgstr ""
 
-#: creature_standard.txt:4663
+#: creature_standard.txt:4774
 msgctxt "CREATURE:NIGHTWING"
 msgid "[PREFSTRING:fangs]"
 msgstr ""
 
-#: creature_standard.txt:4664
+#: creature_standard.txt:4775
 msgctxt "CREATURE:NIGHTWING"
 msgid "[PREFSTRING:ability to suck blood]"
 msgstr ""
 
-#: creature_standard.txt:4665
+#: creature_standard.txt:4776
 msgctxt "CREATURE:NIGHTWING"
 msgid "[PREFSTRING:tightly-stretched skin]"
 msgstr ""
 
-#: creature_standard.txt:4666
+#: creature_standard.txt:4777
 msgctxt "CREATURE:NIGHTWING"
 msgid "[PREFSTRING:needle-like horns]"
 msgstr ""
 
-#: creature_standard.txt:4698
+#: creature_standard.txt:4809
 msgctxt "CREATURE:NIGHTWING"
 msgid "[ATTACK_VERB:bite:bites]"
 msgstr ""
 
-#: creature_standard.txt:4708
+#: creature_standard.txt:4819
 msgctxt "CREATURE:NIGHTWING"
 msgid "[ATTACK_VERB:scratch:scratches]"
 msgstr ""
 
-#: creature_standard.txt:4724
+#: creature_standard.txt:4835
 msgctxt "CREATURE:NIGHTWING"
 msgid "[TLCM_NOUN:hair:SINGULAR]"
 msgstr ""
 
-#: creature_standard.txt:4727
+#: creature_standard.txt:4838
 msgctxt "CREATURE:NIGHTWING"
 msgid "[TLCM_NOUN:skin:SINGULAR]"
 msgstr ""
 
-#: creature_standard.txt:4730
+#: creature_standard.txt:4841
 msgctxt "CREATURE:NIGHTWING"
 msgid "[TLCM_NOUN:eyes:PLURAL]"
 msgstr ""
 
-#: creature_standard.txt:4733
+#: creature_standard.txt:4844
 msgctxt "CREATURE:HARPY"
 msgid "[DESCRIPTION:A monster in the shape of a woman with a bird's wings in place of arms and talons for feet.]"
 msgstr ""
 
-#: creature_standard.txt:4734
+#: creature_standard.txt:4845
 msgctxt "CREATURE:HARPY"
 msgid "[NAME:harpy:harpies:harpy]"
 msgstr ""
 
-#: creature_standard.txt:4735
+#: creature_standard.txt:4846
 msgctxt "CREATURE:HARPY"
 msgid "[CASTE_NAME:harpy:harpies:harpy]"
 msgstr ""
 
-#: creature_standard.txt:4765
+#: creature_standard.txt:4876
 msgctxt "CREATURE:HARPY"
 msgid "[PREFSTRING:feathery wings]"
 msgstr ""
 
-#: creature_standard.txt:4766
+#: creature_standard.txt:4877
 msgctxt "CREATURE:HARPY"
 msgid "[PREFSTRING:fearsome talons]"
 msgstr ""
 
-#: creature_standard.txt:4801
+#: creature_standard.txt:4912
+msgctxt "CREATURE:HARPY"
+msgid "[CDI:ADV_NAME:Pet animal]"
+msgstr ""
+
+#: creature_standard.txt:4915
+msgctxt "CREATURE:HARPY"
+msgid "[CDI:VERB:pet:pets:pets]"
+msgstr ""
+
+#: creature_standard.txt:4922
 msgctxt "CREATURE:HARPY"
 msgid "[CDI:ADV_NAME:Spit]"
 msgstr ""
 
-#: creature_standard.txt:4806
+#: creature_standard.txt:4927
 msgctxt "CREATURE:HARPY"
 msgid "[CDI:VERB:spit:spits:NA]"
 msgstr ""
 
-#: creature_standard.txt:4818
+#: creature_standard.txt:4939
 msgctxt "CREATURE:HARPY"
 msgid "[APP_MOD_NOUN:eyes:PLURAL]"
 msgstr ""
 
-#: creature_standard.txt:4828
+#: creature_standard.txt:4949
 msgctxt "CREATURE:HARPY"
 msgid "[APP_MOD_NOUN:lips:PLURAL]"
 msgstr ""
 
-#: creature_standard.txt:4837
+#: creature_standard.txt:4958
 msgctxt "CREATURE:HARPY"
 msgid "[APP_MOD_NOUN:nose bridge:SINGULAR]"
 msgstr ""
 
-#: creature_standard.txt:4840
+#: creature_standard.txt:4961
 msgctxt "CREATURE:HARPY"
 msgid "[APP_MOD_NOUN:ears:PLURAL]"
 msgstr ""
 
-#: creature_standard.txt:4853
+#: creature_standard.txt:4974
 msgctxt "CREATURE:HARPY"
 msgid "[APP_MOD_NOUN:teeth:PLURAL]"
 msgstr ""
 
-#: creature_standard.txt:4875
+#: creature_standard.txt:4996
 msgctxt "CREATURE:HARPY"
 msgid "[ATTACK_VERB:snatch at:snatches at]"
 msgstr ""
 
-#: creature_standard.txt:4884
+#: creature_standard.txt:5005
 msgctxt "CREATURE:HARPY"
 msgid "[ATTACK_VERB:bite:bites]"
 msgstr ""
 
-#: creature_standard.txt:4894
+#: creature_standard.txt:5015
 msgctxt "CREATURE:HARPY"
 msgid "[TLCM_NOUN:feathers:PLURAL]"
 msgstr ""
 
-#: creature_standard.txt:4897
+#: creature_standard.txt:5018
 msgctxt "CREATURE:HARPY"
 msgid "[TLCM_NOUN:skin:SINGULAR]"
 msgstr ""
 
-#: creature_standard.txt:4900
+#: creature_standard.txt:5021
 msgctxt "CREATURE:HARPY"
 msgid "[TLCM_NOUN:eyes:PLURAL]"
 msgstr ""
 
-#: creature_standard.txt:4903
+#: creature_standard.txt:5024
 msgctxt "CREATURE:HYDRA"
 msgid "[DESCRIPTION:A giant dragon-like monster with seven biting heads.]"
 msgstr ""
 
-#: creature_standard.txt:4904
+#: creature_standard.txt:5025
 msgctxt "CREATURE:HYDRA"
 msgid "[NAME:hydra:hydras:hydra]"
 msgstr ""
 
-#: creature_standard.txt:4905
+#: creature_standard.txt:5026
 msgctxt "CREATURE:HYDRA"
 msgid "[CASTE_NAME:hydra:hydras:hydra]"
 msgstr ""
 
-#: creature_standard.txt:4924
+#: creature_standard.txt:5045
 msgctxt "CREATURE:HYDRA"
 msgid "[PREFSTRING:seven heads]"
 msgstr ""
 
-#: creature_standard.txt:4962
+#: creature_standard.txt:5083
 msgctxt "CREATURE:HYDRA"
 msgid "[ATTACK_VERB:bite:bites]"
 msgstr ""
 
-#: creature_standard.txt:4972
+#: creature_standard.txt:5093
 msgctxt "CREATURE:HYDRA"
 msgid "[ATTACK_VERB:claw:claws]"
 msgstr ""
 
-#: creature_standard.txt:5000
+#: creature_standard.txt:5121
 msgctxt "CREATURE:HYDRA"
 msgid "[TLCM_NOUN:scales:PLURAL]"
 msgstr ""
 
-#: creature_standard.txt:5003
+#: creature_standard.txt:5124
 msgctxt "CREATURE:HYDRA"
 msgid "[TLCM_NOUN:eyes:PLURAL]"
 msgstr ""
 
-#: creature_standard.txt:5010
+#: creature_standard.txt:5131
 msgctxt "CREATURE:MERPERSON"
 msgid "[DESCRIPTION:A man-like creature with the tail of a fish instead of legs.]"
 msgstr ""
 
-#: creature_standard.txt:5011
+#: creature_standard.txt:5132
 msgctxt "CREATURE:MERPERSON"
 msgid "[NAME:merperson:merpeople:merperson]"
 msgstr ""
 
-#: creature_standard.txt:5025
+#: creature_standard.txt:5146
 msgctxt "CREATURE:MERPERSON"
 msgid "[PREFSTRING:tails]"
 msgstr ""
 
-#: creature_standard.txt:5062
+#: creature_standard.txt:5183
+msgctxt "CREATURE:MERPERSON"
+msgid "[CDI:ADV_NAME:Pet animal]"
+msgstr ""
+
+#: creature_standard.txt:5186
+msgctxt "CREATURE:MERPERSON"
+msgid "[CDI:VERB:pet:pets:pets]"
+msgstr ""
+
+#: creature_standard.txt:5193
 msgctxt "CREATURE:MERPERSON"
 msgid "[CDI:ADV_NAME:Spit]"
 msgstr ""
 
-#: creature_standard.txt:5067
+#: creature_standard.txt:5198
 msgctxt "CREATURE:MERPERSON"
 msgid "[CDI:VERB:spit:spits:NA]"
 msgstr ""
 
-#: creature_standard.txt:5081
+#: creature_standard.txt:5212
 msgctxt "CREATURE:MERPERSON"
 msgid "[APP_MOD_NOUN:eyes:PLURAL]"
 msgstr ""
 
-#: creature_standard.txt:5091
+#: creature_standard.txt:5222
 msgctxt "CREATURE:MERPERSON"
 msgid "[APP_MOD_NOUN:lips:PLURAL]"
 msgstr ""
 
-#: creature_standard.txt:5100
+#: creature_standard.txt:5231
 msgctxt "CREATURE:MERPERSON"
 msgid "[APP_MOD_NOUN:nose bridge:SINGULAR]"
 msgstr ""
 
-#: creature_standard.txt:5103
+#: creature_standard.txt:5234
 msgctxt "CREATURE:MERPERSON"
 msgid "[APP_MOD_NOUN:ears:PLURAL]"
 msgstr ""
 
-#: creature_standard.txt:5116
+#: creature_standard.txt:5247
 msgctxt "CREATURE:MERPERSON"
 msgid "[APP_MOD_NOUN:teeth:PLURAL]"
 msgstr ""
 
-#: creature_standard.txt:5139
+#: creature_standard.txt:5270
 msgctxt "CREATURE:MERPERSON"
 msgid "[ATTACK_VERB:punch:punches]"
 msgstr ""
 
-#: creature_standard.txt:5146
+#: creature_standard.txt:5277
 msgctxt "CREATURE:MERPERSON"
 msgid "[ATTACK_VERB:scratch:scratches]"
 msgstr ""
 
-#: creature_standard.txt:5154
+#: creature_standard.txt:5285
 msgctxt "CREATURE:MERPERSON"
 msgid "[ATTACK_VERB:bite:bites]"
 msgstr ""
 
-#: creature_standard.txt:5175
+#: creature_standard.txt:5306
 msgctxt "CREATURE:MERPERSON"
 msgid "[CASTE_NAME:mermaid:mermaids:mermaid]"
 msgstr ""
 
-#: creature_standard.txt:5179
+#: creature_standard.txt:5310
 msgctxt "CREATURE:MERPERSON"
 msgid "[CASTE_NAME:merman:mermen:merman]"
 msgstr ""
 
-#: creature_standard.txt:5190
+#: creature_standard.txt:5321
 msgctxt "CREATURE:MERPERSON"
 msgid "[TLCM_NOUN:hair:SINGULAR]"
 msgstr ""
 
-#: creature_standard.txt:5199
+#: creature_standard.txt:5330
 msgctxt "CREATURE:MERPERSON"
 msgid "[APP_MOD_NOUN:eyebrows:PLURAL]"
 msgstr ""
 
-#: creature_standard.txt:5208
+#: creature_standard.txt:5339
 msgctxt "CREATURE:MERPERSON"
 msgid "[APP_MOD_NOUN:eyelashes:PLURAL]"
 msgstr ""
 
-#: creature_standard.txt:5216
+#: creature_standard.txt:5347
 msgctxt "CREATURE:MERPERSON"
 msgid "[APP_MOD_NOUN:hair:SINGULAR]"
 msgstr ""
 
-#: creature_standard.txt:5228
+#: creature_standard.txt:5359
 msgctxt "CREATURE:MERPERSON"
 msgid "[TSU_NOUN:hair:SINGULAR]"
 msgstr ""
 
-#: creature_standard.txt:5232
+#: creature_standard.txt:5363
 msgctxt "CREATURE:MERPERSON"
 msgid "[TSU_NOUN:beard:SINGULAR]"
 msgstr ""
 
-#: creature_standard.txt:5235
+#: creature_standard.txt:5366
 msgctxt "CREATURE:MERPERSON"
 msgid "[TSU_NOUN:moustache:SINGULAR]"
 msgstr ""
 
-#: creature_standard.txt:5238
+#: creature_standard.txt:5369
 msgctxt "CREATURE:MERPERSON"
 msgid "[TSU_NOUN:sideburns:PLURAL]"
 msgstr ""
 
-#: creature_standard.txt:5241
+#: creature_standard.txt:5372
 msgctxt "CREATURE:MERPERSON"
 msgid "[TLCM_NOUN:skin:SINGULAR]"
 msgstr ""
 
-#: creature_standard.txt:5244
+#: creature_standard.txt:5375
 msgctxt "CREATURE:MERPERSON"
 msgid "[APP_MOD_NOUN:skin:SINGULAR]"
 msgstr ""
 
-#: creature_standard.txt:5248
+#: creature_standard.txt:5379
 msgctxt "CREATURE:MERPERSON"
 msgid "[TLCM_NOUN:eyes:PLURAL]"
 msgstr ""
 
-#: creature_standard.txt:5251
+#: creature_standard.txt:5382
 msgctxt "CREATURE:SEA_SERPENT"
 msgid "[DESCRIPTION:A giant limbless dragon that lives in the sea.]"
 msgstr ""
 
-#: creature_standard.txt:5252
+#: creature_standard.txt:5383
 msgctxt "CREATURE:SEA_SERPENT"
 msgid "[NAME:sea serpent:sea serpents:sea serpent]"
 msgstr ""
 
-#: creature_standard.txt:5253
+#: creature_standard.txt:5384
 msgctxt "CREATURE:SEA_SERPENT"
 msgid "[CASTE_NAME:sea serpent:sea serpents:sea serpent]"
 msgstr ""
 
-#: creature_standard.txt:5264
+#: creature_standard.txt:5395
 msgctxt "CREATURE:SEA_SERPENT"
 msgid "[PREFSTRING:majesty]"
 msgstr ""
 
-#: creature_standard.txt:5266
+#: creature_standard.txt:5397
 msgctxt "CREATURE:SEA_SERPENT"
 msgid "[CHILDNAME:sea serpent hatchling:sea serpent hatchlings]"
 msgstr ""
 
-#: creature_standard.txt:5303
+#: creature_standard.txt:5434
 msgctxt "CREATURE:SEA_SERPENT"
 msgid "[ATTACK_VERB:bite:bites]"
 msgstr ""
 
-#: creature_standard.txt:5312
+#: creature_standard.txt:5443
 msgctxt "CREATURE:SEA_SERPENT"
 msgid "[ATTACK_VERB:slap:slaps]"
 msgstr ""
 
-#: creature_standard.txt:5336
+#: creature_standard.txt:5467
 msgctxt "CREATURE:SEA_SERPENT"
 msgid "[TLCM_NOUN:scales:PLURAL]"
 msgstr ""
 
-#: creature_standard.txt:5339
+#: creature_standard.txt:5470
 msgctxt "CREATURE:SEA_SERPENT"
 msgid "[TLCM_NOUN:eyes:PLURAL]"
 msgstr ""
 
-#: creature_standard.txt:5344
+#: creature_standard.txt:5475
 msgctxt "CREATURE:SEA_MONSTER"
 msgid "[DESCRIPTION:A giant creature with many eyes and arms to terrify the sea.]"
 msgstr ""
 
-#: creature_standard.txt:5345
+#: creature_standard.txt:5476
 msgctxt "CREATURE:SEA_MONSTER"
 msgid "[NAME:sea monster:sea monsters:sea monster]"
 msgstr ""
 
-#: creature_standard.txt:5346
+#: creature_standard.txt:5477
 msgctxt "CREATURE:SEA_MONSTER"
 msgid "[CASTE_NAME:sea monster:sea monsters:sea monster]"
 msgstr ""
 
-#: creature_standard.txt:5356
+#: creature_standard.txt:5487
 msgctxt "CREATURE:SEA_MONSTER"
 msgid "[PREFSTRING:horrifying freakish appearance]"
 msgstr ""
 
-#: creature_standard.txt:5357
+#: creature_standard.txt:5488
 msgctxt "CREATURE:SEA_MONSTER"
 msgid "[CHILDNAME:sea monster hatchling:sea monster hatchlings]"
 msgstr ""
 
-#: creature_standard.txt:5395
+#: creature_standard.txt:5526
 msgctxt "CREATURE:SEA_MONSTER"
 msgid "[ATTACK_VERB:bite:bites]"
 msgstr ""
 
-#: creature_standard.txt:5402
+#: creature_standard.txt:5533
 msgctxt "CREATURE:SEA_MONSTER"
 msgid "[ATTACK_VERB:snatch:snatches]"
 msgstr ""
 
-#: creature_standard.txt:5418
+#: creature_standard.txt:5549
 msgctxt "CREATURE:SEA_MONSTER"
 msgid "[TLCM_NOUN:scales:PLURAL]"
 msgstr ""
 
-#: creature_standard.txt:5421
+#: creature_standard.txt:5552
 msgctxt "CREATURE:SEA_MONSTER"
 msgid "[TLCM_NOUN:eyes:PLURAL]"
 msgstr ""
 
-#: creature_standard.txt:5426
+#: creature_standard.txt:5557
 msgctxt "CREATURE:BIRD_ROC"
 msgid "[DESCRIPTION:A bird of prey so large and ferocious it dwarfs many dragons.  All beneath its mighty wings should fear the sky.]"
 msgstr ""
 
-#: creature_standard.txt:5427
+#: creature_standard.txt:5558
 msgctxt "CREATURE:BIRD_ROC"
 msgid "[NAME:roc:rocs:roc]"
 msgstr ""
 
-#: creature_standard.txt:5428
+#: creature_standard.txt:5559
 msgctxt "CREATURE:BIRD_ROC"
 msgid "[CASTE_NAME:roc:rocs:roc]"
 msgstr ""
 
-#: creature_standard.txt:5429
+#: creature_standard.txt:5560
 msgctxt "CREATURE:BIRD_ROC"
 msgid "[GENERAL_CHILD_NAME:roc hatchling:roc hatchlings]"
 msgstr ""
 
-#: creature_standard.txt:5465
+#: creature_standard.txt:5596
 msgctxt "CREATURE:BIRD_ROC"
 msgid "[PREFSTRING:awe-inspiring size]"
 msgstr ""
 
-#: creature_standard.txt:5466
+#: creature_standard.txt:5597
 msgctxt "CREATURE:BIRD_ROC"
 msgid "[PREFSTRING:dedication to their young]"
 msgstr ""
 
-#: creature_standard.txt:5507
+#: creature_standard.txt:5638
 msgctxt "CREATURE:BIRD_ROC"
 msgid "[ATTACK_VERB:bite:bites]"
 msgstr ""
 
-#: creature_standard.txt:5516
+#: creature_standard.txt:5647
 msgctxt "CREATURE:BIRD_ROC"
 msgid "[ATTACK_VERB:snatch at:snatches at]"
 msgstr ""
 
-#: creature_standard.txt:5536
+#: creature_standard.txt:5667
 msgctxt "CREATURE:BIRD_ROC"
 msgid "[TLCM_NOUN:feathers:PLURAL]"
 msgstr ""
 
-#: creature_standard.txt:5539
+#: creature_standard.txt:5670
 msgctxt "CREATURE:BIRD_ROC"
 msgid "[TLCM_NOUN:skin:SINGULAR]"
 msgstr ""
 
-#: creature_standard.txt:5542
+#: creature_standard.txt:5673
 msgctxt "CREATURE:BIRD_ROC"
 msgid "[TLCM_NOUN:eyes:PLURAL]"
 msgstr ""
@@ -37088,577 +37263,662 @@ msgctxt "SHAPE:STAR"
 msgid "[ADJ:many-pointed]"
 msgstr ""
 
-#: descriptor_shape_standard.txt:15
+#: descriptor_shape_standard.txt:16
 msgctxt "SHAPE:CRESCENT"
 msgid "[NAME:crescent:crescents]"
 msgstr ""
 
-#: descriptor_shape_standard.txt:17
+#: descriptor_shape_standard.txt:18
 msgctxt "SHAPE:CRESCENT"
 msgid "[ADJ:narrow]"
 msgstr ""
 
-#: descriptor_shape_standard.txt:18
+#: descriptor_shape_standard.txt:19
 msgctxt "SHAPE:CRESCENT"
 msgid "[ADJ:thick]"
 msgstr ""
 
-#: descriptor_shape_standard.txt:22
+#: descriptor_shape_standard.txt:24
 msgctxt "SHAPE:CROSS"
 msgid "[NAME:cross:crosses]"
 msgstr ""
 
-#: descriptor_shape_standard.txt:24
+#: descriptor_shape_standard.txt:26
 msgctxt "SHAPE:CROSS"
 msgid "[ADJ:broad]"
 msgstr ""
 
-#: descriptor_shape_standard.txt:25
+#: descriptor_shape_standard.txt:27
 msgctxt "SHAPE:CROSS"
 msgid "[ADJ:tall]"
 msgstr ""
 
-#: descriptor_shape_standard.txt:26
+#: descriptor_shape_standard.txt:28
 msgctxt "SHAPE:CROSS"
 msgid "[ADJ:thin]"
 msgstr ""
 
-#: descriptor_shape_standard.txt:30
+#: descriptor_shape_standard.txt:33
 msgctxt "SHAPE:SQUARE"
 msgid "[NAME:square:squares]"
 msgstr ""
 
-#: descriptor_shape_standard.txt:34
+#: descriptor_shape_standard.txt:38
 msgctxt "SHAPE:CIRCLE"
 msgid "[NAME:circle:circles]"
 msgstr ""
 
-#: descriptor_shape_standard.txt:38
+#: descriptor_shape_standard.txt:43
 msgctxt "SHAPE:DIAMOND"
 msgid "[NAME:diamond:diamonds]"
 msgstr ""
 
-#: descriptor_shape_standard.txt:42
+#: descriptor_shape_standard.txt:48
 msgctxt "SHAPE:SUN"
 msgid "[NAME:sun:suns]"
 msgstr ""
 
-#: descriptor_shape_standard.txt:44
+#: descriptor_shape_standard.txt:50
 msgctxt "SHAPE:SUN"
 msgid "[ADJ:shining]"
 msgstr ""
 
-#: descriptor_shape_standard.txt:45
+#: descriptor_shape_standard.txt:51
 msgctxt "SHAPE:SUN"
 msgid "[ADJ:blazing]"
 msgstr ""
 
-#: descriptor_shape_standard.txt:49
+#: descriptor_shape_standard.txt:56
 msgctxt "SHAPE:MOON"
 msgid "[NAME:moon:moons]"
 msgstr ""
 
-#: descriptor_shape_standard.txt:51
+#: descriptor_shape_standard.txt:58
 msgctxt "SHAPE:MOON"
 msgid "[ADJ:hidden]"
 msgstr ""
 
-#: descriptor_shape_standard.txt:52
+#: descriptor_shape_standard.txt:59
 msgctxt "SHAPE:MOON"
 msgid "[ADJ:full]"
 msgstr ""
 
-#: descriptor_shape_standard.txt:53
+#: descriptor_shape_standard.txt:60
 msgctxt "SHAPE:MOON"
 msgid "[ADJ:crescent]"
 msgstr ""
 
-#: descriptor_shape_standard.txt:54
+#: descriptor_shape_standard.txt:61
 msgctxt "SHAPE:MOON"
 msgid "[ADJ:half]"
 msgstr ""
 
-#: descriptor_shape_standard.txt:58
+#: descriptor_shape_standard.txt:66
 msgctxt "SHAPE:WAVE"
 msgid "[NAME:wave:waves]"
 msgstr ""
 
-#: descriptor_shape_standard.txt:63
+#: descriptor_shape_standard.txt:72
 msgctxt "SHAPE:MOUNTAIN"
 msgid "[NAME:mountain:mountains]"
 msgstr ""
 
-#: descriptor_shape_standard.txt:68
+#: descriptor_shape_standard.txt:78
 msgctxt "SHAPE:CLOUD"
 msgid "[NAME:cloud:clouds]"
 msgstr ""
 
-#: descriptor_shape_standard.txt:72
+#: descriptor_shape_standard.txt:83
 msgctxt "SHAPE:GIZZARD_STONE"
 msgid "[NAME:gizzard stone:gizzard stones]"
 msgstr ""
 
-#: descriptor_shape_standard.txt:77
+#: descriptor_shape_standard.txt:88
 msgctxt "SHAPE:SMOOTH_PEBBLE"
 msgid "[NAME:pebble:pebbles]"
 msgstr ""
 
-#: descriptor_shape_standard.txt:78
+#: descriptor_shape_standard.txt:89
 msgctxt "SHAPE:SMOOTH_PEBBLE"
 msgid "[ADJ:smooth]"
 msgstr ""
 
-#: descriptor_shape_standard.txt:83
+#: descriptor_shape_standard.txt:94
 msgctxt "SHAPE:OVAL_CABOCHON"
 msgid "[NAME:cabochon:cabochons]"
 msgstr ""
 
-#: descriptor_shape_standard.txt:84
+#: descriptor_shape_standard.txt:95
 msgctxt "SHAPE:OVAL_CABOCHON"
 msgid "[ADJ:oval]"
 msgstr ""
 
-#: descriptor_shape_standard.txt:89
+#: descriptor_shape_standard.txt:100
 msgctxt "SHAPE:ROUND_CABOCHON"
 msgid "[NAME:cabochon:cabochons]"
 msgstr ""
 
-#: descriptor_shape_standard.txt:90
+#: descriptor_shape_standard.txt:101
 msgctxt "SHAPE:ROUND_CABOCHON"
 msgid "[ADJ:round]"
 msgstr ""
 
-#: descriptor_shape_standard.txt:95
+#: descriptor_shape_standard.txt:106
 msgctxt "SHAPE:CUSHION_CABOCHON"
 msgid "[NAME:cabochon:cabochons]"
 msgstr ""
 
-#: descriptor_shape_standard.txt:96
+#: descriptor_shape_standard.txt:107
 msgctxt "SHAPE:CUSHION_CABOCHON"
 msgid "[ADJ:cushion]"
 msgstr ""
 
-#: descriptor_shape_standard.txt:101
+#: descriptor_shape_standard.txt:112
 msgctxt "SHAPE:RECTANGULAR_CABOCHON"
 msgid "[NAME:cabochon:cabochons]"
 msgstr ""
 
-#: descriptor_shape_standard.txt:102
+#: descriptor_shape_standard.txt:113
 msgctxt "SHAPE:RECTANGULAR_CABOCHON"
 msgid "[ADJ:rectangular]"
 msgstr ""
 
-#: descriptor_shape_standard.txt:107
+#: descriptor_shape_standard.txt:118
 msgctxt "SHAPE:POINT_CUT_GEM"
 msgid "[NAME:gem:gems]"
 msgstr ""
 
-#: descriptor_shape_standard.txt:108
+#: descriptor_shape_standard.txt:119
 msgctxt "SHAPE:POINT_CUT_GEM"
 msgid "[ADJ:point cut]"
 msgstr ""
 
-#: descriptor_shape_standard.txt:113
+#: descriptor_shape_standard.txt:124
 msgctxt "SHAPE:TABLE_CUT_GEM"
 msgid "[NAME:gem:gems]"
 msgstr ""
 
-#: descriptor_shape_standard.txt:114
+#: descriptor_shape_standard.txt:125
 msgctxt "SHAPE:TABLE_CUT_GEM"
 msgid "[ADJ:table cut]"
 msgstr ""
 
-#: descriptor_shape_standard.txt:119
+#: descriptor_shape_standard.txt:130
 msgctxt "SHAPE:SINGLE_CUT_GEM"
 msgid "[NAME:gem:gems]"
 msgstr ""
 
-#: descriptor_shape_standard.txt:120
+#: descriptor_shape_standard.txt:131
 msgctxt "SHAPE:SINGLE_CUT_GEM"
 msgid "[ADJ:single cut]"
 msgstr ""
 
-#: descriptor_shape_standard.txt:125
+#: descriptor_shape_standard.txt:136
 msgctxt "SHAPE:ROSE_CUT_GEM"
 msgid "[NAME:gem:gems]"
 msgstr ""
 
-#: descriptor_shape_standard.txt:126
+#: descriptor_shape_standard.txt:137
 msgctxt "SHAPE:ROSE_CUT_GEM"
 msgid "[ADJ:rose cut]"
 msgstr ""
 
-#: descriptor_shape_standard.txt:131
+#: descriptor_shape_standard.txt:142
 msgctxt "SHAPE:BRIOLETTE_CUT_GEM"
 msgid "[NAME:gem:gems]"
 msgstr ""
 
-#: descriptor_shape_standard.txt:132
+#: descriptor_shape_standard.txt:143
 msgctxt "SHAPE:BRIOLETTE_CUT_GEM"
 msgid "[ADJ:briolette cut]"
 msgstr ""
 
-#: descriptor_shape_standard.txt:137
+#: descriptor_shape_standard.txt:148
 msgctxt "SHAPE:EMERALD_CUT_GEM"
 msgid "[NAME:gem:gems]"
 msgstr ""
 
-#: descriptor_shape_standard.txt:138
+#: descriptor_shape_standard.txt:149
 msgctxt "SHAPE:EMERALD_CUT_GEM"
 msgid "[ADJ:emerald cut]"
 msgstr ""
 
-#: descriptor_shape_standard.txt:143
+#: descriptor_shape_standard.txt:154
 msgctxt "SHAPE:MARQUISE_CUT_GEM"
 msgid "[NAME:gem:gems]"
 msgstr ""
 
-#: descriptor_shape_standard.txt:144
+#: descriptor_shape_standard.txt:155
 msgctxt "SHAPE:MARQUISE_CUT_GEM"
 msgid "[ADJ:marquise cut]"
 msgstr ""
 
-#: descriptor_shape_standard.txt:149
+#: descriptor_shape_standard.txt:160
 msgctxt "SHAPE:OVAL_CUT_GEM"
 msgid "[NAME:gem:gems]"
 msgstr ""
 
-#: descriptor_shape_standard.txt:150
+#: descriptor_shape_standard.txt:161
 msgctxt "SHAPE:OVAL_CUT_GEM"
 msgid "[ADJ:oval cut]"
 msgstr ""
 
-#: descriptor_shape_standard.txt:155
+#: descriptor_shape_standard.txt:166
 msgctxt "SHAPE:PEAR_CUT_GEM"
 msgid "[NAME:gem:gems]"
 msgstr ""
 
-#: descriptor_shape_standard.txt:156
+#: descriptor_shape_standard.txt:167
 msgctxt "SHAPE:PEAR_CUT_GEM"
 msgid "[ADJ:pear cut]"
 msgstr ""
 
-#: descriptor_shape_standard.txt:161
+#: descriptor_shape_standard.txt:172
 msgctxt "SHAPE:SQUARE_BRILLIANT_CUT_GEM"
 msgid "[NAME:gem:gems]"
 msgstr ""
 
-#: descriptor_shape_standard.txt:162
+#: descriptor_shape_standard.txt:173
 msgctxt "SHAPE:SQUARE_BRILLIANT_CUT_GEM"
 msgid "[ADJ:square brilliant cut]"
 msgstr ""
 
-#: descriptor_shape_standard.txt:167
+#: descriptor_shape_standard.txt:178
 msgctxt "SHAPE:RADIANT_CUT_GEM"
 msgid "[NAME:gem:gems]"
 msgstr ""
 
-#: descriptor_shape_standard.txt:168
+#: descriptor_shape_standard.txt:179
 msgctxt "SHAPE:RADIANT_CUT_GEM"
 msgid "[ADJ:radiant cut]"
 msgstr ""
 
-#: descriptor_shape_standard.txt:173
+#: descriptor_shape_standard.txt:184
 msgctxt "SHAPE:TRILLION_CUT_GEM"
 msgid "[NAME:gem:gems]"
 msgstr ""
 
-#: descriptor_shape_standard.txt:174
+#: descriptor_shape_standard.txt:185
 msgctxt "SHAPE:TRILLION_CUT_GEM"
 msgid "[ADJ:trillion cut]"
 msgstr ""
 
-#: descriptor_shape_standard.txt:179
+#: descriptor_shape_standard.txt:190
 msgctxt "SHAPE:ROUND_BRILLIANT_CUT_GEM"
 msgid "[NAME:gem:gems]"
 msgstr ""
 
-#: descriptor_shape_standard.txt:180
+#: descriptor_shape_standard.txt:191
 msgctxt "SHAPE:ROUND_BRILLIANT_CUT_GEM"
 msgid "[ADJ:round brilliant cut]"
 msgstr ""
 
-#: descriptor_shape_standard.txt:185
+#: descriptor_shape_standard.txt:196
 msgctxt "SHAPE:BAGUETTE_CUT_GEM"
 msgid "[NAME:gem:gems]"
 msgstr ""
 
-#: descriptor_shape_standard.txt:186
+#: descriptor_shape_standard.txt:197
 msgctxt "SHAPE:BAGUETTE_CUT_GEM"
 msgid "[ADJ:baguette cut]"
 msgstr ""
 
-#: descriptor_shape_standard.txt:191
+#: descriptor_shape_standard.txt:202
 msgctxt "SHAPE:TAPERED_BAGUETTE_CUT_GEM"
 msgid "[NAME:gem:gems]"
 msgstr ""
 
-#: descriptor_shape_standard.txt:192
+#: descriptor_shape_standard.txt:203
 msgctxt "SHAPE:TAPERED_BAGUETTE_CUT_GEM"
 msgid "[ADJ:tapered baguette cut]"
 msgstr ""
 
-#: descriptor_shape_standard.txt:197
+#: descriptor_shape_standard.txt:208
 msgctxt "SHAPE:CUSHION_CUT_GEM"
 msgid "[NAME:gem:gems]"
 msgstr ""
 
-#: descriptor_shape_standard.txt:198
+#: descriptor_shape_standard.txt:209
 msgctxt "SHAPE:CUSHION_CUT_GEM"
 msgid "[ADJ:cushion cut]"
 msgstr ""
 
-#: descriptor_shape_standard.txt:203
+#: descriptor_shape_standard.txt:214
 msgctxt "SHAPE:OCTAGON_CUT_GEM"
 msgid "[NAME:gem:gems]"
 msgstr ""
 
-#: descriptor_shape_standard.txt:204
+#: descriptor_shape_standard.txt:215
 msgctxt "SHAPE:OCTAGON_CUT_GEM"
 msgid "[ADJ:octagon cut]"
 msgstr ""
 
-#: descriptor_shape_standard.txt:209
+#: descriptor_shape_standard.txt:220
 msgctxt "SHAPE:SQUARE_CUT_GEM"
 msgid "[NAME:gem:gems]"
 msgstr ""
 
-#: descriptor_shape_standard.txt:210
+#: descriptor_shape_standard.txt:221
 msgctxt "SHAPE:SQUARE_CUT_GEM"
 msgid "[ADJ:square cut]"
 msgstr ""
 
-#: entity_default.txt:357
-msgctxt "ENTITY:MOUNTAIN"
-msgid "[NAME_MALE:king:kings]"
+#: descriptor_shape_standard.txt:226
+msgctxt "SHAPE:PLATONIC_TETRAHEDRON"
+msgid "[NAME:tetrahedron:tetrahedra]"
 msgstr ""
 
-#: entity_default.txt:358
-msgctxt "ENTITY:MOUNTAIN"
-msgid "[NAME_FEMALE:queen:queens]"
+#: descriptor_shape_standard.txt:227
+msgctxt "SHAPE:PLATONIC_TETRAHEDRON"
+msgid "[ADJ:tetrahedral]"
 msgstr ""
 
-#: entity_default.txt:360
-msgctxt "ENTITY:MOUNTAIN"
-msgid "[SPOUSE_MALE:king consort:kings consort]"
+#: descriptor_shape_standard.txt:234
+msgctxt "SHAPE:PLATONIC_CUBE"
+msgid "[NAME:cube:cubes]"
+msgstr ""
+
+#: descriptor_shape_standard.txt:235
+msgctxt "SHAPE:PLATONIC_CUBE"
+msgid "[ADJ:cubic]"
+msgstr ""
+
+#: descriptor_shape_standard.txt:242
+msgctxt "SHAPE:PLATONIC_OCTAHEDRON"
+msgid "[NAME:octahedron:octahedra]"
+msgstr ""
+
+#: descriptor_shape_standard.txt:243
+msgctxt "SHAPE:PLATONIC_OCTAHEDRON"
+msgid "[ADJ:octahedral]"
+msgstr ""
+
+#: descriptor_shape_standard.txt:250
+msgctxt "SHAPE:PLATONIC_DODECAHEDRON"
+msgid "[NAME:dodecahedron:dodecahedra]"
+msgstr ""
+
+#: descriptor_shape_standard.txt:251
+msgctxt "SHAPE:PLATONIC_DODECAHEDRON"
+msgid "[ADJ:dodecahedral]"
+msgstr ""
+
+#: descriptor_shape_standard.txt:258
+msgctxt "SHAPE:PLATONIC_ICOSAHEDRON"
+msgid "[NAME:icosahedron:icosahedra]"
+msgstr ""
+
+#: descriptor_shape_standard.txt:259
+msgctxt "SHAPE:PLATONIC_ICOSAHEDRON"
+msgid "[ADJ:icosahedral]"
+msgstr ""
+
+#: descriptor_shape_standard.txt:266
+msgctxt "SHAPE:LONG_DIE_4"
+msgid "[NAME:four-sided prism:four-sided prisms]"
+msgstr ""
+
+#: descriptor_shape_standard.txt:267
+msgctxt "SHAPE:LONG_DIE_4"
+msgid "[ADJ:four-sided long]"
+msgstr ""
+
+#: descriptor_shape_standard.txt:273
+msgctxt "SHAPE:LONG_DIE_6"
+msgid "[NAME:six-sided prism:six-sided prisms]"
+msgstr ""
+
+#: descriptor_shape_standard.txt:274
+msgctxt "SHAPE:LONG_DIE_6"
+msgid "[ADJ:six-sided long]"
+msgstr ""
+
+#: descriptor_shape_standard.txt:280
+msgctxt "SHAPE:LONG_DIE_8"
+msgid "[NAME:eight-sided prism:eight-sided prisms]"
+msgstr ""
+
+#: descriptor_shape_standard.txt:281
+msgctxt "SHAPE:LONG_DIE_8"
+msgid "[ADJ:eight-sided long]"
 msgstr ""
 
 #: entity_default.txt:361
 msgctxt "ENTITY:MOUNTAIN"
+msgid "[NAME_MALE:king:kings]"
+msgstr ""
+
+#: entity_default.txt:362
+msgctxt "ENTITY:MOUNTAIN"
+msgid "[NAME_FEMALE:queen:queens]"
+msgstr ""
+
+#: entity_default.txt:364
+msgctxt "ENTITY:MOUNTAIN"
+msgid "[SPOUSE_MALE:king consort:kings consort]"
+msgstr ""
+
+#: entity_default.txt:365
+msgctxt "ENTITY:MOUNTAIN"
 msgid "[SPOUSE_FEMALE:queen consort:queens consort]"
 msgstr ""
 
-#: entity_default.txt:394
+#: entity_default.txt:398
 msgctxt "ENTITY:MOUNTAIN"
 msgid "[NAME:general:generals]"
 msgstr ""
 
-#: entity_default.txt:396
+#: entity_default.txt:400
 msgctxt "ENTITY:MOUNTAIN"
 msgid "[SQUAD:10:soldier:soldiers]"
 msgstr ""
 
-#: entity_default.txt:422
+#: entity_default.txt:426
 msgctxt "ENTITY:MOUNTAIN"
 msgid "[NAME:lieutenant:lieutenants]"
 msgstr ""
 
-#: entity_default.txt:446
+#: entity_default.txt:450
 msgctxt "ENTITY:MOUNTAIN"
 msgid "[NAME:captain:captains]"
 msgstr ""
 
-#: entity_default.txt:462
+#: entity_default.txt:466
 msgctxt "ENTITY:MOUNTAIN"
 msgid "[NAME:militia commander:militia commanders]"
 msgstr ""
 
-#: entity_default.txt:465
+#: entity_default.txt:469
 msgctxt "ENTITY:MOUNTAIN"
 msgid "[SQUAD:10:militia-dwarf:militia-dwarves]"
 msgstr ""
 
-#: entity_default.txt:474
+#: entity_default.txt:478
 msgctxt "ENTITY:MOUNTAIN"
 msgid "[NAME:militia captain:militia captains]"
 msgstr ""
 
-#: entity_default.txt:484
+#: entity_default.txt:488
 msgctxt "ENTITY:MOUNTAIN"
 msgid "[NAME:sheriff:sheriffs]"
 msgstr ""
 
-#: entity_default.txt:504
+#: entity_default.txt:508
 msgctxt "ENTITY:MOUNTAIN"
 msgid "[NAME:captain of the guard:captains of the guard]"
 msgstr ""
 
-#: entity_default.txt:508
+#: entity_default.txt:512
 msgctxt "ENTITY:MOUNTAIN"
 msgid "[SQUAD:10:fortress guard:fortress guards]"
 msgstr ""
 
-#: entity_default.txt:526
+#: entity_default.txt:530
 msgctxt "ENTITY:MOUNTAIN"
 msgid "[NAME:expedition leader:expedition leaders]"
 msgstr ""
 
-#: entity_default.txt:539
+#: entity_default.txt:543
 msgctxt "ENTITY:MOUNTAIN"
 msgid "[NAME:mayor:mayors]"
 msgstr ""
 
-#: entity_default.txt:567
+#: entity_default.txt:571
 msgctxt "ENTITY:MOUNTAIN"
 msgid "[NAME:manager:managers]"
 msgstr ""
 
-#: entity_default.txt:580
+#: entity_default.txt:584
 msgctxt "ENTITY:MOUNTAIN"
 msgid "[NAME:chief medical dwarf:chief medical dwarves]"
 msgstr ""
 
-#: entity_default.txt:592
+#: entity_default.txt:596
 msgctxt "ENTITY:MOUNTAIN"
 msgid "[NAME:broker:brokers]"
 msgstr ""
 
-#: entity_default.txt:604
+#: entity_default.txt:608
 msgctxt "ENTITY:MOUNTAIN"
 msgid "[NAME:bookkeeper:bookkeepers]"
 msgstr ""
 
-#: entity_default.txt:617
+#: entity_default.txt:621
 msgctxt "ENTITY:MOUNTAIN"
 msgid "[NAME:outpost liaison:outpost liaisons]"
 msgstr ""
 
-#: entity_default.txt:638
+#: entity_default.txt:642
 msgctxt "ENTITY:MOUNTAIN"
 msgid "[NAME:diplomat:diplomats]"
 msgstr ""
 
-#: entity_default.txt:661
+#: entity_default.txt:665
 msgctxt "ENTITY:MOUNTAIN"
 msgid "[NAME_MALE:duke:dukes]"
 msgstr ""
 
-#: entity_default.txt:662
+#: entity_default.txt:666
 msgctxt "ENTITY:MOUNTAIN"
 msgid "[NAME_FEMALE:duchess:duchesses]"
 msgstr ""
 
-#: entity_default.txt:663
+#: entity_default.txt:667
 msgctxt "ENTITY:MOUNTAIN"
 msgid "[SPOUSE_MALE:duke consort:dukes consort]"
 msgstr ""
 
-#: entity_default.txt:664
+#: entity_default.txt:668
 msgctxt "ENTITY:MOUNTAIN"
 msgid "[SPOUSE_FEMALE:duchess consort:duchesses consort]"
 msgstr ""
 
-#: entity_default.txt:667
+#: entity_default.txt:671
 msgctxt "ENTITY:MOUNTAIN"
 msgid "[LAND_NAME:a duchy]"
 msgstr ""
 
-#: entity_default.txt:697
+#: entity_default.txt:701
 msgctxt "ENTITY:MOUNTAIN"
 msgid "[NAME_MALE:count:counts]"
 msgstr ""
 
-#: entity_default.txt:698
+#: entity_default.txt:702
 msgctxt "ENTITY:MOUNTAIN"
 msgid "[NAME_FEMALE:countess:countesses]"
 msgstr ""
 
-#: entity_default.txt:699
+#: entity_default.txt:703
 msgctxt "ENTITY:MOUNTAIN"
 msgid "[SPOUSE_MALE:count consort:counts consort]"
 msgstr ""
 
-#: entity_default.txt:700
+#: entity_default.txt:704
 msgctxt "ENTITY:MOUNTAIN"
 msgid "[SPOUSE_FEMALE:countess consort:countesses consort]"
 msgstr ""
 
-#: entity_default.txt:703
+#: entity_default.txt:707
 msgctxt "ENTITY:MOUNTAIN"
 msgid "[LAND_NAME:a county]"
 msgstr ""
 
-#: entity_default.txt:734
+#: entity_default.txt:738
 msgctxt "ENTITY:MOUNTAIN"
 msgid "[NAME_MALE:baron:barons]"
 msgstr ""
 
-#: entity_default.txt:735
+#: entity_default.txt:739
 msgctxt "ENTITY:MOUNTAIN"
 msgid "[NAME_FEMALE:baroness:baronesses]"
 msgstr ""
 
-#: entity_default.txt:736
+#: entity_default.txt:740
 msgctxt "ENTITY:MOUNTAIN"
 msgid "[SPOUSE_MALE:baron consort:barons consort]"
 msgstr ""
 
-#: entity_default.txt:737
+#: entity_default.txt:741
 msgctxt "ENTITY:MOUNTAIN"
 msgid "[SPOUSE_FEMALE:baroness consort:baronesses consort]"
 msgstr ""
 
-#: entity_default.txt:740
+#: entity_default.txt:744
 msgctxt "ENTITY:MOUNTAIN"
 msgid "[LAND_NAME:a barony]"
 msgstr ""
 
-#: entity_default.txt:771
+#: entity_default.txt:775
 msgctxt "ENTITY:MOUNTAIN"
 msgid "[NAME:champion:champions]"
 msgstr ""
 
-#: entity_default.txt:788
+#: entity_default.txt:792
 msgctxt "ENTITY:MOUNTAIN"
 msgid "[NAME:hammerer:hammerers]"
 msgstr ""
 
-#: entity_default.txt:801
+#: entity_default.txt:805
+msgctxt "ENTITY:MOUNTAIN"
+msgid "[NAME:dungeon master:dungeon masters]"
+msgstr ""
+
+#: entity_default.txt:826
 msgctxt "ENTITY:MOUNTAIN"
 msgid "[NAME:administrator:administrators]"
 msgstr ""
 
-#: entity_default.txt:1055
+#: entity_default.txt:1084
 msgctxt "ENTITY:FOREST"
 msgid "[NAME:druid:druids]"
 msgstr ""
 
-#: entity_default.txt:1073
+#: entity_default.txt:1102
 msgctxt "ENTITY:FOREST"
 msgid "[NAME:acolyte:acolytes]"
 msgstr ""
 
-#: entity_default.txt:1086
+#: entity_default.txt:1115
 msgctxt "ENTITY:FOREST"
 msgid "[NAME:princess:princesses]"
 msgstr ""
 
-#: entity_default.txt:1105
+#: entity_default.txt:1135
 msgctxt "ENTITY:FOREST"
 msgid "[NAME:queen:queens]"
 msgstr ""
 
-#: entity_default.txt:1126
+#: entity_default.txt:1156
 msgctxt "ENTITY:FOREST"
 msgid "[NAME:diplomat:diplomats]"
 msgstr ""
 
-#: entity_default.txt:1141
+#: entity_default.txt:1171
 msgctxt "ENTITY:FOREST"
 msgid "[NAME:ranger captain:ranger captains]"
 msgstr ""
 
-#: entity_default.txt:1143
+#: entity_default.txt:1173
 msgctxt "ENTITY:FOREST"
 msgid "[SQUAD:10:ranger:rangers]"
 msgstr ""
@@ -39393,7 +39653,12 @@ msgctxt "INTERACTION:BP_BUMP"
 msgid "[IT_MANUAL_INPUT:creature]"
 msgstr ""
 
-#: interaction_standard.txt:36
+#: interaction_standard.txt:35
+msgctxt "INTERACTION:PET_ANIMAL"
+msgid "[IT_MANUAL_INPUT:creature]"
+msgstr ""
+
+#: interaction_standard.txt:49
 msgctxt "INTERACTION:MATERIAL_EMISSION"
 msgid "[IT_MANUAL_INPUT:target]"
 msgstr ""
@@ -39906,6 +40171,16 @@ msgstr ""
 #: item_tool.txt:332
 msgctxt "ITEM_TOOL:ITEM_TOOL_DISPLAY_CASE"
 msgid "[NAME:display case:display cases]"
+msgstr ""
+
+#: item_tool.txt:343
+msgctxt "ITEM_TOOL:ITEM_TOOL_ALTAR"
+msgid "[NAME:altar:altars]"
+msgstr ""
+
+#: item_tool.txt:353
+msgctxt "ITEM_TOOL:ITEM_TOOL_DIE"
+msgid "[NAME:die:dice]"
 msgstr ""
 
 #: item_toy.txt:6
