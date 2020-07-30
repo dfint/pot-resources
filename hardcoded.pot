@@ -303,9 +303,6 @@ msgstr ""
 msgid "Archery Practice"
 msgstr ""
 
-msgid "DOUBLE TAGGED ITEM: By Activity, "
-msgstr ""
-
 msgid "There is not enough room to perform here."
 msgstr ""
 
@@ -2446,9 +2443,6 @@ msgid " is sucked out of the wound!"
 msgstr ""
 
 msgid "Press "
-msgstr ""
-
-msgid "plF"
 msgstr ""
 
 msgid "item"
@@ -7863,9 +7857,6 @@ msgstr ""
 msgid "Digging designation cancelled: warm stone located."
 msgstr ""
 
-msgid "`TS"
-msgstr ""
-
 msgid "Bookcase"
 msgstr ""
 
@@ -8754,9 +8745,6 @@ msgstr ""
 msgid ", Etc."
 msgstr ""
 
-msgid "puW"
-msgstr ""
-
 msgid " from an unknown year"
 msgstr ""
 
@@ -8820,15 +8808,6 @@ msgstr ""
 msgid "representatives"
 msgstr ""
 
-msgid "plotter (assassinate) placed out of bounds"
-msgstr ""
-
-msgid "intrigue traveler placed out of bounds (infiltrator)"
-msgstr ""
-
-msgid "plotter (steal artifact) placed out of bounds"
-msgstr ""
-
 msgid "head"
 msgstr ""
 
@@ -8841,31 +8820,10 @@ msgstr ""
 msgid "masters"
 msgstr ""
 
-msgid "_DIV "
-msgstr ""
-
 msgid " Corpse"
 msgstr ""
 
-msgid "intrigue traveler placed out of bounds (sabotage task)"
-msgstr ""
-
 msgid "Ghostly "
-msgstr ""
-
-msgid "intrigue traveler placed out of bounds (recover artifact task)"
-msgstr ""
-
-msgid "intrigue traveler placed out of bounds (abduct task)"
-msgstr ""
-
-msgid "intrigue traveler placed out of bounds"
-msgstr ""
-
-msgid "intrigue traveler placed out of bounds (assassin task)"
-msgstr ""
-
-msgid "plotter (funding network) placed out of bounds"
 msgstr ""
 
 msgid "'s corpse"
@@ -23778,9 +23736,6 @@ msgstr ""
 msgid "Hills"
 msgstr ""
 
-msgid "undefined local creature material set to default: "
-msgstr ""
-
 msgid "maternal grandfather"
 msgstr ""
 
@@ -23824,15 +23779,6 @@ msgid "no relationship"
 msgstr ""
 
 msgid "ren"
-msgstr ""
-
-msgid "undefined local plant material set to default: "
-msgstr ""
-
-msgid "undefined creature material set to default: "
-msgstr ""
-
-msgid "undefined plant material set to default: "
 msgstr ""
 
 msgid "blob"
@@ -26049,12 +25995,6 @@ msgstr ""
 msgid "0.44.03 or earlier save: removing erroneous travel log"
 msgstr ""
 
-msgid "Patched save: fixed duplicate ammo assignment"
-msgstr ""
-
-msgid "Patched save: fixed missing equipment assignment"
-msgstr ""
-
 msgid "Make "
 msgstr ""
 
@@ -26145,16 +26085,7 @@ msgstr ""
 msgid "Sorting body detail plans..."
 msgstr ""
 
-msgid "Patched save: fixed duplicate equipment assignment"
-msgstr ""
-
-msgid "Patched save: fixed duplicate training equipment assignment"
-msgstr ""
-
 msgid " stops using out-of-place cover identity"
-msgstr ""
-
-msgid "Patched save: Historical spy "
 msgstr ""
 
 msgid "Processing raw data..."
@@ -27517,9 +27448,6 @@ msgid ": Max - "
 msgstr ""
 
 msgid "Validated"
-msgstr ""
-
-msgid "Left"
 msgstr ""
 
 msgid "Waiting: "
@@ -32619,31 +32547,10 @@ msgstr ""
 msgid "New window size: "
 msgstr ""
 
-msgid "Font size: "
-msgstr ""
-
 msgid "Resizing grid to "
 msgstr ""
 
-msgid "Resizing font to "
-msgstr ""
-
-msgid "Space"
-msgstr ""
-
-msgid "Tab"
-msgstr ""
-
 msgid "Button "
-msgstr ""
-
-msgid "Shift+"
-msgstr ""
-
-msgid "Ctrl+"
-msgstr ""
-
-msgid "Alt+"
 msgstr ""
 
 msgid "NO BINDING"
@@ -32653,12 +32560,6 @@ msgid "Binding missing while loading macro: "
 msgstr ""
 
 msgid "Quantity not numeric or Unexpected tab(s) while loading macro: "
-msgstr ""
-
-msgid "End of macro"
-msgstr ""
-
-msgid "\\tEnd of group"
 msgstr ""
 
 msgid "Binding name unknown while loading macro: "
@@ -35383,12 +35284,6 @@ msgid "Gluttony"
 msgstr ""
 
 msgid "Cupidity"
-msgstr ""
-
-msgid "region"
-msgstr ""
-
-msgid "text"
 msgstr ""
 
 msgid "rock"
@@ -39702,13 +39597,7 @@ msgstr ""
 msgid "You make nothing."
 msgstr ""
 
-msgid "raw"
-msgstr ""
-
 msgid "shadow"
-msgstr ""
-
-msgid "No font found!"
 msgstr ""
 
 msgid "Missing/broken TTF handle: "
@@ -46200,22 +46089,7 @@ msgstr ""
 msgid " the first of "
 msgstr ""
 
-msgid "Use OpenGL?"
-msgstr ""
-
-msgid "2DASYNC"
-msgstr ""
-
-msgid "2DHW"
-msgstr ""
-
-msgid "2DSW"
-msgstr ""
-
 msgid "Text mode not supported on your platform, using 2D"
-msgstr ""
-
-msgid "Start FullScreen?"
 msgstr ""
 
 msgid ": Load a moving record"
@@ -48069,69 +47943,6 @@ msgstr ""
 msgid "Justice, Counterintelligence"
 msgstr ""
 
-msgid "Colon"
-msgstr ""
-
-msgid "Semicolon"
-msgstr ""
-
-msgid "Less"
-msgstr ""
-
-msgid "Equals"
-msgstr ""
-
-msgid "Greater"
-msgstr ""
-
-msgid "Question"
-msgstr ""
-
-msgid "At"
-msgstr ""
-
-msgid "Asterisk"
-msgstr ""
-
-msgid "Plus"
-msgstr ""
-
-msgid "Comma"
-msgstr ""
-
-msgid "Minus"
-msgstr ""
-
-msgid "Period"
-msgstr ""
-
-msgid "Slash"
-msgstr ""
-
-msgid "Exclaim"
-msgstr ""
-
-msgid "Quotedbl"
-msgstr ""
-
-msgid "Hash"
-msgstr ""
-
-msgid "Dollar"
-msgstr ""
-
-msgid "Ampersand"
-msgstr ""
-
-msgid "Quote"
-msgstr ""
-
-msgid "Leftparen"
-msgstr ""
-
-msgid "Rightparen"
-msgstr ""
-
 msgid "Increase FPS limit"
 msgstr ""
 
@@ -48144,115 +47955,10 @@ msgstr ""
 msgid "Command repeat prefix-key"
 msgstr ""
 
-msgid "Backspace"
-msgstr ""
-
-msgid "Enter"
-msgstr ""
-
-msgid "Up"
-msgstr ""
-
-msgid "Delete"
-msgstr ""
-
-msgid "Leftbracket"
-msgstr ""
-
-msgid "Backslash"
-msgstr ""
-
-msgid "Rightbracket"
-msgstr ""
-
-msgid "Caret"
-msgstr ""
-
-msgid "Underscore"
-msgstr ""
-
-msgid "Backquote"
-msgstr ""
-
-msgid "Rshift"
-msgstr ""
-
-msgid "Lshift"
-msgstr ""
-
-msgid "Rctrl"
-msgstr ""
-
-msgid "Lctrl"
-msgstr ""
-
-msgid "Ralt"
-msgstr ""
-
-msgid "Lalt"
-msgstr ""
-
-msgid "Rmeta"
-msgstr ""
-
-msgid "Lmeta"
-msgstr ""
-
-msgid "Numlock"
-msgstr ""
-
-msgid "Capslock"
-msgstr ""
-
-msgid "Scrollock"
-msgstr ""
-
-msgid "Down"
-msgstr ""
-
-msgid "Right"
-msgstr ""
-
-msgid "Insert"
-msgstr ""
-
-msgid "End"
-msgstr ""
-
-msgid "Page Up"
-msgstr ""
-
-msgid "Page Down"
-msgstr ""
-
-msgid "Euro"
-msgstr ""
-
-msgid "Undo"
-msgstr ""
-
-msgid "Lsuper"
-msgstr ""
-
-msgid "Rsuper"
-msgstr ""
-
-msgid "Mode"
-msgstr ""
-
 msgid "Compose"
 msgstr ""
 
-msgid "Print"
-msgstr ""
-
-msgid "Sysreq"
-msgstr ""
-
 msgid "Break"
-msgstr ""
-
-msgid "Menu"
 msgstr ""
 
 msgid "Stockorder"
@@ -59796,9 +59502,6 @@ msgstr ""
 msgid " bellows to pressurize air, ultimately blowing it"
 msgstr ""
 
-msgid "[VOLUME_mB:"
-msgstr ""
-
 msgid "huge stationary"
 msgstr ""
 
@@ -68772,9 +68475,6 @@ msgstr ""
 msgid "just generated corrupt feature map square"
 msgstr ""
 
-msgid "feature-"
-msgstr ""
-
 msgid "Test Seed "
 msgstr ""
 
@@ -73506,9 +73206,6 @@ msgstr ""
 msgid ", looks to your thriving economy for its future prosperity and has been incorporated into your holdings."
 msgstr ""
 
-msgid "succession traveler placed out of bounds"
-msgstr ""
-
 msgid " has claimed the position of "
 msgstr ""
 
@@ -73636,9 +73333,6 @@ msgid "!  Praise the miners!"
 msgstr ""
 
 msgid "You have discovered a volcano."
-msgstr ""
-
-msgid "site-"
 msgstr ""
 
 msgid "You failed to write anything."
@@ -73830,9 +73524,6 @@ msgstr ""
 msgid " straps "
 msgstr ""
 
-msgid "marriage traveler placed out of bounds"
-msgstr ""
-
 msgid " lies on the ground."
 msgstr ""
 
@@ -73840,9 +73531,6 @@ msgid "You lie on the ground."
 msgstr ""
 
 msgid " stands up."
-msgstr ""
-
-msgid "adventuring traveler placed out of bounds"
 msgstr ""
 
 msgid ", ruling "
