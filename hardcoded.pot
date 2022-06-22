@@ -27687,9 +27687,6 @@ msgstr ""
 msgid ": Max priority  "
 msgstr ""
 
-msgid "@rm"
-msgstr ""
-
 msgid "No Quarter"
 msgstr ""
 
@@ -32686,9 +32683,6 @@ msgid "EMERGENCY: Unknown case in async_wait"
 msgstr ""
 
 msgid "TEXT not supported on windows"
-msgstr ""
-
-msgid "po|"
 msgstr ""
 
 msgid "Broken repeat request: "
@@ -54732,9 +54726,6 @@ msgstr ""
 msgid " is a great treasure.  We respect that this is no mere trade."
 msgstr ""
 
-msgid "pu�"
-msgstr ""
-
 msgid "current events"
 msgstr ""
 
@@ -69727,9 +69718,6 @@ msgid "monument"
 msgstr ""
 
 msgid "Non-feature related elevation hole"
-msgstr ""
-
-msgid "ph�"
 msgstr ""
 
 msgid "whispers when "
